@@ -1,0 +1,62 @@
+{
+  "english": "determine",
+  "phat_am": "[di'tə:min]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "định, xác định, định rõ",
+          "list_en_vn": [
+            {
+              "full_en": "to determine the meaning of words",
+              "full_vn": "xác định nghĩa từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định, định đoạt",
+          "list_en_vn": [
+            {
+              "full_en": "hard work determine good results",
+              "full_vn": "làm việc tích cực quyết đinh kết quả tốt đẹp"
+            },
+            {
+              "full_en": "to determine a fate",
+              "full_vn": "định đoạt số phận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho quyết định, làm cho có quyết tâm thôi thúc",
+          "list_en_vn": [
+            {
+              "full_en": "to determine someone to do something",
+              "full_vn": "làm cho người nào quyết định việc gì, thôi thúc người nào làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) làm mãn hạn, kết thúc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyết định, quyết tâm, kiên quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to determine on doing (to do ) something",
+              "full_vn": "quyết định làm gì; quyết tâm (kiên quyết) làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) mãn hạn, hết hạn (giao kèo, khế ước...)"
+        }
+      ]
+    }
+  ]
+}

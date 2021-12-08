@@ -1,0 +1,215 @@
+{
+  "english": "here",
+  "phat_am": "[hiə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng với một động từ hoặc sau giới từ) đây; ở đây; ở chỗ này",
+          "list_en_vn": [
+            {
+              "full_en": "I have lived here for ten years",
+              "full_vn": "Tôi sống ở đây đã mười năm"
+            },
+            {
+              "full_en": "We are sure to leave here tomorrow",
+              "full_vn": "Chắc chắn ngày mai chúng tôi sẽ rời khỏi đây"
+            },
+            {
+              "full_en": "Let's get out of here ! It's very close here !",
+              "full_vn": "Chúng tôi hãy ra khỏi đây! ở đây ngộp quá!"
+            },
+            {
+              "full_en": "Here and there",
+              "full_vn": "ở nhiều nơi; đó đây"
+            },
+            {
+              "full_en": "Come here !",
+              "full_vn": "Lại đây!"
+            },
+            {
+              "full_en": "Look here !",
+              "full_vn": "Trông đây!; Nghe đây!"
+            },
+            {
+              "full_en": "Fill it up to here",
+              "full_vn": "Hãy đổ đầy tới đây!"
+            },
+            {
+              "full_en": "Here below",
+              "full_vn": "Trên thế gian này; trên cõi đời này"
+            },
+            {
+              "full_en": "Life goes on for those of us who remain here below",
+              "full_vn": "Cuộc sống vẫn tiếp diễn đối với những ai trong chúng ta còn lại trên cõi đời này"
+            },
+            {
+              "full_en": "Here comes the director !",
+              "full_vn": "giám đốc đến đây rồi!"
+            },
+            {
+              "full_en": "Here comes the king !",
+              "full_vn": "Hoàng thượng giá lâm!"
+            },
+            {
+              "full_en": "Here we are !",
+              "full_vn": "Chúng ta đến nơi rồi!"
+            },
+            {
+              "full_en": "Here they are !",
+              "full_vn": "Họ đây rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tại điểm này; đến đây",
+          "list_en_vn": [
+            {
+              "full_en": "Here the speaker paused to have a drink",
+              "full_vn": "Đến đây diễn giả ngừng lại một chút để uống nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngay tại đây",
+          "list_one_mean": [
+            {
+              "id_full_en": "here you are",
+              "list_im": [
+                {
+                  "im_full_vn": "đây cái anh đang cần đây; đây đúng là điều anh muốn biết đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "here goes !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nào, bắt đầu nhé!; xem này!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "here , there and everywhere",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp mọi nơi; khắp nơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "neither here nor there",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không đúng vào vấn đề; không quan trọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The fact that I don't like your neighbour is neither here nor there - what matters is how he behaves towards you",
+                      "full_vn": "Việc tôi không ưa gã hàng xóm của anh chẳng có gì là quan trọng - vấn đề là hắn cư xử với anh như thế nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "neither here nor there",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không đúng vào vấn đề; không quan trọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The fact that I don't like your neighbour is neither here nor there - what matters is how he behaves towards you",
+                      "full_vn": "Việc tôi không ưa gã hàng xóm của anh chẳng có gì là quan trọng - vấn đề là hắn cư xử với anh như thế nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "here's to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc sức khoẻ; chúc thành công",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Here's to the bride !",
+                      "full_vn": "Chúc mừng cô dâu!"
+                    },
+                    {
+                      "full_en": "Here's to your family !",
+                      "full_vn": "Chúc mừng gia đình anh!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "here's to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc sức khoẻ; chúc thành công",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Here's to the bride !",
+                      "full_vn": "Chúc mừng cô dâu!"
+                    },
+                    {
+                      "full_en": "Here's to your family !",
+                      "full_vn": "Chúc mừng gia đình anh!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "here's to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc sức khoẻ; chúc thành công",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Here's to the bride !",
+                      "full_vn": "Chúc mừng cô dâu!"
+                    },
+                    {
+                      "full_en": "Here's to your family !",
+                      "full_vn": "Chúc mừng gia đình anh!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "My friend here saw it with his own eyes",
+              "full_vn": "Chính bạn tôi đây đã tận mắt chứng kiến việc đó"
+            },
+            {
+              "full_en": "What do you make of this here letter ?",
+              "full_vn": "Anh nghĩ sao về bức thư này đây?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "này!",
+          "list_en_vn": [
+            {
+              "full_en": "here , make him a call",
+              "full_vn": "này, hãy gọi điện thoại cho anh ta đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có mặt! (khi điểm danh)"
+        }
+      ]
+    }
+  ]
+}

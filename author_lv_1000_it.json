@@ -1,0 +1,26 @@
+{
+  "english": "author",
+  "phat_am": "['ɔ:θə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tác giả"
+        },
+        {
+          "m_full_vn": "người tạo ra, người gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "author of evil",
+              "full_vn": "người gây ra các điều ác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) Đấng sáng tạo ( Chúa)"
+        }
+      ]
+    }
+  ]
+}

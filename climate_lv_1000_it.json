@@ -1,0 +1,32 @@
+{
+  "english": "climate",
+  "phat_am": "['klaimit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí hậu, thời tiết",
+          "list_en_vn": [
+            {
+              "full_en": "continental climate",
+              "full_vn": "khí hậu lục địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miền khí hậu",
+          "list_en_vn": [
+            {
+              "full_en": "a warm climate",
+              "full_vn": "miền khí hậu ấm áp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hoàn cảnh, môi trường, không khí; xu hướng chung (của một tập thể); xu thế (của thời đại)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "concentrate",
+  "phat_am": "['kɔnsntreit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to concentrate something on something / doing something ) tập trung (sự chú ý, cố gắng.....)",
+          "list_en_vn": [
+            {
+              "full_en": "I can't concentrate (on my studies ) with all that noise going on",
+              "full_vn": "tôi không thể tập trung được (vào việc học tập) với tất cả các tiếng huyên náo kia kéo dài mãi"
+            },
+            {
+              "full_en": "we must concentrate our efforts on improving education",
+              "full_vn": "chúng ta phải tập trung nỗ lực vào việc cải tiến giáo dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to concentrate on something ) làm một việc nhất định, không làm cái gì khác",
+          "list_en_vn": [
+            {
+              "full_en": "Having failed my French exams , I decided to concentrate on science subjects",
+              "full_vn": "Sau khi hỏng môn tiếng Pháp, tôi quyết định tập trung vào các môn khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập trung; tề tựu; tụ họp",
+          "list_en_vn": [
+            {
+              "full_en": "birds concentrate (in places ) where food is abundant",
+              "full_vn": "chim chóc tụ tập vào những nơi có lương thực dồi dào"
+            },
+            {
+              "full_en": "troops are concentrating south of river",
+              "full_vn": "quân lính đang tập trung ở phía nam con sông"
+            },
+            {
+              "full_en": "the government's plan is to concentrate new industries in areas of high unemployment",
+              "full_vn": "kế hoạch của chính phủ là tập trung những ngành công nghiệp mới vào có khu vực có nạn thất nghiệp trầm trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) cô đặc (chất lỏng)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất hoặc dung dịch được làm ra bằng cách cô đặc lại",
+          "list_en_vn": [
+            {
+              "full_en": "an orange concentrate which you dilute with water",
+              "full_vn": "bột cam mà anh hoà tan trong nước"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

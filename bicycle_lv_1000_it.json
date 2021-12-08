@@ -1,0 +1,28 @@
+{
+  "english": "bicycle",
+  "phat_am": "['baisikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe đạp",
+          "list_en_vn": [
+            {
+              "full_en": "bicycle-clip",
+              "full_vn": "cái kẹp lai quần khi đi xe đạp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi xe đạp"
+        }
+      ]
+    }
+  ]
+}

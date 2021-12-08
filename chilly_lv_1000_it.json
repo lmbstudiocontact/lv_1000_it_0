@@ -1,0 +1,40 @@
+{
+  "english": "chilly",
+  "phat_am": "['t∫ili]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạnh, lạnh lẽo, giá lạnh",
+          "list_en_vn": [
+            {
+              "full_en": "a chilly room",
+              "full_vn": "căn buồng lạnh lẽo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ớn lạnh, rùng mình (vì lạnh)"
+        },
+        {
+          "m_full_vn": "lạnh lùng, lạnh nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "chilly manners",
+              "full_vn": "cử chỉ lạnh nhạt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) chilli"
+        }
+      ]
+    }
+  ]
+}

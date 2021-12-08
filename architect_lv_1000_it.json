@@ -1,0 +1,23 @@
+{
+  "english": "architect",
+  "phat_am": "['ɑ:kitekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiến trúc sư"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người làm ra, người xây dựng, người sáng tạo",
+          "list_en_vn": [
+            {
+              "full_en": "to be the architect of one's own fortune",
+              "full_vn": "tự mình xây dựng cơ đồ; tự mình tạo ra cái số phận của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

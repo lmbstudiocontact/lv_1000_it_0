@@ -1,0 +1,45 @@
+{
+  "english": "already",
+  "phat_am": "[ɔ:l'redi]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đặc biệt là dùng với thể hoàn thành của một động từ) đã... rồi",
+          "list_en_vn": [
+            {
+              "full_en": "they have already had breakfast",
+              "full_vn": "họ đã ăn sáng rồi, họ đã dùng bữa điểm tâm rồi"
+            },
+            {
+              "full_en": "I've already seen that film , so I'd rather see another one",
+              "full_vn": "tôi đã xemphim này rồi, nên tôi thích xem phim khác hơn"
+            },
+            {
+              "full_en": "the teacher was already in the room when I arrived",
+              "full_vn": "khi tôi đến thì thầy giáo đã ở trong phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng trong câu phủ định hay câu hỏi để tỏ sự ngạc nhiên) ngay khi hoặc ngay từ đầu",
+          "list_en_vn": [
+            {
+              "full_en": "have your children started school already ?",
+              "full_vn": "các con anh bắt đầu đi học rồi à?"
+            },
+            {
+              "full_en": "is it two o'clock already ?",
+              "full_vn": "đã hai giờ sáng rồi cơ à?"
+            },
+            {
+              "full_en": "you're not leaving us already , are you ?",
+              "full_vn": "chưa chi anh đã ra về rồi sao?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

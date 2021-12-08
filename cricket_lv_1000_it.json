@@ -1,0 +1,69 @@
+{
+  "english": "cricket",
+  "phat_am": "['krikit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con dế"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) môn cri-kê",
+          "list_one_mean": [
+            {
+              "id_full_en": "that's not cricket",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không thật thà, ăn gian"
+                },
+                {
+                  "im_full_vn": "không có tinh thần thể thao"
+                },
+                {
+                  "im_full_vn": "không quân tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's not cricket",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không thật thà, ăn gian"
+                },
+                {
+                  "im_full_vn": "không có tinh thần thể thao"
+                },
+                {
+                  "im_full_vn": "không quân tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's not cricket",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không thật thà, ăn gian"
+                },
+                {
+                  "im_full_vn": "không có tinh thần thể thao"
+                },
+                {
+                  "im_full_vn": "không quân tử"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi crikê"
+        }
+      ]
+    }
+  ]
+}

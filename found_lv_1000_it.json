@@ -1,0 +1,42 @@
+{
+  "english": "found",
+  "phat_am": "[faund]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của find"
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nấu chảy (kim loại, vật liệu làm thuỷ tinh...)"
+        },
+        {
+          "m_full_vn": "đúc (kim loại)"
+        },
+        {
+          "m_full_vn": "thành lập, sáng lập, xây dựng, đặt nền móng",
+          "list_en_vn": [
+            {
+              "full_en": "to found a new city",
+              "full_vn": "xây dựng một thành phố mới"
+            },
+            {
+              "full_en": "to found a party",
+              "full_vn": "thành lập một đảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căn cứ vào, dựa trên",
+          "list_en_vn": [
+            {
+              "full_en": "arguments founded on facts",
+              "full_vn": "lý lẽ dựa trên sự việc thực tế"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

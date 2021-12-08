@@ -1,0 +1,36 @@
+{
+  "english": "ambitious",
+  "phat_am": "[æm'bi∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( ambitious for something ) ( ambitious to be / do something ) có nhiều tham vọng (về sự thành đạt hoặc tiền tài)",
+          "list_en_vn": [
+            {
+              "full_en": "an ambitious young manager",
+              "full_vn": "một nhà quản lý trẻ nhiều tham vọng"
+            },
+            {
+              "full_en": "this architect is ambitious for professional success",
+              "full_vn": "ông kiến trúc sư này có nhiều tham vọng về sự thành đạt trong nghề nghiệp"
+            },
+            {
+              "full_en": "ambitious to succeed in life",
+              "full_vn": "có nhiều tham vọng thành công trong cuộc đời"
+            },
+            {
+              "full_en": "ambitious for one's children",
+              "full_vn": "có nhiều tham vọng về con cái"
+            },
+            {
+              "full_en": "ambitious plans to complete the project ahead of schedule",
+              "full_vn": "những kế hoạch đầy tham vọng nhằm hoàn thành dự án trước lịch trình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

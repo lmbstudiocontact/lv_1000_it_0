@@ -1,0 +1,194 @@
+{
+  "english": "cat",
+  "phat_am": "[kæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con mèo"
+        },
+        {
+          "m_full_vn": "(động vật học) thú thuộc giống mèo (sư tử, hổ, báo...)"
+        },
+        {
+          "m_full_vn": "mụ đàn bà nanh ác; đứa bé hay cào cấu"
+        },
+        {
+          "m_full_vn": "(hàng hải) đòn kéo neo ( (cũng) cat head )"
+        },
+        {
+          "m_full_vn": "roi tra tấn ( (cũng) cat o-nine-tails )"
+        },
+        {
+          "m_full_vn": "con khăng (để chơi đánh khăng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "all cats are grey in the dark (in the night )",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tắt đèn nhà ngói cũng như nhà tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cat in the pan (cat-in-the-pan)",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ trở mặt, kẻ phản bội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the cat is out of the bag",
+              "list_im": [
+                {
+                  "im_full_vn": "điều bí mật đã bị tiết lộ rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fat cat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tư bản kếch xù, tài phiệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight like Kilkemy cats",
+              "list_im": [
+                {
+                  "im_full_vn": "giết hại lẫn nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let the cat out of the bag",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) let"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a cat on hot bricks",
+              "list_im": [
+                {
+                  "im_full_vn": "khắc khoải lo âu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it rains cats and dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rain"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see which way the cat jumps ; to wait for the cat to jump",
+              "list_im": [
+                {
+                  "im_full_vn": "đợi gió xoay chiều, đợi gió chiều nào thì theo chiều ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no room to swing a cat",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) room"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn cat in the pan",
+              "list_im": [
+                {
+                  "im_full_vn": "trở mặt; thay đổi ý kiến (lúc lâm nguy);"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cat in hell's chance of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng hề có cơ hội làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "curiosity killed the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "nói phắt ra cho thiên hạ khỏi tò mò"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play cat and mouse /to play a cat-and-mouse game with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ ai trong tình trạng chờ đợi không chắc chắn, đối xử với người đó vừa độc ác vừa tử tế xen kẽ nhau; chơi trò mèo vờn chuột; lập lờ đánh lận con đen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the cat among the pigeons",
+              "list_im": [
+                {
+                  "im_full_vn": "gây sự bối rối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be the cat's pyjamas",
+              "list_im": [
+                {
+                  "im_full_vn": "là tất cả những gì tốt đẹp nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cat-and-dog life",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh chó mèo, sự xích mích với nhau thường xuyên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) kéo (neo) lên"
+        },
+        {
+          "m_full_vn": "đánh bằng roi chín dài"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) nôn mửa"
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "Trường cao đẳng công nghệ tiên tiến ( College of Advanced Technology )"
+        }
+      ]
+    }
+  ]
+}

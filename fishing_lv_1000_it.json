@@ -1,0 +1,23 @@
+{
+  "english": "fishing",
+  "phat_am": "['fi∫iη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đánh cá, sự câu cá"
+        },
+        {
+          "m_full_vn": "nghề cá",
+          "list_en_vn": [
+            {
+              "full_en": "deep-sea fishing",
+              "full_vn": "nghề khơi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

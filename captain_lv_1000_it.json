@@ -1,0 +1,37 @@
+{
+  "english": "captain",
+  "phat_am": "['kæptin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phụ trách một chiếc tàu hoặc máy bay dân sự; hạm trưởng; phi trưởng"
+        },
+        {
+          "m_full_vn": "sĩ quan giữa cấp trung úy và cấp thiếu tá; đại úy"
+        },
+        {
+          "m_full_vn": "sĩ quan giữa cấp đô đốc và trung tá hải quân Anh; đại tá hải quân"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đội trưởng",
+          "list_en_vn": [
+            {
+              "full_en": "captain of a football team",
+              "full_vn": "đội trưởng đội banh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đội trưởng (của một đội banh...)"
+        }
+      ]
+    }
+  ]
+}

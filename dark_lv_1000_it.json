@@ -1,0 +1,179 @@
+{
+  "english": "dark",
+  "phat_am": "[dɑ:k]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tối, tối tăm, tối mò; mù mịt, u ám",
+          "list_en_vn": [
+            {
+              "full_en": "it is getting dark",
+              "full_vn": "trời bắt đầu tối"
+            },
+            {
+              "full_en": "a dark moonless night",
+              "full_vn": "một đêm tối trời không trăng sao"
+            },
+            {
+              "full_en": "a dark sky",
+              "full_vn": "bầu trời u ám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăm ngăm đen, đen huyền",
+          "list_en_vn": [
+            {
+              "full_en": "a dark skin",
+              "full_vn": "da ngăm đen"
+            },
+            {
+              "full_en": "dark eyes",
+              "full_vn": "mắt huyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẫm sẫm (màu)"
+        },
+        {
+          "m_full_vn": "mờ mịt, mơ hồ, không rõ ràng, không minh bạch",
+          "list_en_vn": [
+            {
+              "full_en": "a dark future",
+              "full_vn": "tương lai mờ mịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tối tăm, dốt nát, ngu dốt",
+          "list_en_vn": [
+            {
+              "full_en": "in the dark ignorance",
+              "full_vn": "trong sự ngu dốt tối tăm tột bậc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bí mật, kín đáo, không ai hay biết gì, không cho ai biết điều gì"
+        },
+        {
+          "m_full_vn": "buồn rầu, chán nản, bi quan",
+          "list_en_vn": [
+            {
+              "full_en": "to look on the dark side of things",
+              "full_vn": "bi quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đen tối, ám muội; ghê tởm, nham hiểm, cay độc",
+          "list_one_mean": [
+            {
+              "id_full_en": "the dark ages",
+              "list_im": [
+                {
+                  "im_full_vn": "thời kỳ Trung cổ; đêm trường Trung cổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Dark Continent",
+              "list_im": [
+                {
+                  "im_full_vn": "Châu phi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dark horse",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) horse"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "dark thoughts",
+              "full_vn": "ý nghĩ đen tối"
+            },
+            {
+              "full_en": "a dark crime",
+              "full_vn": "tội ác ghê tởm"
+            },
+            {
+              "full_en": "dark humour",
+              "full_vn": "tính hóm hỉnh cay độc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bóng tối, chỗ tối; lúc đêm tối, lúc trời tối",
+          "list_en_vn": [
+            {
+              "full_en": "before dark",
+              "full_vn": "trước lúc trời tối; trước khi màn đêm buông xuống"
+            },
+            {
+              "full_en": "after dark",
+              "full_vn": "khi màn đêm buông xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghệ thuật) chỗ tối; màu tối (trên một bức hoạ)",
+          "list_en_vn": [
+            {
+              "full_en": "the lights and darks of a picture",
+              "full_vn": "chỗ sáng và chỗ tối của một bức hoạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tối tăm, sự ngu dốt; sự không biết gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the dark of the moon",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc trăng non"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leap in the dark",
+              "list_im": [
+                {
+                  "im_full_vn": "làm một việc mạo hiểm liều lĩnh, nhắm mắt nhảy liều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in the dark about someone's intentions",
+              "full_vn": "không biết về ý định của ai"
+            },
+            {
+              "full_en": "to keep somebody in the dark",
+              "full_vn": "giữ bí mật đối với ai, không cho ai biết điều gì"
+            },
+            {
+              "full_en": "to live in the dark",
+              "full_vn": "sống trong cảnh tối tăm ngu dốt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

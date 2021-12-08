@@ -1,0 +1,54 @@
+{
+  "english": "add",
+  "phat_am": "[æd]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêm vào, làm tăng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "add some more hot water to your tea",
+              "full_vn": "cho thêm ít nước nóng nữa vào tách trà của anh"
+            },
+            {
+              "full_en": "music added to our joy",
+              "full_vn": "âm nhạc làm tăng thêm niềm vui của chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói thêm",
+          "list_en_vn": [
+            {
+              "full_en": "he added that",
+              "full_vn": "anh ta nói thêm rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) kế vào, tính vào, gộp vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to add fuel to the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fire"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to add insult to injury",
+              "list_im": [
+                {
+                  "im_full_vn": "miệng chửi tay đấm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

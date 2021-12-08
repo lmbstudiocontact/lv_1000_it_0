@@ -1,0 +1,26 @@
+{
+  "english": "intelligent",
+  "phat_am": "[in'telidʒənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông minh, sáng dạ"
+        },
+        {
+          "m_full_vn": "nhanh trí"
+        },
+        {
+          "m_full_vn": "biết",
+          "list_en_vn": [
+            {
+              "full_en": "to be intelligent of something",
+              "full_vn": "biết cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

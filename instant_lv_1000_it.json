@@ -1,0 +1,104 @@
+{
+  "english": "instant",
+  "phat_am": "['instənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lúc, chốc lát",
+          "list_en_vn": [
+            {
+              "full_en": "Come here this instant !",
+              "full_vn": "Hãy đến đây ngay bây giờ"
+            },
+            {
+              "full_en": "He left (at ) that (very ) instant",
+              "full_vn": "Hắn ra đi đúng ngay lúc đó"
+            },
+            {
+              "full_en": "To leave on the instant of six o'clock",
+              "full_vn": "Rời khỏi đúng lúc sáu giờ"
+            },
+            {
+              "full_en": "I recognized her the instant (that ) I saw her",
+              "full_vn": "Tôi nhận ra cô ấy ngay khi thấy cô ấy"
+            },
+            {
+              "full_en": "I shall be back in an instant",
+              "full_vn": "Tôi sẽ trở lại trong chốc lát"
+            },
+            {
+              "full_en": "Help came not an instant too soon",
+              "full_vn": "Sự giúp đỡ đến không sớm chút nào"
+            },
+            {
+              "full_en": "Just for an instant I thought he was going to refuse",
+              "full_vn": "Đúng có một lúc tôi đã tưởng ông ấy sẽ từ chối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đồ ăn uống dùng ngay được"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngay tức khắc, lập tức",
+          "list_en_vn": [
+            {
+              "full_en": "instant obedience",
+              "full_vn": "sự tuân lệnh ngay tức khắc"
+            },
+            {
+              "full_en": "a new book that was an instant success",
+              "full_vn": "quyển sách mới đã thành công ngay tức khắc"
+            },
+            {
+              "full_en": "to feel instant relief after treatment",
+              "full_vn": "cảm thấy bớt đau ngay sau khi điều trị"
+            },
+            {
+              "full_en": "instant hot water",
+              "full_vn": "nước nóng có sẵn ngay (ngay khi mở vòi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khẩn cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to attend to somebody's instant needs",
+              "full_vn": "chăm lo nhu cầu khẩn cấp của ai"
+            },
+            {
+              "full_en": "in instant need of help",
+              "full_vn": "cần được giúp đỡ khẩn cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về thực phẩm) dùng ngay được; ăn ngay được; ăn liền",
+          "list_en_vn": [
+            {
+              "full_en": "instant coffee",
+              "full_vn": "cà phê pha vào nước sôi uống ngay (không cần lọc)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) là inst (đặt sau các con số chỉ ngày tháng) của tháng hiện nay",
+          "list_en_vn": [
+            {
+              "full_en": "in reply to your letter of the 9th instant",
+              "full_vn": "để trả lời bức thư của ông đề ngày mồng chín tháng này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

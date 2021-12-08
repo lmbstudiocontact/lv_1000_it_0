@@ -1,0 +1,99 @@
+{
+  "english": "busy",
+  "phat_am": "['bizi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( busy at / with something ) ( busy doing something ) bận rộn, bận",
+          "list_en_vn": [
+            {
+              "full_en": "doctors are busy people",
+              "full_vn": "các bác sĩ là những người bận rộn"
+            },
+            {
+              "full_en": "she's busy at /with her homework",
+              "full_vn": "cô ấy bận công việc ở nhà"
+            },
+            {
+              "full_en": "Please go away - can't you see I'm busy ?",
+              "full_vn": "Xin anh đi đi - anh không thấy tôi đang bận hay sao?"
+            },
+            {
+              "full_en": "she's busy writing letters",
+              "full_vn": "cô ấy đang bận viết thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhộn nhịp, náo nhiệt, bận rộn",
+          "list_en_vn": [
+            {
+              "full_en": "a busy day /life /year",
+              "full_vn": "một ngày/cuộc đời/năm bận rộn"
+            },
+            {
+              "full_en": "Victoria is one of London's busiest stations",
+              "full_vn": "Victoria là một trong những nhà ga nhộn nhịp nhất Luân Đôn"
+            },
+            {
+              "full_en": "a busy office /street /town",
+              "full_vn": "một cơ quan/đường phố/thành phố đông đúc tấp nập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang bận, đang có người dùng",
+          "list_en_vn": [
+            {
+              "full_en": "the (telephone ) line is busy",
+              "full_vn": "dây nói đang bận, máy điện thoại đang bận"
+            },
+            {
+              "full_en": "the photocopier has been busy all morning",
+              "full_vn": "máy sao chụp bận suốt sáng nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về bức hoạ hoặc hoa văn) quá nhiều chi tiết",
+          "list_one_mean": [
+            {
+              "id_full_en": "as busy as a bee",
+              "list_im": [
+                {
+                  "im_full_vn": "rất bận rộn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this wallpaper is too busy for the bedroom",
+              "full_vn": "thứ giấy dán tường này quá rối mắt đối với phòng ngủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to busy oneself with something , to busy oneself doing something ) bận rộn với cái gì, bận rộn làm việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "to busy oneself in the garden , with the housework",
+              "full_vn": "bận rộn ở trong vườn, với công việc nhà"
+            },
+            {
+              "full_en": "he busied himself cooking the dinner",
+              "full_vn": "anh ta bận thổi cơm tối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

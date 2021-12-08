@@ -1,0 +1,63 @@
+{
+  "english": "intend",
+  "phat_am": "[in'tend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có ý định; có ý muốn; dự định; định",
+          "list_en_vn": [
+            {
+              "full_en": "I meant it to be a family reunion , but it didn't turn out as I intended",
+              "full_vn": "Tôi có ý muốn đó là dịp sum họp gia đình, dè đâu không đúng như tôi dự định"
+            },
+            {
+              "full_en": "It's not what I intended (it to be )",
+              "full_vn": "Đó không phải những gì tôi dự định"
+            },
+            {
+              "full_en": "He intends you no harm",
+              "full_vn": "Ông ta đâu có ý hại anh"
+            },
+            {
+              "full_en": "I hear they intend to marry /intend marrying",
+              "full_vn": "Tôi nghe nói họ định lấy nhau"
+            },
+            {
+              "full_en": "I intend you to keep this shop",
+              "full_vn": "Tôi định để anh trông nom cửa hiệu này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to intend something for somebody ) dự kiến ai sẽ nhận hoặc chịu tác động của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I think the letter-bomb was intended for me",
+              "full_vn": "Tôi nghĩ bom thư đó nhằm vào tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to intend something as something ) dự kiến cái gì sẽ ra sao hoặc như thề nào",
+          "list_en_vn": [
+            {
+              "full_en": "Was that remark intended as a joke ?",
+              "full_vn": "Phải chăng lời nhận xét đó là nói đùa thôi?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to intend something by something ) dự kiến cái gì sẽ có ý nghĩa nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "What do you intend by this question ?",
+              "full_vn": "Anh hỏi vậy là có ý gì?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

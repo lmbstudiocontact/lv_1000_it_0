@@ -1,0 +1,26 @@
+{
+  "english": "deplete",
+  "phat_am": "[di'pli:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tháo hết ra, rút hết ra, xả hết ra; làm rỗng không",
+          "list_en_vn": [
+            {
+              "full_en": "to deplete a base of troops",
+              "full_vn": "rút hết quân ở một căn cứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm suy yếu, làm kiệt sức"
+        },
+        {
+          "m_full_vn": "(y học) làm tan máu; làm tiêu dịch"
+        }
+      ]
+    }
+  ]
+}

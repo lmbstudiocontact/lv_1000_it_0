@@ -1,0 +1,46 @@
+{
+  "english": "crimson",
+  "phat_am": "['krimzn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỏ thẫm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blush crimson",
+              "list_im": [
+                {
+                  "im_full_vn": "đỏ mặt lên như quả gấc, đỏ mặt tía tai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu đỏ thẫm, màu đỏ thắm"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho ai/cái gì) trở nên đỏ thẫm",
+          "list_en_vn": [
+            {
+              "full_en": "to crimson with embarrassment",
+              "full_vn": "đỏ mặt vì bối rối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "four",
+  "phat_am": "[fɔ:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bốn",
+          "list_en_vn": [
+            {
+              "full_en": "four directions",
+              "full_vn": "bốn phương"
+            },
+            {
+              "full_en": "the four corners of the earth",
+              "full_vn": "khắp nơi trên thế giới; khắp bốn phương trên trái đất"
+            },
+            {
+              "full_en": "carriage and four",
+              "full_vn": "xe bốn ngựa"
+            },
+            {
+              "full_en": "four figures",
+              "full_vn": "số gồm bốn con số (từ 1000 đến 9999)"
+            },
+            {
+              "full_en": "a child of four",
+              "full_vn": "đứa bé lên bốn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số bốn"
+        },
+        {
+          "m_full_vn": "bộ bốn (người, vật...)"
+        },
+        {
+          "m_full_vn": "thuyền bốn mái chèo; nhóm bốn người chèo"
+        },
+        {
+          "m_full_vn": "mặt số bốn (súc sắc); con bốn (bài)",
+          "list_one_mean": [
+            {
+              "id_full_en": "on all fours",
+              "list_im": [
+                {
+                  "im_full_vn": "bò (bằng tay và đầu gối)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giống nhau, đúng khớp, khớp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the cases are not on all fours",
+                      "full_vn": "những hòm này không giống nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on all fours",
+              "list_im": [
+                {
+                  "im_full_vn": "bò (bằng tay và đầu gối)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giống nhau, đúng khớp, khớp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the cases are not on all fours",
+                      "full_vn": "những hòm này không giống nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on all fours",
+              "list_im": [
+                {
+                  "im_full_vn": "bò (bằng tay và đầu gối)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giống nhau, đúng khớp, khớp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the cases are not on all fours",
+                      "full_vn": "những hòm này không giống nhau"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

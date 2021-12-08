@@ -1,0 +1,144 @@
+{
+  "english": "heave",
+  "phat_am": "[hi:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cố nhấc lên, sự cố kéo"
+        },
+        {
+          "m_full_vn": "sự ráng sức"
+        },
+        {
+          "m_full_vn": "sự nhô lên, sự trào lên, sự căng phồng"
+        },
+        {
+          "m_full_vn": "sự nhấp nhô, sự phập phồng (sóng biển, lồng ngực...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng nhấc bổng ném xuống ( (cũng) Cornwall heave )"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) sự dịch chuyển ngang"
+        },
+        {
+          "m_full_vn": "( số nhiều) bệnh thở gấp (của ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ ( heaved , những nghĩa về (hàng hải) hove )",
+      "list_m": [
+        {
+          "m_full_vn": "nhấc lên, nâng lên (vật nặng)"
+        },
+        {
+          "m_full_vn": "thốt ra",
+          "list_en_vn": [
+            {
+              "full_en": "to heave a sigh",
+              "full_vn": "thốt ra một tiếng thở dài, thở dài sườn sượt"
+            },
+            {
+              "full_en": "to heave a groan",
+              "full_vn": "thốt ra một tiếng rền rĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhô lên; làm căng phồng"
+        },
+        {
+          "m_full_vn": "làm nhấp nhô, làm phập phồng"
+        },
+        {
+          "m_full_vn": "(hàng hải) kéo, kéo lên",
+          "list_en_vn": [
+            {
+              "full_en": "to heave (up ) anchor",
+              "full_vn": "kéo neo, nhổ neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải), (thông tục) ném, vứt, liệng",
+          "list_en_vn": [
+            {
+              "full_en": "to heave down",
+              "full_vn": "lật nghiêng (tàu) (để rửa, sửa chữa...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) chuyển dịch ngang"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) kéo, ra sức kéo",
+          "list_en_vn": [
+            {
+              "full_en": "to heave at a rope",
+              "full_vn": "ra sức kéo một dây thừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ráng sức"
+        },
+        {
+          "m_full_vn": "nhô lên, trào lên, căng phồng, phồng lên"
+        },
+        {
+          "m_full_vn": "nhấp nhô, phập phồng (sóng, lồng ngực...)"
+        },
+        {
+          "m_full_vn": "thở hổn hển"
+        },
+        {
+          "m_full_vn": "nôn oẹ"
+        },
+        {
+          "m_full_vn": "(hàng hải) chạy, đi (tàu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "heave ho !",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) hò dô ta, hò"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to heave ahead",
+              "full_vn": "chạy về phía trước"
+            },
+            {
+              "full_en": "to heave alongside",
+              "full_vn": "ghé sát mạn (một tàu khác)"
+            },
+            {
+              "full_en": "to heave astern",
+              "full_vn": "lùi về phía sau"
+            },
+            {
+              "full_en": "to heave to",
+              "full_vn": "dừng lại"
+            },
+            {
+              "full_en": "to heave in sight",
+              "full_vn": "hiện ra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

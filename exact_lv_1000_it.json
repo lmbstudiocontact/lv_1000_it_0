@@ -1,0 +1,72 @@
+{
+  "english": "exact",
+  "phat_am": "[ig'zækt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng về mọi chi tiết; chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "what were his exact words ?",
+              "full_vn": "nguyên văn nó nói thế nào?"
+            },
+            {
+              "full_en": "I don't know the exact price of that air-conditioner",
+              "full_vn": "Tôi không biết chính xác giá của cái máy lạnh đó"
+            },
+            {
+              "full_en": "he's in his mid-fifties ; well , fifty-six to be exact",
+              "full_vn": "ông ta vào khoảng giữa 50 và 60; vâng, chính xác là 56 tuổi"
+            },
+            {
+              "full_en": "she's a very exact person",
+              "full_vn": "bà ấy là một người rất chính xác"
+            },
+            {
+              "full_en": "exact sciences",
+              "full_vn": "những khoa học chính xác (toán chẳng hạn)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to exact something from somebody ) yêu cầu và ép trả tiền (cho cái gì); bắt phải; ép",
+          "list_en_vn": [
+            {
+              "full_en": "to exact payment from a client",
+              "full_vn": "buộc khách hàng trả tiền"
+            },
+            {
+              "full_en": "the kidnappers exacted a ransom of 20000 dollars from the family",
+              "full_vn": "bọn bắt cóc buộc gia đình phải trả số tiền chuộc là 20000 đô la"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yêu cầu; đòi hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "her work exacts great care and attention to detail",
+              "full_vn": "công trình của bà ấy đòi hỏi phải rất thận trọng và chú ý đến từng chi tiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khăng khăng đòi hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to exact obedience from one's staff",
+              "full_vn": "đòi hỏi nhân viên trong cơ quan phải phục tùng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "brother",
+  "phat_am": "['brʌðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "anh; em trai",
+          "list_en_vn": [
+            {
+              "full_en": "elder brother",
+              "full_vn": "anh"
+            },
+            {
+              "full_en": "younger brother",
+              "full_vn": "em trai"
+            },
+            {
+              "full_en": "they should have invited the Smith brothers for dinner",
+              "full_vn": "lẽ ra họ phải mời anh em nhà Smith dùng cơm"
+            },
+            {
+              "full_en": "uterine brother",
+              "full_vn": "anh (em) khác cha (cùng mẹ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bạn cùng nghề; bạn đồng sự; bạn đồng ngũ",
+          "list_en_vn": [
+            {
+              "full_en": "brother in arms",
+              "full_vn": "bạn chiến đấu"
+            },
+            {
+              "full_en": "brother of the brush",
+              "full_vn": "bạn hoạ sĩ"
+            },
+            {
+              "full_en": "brother of the quill",
+              "full_vn": "bạn viết văn"
+            },
+            {
+              "full_en": "we are all brothers in this charity movement",
+              "full_vn": "tất cả chúng ta đều là anh em với nhau trong phong trào từ thiện này"
+            },
+            {
+              "full_en": "he was greatly respected by his brother teachers /officers",
+              "full_vn": "ông ta rất được các giáo viên đồng nghiệp/sĩ quan đồng ngũ kính trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) thầy dòng cùng môn phái; đạo hữu"
+        }
+      ]
+    }
+  ]
+}

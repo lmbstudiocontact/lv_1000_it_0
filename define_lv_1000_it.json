@@ -1,0 +1,30 @@
+{
+  "english": "define",
+  "phat_am": "[di'fain]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "định nghĩa (một từ...)"
+        },
+        {
+          "m_full_vn": "định rõ, vạch rõ (hình dạng, ranh giới...)",
+          "list_en_vn": [
+            {
+              "full_en": "to define the right for someone",
+              "full_vn": "định rõ quyền hạn cho ai"
+            },
+            {
+              "full_en": "to define the boundary between two countries",
+              "full_vn": "định rõ ranh giới hai nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác định đặc điểm, chỉ rõ tính chất"
+        }
+      ]
+    }
+  ]
+}

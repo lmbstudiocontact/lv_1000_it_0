@@ -1,0 +1,66 @@
+{
+  "english": "carpet",
+  "phat_am": "['kɑ:pit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấm thảm",
+          "list_en_vn": [
+            {
+              "full_en": "to lay a carpet",
+              "full_vn": "trải thảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thảm (cỏ, hoa, rêu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "được đem ra thảo luận, bàn cãi"
+                },
+                {
+                  "im_full_vn": "bị mắng, bị quở trách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "được đem ra thảo luận, bàn cãi"
+                },
+                {
+                  "im_full_vn": "bị mắng, bị quở trách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "bị mắng, bị quở trách"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trải thảm"
+        },
+        {
+          "m_full_vn": "(thông tục) lôi (người làm...) ra mắng mỏ; gọi lên mắng"
+        }
+      ]
+    }
+  ]
+}

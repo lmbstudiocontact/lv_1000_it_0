@@ -1,0 +1,41 @@
+{
+  "english": "discover",
+  "phat_am": "[dis'kʌvə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khám phá ra, tìm ra, phát hiện ra, nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "Columbus discovered America",
+              "full_vn": "Columbus tìm ra châu Mỹ"
+            },
+            {
+              "full_en": "I've discovered a super restaurant near here",
+              "full_vn": "tôi vừa mới phát hiện một nhà hàng tuyệt vời gần đây"
+            },
+            {
+              "full_en": "I discovered him kissing my wife",
+              "full_vn": "tôi bất chợt thấy hắn đang hôn vợ tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỡ lẽ ra, nhận thức ra",
+          "list_en_vn": [
+            {
+              "full_en": "we discovered that our luggage had been stolen",
+              "full_vn": "chúng tôi nhận ra là hành lý của chúng tôi đã bị đánh cắp"
+            },
+            {
+              "full_en": "he was later discovered to have been a spy",
+              "full_vn": "sau này người ta mới vỡ lẽ ra rằng hắn là gián điệp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

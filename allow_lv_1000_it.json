@@ -1,0 +1,169 @@
+{
+  "english": "allow",
+  "phat_am": "[ə'lau]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho phép ai/cái gì làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "my boss doesn't allow me to use the telephone",
+              "full_vn": "ông chủ tôi không cho phép tôi dùng điện thoại"
+            },
+            {
+              "full_en": "passengers are not allowed to smoke",
+              "full_vn": "hành khách không được phép hút thuốc lá"
+            },
+            {
+              "full_en": "to allow oneself to do something",
+              "full_vn": "tự cho phép mình làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để cho (cái gì) được làm hoặc xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "we don't allow smoking in our house",
+              "full_vn": "chúng tôi không cho phép hút thuốc lá trong nhà chúng tôi"
+            },
+            {
+              "full_en": "smoking is not allowed here",
+              "full_vn": "không được hút thuốc lá ở đây"
+            },
+            {
+              "full_en": "photography is not allowed in this theatre",
+              "full_vn": "không được phép chụp ảnh trong nhà hát này"
+            },
+            {
+              "full_en": "she allowed her mind to wander",
+              "full_vn": "cô ta để cho tâm trí nghĩ vớ vẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho phép ai/cái gì vào",
+          "list_en_vn": [
+            {
+              "full_en": "Dogs not allowed /No dogs allowed",
+              "full_vn": "Chó không được vào/Không cho chó vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to allow something to somebody ) để cho ai có được cái gì; cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "this diet allows you one glass of wine a day",
+              "full_vn": "chế độ ăn kiêng này cho phép anh uống mỗi ngày một cốc rượu vang"
+            },
+            {
+              "full_en": "I'm not allowed visitors",
+              "full_vn": "tôi không được phép tiếp khách"
+            },
+            {
+              "full_en": "he allowed his imagination full play",
+              "full_vn": "anh ta để mặc cho trí tưởng tượng tha hồ phiêu diêu"
+            },
+            {
+              "full_en": "I'll not allow you to be ill-treated",
+              "full_vn": "tôi sẽ không để cho anh bị ngược đãi đâu"
+            },
+            {
+              "full_en": "to allow 5 per cent for breakage",
+              "full_vn": "cho phép gãy vỡ 5 phần trăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to allow something for somebody / something ) cấp phát; để riêng ra",
+          "list_en_vn": [
+            {
+              "full_en": "to allow four sandwiches each /per head",
+              "full_vn": "phát bốn chiếc bánh cặp thịt cho mỗi đầu người"
+            },
+            {
+              "full_en": "you must allow three metres for a long-sleeved dress",
+              "full_vn": "bà phải dành ra ba mét cho một chiếc áo dài tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thừa nhận, công nhận, chấp nhận",
+          "list_en_vn": [
+            {
+              "full_en": "the judge allowed my claim",
+              "full_vn": "quan toà chấp nhận yêu sách của tôi"
+            },
+            {
+              "full_en": "he allowed that I had the right to appeal",
+              "full_vn": "ông ta thừa nhận tôi có quyền chống án"
+            },
+            {
+              "full_en": "even if we allow that the poet was mad",
+              "full_vn": "dù ta cứ cho rằng nhà thơ ấy điên chăng nữa...."
+            },
+            {
+              "full_en": "many allow him to be the leading artist in his field",
+              "full_vn": "nhiều người thừa nhận ông ta là nghệ sĩ hàng đầu trong lĩnh vực của ông ta"
+            },
+            {
+              "full_en": "to allow a request",
+              "full_vn": "chấp đơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to allow for somebody / something ) kể đến, tính đến; chiếu cố đến, chú ý đến",
+          "list_en_vn": [
+            {
+              "full_en": "to allow for the delays caused by bad weather",
+              "full_vn": "tính đến sự chậm trễ do thời tiết xấu gây ra"
+            },
+            {
+              "full_en": "after allowing for ...",
+              "full_vn": "sau khi đã tính đến..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to allow of something ) cho phép cái gì; dành chỗ cho cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the question allows of no dispute",
+              "full_vn": "vấn đề không cho phép bàn cãi gì cả"
+            },
+            {
+              "full_en": "I can't allow of this noise going on",
+              "full_vn": "tôi không thể chịu được cái tiếng ầm ỹ ấy cứ kéo dài mãi"
+            },
+            {
+              "full_en": "the facts allow of only one explanation",
+              "full_vn": "các sự kiện chỉ cho phép đưa ra một cách giải thích duy nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to allow somebody in / out / up ) cho phép ai vào/rời đi/đứng dậy",
+          "list_en_vn": [
+            {
+              "full_en": "she won't allow children in (to the house ) until they've wiped their shoes",
+              "full_vn": "trẻ con chưa chùi sạch giày thì chưa được bà ấy cho vào nhà"
+            },
+            {
+              "full_en": "the patient was allowed up after 10 days",
+              "full_vn": "sau mưới ngày, bệnh nhân được phép dậy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

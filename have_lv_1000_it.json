@@ -1,0 +1,359 @@
+{
+  "english": "have",
+  "phat_am": "[hæv, həv, v]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có",
+          "list_en_vn": [
+            {
+              "full_en": "to have nothing to do",
+              "full_vn": "không có việc gì làm"
+            },
+            {
+              "full_en": "June has 30 days",
+              "full_vn": "tháng sáu có 30 ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from ) nhận được, biết được",
+          "list_en_vn": [
+            {
+              "full_en": "to have news from somebody",
+              "full_vn": "nhận được tin ở ai, nhờ ai mà biết tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn; uống; hút",
+          "list_en_vn": [
+            {
+              "full_en": "to have breakfast",
+              "full_vn": "ăn sáng"
+            },
+            {
+              "full_en": "to have some tea",
+              "full_vn": "uống một chút trà"
+            },
+            {
+              "full_en": "to have a cigarette",
+              "full_vn": "hút một điếu thuốc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hưởng; bị",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good time",
+              "full_vn": "được hưởng một thời gian vui thích"
+            },
+            {
+              "full_en": "to have a headache",
+              "full_vn": "bị nhức đầu"
+            },
+            {
+              "full_en": "to have one's leg broken",
+              "full_vn": "bị gãy chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho phép; muốn (ai làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I will not have you say such things",
+              "full_vn": "tôi không cho phép (muốn) anh nói những điều như vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biết, hiểu; nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "to have no Greek",
+              "full_vn": "không biết tiếng Hy-lạp"
+            },
+            {
+              "full_en": "have in mind that ...",
+              "full_vn": "hãy nhớ là..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to ) phải, có bổn phận phải, bắt buộc phải",
+          "list_en_vn": [
+            {
+              "full_en": "to have to do one's works",
+              "full_vn": "phải làm công việc của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói, cho là, chủ trương; tin chắc là",
+          "list_en_vn": [
+            {
+              "full_en": "as Shakespeare has it",
+              "full_vn": "như Sếch-xpia đã nói"
+            },
+            {
+              "full_en": "he will have it that ...",
+              "full_vn": "anh ta chủ trương là...; anh ta tin chắc là... một cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắng, thắng thế",
+          "list_en_vn": [
+            {
+              "full_en": "the ayes have it",
+              "full_vn": "phiếu thuận thắng"
+            },
+            {
+              "full_en": "I had him there",
+              "full_vn": "tôi đã thắng hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tóm, nắm, nắm chặt ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to have somebody by the throat",
+              "full_vn": "bóp chặt cổ ai"
+            },
+            {
+              "full_en": "I have it !",
+              "full_vn": "(nghĩa bóng) tớ tóm được rồi!, tớ nắm được rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai khiến, nhờ, bảo, bắt (ai làm gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have one's luggage brought in",
+              "full_vn": "bảo đưa hành lý của mình vào, nhờ đưa hành lý của mình vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bịp, lừa bịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have at",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công, công kích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have on",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặc, vẫn mặc (quần áo...); có đội, vẫn đội (mũ...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have a hat on",
+                      "full_vn": "có đội mũ"
+                    },
+                    {
+                      "full_en": "to have nothing on",
+                      "full_vn": "không mặc cái gì, trần truồng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have on",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặc, vẫn mặc (quần áo...); có đội, vẫn đội (mũ...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have a hat on",
+                      "full_vn": "có đội mũ"
+                    },
+                    {
+                      "full_en": "to have nothing on",
+                      "full_vn": "không mặc cái gì, trần truồng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have on",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặc, vẫn mặc (quần áo...); có đội, vẫn đội (mũ...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have a hat on",
+                      "full_vn": "có đội mũ"
+                    },
+                    {
+                      "full_en": "to have nothing on",
+                      "full_vn": "không mặc cái gì, trần truồng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have up",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi lên, triệu lên, mời lên"
+                },
+                {
+                  "im_full_vn": "bắt, đưa ra toà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have up",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi lên, triệu lên, mời lên"
+                },
+                {
+                  "im_full_vn": "bắt, đưa ra toà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "had better",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) better"
+                }
+              ]
+            },
+            {
+              "id_full_en": "had rather",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) had better"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have done !",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng lại!, thôi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have it out",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết một cuộc tranh cãi, nói cho ra lý lẽ"
+                },
+                {
+                  "im_full_vn": "đi nhổ răng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have it out",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết một cuộc tranh cãi, nói cho ra lý lẽ"
+                },
+                {
+                  "im_full_vn": "đi nhổ răng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have nothing on someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không có thế lợi gì hơn ai"
+                },
+                {
+                  "im_full_vn": "không có chứng cớ gì để buộc tội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have nothing on someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không có thế lợi gì hơn ai"
+                },
+                {
+                  "im_full_vn": "không có chứng cớ gì để buộc tội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he has had it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thằng cha ấy thế là toi rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy thế là hết thời (lỗi thời) rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy chẳng hòng gì được nữa đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he has had it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thằng cha ấy thế là toi rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy thế là hết thời (lỗi thời) rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy chẳng hòng gì được nữa đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he has had it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thằng cha ấy thế là toi rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy thế là hết thời (lỗi thời) rồi"
+                },
+                {
+                  "im_full_vn": "thằng cha ấy chẳng hòng gì được nữa đâu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you were had",
+              "full_vn": "cậu bị bịp rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) sự lừa bịp; hành động lừa bịp"
+        }
+      ]
+    }
+  ]
+}

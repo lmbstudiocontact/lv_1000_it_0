@@ -1,0 +1,64 @@
+{
+  "english": "bleed",
+  "phat_am": "[bli:d]",
+  "list_type": [
+    {
+      "type": "nội động từ, động tính từ quá khứ và thì quá khứ là bled",
+      "list_m": [
+        {
+          "m_full_vn": "chảy máu, mất máu",
+          "list_en_vn": [
+            {
+              "full_en": "to bleed to death",
+              "full_vn": "chảy máu đến chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ máu, hy sinh",
+          "list_en_vn": [
+            {
+              "full_en": "to bleed for one's country",
+              "full_vn": "hy sinh cho tổ quốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) lấy máu (để thử)"
+        },
+        {
+          "m_full_vn": "( to bleed somebody for something ) bòn rút, chiếm đoạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bleed somebody white",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) white"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's heart bleeds for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "thương xót cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the husband bleeds his wife for every dong she earned",
+              "full_vn": "người chồng bòn rút từng đồng mà vợ mình kiếm được"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

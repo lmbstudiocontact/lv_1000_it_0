@@ -1,0 +1,741 @@
+{
+  "english": "head",
+  "phat_am": "[hed]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đầu (người, thú vật)",
+          "list_en_vn": [
+            {
+              "full_en": "from head to foot",
+              "full_vn": "từ đầu đến chân"
+            },
+            {
+              "full_en": "he fell and hit his head",
+              "full_vn": "anh ta ngã đập đầu xuống"
+            },
+            {
+              "full_en": "The Queen's horse won by a head",
+              "full_vn": "con ngựa của Nữ hoàng đã về trước một đầu"
+            },
+            {
+              "full_en": "Tom is taller than John by a head",
+              "full_vn": "Tom cao hơn John một cái đầu"
+            },
+            {
+              "full_en": "5 shillings a /per head",
+              "full_vn": "mỗi (đầu) người được 5 silinh"
+            },
+            {
+              "full_en": "dinner at 15 dollars a /per head",
+              "full_vn": "bữa ăn tối giá 15 đô la mỗi người"
+            },
+            {
+              "full_en": "to count heads",
+              "full_vn": "đếm đầu người (người có mặt)"
+            },
+            {
+              "full_en": "a hundred head of cattle",
+              "full_vn": "một trăm con thú nuôi, một trăm đầu thú nuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu óc, trí nhớ; năng khiếu, tài năng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good head for mathematics",
+              "full_vn": "có năng khiếu về toán"
+            },
+            {
+              "full_en": "to reckon in one's head",
+              "full_vn": "tính thầm trong óc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chứng nhức đầu sau khi uống rượu say",
+          "list_en_vn": [
+            {
+              "full_en": "to have a bad head",
+              "full_vn": "bị nhức đầu, bị nặng đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí đứng đầu, người đứng đầu, người chỉ huy, thủ trưởng",
+          "list_en_vn": [
+            {
+              "full_en": "at the head of ...",
+              "full_vn": "đứng đầu..., ở cương vị chỉ huy..."
+            },
+            {
+              "full_en": "the head of a family",
+              "full_vn": "chủ gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình đầu",
+          "list_en_vn": [
+            {
+              "full_en": "a head of cabbage",
+              "full_vn": "cái bắp cải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn đầu, phần đầu",
+          "list_en_vn": [
+            {
+              "full_en": "the head of a procession",
+              "full_vn": "đoạn đầu đám rước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu (trang sách, bàn, giường, cầu thang..., búa, rìu, ghim băng, đinh ốc, bu lông...); ngọn, đỉnh, chỏm, chóp (núi, cây, cột...); vòi (máy nước...); đầu nguồn, ngọn nguồn (sông...); đầu mũi (tên...); lưỡi (cày...); đáy, ván đáy (thùng...)"
+        },
+        {
+          "m_full_vn": "bọt (cốc rượu bia); váng kem (trên mặt bình sữa...)"
+        },
+        {
+          "m_full_vn": "ngòi (mụn, nhọt)"
+        },
+        {
+          "m_full_vn": "gạc (hươu, nai)"
+        },
+        {
+          "m_full_vn": "mũi (tàu)"
+        },
+        {
+          "m_full_vn": "mũi biển"
+        },
+        {
+          "m_full_vn": "( heads ) mặt của đồng tiền có hình đầu người trên đó; mặt ngửa",
+          "list_en_vn": [
+            {
+              "full_en": "we tossed a coin and it came down heads",
+              "full_vn": "chúng tôi tung đồng xu (để quyết định việc gì nhờ may rủi chẳng hạn) và nó rơi lật mặt ngửa lên"
+            },
+            {
+              "full_en": "heads or tails ?",
+              "full_vn": "ngửa hay sấp?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành mỏ) đường hầm"
+        },
+        {
+          "m_full_vn": "(hàng hải) nhà xí cho thuỷ thủ (ở mũi tàu)"
+        },
+        {
+          "m_full_vn": "đề mục, chương mục, phần chính (trong một bài diễn thuyết...); loại",
+          "list_en_vn": [
+            {
+              "full_en": "on that head",
+              "full_vn": "ở phần này, ở chương này"
+            },
+            {
+              "full_en": "under the same head",
+              "full_vn": "dưới cùng đề mục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lúc nguy kịch; lúc gay go căng thẳng; cơn khủng hoảng",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a head",
+              "full_vn": "lâm vào cơn khủng hoảng; đến lúc nguy kịch"
+            },
+            {
+              "full_en": "to bring to a head",
+              "full_vn": "làm gay go, làm căng thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột nước; áp suất",
+          "list_en_vn": [
+            {
+              "full_en": "hydrostatic head",
+              "full_vn": "áp suất thuỷ tĩnh"
+            },
+            {
+              "full_en": "static head",
+              "full_vn": "áp suất tĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết bị trong một máy ghi âm tiếp xúc với băng từ và chuyển những tín hiệu điện thành âm thanh; đầu từ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to addle one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) addle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /stand head and shoulders above somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt hơn ai, thông minh hơn ai rất nhiều; hơn hẳn một cái đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock /hammer sth into sb's head",
+              "list_im": [
+                {
+                  "im_full_vn": "nhồi nhét điều gì vào đầu ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb his head",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai tự do hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai chếnh choáng say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have eyes in the back of one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "có mắt rất tinh, tỏ tường mọi sự trên đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's head in the clouds",
+              "list_im": [
+                {
+                  "im_full_vn": "hay mơ mộng hão huyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head over heels",
+              "list_im": [
+                {
+                  "im_full_vn": "lăn lông lốc"
+                },
+                {
+                  "im_full_vn": "hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head over heels",
+              "list_im": [
+                {
+                  "im_full_vn": "lăn lông lốc"
+                },
+                {
+                  "im_full_vn": "hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a swollen head",
+              "list_im": [
+                {
+                  "im_full_vn": "kiêu căng ngạo mạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thick head",
+              "list_im": [
+                {
+                  "im_full_vn": "đần độn, ngu xuẩn"
+                },
+                {
+                  "im_full_vn": "choáng váng vì men rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thick head",
+              "list_im": [
+                {
+                  "im_full_vn": "đần độn, ngu xuẩn"
+                },
+                {
+                  "im_full_vn": "choáng váng vì men rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heads will roll for sth",
+              "list_im": [
+                {
+                  "im_full_vn": "sẽ có lúc người ta bị trừng phạt vì điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the nail on the head",
+              "list_im": [
+                {
+                  "im_full_vn": "nói đúng vanh vách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's head examined",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ cái ngu của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a price on sb's head",
+              "list_im": [
+                {
+                  "im_full_vn": "giải thưởng lấy đầu người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's head into the noose",
+              "list_im": [
+                {
+                  "im_full_vn": "đút đầu vào rọ, tự đưa đầu vào thòng lọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to scratch one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ nát óc, vắt óc suy nghĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "lắc đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heads I win , tails you lose",
+              "list_im": [
+                {
+                  "im_full_vn": "phần thắng chắc chắn thuộc về tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be able to do something on one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) có thể làm được một cái gì một cách dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be over head and ears in debts",
+              "list_im": [
+                {
+                  "im_full_vn": "nợ nần ngập lên đến tận đầu, nợ như chúa chổm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be (go ) off one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trí, hoá điên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat somebody's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh vỡ đầu ai; đánh gục ai; đánh bại ai hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "better be the head of a dog than the tail of a lion",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đầu gà còn hơn đuôi trâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy something over somebody's head",
+              "list_im": [
+                {
+                  "im_full_vn": "mua tranh được ai cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by head and shoulders above somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ hơn ai nhiều"
+                },
+                {
+                  "im_full_vn": "cao lớn hơn ai một đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by head and shoulders above somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ hơn ai nhiều"
+                },
+                {
+                  "im_full_vn": "cao lớn hơn ai một đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry (hold ) one's head high",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra hãnh diện về thành tích, giá trị, khả năng.. của mình; ngẩng cao đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "can't make head or tail of",
+              "list_im": [
+                {
+                  "im_full_vn": "không hiểu đầu đuôi ra sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cost someone his head",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai mất đầu, làm cho ai mất mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "horse eats its head off",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) eat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (take ) into one's head that",
+              "list_im": [
+                {
+                  "im_full_vn": "nghĩ rằng, đinh ninh rằng; muốn rằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody (something ) out of one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "quên ai (cái gì) đi, không nghĩ đến ai (cái gì) nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a horse his head",
+              "list_im": [
+                {
+                  "im_full_vn": "thả dây cương ra cho ngựa đi tự do thoải mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a good head on one's shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "lão luyện, từng trải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head first (foremost )",
+              "list_im": [
+                {
+                  "im_full_vn": "lộn phộc đầu xuống trước"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) vội vàng, hấp tấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head first (foremost )",
+              "list_im": [
+                {
+                  "im_full_vn": "lộn phộc đầu xuống trước"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) vội vàng, hấp tấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head and front",
+              "list_im": [
+                {
+                  "im_full_vn": "người đề xướng và lãnh đạo (một phong trào...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head of hair",
+              "list_im": [
+                {
+                  "im_full_vn": "mái tóc dày cộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's head (a level head , a cool head )",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ bình tĩnh, điềm tĩnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's head above water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) above"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay (put ) heads together",
+              "list_im": [
+                {
+                  "im_full_vn": "hội ý với nhau, bàn bạc với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make head",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến lên, tiến tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make head against",
+              "list_im": [
+                {
+                  "im_full_vn": "kháng cự thắng lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not right in one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "gàn gàn, hâm hâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "old head on young shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn ngoan trước tuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "do mình nghĩ ra, do mình tạo ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand on one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) lập dị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) talk"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk over someone's head",
+              "list_im": [
+                {
+                  "im_full_vn": "nói khó hiểu, làm cho ai không hiểu gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn something over in one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "suy đi tính lại cái gì trong óc, nghiền ngẫm cái gì trong óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "two heads are better than one",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ý kiến tập thể bao giờ cũng sáng suốt hơn, ba ông thợ da bằng Gia Cát Lượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đầu, làm chóp (cho một cái gì)"
+        },
+        {
+          "m_full_vn": "hớt ngọn, chặt ngọn (cây) ( (cũng) to head down )"
+        },
+        {
+          "m_full_vn": "để ở đầu, ghi ở đầu (trong chương mục...)",
+          "list_en_vn": [
+            {
+              "full_en": "to head a list",
+              "full_vn": "đứng đầu danh sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng đầu, chỉ huy, lãnh đạo; đi đầu, dẫn đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to head an uprising",
+              "full_vn": "lãnh đạo một cuộc nổi dậy"
+            },
+            {
+              "full_en": "to head a procession",
+              "full_vn": "đi đâu một đám rước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đương đầu với, đối chọi với"
+        },
+        {
+          "m_full_vn": "vượt, thắng hơn (ai)"
+        },
+        {
+          "m_full_vn": "đi vòng phía đầu nguồn (con sông...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh đầu, đội đầu (bóng đá)"
+        },
+        {
+          "m_full_vn": "đóng đầy thùng"
+        },
+        {
+          "m_full_vn": "(hàng hải) hướng (mũi tàu về phía nào)",
+          "list_en_vn": [
+            {
+              "full_en": "to head the ship for ...",
+              "full_vn": "hướng mũi tàu về phía..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thành bắp (bắp cải); kết thành cụm đầu (hoa...)"
+        },
+        {
+          "m_full_vn": "mưng chín (mụn nhọt)"
+        },
+        {
+          "m_full_vn": "tiến về, hướng về, đi về (phía nào...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to head back",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến lên trước để chặn bắt (ai) phải quay lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to head off",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to head back"
+                },
+                {
+                  "im_full_vn": "chặn tránh (một vấn đề gì bằng cách hướng câu chuyện sang một vấn đề khác...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to head off",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to head back"
+                },
+                {
+                  "im_full_vn": "chặn tránh (một vấn đề gì bằng cách hướng câu chuyện sang một vấn đề khác...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

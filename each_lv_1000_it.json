@@ -1,0 +1,90 @@
+{
+  "english": "each",
+  "phat_am": "[i:t∫]",
+  "list_type": [
+    {
+      "type": "tính từ bất định (dùng với danh từ và động từ số ít)",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi",
+          "list_en_vn": [
+            {
+              "full_en": "on each side of the road",
+              "full_vn": "ở mỗi bên đường cái"
+            },
+            {
+              "full_en": "a ring on each finger",
+              "full_vn": "một chiếc nhẫn trên mỗi ngón tay"
+            },
+            {
+              "full_en": "each day passed without any news",
+              "full_vn": "mỗi ngày qua đi mà không có tin tức nào cả"
+            },
+            {
+              "full_en": "each child learns at his or her own pace",
+              "full_vn": "mỗi đứa trẻ học theo tốc độ của riêng từng đứa"
+            },
+            {
+              "full_en": "each motorcycle has two wheels",
+              "full_vn": "mỗi xe môtô đều có hai bánh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ bất định",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi thành viên cá nhân (của một nhóm)",
+          "list_en_vn": [
+            {
+              "full_en": "I'll see each of them separately ; I'll see them each separately",
+              "full_vn": "tôi sẽ gặp riêng từng người trong bọn họ"
+            },
+            {
+              "full_en": "each of us has a complimentary ticket ; we each have a complimentary ticket",
+              "full_vn": "mỗi người chúng tôi đều có một vé mời"
+            },
+            {
+              "full_en": "each of the gifts is worth 50,000 dongs",
+              "full_vn": "mỗi tặng phẩm trị giá năm mươi ngàn đồng"
+            },
+            {
+              "full_en": "he gave us 500 francs each",
+              "full_vn": "ông ta cho mỗi chúng tôi 500 quan"
+            },
+            {
+              "full_en": "I asked all the children and each told a different story",
+              "full_vn": "tôi hỏi tất cả các trẻ em và mỗi đứa đã kể một chuyện khác nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi cái riêng rẽ",
+          "list_one_mean": [
+            {
+              "id_full_en": "each and all",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả mọi người, ai ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the cakes are 20p each",
+              "full_vn": "mỗi chiếc bánh là 20 penny"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

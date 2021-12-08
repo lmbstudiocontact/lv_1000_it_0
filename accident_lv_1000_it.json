@@ -1,0 +1,50 @@
+{
+  "english": "accident",
+  "phat_am": "['æksidənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rủi ro, tai nạn, tai biến",
+          "list_en_vn": [
+            {
+              "full_en": "without accident",
+              "full_vn": "an toàn không xảy ra tai nạn"
+            },
+            {
+              "full_en": "to meet with an accident",
+              "full_vn": "gặp rủi ro; gặp tai nạn, gặp tai biến"
+            },
+            {
+              "full_en": "accidents will happen",
+              "full_vn": "việc gì tới phải tới"
+            },
+            {
+              "full_en": "chapter of accidents",
+              "full_vn": "hàng loạt chuyện xui xẻo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tình cờ, sự ngẫu nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "I only found it by accident",
+              "full_vn": "chỉ do tình cờ mà tôi tìm được cái đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái phụ, cái không chủ yếu"
+        },
+        {
+          "m_full_vn": "sự gồ ghề, sự khấp khểnh"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu thăng giáng bất thường"
+        }
+      ]
+    }
+  ]
+}

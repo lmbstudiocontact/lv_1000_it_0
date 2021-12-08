@@ -1,0 +1,23 @@
+{
+  "english": "evening",
+  "phat_am": "[i':vniη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi chiều, buổi tối, tối đêm",
+          "list_en_vn": [
+            {
+              "full_en": "a musical evening",
+              "full_vn": "một tối hoà nhạc, một đêm hoà nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lúc xế bóng"
+        }
+      ]
+    }
+  ]
+}

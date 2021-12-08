@@ -1,0 +1,34 @@
+{
+  "english": "hose",
+  "phat_am": "[houz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bít tất dài"
+        },
+        {
+          "m_full_vn": "( số nhiều) ống vòi",
+          "list_en_vn": [
+            {
+              "full_en": "rubber hoses",
+              "full_vn": "ống cao su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp ống, lắp vòi"
+        },
+        {
+          "m_full_vn": "tưới nước bằng vòi"
+        }
+      ]
+    }
+  ]
+}

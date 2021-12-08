@@ -1,0 +1,62 @@
+{
+  "english": "element",
+  "phat_am": "['elimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu tố",
+          "list_en_vn": [
+            {
+              "full_en": "element of comparison",
+              "full_vn": "yếu tố để so sánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên tố",
+          "list_en_vn": [
+            {
+              "full_en": "the four elements",
+              "full_vn": "bốn nguyên tố (đất, nước, không khí, lửa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) pin"
+        },
+        {
+          "m_full_vn": "(toán học) yếu tố phân tử",
+          "list_en_vn": [
+            {
+              "full_en": "elements of the integral",
+              "full_vn": "yếu tố của tích phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện tượng khí tượng"
+        },
+        {
+          "m_full_vn": "( số nhiều) cơ sở, nguyên lý cơ bản (của một khoa học)"
+        },
+        {
+          "m_full_vn": "( số nhiều) sức mạnh thiên nhiên"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đơn vị không quân"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "to be in one's element",
+              "full_vn": "ở đúng trong môi trường của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

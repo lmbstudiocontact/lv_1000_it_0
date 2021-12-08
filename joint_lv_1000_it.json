@@ -1,0 +1,87 @@
+{
+  "english": "joint",
+  "phat_am": "[dʒɔint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ nối, mối nối, đầu nối"
+        },
+        {
+          "m_full_vn": "(giải phẫu) khớp (xương)",
+          "list_en_vn": [
+            {
+              "full_en": "out of joint",
+              "full_vn": "trật khớp, sai khớp; (nghĩa bóng) trục trặc, không ăn khớp, lộn bậy lung tung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) mấu, đốt"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) khe nứt, thớ nứt (ở khối đá...)"
+        },
+        {
+          "m_full_vn": "súc thịt (pha ra)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) mối hàn, mối nối, mối ghép; khớp nối, bản lề"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ổ lưu manh, ổ gái điếm lén lút, tiệm lén hút; hắc điếm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put someone's nose out of joint",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chung (giữa hai hay nhiều người)",
+          "list_en_vn": [
+            {
+              "full_en": "joint efforts",
+              "full_vn": "cố gắng chung (của hai hay nhiều người)"
+            },
+            {
+              "full_en": "a joint communiqué",
+              "full_vn": "thông cáo chung"
+            },
+            {
+              "full_en": "during their joint lives",
+              "full_vn": "(pháp lý) trong khi cả hai người đều còn sống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối lại bằng đoạn nối, ghép lại bằng đoạn nối"
+        },
+        {
+          "m_full_vn": "cắt tại những đoạn nối; chia ra từng đoạn"
+        },
+        {
+          "m_full_vn": "trát vữa vào khe nối của (tường...)"
+        },
+        {
+          "m_full_vn": "bào cạnh (tấm ván) để ghép"
+        }
+      ]
+    }
+  ]
+}

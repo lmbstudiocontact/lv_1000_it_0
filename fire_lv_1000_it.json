@@ -1,0 +1,468 @@
+{
+  "english": "fire",
+  "phat_am": "['faiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lửa, ánh lửa",
+          "list_en_vn": [
+            {
+              "full_en": "fire burns",
+              "full_vn": "lửa cháy"
+            },
+            {
+              "full_en": "to strike fire",
+              "full_vn": "đánh lửa"
+            },
+            {
+              "full_en": "there is no smoke without fire",
+              "full_vn": "không có lửa sao có khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cháy, hoả hoạn, sự cháy nhà",
+          "list_en_vn": [
+            {
+              "full_en": "on fire",
+              "full_vn": "đang cháy"
+            },
+            {
+              "full_en": "to set fire to something ; to set something on fire",
+              "full_vn": "đốt cháy cái gì"
+            },
+            {
+              "full_en": "to catch (take ) fire",
+              "full_vn": "bắt lửa, cháy"
+            },
+            {
+              "full_en": "fire !",
+              "full_vn": "cháy nhà!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ánh sáng",
+          "list_en_vn": [
+            {
+              "full_en": "St Elmo's fire",
+              "full_vn": "hòn sáng (thấy ở tàu khi bão)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bắn, hoả lực",
+          "list_en_vn": [
+            {
+              "full_en": "to open fire",
+              "full_vn": "bắt đầu nổ súng, khai hoả"
+            },
+            {
+              "full_en": "running fire",
+              "full_vn": "loạt súng nổ liên hồi; (nghĩa bóng) sự phê bình tới tấp; sự phản đối ầm ầm"
+            },
+            {
+              "full_en": "under enemy fire",
+              "full_vn": "dưới lằn đạn của địch, dưới hoả lực của địch"
+            },
+            {
+              "full_en": "between two fires",
+              "full_vn": "bị bắn từ hai phía lại"
+            },
+            {
+              "full_en": "line of fire",
+              "full_vn": "tuyến lửa, hoả tuyến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lò sưởi",
+          "list_en_vn": [
+            {
+              "full_en": "an electric fire",
+              "full_vn": "lò sưởi điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tra tấn bằng lửa"
+        },
+        {
+          "m_full_vn": "sự sốt, cơn sốt"
+        },
+        {
+          "m_full_vn": "ngọn lửa ( (nghĩa bóng)), sự hăng hái, nhiệt tình, sự sốt sắng, sự vui vẻ hoạt bát",
+          "list_en_vn": [
+            {
+              "full_en": "the fire of patriotism",
+              "full_vn": "ngọn lửa yêu nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xúc động mạnh mẽ; nguồn cảm hứng; óc tưởng tượng linh hoạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be put to fire and sword",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong cảnh nước sôi lửa bỏng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "burnt child dreads the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "chim phải tên sợ làn cây cong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fat is in the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp có chuyện gay cấn đến nơi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go through fire and water",
+              "list_im": [
+                {
+                  "im_full_vn": "đương đầu với nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to hang fire"
+                },
+                {
+                  "im_full_vn": "thất bại (trong việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to miss fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to hang fire"
+                },
+                {
+                  "im_full_vn": "thất bại (trong việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the frying-pan into the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh vỏ dưa gặp vỏ dừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play with fire",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi với lửa ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to add fuel to the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "thêm dầu vào lửa (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set the Thames on fire",
+              "list_im": [
+                {
+                  "im_full_vn": "làm những việc kinh thiên động địa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set the world on fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) thành công rực rỡ; lừng danh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a ball of fire",
+              "list_im": [
+                {
+                  "im_full_vn": "người năng nổ, tích cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breathe fire and brimstone",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have many irons in the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "khéo xoay sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to heap coals of fire on sb's head",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phải hối hận về sự vô tình của họ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "baptism of fire",
+              "list_im": [
+                {
+                  "im_full_vn": "lần đầu tiên ra trận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốt cháy, đốt (lò...)"
+        },
+        {
+          "m_full_vn": "làm nổ, bắn (súng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to fire a mine",
+              "full_vn": "giật mìn"
+            },
+            {
+              "full_en": "to fire a rocket",
+              "full_vn": "phóng rôcket"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm đỏ"
+        },
+        {
+          "m_full_vn": "nung",
+          "list_en_vn": [
+            {
+              "full_en": "to fire bricks",
+              "full_vn": "nung gạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sấy (chè, thuốc lá...)"
+        },
+        {
+          "m_full_vn": "đốt, khử trùng (bằng chất (hoá học))"
+        },
+        {
+          "m_full_vn": "thải, đuổi, sa thải"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kích thích (trí tưởng tượng)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) khuyến khích, làm phấn khởi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt lửa, cháy, bốc cháy"
+        },
+        {
+          "m_full_vn": "nóng lên"
+        },
+        {
+          "m_full_vn": "rực đỏ"
+        },
+        {
+          "m_full_vn": "nổ súng, bắn"
+        },
+        {
+          "m_full_vn": "chạy (máy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fire on all cylinders",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc hết mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire away",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu tiến hành"
+                },
+                {
+                  "im_full_vn": "nổ (súng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire away",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu tiến hành"
+                },
+                {
+                  "im_full_vn": "nổ (súng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire broadside",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn tất cả các súng một bên mạn tàu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fire off a remark",
+                      "full_vn": "bất chợt phát ra một câu nhận xét"
+                    },
+                    {
+                      "full_en": "to fire off a postcard",
+                      "full_vn": "gửi cấp tốc một bưu thiếp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fire off a remark",
+                      "full_vn": "bất chợt phát ra một câu nhận xét"
+                    },
+                    {
+                      "full_en": "to fire off a postcard",
+                      "full_vn": "gửi cấp tốc một bưu thiếp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fire off a remark",
+                      "full_vn": "bất chợt phát ra một câu nhận xét"
+                    },
+                    {
+                      "full_en": "to fire off a postcard",
+                      "full_vn": "gửi cấp tốc một bưu thiếp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fire off a remark",
+                      "full_vn": "bất chợt phát ra một câu nhận xét"
+                    },
+                    {
+                      "full_en": "to fire off a postcard",
+                      "full_vn": "gửi cấp tốc một bưu thiếp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire up",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi giận đùng đùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fire salute",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn súng chào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the engine fires evenly",
+              "full_vn": "máy chạy đều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "english": "ever",
+  "phat_am": "['evə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trong câu phủ định và câu hỏi, hoặc trong câu diễn đạt sự ngờ vực hoặc điều kiện (đứng trước động từ)) vào bất cứ lúc nào; bao giờ",
+          "list_en_vn": [
+            {
+              "full_en": "nothing ever happens in this village",
+              "full_vn": "chưa bao giờ có điều gì xảy ra trong làng này cả"
+            },
+            {
+              "full_en": "do you ever wish you were rich ?",
+              "full_vn": "có bao giờ anh ước mong anh giàu hay không?"
+            },
+            {
+              "full_en": "she seldom , if ever , goes to the cinema",
+              "full_vn": "cô ta ít đi xem chiếu bóng, nếu có thì cũng hiếm lắm"
+            },
+            {
+              "full_en": "If ever you visit London/If you ever visit London, you must come and stay with us",
+              "full_vn": "Nếu có bao giờ đến thăm London, anh phải tới ở nhà chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(với thì hoàn thành trong các câu hỏi) vào bất kỳ lúc nào cho đến nay; có bao giờ",
+          "list_en_vn": [
+            {
+              "full_en": "'Have you ever flown a helicopter ? ' - 'No , never'",
+              "full_vn": "Anh đã bao giờ đi máy bay trực thăng chưa? - Chưa, chưa bao giờ"
+            },
+            {
+              "full_en": "Have you ever seen an elephant ? - Yes , I have",
+              "full_vn": "Anh đã bao giờ thấy voi chưa? - Có, tôi có thấy"
+            },
+            {
+              "full_en": "I wondered if he'd ever stopped to think how I felt",
+              "full_vn": "tôi không biết bao giờ anh ấy dừng lại để nghĩ xem tôi đã chịu đựng thế nào chưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(với cấp so sánh tương đối sau than hoặc với cấp so sánh tuyệt đối) vào bất kỳ lúc nào (trước đây/cho đến bây giờ)",
+          "list_en_vn": [
+            {
+              "full_en": "it's raining harder than ever",
+              "full_vn": "trời chưa bao giờ mưa to đến như thế"
+            },
+            {
+              "full_en": "this is the best work you've ever done",
+              "full_vn": "đây là công trình tốt đẹp nhất mà anh đã làm được từ trước đến nay"
+            },
+            {
+              "full_en": "he hated her more than ever , when he got that letter",
+              "full_vn": "khi nhận được lá thư đó, anh ta ghét cô ấy hơn bao giờ cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) luôn luôn, liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "the ever-growing problem",
+              "full_vn": "vấn đề luôn luôn phát triển"
+            },
+            {
+              "full_en": "the ever-increasing cost of food",
+              "full_vn": "giá lương thực liên tục tăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sau as...as để làm mạnh thêm nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "work as hard as ever you can !",
+              "full_vn": "hãy làm việc thật hăng hái!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sau when , where",
+          "list_one_mean": [
+            {
+              "id_full_en": "(as ) bad /good as ever ; (as ) badly /well as ever",
+              "list_im": [
+                {
+                  "im_full_vn": "tồi, một cách tồi tệ cũng ngang với mức trướcđây (cũng) đáng ngạc nhiên (như) vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "despite the good weather forecast , the next morning was as wet as ever",
+                      "full_vn": "mặc dù dự báo thời tiết tốt, sáng hôm sau cũng vẫn mưa như những ngày trước đó"
+                    },
+                    {
+                      "full_en": "he broke his arm last year but he plays the piano as skilfully as ever",
+                      "full_vn": "năm ngoái anh ta gãy tay, nhưng vẫn chơi đàn pianô điệu nghệ như trước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(as ) bad /good as ever ; (as ) badly /well as ever",
+              "list_im": [
+                {
+                  "im_full_vn": "tồi, một cách tồi tệ cũng ngang với mức trướcđây (cũng) đáng ngạc nhiên (như) vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "despite the good weather forecast , the next morning was as wet as ever",
+                      "full_vn": "mặc dù dự báo thời tiết tốt, sáng hôm sau cũng vẫn mưa như những ngày trước đó"
+                    },
+                    {
+                      "full_en": "he broke his arm last year but he plays the piano as skilfully as ever",
+                      "full_vn": "năm ngoái anh ta gãy tay, nhưng vẫn chơi đàn pianô điệu nghệ như trước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(as ) bad /good as ever ; (as ) badly /well as ever",
+              "list_im": [
+                {
+                  "im_full_vn": "tồi, một cách tồi tệ cũng ngang với mức trướcđây (cũng) đáng ngạc nhiên (như) vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "despite the good weather forecast , the next morning was as wet as ever",
+                      "full_vn": "mặc dù dự báo thời tiết tốt, sáng hôm sau cũng vẫn mưa như những ngày trước đó"
+                    },
+                    {
+                      "full_en": "he broke his arm last year but he plays the piano as skilfully as ever",
+                      "full_vn": "năm ngoái anh ta gãy tay, nhưng vẫn chơi đàn pianô điệu nghệ như trước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "did you ever ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng (như) bộ phận của một câu hỏi tu từ hoặc dùng riêng rẽ để diễn đạt sự kinh ngạc, phẫn nộ, sự không tin...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "did you ever hear such nonsense !",
+                      "full_vn": "anh đã bao giờ nghe cái điều vô lý/ lời nói càn như thế chưa?"
+                    },
+                    {
+                      "full_en": "it cost 50 p to go to the toilet ; well , did you ever !",
+                      "full_vn": "đi vào nhà vệ sinh phải trả 50 xu; này, anh đã bao giờ thấy như thế chưa?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "did you ever ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng (như) bộ phận của một câu hỏi tu từ hoặc dùng riêng rẽ để diễn đạt sự kinh ngạc, phẫn nộ, sự không tin...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "did you ever hear such nonsense !",
+                      "full_vn": "anh đã bao giờ nghe cái điều vô lý/ lời nói càn như thế chưa?"
+                    },
+                    {
+                      "full_en": "it cost 50 p to go to the toilet ; well , did you ever !",
+                      "full_vn": "đi vào nhà vệ sinh phải trả 50 xu; này, anh đã bao giờ thấy như thế chưa?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "did you ever ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng (như) bộ phận của một câu hỏi tu từ hoặc dùng riêng rẽ để diễn đạt sự kinh ngạc, phẫn nộ, sự không tin...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "did you ever hear such nonsense !",
+                      "full_vn": "anh đã bao giờ nghe cái điều vô lý/ lời nói càn như thế chưa?"
+                    },
+                    {
+                      "full_en": "it cost 50 p to go to the toilet ; well , did you ever !",
+                      "full_vn": "đi vào nhà vệ sinh phải trả 50 xu; này, anh đã bao giờ thấy như thế chưa?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "When /Where /How ever did you lose it ?",
+              "full_vn": "Anh đã đánh mất nó lúc nào/ở đâu/như thế nào?"
+            },
+            {
+              "full_en": "What ever do you mean ?",
+              "full_vn": "Anh muốn nói đến cái gì thế?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

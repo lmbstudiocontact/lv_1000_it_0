@@ -1,0 +1,37 @@
+{
+  "english": "environment",
+  "phat_am": "[in'vaiərənmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều kiện, hoàn cảnh tác động đến đời sống của mọi người; môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "an unhappy home environment can affect a child's behaviour",
+              "full_vn": "môi trường gia đình không hạnh phúc có thể tác hại đến hành vi của trẻ con"
+            },
+            {
+              "full_en": "a noisy smoke-filled room is not the best environment to work in",
+              "full_vn": "căn phòng ồn ào quyện khói thuốc không phải là môi trường tốt nhất để làm việc trong đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the environment ) điều kiện thiên nhiên (không khí, nước, đất đai tásông trong đó); môi sinh",
+          "list_en_vn": [
+            {
+              "full_en": "pollution of environment",
+              "full_vn": "sự ô nhiễm môi sinh"
+            },
+            {
+              "full_en": "the Department of the Environment",
+              "full_vn": "Bộ môi trường"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "helpful",
+  "phat_am": "['helpful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp đỡ; giúp ích; có ích",
+          "list_en_vn": [
+            {
+              "full_en": "a helpful person /suggestion /map",
+              "full_vn": "một con người/lời gợi ý/tấm bản đồ hữu ích"
+            },
+            {
+              "full_en": "he's always helpful to his mother",
+              "full_vn": "anh ấy lúc nào cũng đỡ đần cho mẹ được rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

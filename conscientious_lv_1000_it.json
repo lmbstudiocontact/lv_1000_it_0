@@ -1,0 +1,34 @@
+{
+  "english": "conscientious",
+  "phat_am": "[,kɔn∫i'en∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tận tâm; chu đáo",
+          "list_one_mean": [
+            {
+              "id_full_en": "conscientious objector",
+              "list_im": [
+                {
+                  "im_full_vn": "người từ chối nhập ngũ vì nghĩ rằng điều đó trái với đạo lý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a conscientious worker",
+              "full_vn": "người công nhân tận tâm"
+            },
+            {
+              "full_en": "this essay is a very conscientious piece of work",
+              "full_vn": "bài tiểu luận này là một tác phẩm rất chu đáo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

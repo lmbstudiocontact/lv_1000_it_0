@@ -1,0 +1,113 @@
+{
+  "english": "bell",
+  "phat_am": "[bel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chuông; nhạc (ở cổ ngựa...)"
+        },
+        {
+          "m_full_vn": "tiếng chuông"
+        },
+        {
+          "m_full_vn": "(thực vật học) tràng hoa"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) thể vòm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bear the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vai trò phụ trách, giữ vai trò lãnh đạo, ở địa vị hàng đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear (carry ) away the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếm giải nhất trong cuộc thi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại trong cuộc thi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "rung chuông"
+                },
+                {
+                  "im_full_vn": "(thực vật học) tiến bộ, đạt được những kết quả tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring the bell",
+              "list_im": [
+                {
+                  "im_full_vn": "rung chuông"
+                },
+                {
+                  "im_full_vn": "(thực vật học) tiến bộ, đạt được những kết quả tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring one's own bell",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình làm quảng cáo cho mình, tự mình khua chuông gõ mõ cho mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc chuông vào, treo chuông vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bell the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng mũi chịu sào; giơ đầu chịu báng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng kêu động đực (hươu nai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu, rống (hươu nai động đực)"
+        }
+      ]
+    }
+  ]
+}

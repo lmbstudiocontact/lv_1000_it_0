@@ -1,0 +1,316 @@
+{
+  "english": "gather",
+  "phat_am": "['gæðə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp, tụ họp lại",
+          "list_en_vn": [
+            {
+              "full_en": "to gather a crowd round",
+              "full_vn": "tập hợp một đám đông quanh mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hái, lượm, thu thập",
+          "list_en_vn": [
+            {
+              "full_en": "to gather flowers",
+              "full_vn": "hái hoa"
+            },
+            {
+              "full_en": "to gather information",
+              "full_vn": "lượm tin tức"
+            },
+            {
+              "full_en": "to gather experience",
+              "full_vn": "thu thập kinh nghiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy, lấy lại",
+          "list_en_vn": [
+            {
+              "full_en": "to gather breath",
+              "full_vn": "lấy hơi"
+            },
+            {
+              "full_en": "to gather strength",
+              "full_vn": "lấy lại sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chun, nhăn",
+          "list_en_vn": [
+            {
+              "full_en": "to gather a coat at the waist",
+              "full_vn": "chun áo ở thắt lưng"
+            },
+            {
+              "full_en": "to gather the brows",
+              "full_vn": "nhăn mày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu, nắm được; kết luận, suy ra",
+          "list_en_vn": [
+            {
+              "full_en": "I can't gather anything from his speech",
+              "full_vn": "tôi chẳng hiểu hắn ta nói gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp lại, tụ họp lại, kéo đến",
+          "list_en_vn": [
+            {
+              "full_en": "a crowd gathered round him",
+              "full_vn": "một đám đông tụ họp quanh anh ta"
+            },
+            {
+              "full_en": "the clouds are gathering",
+              "full_vn": "mây đang kéo đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "to ra, phóng đại, tăng lên",
+          "list_en_vn": [
+            {
+              "full_en": "the rumour gathered as it spread",
+              "full_vn": "tin đồn càng lan đi càng được phóng đại mãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) mưng mủ (nhọt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt (cái gì) lên"
+                },
+                {
+                  "im_full_vn": "thu thập lại, tập trung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's forces",
+                      "full_vn": "tập trung lực lượng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu (gọn) lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gather up one's legs",
+                      "full_vn": "ngồi thu chân lại"
+                    },
+                    {
+                      "full_en": "to gather oneself up on the divan",
+                      "full_vn": "ngồi thu mình trên đi văng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be gathered to one's fathers",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, về chầu tổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a rolling stone gathers no moss",
+              "list_im": [
+                {
+                  "im_full_vn": "người chẳng có ràng buộc trách nhiệm, quan hệ gia đình và chẳng có của cải gì cả; đá lăn nhiều thì rêu chẳng bám được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather one's wits",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn hồn lại, trấn tỉnh lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gather dust",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ mặc, bị quên lãng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

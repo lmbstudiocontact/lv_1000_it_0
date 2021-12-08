@@ -1,0 +1,33 @@
+{
+  "english": "famine",
+  "phat_am": "['fæmin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạn đói kém",
+          "list_en_vn": [
+            {
+              "full_en": "to die of famine",
+              "full_vn": "chết đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khan hiếm",
+          "list_en_vn": [
+            {
+              "full_en": "water famine",
+              "full_vn": "sự hiếm nước"
+            },
+            {
+              "full_en": "famine prices",
+              "full_vn": "giá đắt, giá cắt cổ (vì khan hiếm)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

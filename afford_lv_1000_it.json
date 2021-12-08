@@ -1,0 +1,33 @@
+{
+  "english": "afford",
+  "phat_am": "[ə'fɔ:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể, có đủ sức, có đủ khả năng, có đủ điều kiện (để làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I can't afford to lose a minute",
+              "full_vn": "tôi không thể để mất một phút nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho, tạo cho, cấp cho, ban cho",
+          "list_en_vn": [
+            {
+              "full_en": "reading affords us pleasure",
+              "full_vn": "đọc sách cho ta niềm vui thú"
+            },
+            {
+              "full_en": "the fields afford enough fodder for the cattle",
+              "full_vn": "cánh đồng cung cấp đủ cỏ khô cho trâu bò"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "english": "flesh",
+  "phat_am": "[fle∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt"
+        },
+        {
+          "m_full_vn": "thịt, cùi (quả)"
+        },
+        {
+          "m_full_vn": "sự mập, sự béo",
+          "list_en_vn": [
+            {
+              "full_en": "to put on flesh",
+              "full_vn": "lên cân, béo ra"
+            },
+            {
+              "full_en": "to lose flesh",
+              "full_vn": "sút cân, gầy đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác thịt, thú nhục dục",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be flesh and blood",
+              "list_im": [
+                {
+                  "im_full_vn": "là người trần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "béo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "flesh and blood",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ thể bằng da bằng thịt; loài người"
+                },
+                {
+                  "im_full_vn": "có thật, không tưởng tượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "flesh and blood",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ thể bằng da bằng thịt; loài người"
+                },
+                {
+                  "im_full_vn": "có thật, không tưởng tượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go the way of all flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) bằng xương bằng thịt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his appearance in the flesh ended the rumours about his suicide",
+                      "full_vn": "việc anh ta xuất hiện bằng xương bằng thịt đã chấm dứt những lời đồn anh ta tự tử"
+                    },
+                    {
+                      "full_en": "I've read all her novels , but I've never seen her in the flesh",
+                      "full_vn": "Tôi đã đọc hết các tiểu thuyết của bà ấy, nhưng chưa bao giờ thấy được bà ấy bằng xương bằng thịt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) bằng xương bằng thịt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his appearance in the flesh ended the rumours about his suicide",
+                      "full_vn": "việc anh ta xuất hiện bằng xương bằng thịt đã chấm dứt những lời đồn anh ta tự tử"
+                    },
+                    {
+                      "full_en": "I've read all her novels , but I've never seen her in the flesh",
+                      "full_vn": "Tôi đã đọc hết các tiểu thuyết của bà ấy, nhưng chưa bao giờ thấy được bà ấy bằng xương bằng thịt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) bằng xương bằng thịt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his appearance in the flesh ended the rumours about his suicide",
+                      "full_vn": "việc anh ta xuất hiện bằng xương bằng thịt đã chấm dứt những lời đồn anh ta tự tử"
+                    },
+                    {
+                      "full_en": "I've read all her novels , but I've never seen her in the flesh",
+                      "full_vn": "Tôi đã đọc hết các tiểu thuyết của bà ấy, nhưng chưa bao giờ thấy được bà ấy bằng xương bằng thịt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone's flesh creep",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) creep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's own flesh and blood",
+              "list_im": [
+                {
+                  "im_full_vn": "người máu mủ ruột thịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to demand one's pound of flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi cho đủ mới thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a thorn in someone's flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gai, người bị xem là chướng ngại vật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the world , the flesh and the devil",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi thứ phàm tục trên đời"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kích thích (chó săn)"
+        },
+        {
+          "m_full_vn": "làm cho hăng máu"
+        },
+        {
+          "m_full_vn": "tập cho quen cảnh đổ máu"
+        },
+        {
+          "m_full_vn": "đâm (gươm...) vào thịt"
+        },
+        {
+          "m_full_vn": "vỗ béo, nuôi béo; làm cho có da có thịt"
+        },
+        {
+          "m_full_vn": "nạo thịt (ở miếng da để thuộc)"
+        },
+        {
+          "m_full_vn": "khai (đao...); (nghĩa bóng) khai (bút...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to flesh sth out",
+              "list_im": [
+                {
+                  "im_full_vn": "bổ sung cái gì cho dồi dào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) béo ra, có da có thịt"
+        }
+      ]
+    }
+  ]
+}

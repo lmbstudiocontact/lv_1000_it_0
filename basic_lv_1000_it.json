@@ -1,0 +1,50 @@
+{
+  "english": "basic",
+  "phat_am": "['beisik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( basic to something ) làm thành cơ sở hoặc điểm xuất phát; cơ bản; căn bản",
+          "list_en_vn": [
+            {
+              "full_en": "basic principles",
+              "full_vn": "những nguyên lý cơ bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở mức độ đơn giản nhất và thấp nhất; tiêu chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "basic pay",
+              "full_vn": "lương cơ bản"
+            },
+            {
+              "full_en": "my knowledge of physics is pretty basic",
+              "full_vn": "kiến thức của tôi về vật lý khá sơ đẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) (thuộc) bazơ",
+          "list_en_vn": [
+            {
+              "full_en": "basic slag",
+              "full_vn": "phân bón có chứa phốt phát thu được khi sản xuất thép"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "những vấn đề thiết yếu; khái niệm cơ bản"
+        }
+      ]
+    }
+  ]
+}

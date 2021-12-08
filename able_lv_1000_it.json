@@ -1,0 +1,83 @@
+{
+  "english": "able",
+  "phat_am": "['eibl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có năng lực; có tài; lành nghề",
+          "list_en_vn": [
+            {
+              "full_en": "an able co-op manager",
+              "full_vn": "một chủ nhiệm hợp tác xã có năng lực"
+            },
+            {
+              "full_en": "an able writer",
+              "full_vn": "một nhà văn có tài"
+            },
+            {
+              "full_en": "an able worker",
+              "full_vn": "một công nhân lành nghề"
+            },
+            {
+              "full_en": "the ablest /most able student in the class",
+              "full_vn": "sinh viên có khả năng nhất trong lớp"
+            },
+            {
+              "full_en": "to be able to do something",
+              "full_vn": "có thể làm được việc gì; có đủ tư cách/thẩm quyền làm việc gì"
+            },
+            {
+              "full_en": "the child is not yet able to write",
+              "full_vn": "đứa trẻ chưa biết viết"
+            },
+            {
+              "full_en": "will you be able to come ?",
+              "full_vn": "bạn có thể đến được không?"
+            },
+            {
+              "full_en": "you're better able to do it than I (am )",
+              "full_vn": "bạn có thể làm việc đó tốt hơn tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "có một tính cách nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "Fashionable",
+              "full_vn": "hợp thời trang"
+            },
+            {
+              "full_en": "Comfortable",
+              "full_vn": "Thoải mái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Có thể, cần được",
+          "list_en_vn": [
+            {
+              "full_en": "Eatable",
+              "full_vn": "Có thể ăn được"
+            },
+            {
+              "full_en": "Perishable",
+              "full_vn": "Có thể bị diệt vong"
+            },
+            {
+              "full_en": "Payable",
+              "full_vn": "Cần được thanh toán"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "century",
+  "phat_am": "['sent∫əri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời kỳ một trăm năm; thế kỷ",
+          "list_en_vn": [
+            {
+              "full_en": "The 20th century",
+              "full_vn": "Thế kỷ 20 (từ 1900 đến 1999)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong môn cricket) tỉ số 100 lần chạy của một đấu thủ cầm chày trong một lượt chơi",
+          "list_en_vn": [
+            {
+              "full_en": "a double century",
+              "full_vn": "hai trăm lần chạy (trong một lượt chơi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) trăm đô la"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ( La mã) đại đội (gồm 100 người)"
+        }
+      ]
+    }
+  ]
+}

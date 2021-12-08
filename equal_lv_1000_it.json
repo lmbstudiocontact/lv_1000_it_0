@@ -1,0 +1,139 @@
+{
+  "english": "equal",
+  "phat_am": "['i:kwəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "như nhau về kích cỡ, lượng, giá trị, mức độ...; ngang; bằng nhau",
+          "list_en_vn": [
+            {
+              "full_en": "they are of equal height",
+              "full_vn": "chúng nó cao ngang nhau"
+            },
+            {
+              "full_en": "to divide the cake into equal parts",
+              "full_vn": "chia cái bánh ra thành nhiều phần bằng nhau"
+            },
+            {
+              "full_en": "equal amounts of flour and sugar should be added to the mixture",
+              "full_vn": "cần cho thêm lượng bột và đường bằng nhau vào trong hỗn hợp"
+            },
+            {
+              "full_en": "he speaks Arabic and English with equal ease",
+              "full_vn": "anh ta nói tiếng A Rập và tiếngAnh thông thạo như nhau"
+            },
+            {
+              "full_en": "women are demanding equal pay for equal work",
+              "full_vn": "giới phụ nữ đòi hỏi làm việc như nhau thì hưởng lương như nhau"
+            },
+            {
+              "full_en": "in intelligence , the children are about equal",
+              "full_vn": "xét về trí thông minh, hầu như đứa trẻ nào cũng như nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( equal to something / doing something ) đủ sức, đủ khả năng",
+          "list_one_mean": [
+            {
+              "id_full_en": "on equal terms (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(gặp hoặc nói chuyện) như là người ngang hàng (không phân biệt địa vị hoặc cấp bậc)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now that she has been promoted , she is on equal terms with her ex -boss",
+                      "full_vn": "bây giờ khi đã được đề bạt, cô ta là người ngang hàng với thủ trưởng cũ của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on equal terms (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(gặp hoặc nói chuyện) như là người ngang hàng (không phân biệt địa vị hoặc cấp bậc)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now that she has been promoted , she is on equal terms with her ex -boss",
+                      "full_vn": "bây giờ khi đã được đề bạt, cô ta là người ngang hàng với thủ trưởng cũ của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "other things being equal",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thing"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be equal to one's task /responsibility",
+              "full_vn": "có đủ khả năng làm tròn nhiệm vụ của mình"
+            },
+            {
+              "full_en": "to be equal to the occasion",
+              "full_vn": "có đủ khả năng đối phó với tình hình"
+            },
+            {
+              "full_en": "to be equal to someone's expectation",
+              "full_vn": "đáp ứng được sự mong đợi của ai"
+            },
+            {
+              "full_en": "he doesn't seem equal to meeting our demands",
+              "full_vn": "coi bộ anh ấy không đủ sức đáp ứng nhu cầu của chúng ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc vật bằng với mình về mặt nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "he's my equal in strength",
+              "full_vn": "anh ta là người ngang sức với tôi"
+            },
+            {
+              "full_en": "she's the equal of her brother as far as intelligence is concerned",
+              "full_vn": "về trí thông minh mà nói, cô ta chẳng thua kém anh mình"
+            },
+            {
+              "full_en": "we consider ourselves equals",
+              "full_vn": "chúng ta coi nhau như những người ngang hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to equal somebody / something in something ) bằng, ngang, sánh kịp, bì kịp",
+          "list_en_vn": [
+            {
+              "full_en": "nobody can equal her in beauty",
+              "full_vn": "không ai có thể sánh với cô ta về sắc đẹp"
+            },
+            {
+              "full_en": "he is equalled by no one in kindness",
+              "full_vn": "xét về lòng tốt, không ai sánh kịp ông ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

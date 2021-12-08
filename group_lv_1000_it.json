@@ -1,0 +1,59 @@
+{
+  "english": "group",
+  "phat_am": "[gru:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "to learn in groups",
+              "full_vn": "học nhóm"
+            },
+            {
+              "full_en": "to form a group",
+              "full_vn": "họp lại thành nhóm"
+            },
+            {
+              "full_en": "atomic group",
+              "full_vn": "(vật lý) nhóm nguyên tử"
+            },
+            {
+              "full_en": "group of algebras",
+              "full_vn": "(toán học) nhóm các đại số"
+            },
+            {
+              "full_en": "blood group",
+              "full_vn": "(y học) nhóm máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) nhóm, gốc"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp thành nhóm; tập hợp lại",
+          "list_en_vn": [
+            {
+              "full_en": "soldiers group (themselves ) round the blockhouse , in order to receive new orders",
+              "full_vn": "các binh sĩ tập hợp lại chung quanh lô cốt để nhận lệnh mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân loại, phân loại, phân hạng, phân phối theo nhóm"
+        },
+        {
+          "m_full_vn": "(nghệ thuật) tạo nên sự hoà hợp màu sắc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "discuss",
+  "phat_am": "[dis'kʌs]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to discuss something with somebody ) thảo luận; bàn cãi; tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "He was still discussing the game (with his colleagues ) when I got there",
+              "full_vn": "Tôi đến đó khi anh ta đang tranh luận (với bạn đồng nghiệp) về trận đấu"
+            },
+            {
+              "full_en": "We discussed when to go /when we should go",
+              "full_vn": "Chúng tôi bàn nhau khi nào thì đi"
+            },
+            {
+              "full_en": "They discussed selling the house",
+              "full_vn": "Họ bàn nhau bán ngôi nhà"
+            },
+            {
+              "full_en": "We're here to discuss his joining the club",
+              "full_vn": "chúng tôi đến đây bàn việc anh ta gia nhập câu lạc bộ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

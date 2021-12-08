@@ -1,0 +1,202 @@
+{
+  "english": "after",
+  "phat_am": "['ɑ:ftə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau, đằng sau",
+          "list_en_vn": [
+            {
+              "full_en": "three days after",
+              "full_vn": "ba ngày sau"
+            },
+            {
+              "full_en": "soon after",
+              "full_vn": "ngay sau đó"
+            },
+            {
+              "full_en": "to follow after",
+              "full_vn": "theo sau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau, sau khi",
+          "list_en_vn": [
+            {
+              "full_en": "after dinner",
+              "full_vn": "sau bữa cơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở đằng sau, phía sau, đứng sau, liền sau",
+          "list_en_vn": [
+            {
+              "full_en": "Summer comes after Spring",
+              "full_vn": "mùa hạ đến liền sau mùa xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo sau, theo đuổi (diễn tả ý tìm kiếm, sự mong muốn, sự trông nom săn sóc)",
+          "list_en_vn": [
+            {
+              "full_en": "to be after something",
+              "full_vn": "đuổi theo cái gì, tìm kiếm cái gì"
+            },
+            {
+              "full_en": "to thirst after knowledge",
+              "full_vn": "khao khát sự hiểu biết"
+            },
+            {
+              "full_en": "to look after somebody",
+              "full_vn": "trông nom săn sóc ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phỏng theo, theo",
+          "list_en_vn": [
+            {
+              "full_en": "a picture after Rubens",
+              "full_vn": "một bức tranh theo kiểu Ruben"
+            },
+            {
+              "full_en": "after the Russian fashion",
+              "full_vn": "theo mốt Nga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "với, do, vì",
+          "list_en_vn": [
+            {
+              "full_en": "after a cool reception",
+              "full_vn": "với một sự tiếp đãi lạnh nhạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc dù, bất chấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "after all",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng, sau hết, rốt cuộc, xét cho cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "after one's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heart"
+                }
+              ]
+            },
+            {
+              "id_full_en": "after a manner (fashion )",
+              "list_im": [
+                {
+                  "im_full_vn": "tàm tạm, tạm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "after that",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) that"
+                }
+              ]
+            },
+            {
+              "id_full_en": "after you !",
+              "list_im": [
+                {
+                  "im_full_vn": "xin mời đi trước!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "day after day",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the day after",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày hôm sau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time after time",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) time"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "after all the threats",
+              "full_vn": "bất chấp tất cả những sự doạ nạt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau khi",
+          "list_en_vn": [
+            {
+              "full_en": "I went immediately after I had received the information",
+              "full_vn": "sau khi nhận được tin, tôi đi ngay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau này, sau đây, tiếp sau",
+          "list_en_vn": [
+            {
+              "full_en": "in after years",
+              "full_vn": "trong những năm sau này; trong tương lai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) ở đằng sau, ở phía sau",
+          "list_en_vn": [
+            {
+              "full_en": "the after part of the ship",
+              "full_vn": "phía sau tàu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

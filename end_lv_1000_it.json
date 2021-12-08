@@ -1,0 +1,523 @@
+{
+  "english": "end",
+  "phat_am": "[end]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn"
+        },
+        {
+          "m_full_vn": "đầu, đầu mút (dây...); đuôi; đáy (thùng...) đoạn cuối"
+        },
+        {
+          "m_full_vn": "mẩu thừa, mẩu còn lại",
+          "list_en_vn": [
+            {
+              "full_en": "candle ends",
+              "full_vn": "mẩu nến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết thúc"
+        },
+        {
+          "m_full_vn": "sự kết liễu, sự chết",
+          "list_en_vn": [
+            {
+              "full_en": "to be near one's end",
+              "full_vn": "chẳng còn sống được bao lâu nữa, gần kề miệng lỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mục đích",
+          "list_one_mean": [
+            {
+              "id_full_en": "at one's wit's end",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wit"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to an end",
+              "list_im": [
+                {
+                  "im_full_vn": "kết thúc, chấm dứt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to a sticky end",
+              "list_im": [
+                {
+                  "im_full_vn": "kết thúc thảm hại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dead end",
+              "list_im": [
+                {
+                  "im_full_vn": "ngõ cụt, tình thế không lối thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an end in itself",
+              "list_im": [
+                {
+                  "im_full_vn": "điều mà tự nó đã là quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the end justifies the means",
+              "list_im": [
+                {
+                  "im_full_vn": "mục đích biện minh cho phương tiện, làm mọi cách sao cho đạt mục đích dù là cách bất chính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to reach the end of the road",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng đường, không còn sức chịu đựng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the end of one's tether",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tether"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at a loose end",
+              "list_im": [
+                {
+                  "im_full_vn": "rảnh rổi, dư dả thời giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the end of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi suy nghĩ chín chắn, sau khi cân nhắc kỹ lưỡng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the receiving end of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "phải hứng chịu cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go off the deep end",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) deep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the end",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng, về sau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's end up",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên trì theo đuổi mục đích đến cùng, giữ vững lập trường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the light at the end of the tunnel",
+              "list_im": [
+                {
+                  "im_full_vn": "ánh sáng cuối đường hầm, niềm may mắn sau một chuỗi bất hạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make an end of",
+              "list_im": [
+                {
+                  "im_full_vn": "chấm dứt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (both ) ends meet",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm đủ tiền để sống không mắc nợ; cân đối được thu chi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "being out of work and having two young children , they found it impossible to make ends meet",
+                      "full_vn": "bị thất nghiệp và lại có hai con nhỏ, họ thấy không tài nào đủ sống được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (both ) ends meet",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm đủ tiền để sống không mắc nợ; cân đối được thu chi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "being out of work and having two young children , they found it impossible to make ends meet",
+                      "full_vn": "bị thất nghiệp và lại có hai con nhỏ, họ thấy không tài nào đủ sống được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end",
+              "list_im": [
+                {
+                  "im_full_vn": "vô cùng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end obliged to you",
+                      "full_vn": "vô cùng cảm ơn anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end",
+              "list_im": [
+                {
+                  "im_full_vn": "vô cùng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end obliged to you",
+                      "full_vn": "vô cùng cảm ơn anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end of",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end of trouble",
+                      "full_vn": "rất nhiều điều phiền nhiễu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tuyệt diệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no end of a fellow",
+                      "full_vn": "nó là một thằng cha tuyệt diệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end of",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end of trouble",
+                      "full_vn": "rất nhiều điều phiền nhiễu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tuyệt diệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no end of a fellow",
+                      "full_vn": "nó là một thằng cha tuyệt diệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end of",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end of trouble",
+                      "full_vn": "rất nhiều điều phiền nhiễu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tuyệt diệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no end of a fellow",
+                      "full_vn": "nó là một thằng cha tuyệt diệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no end of",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "no end of trouble",
+                      "full_vn": "rất nhiều điều phiền nhiễu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tuyệt diệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is no end of a fellow",
+                      "full_vn": "nó là một thằng cha tuyệt diệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on end",
+              "list_im": [
+                {
+                  "im_full_vn": "liền, liên tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for hours on end",
+                      "full_vn": "trong mấy giờ liền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on end",
+              "list_im": [
+                {
+                  "im_full_vn": "liền, liên tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for hours on end",
+                      "full_vn": "trong mấy giờ liền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's hair stand on end",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai hoảng sợ, làm cho ai dựng tóc gáy, làm cho ai nổi da gà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to hear the end of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem hear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn the candle at both ends",
+              "list_im": [
+                {
+                  "im_full_vn": "kiệt quệ vì đã quá phí sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to place end to end",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt nối đầu vào nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put an end to",
+              "list_im": [
+                {
+                  "im_full_vn": "chấm dứt, bãi bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put and end to one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "tự vận, tự sát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the thin end of the wedge",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiện có thể dẫn tới những sự kiện quan trọng hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the bitter end",
+              "list_im": [
+                {
+                  "im_full_vn": "đến cùng, đến chết mới thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn end for end",
+              "list_im": [
+                {
+                  "im_full_vn": "lộn ngược lại, trở đầu lại, quay ngược lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the end of the world",
+              "list_im": [
+                {
+                  "im_full_vn": "điều tồi tệ nhất trên đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get hold of the wrong end of the stick",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu lầm hoàn toàn, hiểu sai bét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the be-all and end-all",
+              "list_im": [
+                {
+                  "im_full_vn": "cái quan trọng nhất, điều cốt lõi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gain one's ends",
+              "full_vn": "đạt được mục đích của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thúc, chấm dứt"
+        },
+        {
+          "m_full_vn": "kết liễu, diệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to end it all /to end one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "tự kết liễu đời mình, tự sát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end one's days in sth",
+              "list_im": [
+                {
+                  "im_full_vn": "sống chuỗi ngày cuối đời trong hoàn cảnh..........."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thúc, chấm dứt"
+        },
+        {
+          "m_full_vn": "đi đến chỗ, đưa đến kết quả là",
+          "list_one_mean": [
+            {
+              "id_full_en": "to end up",
+              "list_im": [
+                {
+                  "im_full_vn": "kết luận, kết thúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end with",
+              "list_im": [
+                {
+                  "im_full_vn": "kết thúc bằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end by doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng sẽ làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end in smoke",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) smoke"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

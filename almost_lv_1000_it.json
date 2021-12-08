@@ -1,0 +1,77 @@
+{
+  "english": "almost",
+  "phat_am": "['ɔ:lmoust]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hầu như, gần như",
+          "list_en_vn": [
+            {
+              "full_en": "it's a mistake they almost always make",
+              "full_vn": "đó là một lỗi mà hầu như lúc nào họ cũng mắc phải"
+            },
+            {
+              "full_en": "it's almost time to lunch",
+              "full_vn": "gần đến giờ ăn cơm trưa rồi"
+            },
+            {
+              "full_en": "dinner's almost ready",
+              "full_vn": "cơm chiều đã gần xong"
+            },
+            {
+              "full_en": "he's almost six feet tall",
+              "full_vn": "nó cao ngót sáu phít"
+            },
+            {
+              "full_en": "he ate almost nothing",
+              "full_vn": "hầu như nó chẳng ăn gì"
+            },
+            {
+              "full_en": "there's almost no space to sit",
+              "full_vn": "hầu như không có chỗ nào để ngồi"
+            },
+            {
+              "full_en": "almost anything will do",
+              "full_vn": "hầu như bất cứ cái gì cũng được"
+            },
+            {
+              "full_en": "almost anyone in this computer-room can speak English",
+              "full_vn": "hầu như người nào trong phòng máy này cũng nói được tiếng Anh"
+            },
+            {
+              "full_en": "he slipped and almost fell",
+              "full_vn": "nó trượt chân và súyt ngã"
+            },
+            {
+              "full_en": "the alley was too slippery , so the old man almost made a false step",
+              "full_vn": "lối đi trơn quá, nên ông lão súyt trượt chân"
+            },
+            {
+              "full_en": "she fell and almost broke her neck",
+              "full_vn": "cô ta gần như ngã gẫy cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trước no , nobody , none , nothing , never ) thực ra, thực tình, kỳ thực",
+          "list_en_vn": [
+            {
+              "full_en": "almost no one want to work under such conditions",
+              "full_vn": "thực ra chẳng ai muốn làm việc trong hoàn cảnh như thế"
+            },
+            {
+              "full_en": "almost no one believed him",
+              "full_vn": "thực ra chẳng ai tin hắn cả"
+            },
+            {
+              "full_en": "the speaker said almost nothing worth listening to",
+              "full_vn": "thực ra diễn giả nói chẳng có gì đáng nghe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

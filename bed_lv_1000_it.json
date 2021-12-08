@@ -1,0 +1,350 @@
+{
+  "english": "bed",
+  "phat_am": "[bed]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái giường",
+          "list_en_vn": [
+            {
+              "full_en": "a single bed",
+              "full_vn": "giường chiếc (dành cho một người)"
+            },
+            {
+              "full_en": "a double bed",
+              "full_vn": "giường đôi"
+            },
+            {
+              "full_en": "to make the bed",
+              "full_vn": "sắp đặt chăn gối.. để chuẩn bị cái giừơng sẵn sàng cho ai ngủ; làm giừơng"
+            },
+            {
+              "full_en": "to go to bed",
+              "full_vn": "đi ngủ"
+            },
+            {
+              "full_en": "to be in bed",
+              "full_vn": "đang nằm trên giừơng (đang ngủ)"
+            },
+            {
+              "full_en": "to get out of /into bed",
+              "full_vn": "ra khỏi/lên giừơng"
+            },
+            {
+              "full_en": "can you give me a bed for the night ?",
+              "full_vn": "anh cho tôi ngủ nhờ đêm nay được không?"
+            },
+            {
+              "full_en": "I've put the children to bed",
+              "full_vn": "Tôi đã cho trẻ con đi ngủ cả rồi"
+            },
+            {
+              "full_en": "he has a mug of cocoa before bed",
+              "full_vn": "nó uống một chén ca cao trước khi đi ngủ"
+            },
+            {
+              "full_en": "It's time for bed",
+              "full_vn": "Đã đến giờ đi ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái đệm",
+          "list_en_vn": [
+            {
+              "full_en": "a feather bed",
+              "full_vn": "cái đệm nhồi lông chim"
+            },
+            {
+              "full_en": "a spring bed",
+              "full_vn": "cái giừơng lò xo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáy biển, sông, hồ...",
+          "list_en_vn": [
+            {
+              "full_en": "to explore the ocean bed",
+              "full_vn": "thăm dò đáy biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp đất sét, đá bên dưới mặt đất",
+          "list_en_vn": [
+            {
+              "full_en": "a bed of clay , limestone , sand",
+              "full_vn": "một tầng đất sét, đá vôi, cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nền phẳng để đặt cái gì; nền móng",
+          "list_en_vn": [
+            {
+              "full_en": "the machine rests on a bed of concrete",
+              "full_vn": "cỗ máy đặt trên một cái nền bằng bê tông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp đá sỏi làm nền cho một con đường hoặc đường xe lửa"
+        },
+        {
+          "m_full_vn": "mảnh vườn, chỗ đất để trồng hoa, rau",
+          "list_en_vn": [
+            {
+              "full_en": "a seed-bed",
+              "full_vn": "một mảnh đất gieo hạt"
+            },
+            {
+              "full_en": "flower-beds",
+              "full_vn": "những vồng hoa"
+            },
+            {
+              "full_en": "a bed of herbs",
+              "full_vn": "một luống dược thảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) hôn nhân; vợ chồng",
+          "list_en_vn": [
+            {
+              "full_en": "a child of the second bed",
+              "full_vn": "đứa con của người vợ (chồng) sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ăn nằm với nhau, sự giao cấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "as you make your bed , so you must lie on /in it",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) mình làm mình chịu, bụng làm dạ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bed of roses",
+              "list_im": [
+                {
+                  "im_full_vn": "luống hoa hồng"
+                },
+                {
+                  "im_full_vn": "đời sống sung túc dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bed of roses",
+              "list_im": [
+                {
+                  "im_full_vn": "luống hoa hồng"
+                },
+                {
+                  "im_full_vn": "đời sống sung túc dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bed of sickness",
+              "list_im": [
+                {
+                  "im_full_vn": "tình trạng bệnh hoạn tàn tật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bed of thorns",
+              "list_im": [
+                {
+                  "im_full_vn": "luống gai"
+                },
+                {
+                  "im_full_vn": "hoàn cảnh khó khăn; bước đường đầy chông gai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bed of thorns",
+              "list_im": [
+                {
+                  "im_full_vn": "luống gai"
+                },
+                {
+                  "im_full_vn": "hoàn cảnh khó khăn; bước đường đầy chông gai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in one's bed",
+              "list_im": [
+                {
+                  "im_full_vn": "chết bệnh, chết già"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get out of bed on the wrong side",
+              "list_im": [
+                {
+                  "im_full_vn": "càu nhàu, bực dọc, cáu kỉnh, không vui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go to bed !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thôi đừng nói nữa!, im cái mồm đi!, thôi đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to bed in one's boots",
+              "list_im": [
+                {
+                  "im_full_vn": "say không biết trời đất gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to bed with the lamb and rise with the lark",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngủ sớm, trở dậy sớm; đi ngủ từ lúc gà lên chuồng, trở dậy từ lúc gà gáy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to bed with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nằm với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep (take to ) one's bed",
+              "list_im": [
+                {
+                  "im_full_vn": "bị ốm nằm liệt giường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the narrow bed",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) narrow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "early to bed and early to rise",
+              "list_im": [
+                {
+                  "im_full_vn": "xem early"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wet the / one's bed",
+              "list_im": [
+                {
+                  "im_full_vn": "xem wet"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "they think of nothing but bed !",
+              "full_vn": "chúng chẳng nghĩ đến gì khác ngoài chuyện ăn nằm với nhau!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây vào, đặt vào, gắn vào, vùi vào, chôn vào",
+          "list_en_vn": [
+            {
+              "full_en": "bricks are bedded in mortar",
+              "full_vn": "gạch xây lẫn vào trong vữa"
+            },
+            {
+              "full_en": "the bullet bedded itself in the wall",
+              "full_vn": "viên đạn gắn ngập vào trong tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp một cái giừơng",
+          "list_en_vn": [
+            {
+              "full_en": "the wounded are bedded in the farmhouse",
+              "full_vn": "những người bị thương được đặt nằm trong nhà trại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn nằm thất thường với ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bed down",
+              "list_im": [
+                {
+                  "im_full_vn": "thu xếp để ngủ qua đêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bed something out",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển cây non từ một nhà kính ra một mảnh đất trong vườn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bed out the seedlings , young cabbages ...",
+                      "full_vn": "cấy những cây con, cây bắp cải non"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bed something out",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển cây non từ một nhà kính ra một mảnh đất trong vườn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to bed out the seedlings , young cabbages ...",
+                      "full_vn": "cấy những cây con, cây bắp cải non"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's bedded more girls than he can remember",
+              "full_vn": "hắn ăn nằm với nhiều cô gái quá nên không nhớ xuể"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

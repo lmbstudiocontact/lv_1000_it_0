@@ -1,0 +1,28 @@
+{
+  "english": "estimate",
+  "phat_am": "['estimit - 'estimeit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đánh giá, sự ước lượng"
+        },
+        {
+          "m_full_vn": "số lượng ước đoán"
+        },
+        {
+          "m_full_vn": "bản kê giá cả (thầu khoán)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh giá; ước lượng"
+        }
+      ]
+    }
+  ]
+}

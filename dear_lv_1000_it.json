@@ -1,0 +1,146 @@
+{
+  "english": "dear",
+  "phat_am": "[diə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thân, thân yêu, thân mến, yêu quý",
+          "list_en_vn": [
+            {
+              "full_en": "a dear friend",
+              "full_vn": "người bạn thân"
+            },
+            {
+              "full_en": "he is very dear to us",
+              "full_vn": "anh ấy rất thân với chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kính thưa, thưa; thân mến (viết trong thư)",
+          "list_en_vn": [
+            {
+              "full_en": "dear Mr Ba",
+              "full_vn": "kính thưa ông Ba"
+            },
+            {
+              "full_en": "dear Sir",
+              "full_vn": "thưa ngài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng yêu, đáng mến",
+          "list_en_vn": [
+            {
+              "full_en": "what a dear child !",
+              "full_vn": "thằng bé đáng yêu quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết tha, chân tình",
+          "list_en_vn": [
+            {
+              "full_en": "dear wishes",
+              "full_vn": "những lời chúc chân tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc mỏ, đắt đỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hold someone dear",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu mến ai, yêu quý ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run for dear life",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) life"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a dear year",
+              "full_vn": "một năm đắt đỏ"
+            },
+            {
+              "full_en": "a dear shop",
+              "full_vn": "cửa hàng hay bán đắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thân mến, người yêu quý",
+          "list_en_vn": [
+            {
+              "full_en": "my dear",
+              "full_vn": "em yêu quí của anh; anh yêu quý của em; con yêu quý của ba..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người đáng yêu, người đáng quý; vật đáng yêu, vật đáng quý",
+          "list_en_vn": [
+            {
+              "full_en": "what dears they are !",
+              "full_vn": "chúng nó mới đáng yêu làm sao!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "trời ơi!, than ôi! ( (cũng) dear me )",
+          "list_en_vn": [
+            {
+              "full_en": "oh dear , my head aches !",
+              "full_vn": "trời ơi, sao mà tôi nhức đầu thế này!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ dearly",
+      "list_m": [
+        {
+          "m_full_vn": "tha thiết, nồng nàn, khắng khít",
+          "list_en_vn": [
+            {
+              "full_en": "my father is dearly attached to his old house",
+              "full_vn": "cha tôi gắn bó khắng khít với ngôi nhà cũ của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả giá đắt",
+          "list_en_vn": [
+            {
+              "full_en": "he must pay dearly for his crimes",
+              "full_vn": "anh ta phải trả giá đắt cho những tội ác của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

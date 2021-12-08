@@ -1,0 +1,34 @@
+{
+  "english": "his",
+  "phat_am": "[hiz]",
+  "list_type": [
+    {
+      "type": "tính từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "của nó, của hắn, của ông ấy, của anh ấy",
+          "list_en_vn": [
+            {
+              "full_en": "his hat",
+              "full_vn": "cái mũ của hắn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "cái của nó, cái của hắn, cái của ông ấy, cái của anh ấy",
+          "list_en_vn": [
+            {
+              "full_en": "that book is his",
+              "full_vn": "quyển sách kia là của hắn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

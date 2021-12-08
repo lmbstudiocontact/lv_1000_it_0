@@ -1,0 +1,31 @@
+{
+  "english": "incorporate",
+  "phat_am": "[in'kɔ:pərit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết hợp chặt chẽ"
+        },
+        {
+          "m_full_vn": "hợp thành tổ chức, hợp thành đoàn thể"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáp nhập, hợp nhất, kết hợp chặt chẽ"
+        },
+        {
+          "m_full_vn": "hợp thành tổ chức, hợp thành đoàn thể"
+        },
+        {
+          "m_full_vn": "kết nạp vào tổ chức, kết nạp vào đoàn thể"
+        }
+      ]
+    }
+  ]
+}

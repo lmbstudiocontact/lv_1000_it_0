@@ -1,0 +1,46 @@
+{
+  "english": "gild",
+  "phat_am": "[gild]",
+  "list_type": [
+    {
+      "type": "ngoại động từ gilded , gild",
+      "list_m": [
+        {
+          "m_full_vn": "mạ vàng"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho có vẻ hào phóng, tô điểm"
+        },
+        {
+          "m_full_vn": "dùng tiền để làm cho dễ chấp thuận (một điều kiện...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gild the lily",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm cách làm cho cái đã tốt đẹp rồi trở nên tốt đẹp hơn nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gild the pill",
+              "list_im": [
+                {
+                  "im_full_vn": "bọc đường một viên thuốc đắng; (nghĩa bóng) làm giảm bớt sự khó chịu của một việc bắt buộc phải làm nhưng không thích thú; che giấu sự xấu xa dưới một lớp sơn hào nhoáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the gilded youth",
+              "list_im": [
+                {
+                  "im_full_vn": "lớp thanh niên nhà giàu sống cuộc đời ăn chơi sung sướng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

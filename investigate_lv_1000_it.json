@@ -1,0 +1,50 @@
+{
+  "english": "investigate",
+  "phat_am": "[in'vestigeit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khám phá và kiểm tra (tất cả sự kiện về cái gì) để tìm ra sự thật",
+          "list_en_vn": [
+            {
+              "full_en": "The police were baffled , and Sherlock Holmes was called in to investigate",
+              "full_vn": "Cảnh sát đã thất bại, và Sherlock Holmes được mời đến để điều tra"
+            },
+            {
+              "full_en": "Scientists are investigating to find out the cause of the crash /are investigating how the crash occurred",
+              "full_vn": "Các nhà khoa học đang điều tra để tìm ra nguyên nhân của vụ tai nạn máy bay/đang điều tra xem tai nạn xảy ra thế nào"
+            },
+            {
+              "full_en": "The police are investigating the murder",
+              "full_vn": "Cảnh sát đang điều tra vụ giết người"
+            },
+            {
+              "full_en": "Applicants for government posts are always thoroughly investigated before being appointed",
+              "full_vn": "Những người xin vào làm công việc nhà nước bao giờ cũng bị điều tra kỹ lưỡng trước khi được bổ nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiên cứu tỉ mỉ",
+          "list_en_vn": [
+            {
+              "full_en": "To investigate the market for a product , ways of increasing profits",
+              "full_vn": "Nghiên cứu thị trường cho một sản phẩm, các cách tăng lợi tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "'What was the noise outside ?' - 'I'll just go and investigate'",
+              "full_vn": "'Tiếng huyên náo gì bên ngoài vậy nhỉ? ' - Tôi sẽ ra kiểm tra xem"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

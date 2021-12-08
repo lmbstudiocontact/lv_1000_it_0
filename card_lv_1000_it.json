@@ -1,0 +1,211 @@
+{
+  "english": "card",
+  "phat_am": "[kɑ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "các, thiếp, thẻ",
+          "list_en_vn": [
+            {
+              "full_en": "calling card",
+              "full_vn": "danh thiếp"
+            },
+            {
+              "full_en": "card of admission",
+              "full_vn": "thẻ ra vào, thẻ vào cửa"
+            },
+            {
+              "full_en": "invitation card",
+              "full_vn": "thiếp mời"
+            },
+            {
+              "full_en": "card-carrying member",
+              "full_vn": "thành viên chính thức của một đoàn thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quân bài, bài ( (cũng) playing card )"
+        },
+        {
+          "m_full_vn": "( số nhiều) sự chơi bài",
+          "list_en_vn": [
+            {
+              "full_en": "a pack of cards",
+              "full_vn": "một cỗ bài"
+            },
+            {
+              "full_en": "trump card",
+              "full_vn": "quân bài chủ"
+            },
+            {
+              "full_en": "card-game",
+              "full_vn": "trò chơi bài"
+            },
+            {
+              "full_en": "card-table",
+              "full_vn": "bàn dùng để đặt quân bài hoặc lá bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chương trình (cuộc đua...)"
+        },
+        {
+          "m_full_vn": "bản yết thị"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) quảng cáo (trên báo)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), hải la bàn ( (cũng) mariner's card )"
+        },
+        {
+          "m_full_vn": "(thông tục) người kỳ quặc; thằng cha, gã",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a card up one's sleeve",
+              "list_im": [
+                {
+                  "im_full_vn": "còn nắm bài chủ trong tay; có kế dự phòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (hold ) the cards in one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "có tất cả bài chủ trong tay; (nghĩa bóng) có tất cả yếu tố thắng lợi trong tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "house of cards",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) house"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on (in ) the cards",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể, có lẽ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's best (strongest ) cards",
+              "list_im": [
+                {
+                  "im_full_vn": "lý lẽ vững nhất; lá bài chủ (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play one's card well",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi nước bài hay ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play a sure card",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi nước chắc ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's cards close to one's chest",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ kín ý định của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play a wrong card",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi nước bài bớ, chơi nước bài sai lầm ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play (lay , place ) one's card on the table",
+              "list_im": [
+                {
+                  "im_full_vn": "nói rõ hết ý định, nói rõ hết kế hoạch không cần úp mở giấu giếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show one's card",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ kế hoạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak by the card",
+              "list_im": [
+                {
+                  "im_full_vn": "nói rành rọt, nói chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's the card",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đúng thế, thế là đúng, thế là phải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw (fling ) up one's card",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ cuộc, chịu thua không chơi nữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a knowing card",
+              "full_vn": "một thằng cha láu cá"
+            },
+            {
+              "full_en": "a queer card",
+              "full_vn": "một thằng cha kỳ quặc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn chải len, bàn cúi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chải (len...)"
+        }
+      ]
+    }
+  ]
+}

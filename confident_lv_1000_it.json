@@ -1,0 +1,46 @@
+{
+  "english": "confident",
+  "phat_am": "['kɔnfidənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tin chắc, chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be confident of sencess",
+              "full_vn": "tin chắc là thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự tin"
+        },
+        {
+          "m_full_vn": "tin tưởng, tin cậy",
+          "list_en_vn": [
+            {
+              "full_en": "a confident smile",
+              "full_vn": "nụ cười tin tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liều, liều lĩnh"
+        },
+        {
+          "m_full_vn": "trơ tráo, mặt dạn mày dày; láo xược"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tâm phúc, người tri kỷ"
+        }
+      ]
+    }
+  ]
+}

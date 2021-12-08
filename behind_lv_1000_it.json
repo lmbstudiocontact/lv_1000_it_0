@@ -1,0 +1,110 @@
+{
+  "english": "behind",
+  "phat_am": "[bi'haind]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau, ở đằng sau",
+          "list_en_vn": [
+            {
+              "full_en": "to stay behind",
+              "full_vn": "ở lại đằng sau"
+            },
+            {
+              "full_en": "to fall behind",
+              "full_vn": "rớt lại đằng sau"
+            },
+            {
+              "full_en": "to look behind",
+              "full_vn": "nhìn lại đằng sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm, trễ",
+          "list_en_vn": [
+            {
+              "full_en": "to be behind with (in ) one's work",
+              "full_vn": "chậm trễ trong công việc"
+            },
+            {
+              "full_en": "to be behind with (in ) one's payments",
+              "full_vn": "thanh toán chậm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau, ở đằng sau",
+          "list_en_vn": [
+            {
+              "full_en": "behind the door",
+              "full_vn": "đằng sau cửa"
+            },
+            {
+              "full_en": "to do something behind someone's back",
+              "full_vn": "làm cái gì sau lưng ai"
+            },
+            {
+              "full_en": "behind the scenes",
+              "full_vn": "(nghĩa bóng) ở hậu trường, kín, bí mật"
+            },
+            {
+              "full_en": "behind time",
+              "full_vn": "chậm giờ, muộn, trễ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kém",
+          "list_one_mean": [
+            {
+              "id_full_en": "behind the times",
+              "list_im": [
+                {
+                  "im_full_vn": "cũ rích, cổ lỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go behind someone's words",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm hiểu động cơ của ai, tìm hiểu ẩn ý của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be behind sth",
+              "list_im": [
+                {
+                  "im_full_vn": "là nguyên nhân của cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is behind other boys of his class",
+              "full_vn": "nó kém những trẻ khác cùng lớp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) mông đít"
+        }
+      ]
+    }
+  ]
+}

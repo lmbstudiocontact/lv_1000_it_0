@@ -1,0 +1,42 @@
+{
+  "english": "assist",
+  "phat_am": "[ə'sist]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to assist somebody in / with something , to assist somebody in doing something ) giúp đỡ, trợ lý, cộng sự",
+          "list_en_vn": [
+            {
+              "full_en": "The head teacher's deputy assists with many of his duties",
+              "full_vn": "ông hiệu phó giúp ông hiệu trưởng trong nhiều nhiệm vụ"
+            },
+            {
+              "full_en": "Two men are assisting the police in their enquiries",
+              "full_vn": "Hai người đang cộng sự với cảnh sát trong công cuộc điều tra"
+            },
+            {
+              "full_en": "You will be required to assist Mrs Smith in preparing a report",
+              "full_vn": "Yêu cầu anh giúp bà Smith chuẩn bị một bản báo cáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to assist at / in something ) có mặt tại hoặc tham dự cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to assist at a ceremony",
+              "full_vn": "dự một buổi lễ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

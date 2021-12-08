@@ -1,0 +1,27 @@
+{
+  "english": "determined",
+  "phat_am": "[di'tə:mind]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đã được xác định, đã được định rõ"
+        },
+        {
+          "m_full_vn": "nhất định, nhất quyết, quả quyết; kiên quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to be determined to do something",
+              "full_vn": "kiên quyết làm việc gì"
+            },
+            {
+              "full_en": "a determined mind",
+              "full_vn": "đầu óc quả quyết"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

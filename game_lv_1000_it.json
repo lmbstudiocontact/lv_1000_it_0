@@ -1,0 +1,250 @@
+{
+  "english": "game",
+  "phat_am": "[geim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò chơi"
+        },
+        {
+          "m_full_vn": "( số nhiều) cuộc thi điền kinh, cuộc thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "Olympic Games",
+              "full_vn": "Thế vận hội, Đại hội thể thao thế giới, Đại hội thể thao Olympich"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ván (bài, cờ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to win four games in the first set",
+              "full_vn": "thắng bốn ván trong trận đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trò cười; chuyện nực cười, trò đùa; sự trêu chọc, sự chế nhạo; trò láu cá, mánh khoé",
+          "list_en_vn": [
+            {
+              "full_en": "to have a game with somebody",
+              "full_vn": "trêu chọc, chế nhạo ai"
+            },
+            {
+              "full_en": "to make game of somebody",
+              "full_vn": "đùa cợt ai, chế nhạo ai, giễu ai"
+            },
+            {
+              "full_en": "none of your games !",
+              "full_vn": "đừng có giở trò láu cá của anh ra!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý đồ, mưu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "to play someone's game",
+              "full_vn": "vô tình giúp ai thực hiện được ý đồ của người ta"
+            },
+            {
+              "full_en": "to spoil someone's game",
+              "full_vn": "làm hỏng mưu đồ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thú săn; thịt thú săn",
+          "list_en_vn": [
+            {
+              "full_en": "big game",
+              "full_vn": "thú săn lớn (hổ, sư tử, voi... chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) mục tiêu theo đuổi khó khăn, mục tiêu nguy hiểm"
+        },
+        {
+          "m_full_vn": "con vật bị săn, con vật bị dồn; người bị theo đuổi, vật bị theo đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "fair game",
+              "full_vn": "vật (người) có thể bị theo đuổi tấn công một cách chính đáng"
+            },
+            {
+              "full_en": "forbidden game",
+              "full_vn": "vật (người) mà ta không có quyền theo đuổi tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầy (thiên nga)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off one's game",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) không sung sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the game",
+              "list_im": [
+                {
+                  "im_full_vn": "bị dính líu vào những việc nhục nhã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play a cat-and-mouse game with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi trò mèo vờn chuột với ai, lập lờ đánh lận con đen với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the game away",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lộ bí mật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a mug's game",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm ngu xuẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the luck of the game",
+              "list_im": [
+                {
+                  "im_full_vn": "vận may rủi (ngược lại với tài trí)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly at higher games",
+              "list_im": [
+                {
+                  "im_full_vn": "có những tham vọng cao hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the game in one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc thắng lợi trong tay; làm chủ được cuộc đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the game",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi đúng luật lệ, hành động ngay thẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is yours",
+              "list_im": [
+                {
+                  "im_full_vn": "anh thắng cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is not worth the candle",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm lợi chẳng bõ công; thu không bù chi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is up",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm đã thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat sb at his own game",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bại sở trường của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a game that two can play , two can play at that game",
+              "list_im": [
+                {
+                  "im_full_vn": "trò bịp bợm có thể bị chính nạn nhân giáng trả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play a waiting game",
+              "list_im": [
+                {
+                  "im_full_vn": "cố tình trì hoãn để đợi cơ hội thuận lợi hơn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạo hiểm, liều lỉnh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "như gà chọi; dũng cảm, anh dũng, gan dạ",
+          "list_en_vn": [
+            {
+              "full_en": "a game little fellow",
+              "full_vn": "một anh chàng bé nhưng dũng cảm gan dạ"
+            },
+            {
+              "full_en": "to die game",
+              "full_vn": "chết anh dũng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có nghị lực",
+          "list_en_vn": [
+            {
+              "full_en": "to be game for anything",
+              "full_vn": "có nghị lực làm bất cứ cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị bại liệt (chân, tay); què, thọt"
+        }
+      ]
+    }
+  ]
+}

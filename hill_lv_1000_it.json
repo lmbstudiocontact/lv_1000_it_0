@@ -1,0 +1,71 @@
+{
+  "english": "hill",
+  "phat_am": "[hil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồi"
+        },
+        {
+          "m_full_vn": "cồn, gò, đống, đụn, mô đất, chỗ đất đùn lên (mối, kiến...)"
+        },
+        {
+          "m_full_vn": "( the Hills ) ( Anh-Ấn) vùng đồi núi nơi nghỉ an dưỡng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go down hill",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up hill and down dale",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dốc xuống đèo; khắp mọi nơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hill of beans",
+              "list_im": [
+                {
+                  "im_full_vn": "vật ít giá trị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as old as the hills",
+              "list_im": [
+                {
+                  "im_full_vn": "rất cũ, cổ xưa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đắp thành đồi"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) vun đất (vào gốc cây)",
+          "list_en_vn": [
+            {
+              "full_en": "to hill up a plant",
+              "full_vn": "vun đất vào gốc cây"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

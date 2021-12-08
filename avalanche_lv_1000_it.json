@@ -1,0 +1,40 @@
+{
+  "english": "avalanche",
+  "phat_am": "['ævəlɑ:n∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyết lở"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) loạt dồn dập, tràng dồn dập \"mưa\"",
+          "list_en_vn": [
+            {
+              "full_en": "an avalanche of questions",
+              "full_vn": "một loạt câu hỏi dồn dập"
+            },
+            {
+              "full_en": "an avalanche of bullets",
+              "full_vn": "trận mưa đạn, đạn bắn như mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) thác",
+          "list_en_vn": [
+            {
+              "full_en": "ion avalanche",
+              "full_vn": "thác ion"
+            },
+            {
+              "full_en": "electron avalanche",
+              "full_vn": "thác electron"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

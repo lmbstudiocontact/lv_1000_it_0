@@ -1,0 +1,102 @@
+{
+  "english": "begin",
+  "phat_am": "[bi'gin]",
+  "list_type": [
+    {
+      "type": "động từ bất quy tắc began /bi'gæn /",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu, mở đầu, khởi đầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to begin at",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu từ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to begin at the beginning",
+                      "full_vn": "bắt đầu từ lúc bắt đầu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to begin at",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu từ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to begin at the beginning",
+                      "full_vn": "bắt đầu từ lúc bắt đầu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to begin upon",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu làm (việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to begin with",
+              "list_im": [
+                {
+                  "im_full_vn": "trước hết là, đầu tiên là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to begin with , let us make clear the difference between these two words",
+                      "full_vn": "trước hết chúng ta hãy nói rõ sự khác nhau giữa hai từ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to begin with",
+              "list_im": [
+                {
+                  "im_full_vn": "trước hết là, đầu tiên là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to begin with , let us make clear the difference between these two words",
+                      "full_vn": "trước hết chúng ta hãy nói rõ sự khác nhau giữa hai từ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to begin the world",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) world"
+                }
+              ]
+            },
+            {
+              "id_full_en": "well begun is half done",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu tốt là làm xong được một nửa công việc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "when did life begin on this earth ?",
+              "full_vn": "sự sống bắt đầu trên trái đất này lúc nào?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

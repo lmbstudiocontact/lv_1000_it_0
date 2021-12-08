@@ -1,0 +1,70 @@
+{
+  "english": "beetle",
+  "phat_am": "['bi:tl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chày",
+          "list_one_mean": [
+            {
+              "id_full_en": "between the beetle and the block",
+              "list_im": [
+                {
+                  "im_full_vn": "trên đe dưới búa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giã bằng chày, đập bằng chày"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) bọ cánh cứng"
+        },
+        {
+          "m_full_vn": "(thông tục) con gián ( (cũng) black beetle )"
+        },
+        {
+          "m_full_vn": "người cận thị",
+          "list_one_mean": [
+            {
+              "id_full_en": "blind as beetle ; beetle blind",
+              "list_im": [
+                {
+                  "im_full_vn": "mù hoàn toàn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) đi vội vã, đi tất tưởi ( (cũng) beetle along )"
+        },
+        {
+          "m_full_vn": "đi ra, đi chơi ( (cũng) beetle off , away )"
+        },
+        {
+          "m_full_vn": "cheo leo, nhô ra (tảng đá)"
+        }
+      ]
+    }
+  ]
+}

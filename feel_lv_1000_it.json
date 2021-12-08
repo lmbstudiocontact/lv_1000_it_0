@@ -1,0 +1,353 @@
+{
+  "english": "feel",
+  "phat_am": "[fi:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sờ mó",
+          "list_en_vn": [
+            {
+              "full_en": "soft to the feel",
+              "full_vn": "mềm mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xúc giác"
+        },
+        {
+          "m_full_vn": "cảm giác khi sờ mó"
+        },
+        {
+          "m_full_vn": "cảm giác đặc biệt (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the feel of wet sawdust",
+              "full_vn": "cảm giác mùn cưa ướt khi sờ mó vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "năng khiếu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to acquire (get ) the feel of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc được cái gì, sử dụng thành thạo được cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a feel for music",
+              "full_vn": "có khiếu về âm nhạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ felt",
+      "list_m": [
+        {
+          "m_full_vn": "sờ mó",
+          "list_en_vn": [
+            {
+              "full_en": "to feel one's way",
+              "full_vn": "dò dẫm đường đi; thận trọng tiến bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấy, cảm thấy, có cảm giác, có cảm tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to feel a pain",
+              "full_vn": "cảm thấy đau"
+            },
+            {
+              "full_en": "he feels the criticism keenly",
+              "full_vn": "hắn ta cảm thấy thấm thía lời phê bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "to feel someone's vengeance",
+              "full_vn": "chịu đựng sự trả thù của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "ship feels her helm",
+              "full_vn": "tàu ăn theo tay lái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) thăm dò, dọ thám"
+        },
+        {
+          "m_full_vn": "(y học) bắt, sờ",
+          "list_en_vn": [
+            {
+              "full_en": "to feel someone's pulse",
+              "full_vn": "bắt mạch ai; (nghĩa bóng) thăm dò ý định của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ felt",
+      "list_m": [
+        {
+          "m_full_vn": "sờ, sờ soạng, dò tìm",
+          "list_en_vn": [
+            {
+              "full_en": "to feel for something",
+              "full_vn": "dò tìm cái gì, sờ soạng tìm cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy",
+          "list_en_vn": [
+            {
+              "full_en": "to feel certain that",
+              "full_vn": "cảm thấy, chắc rằng"
+            },
+            {
+              "full_en": "to feel cold",
+              "full_vn": "cảm thấy lạnh"
+            },
+            {
+              "full_en": "to feel happy",
+              "full_vn": "cảm thấy sung sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình như, tạo cảm giác như",
+          "list_en_vn": [
+            {
+              "full_en": "air feels chilly",
+              "full_vn": "không khí hình như lạnh"
+            },
+            {
+              "full_en": "this cloth feels like velvet",
+              "full_vn": "vải này sờ tạo cảm giác như nhung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm nghĩ là, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "if that's the way you feel about it",
+              "full_vn": "nếu anh cho là như thế, nếu ý anh là như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thông, cảm động",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feel up to",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thấy có đủ sức để, thấy có thể (làm được việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel cheap",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cheap"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel like something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy muốn làm việc gì, hứng thú làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I feel like (having ) a drink",
+                      "full_vn": "tôi muốn uống một chút gì đó"
+                    },
+                    {
+                      "full_en": "we'll go for a walk if you feel like it",
+                      "full_vn": "chúng ta sẽ đi dạo nếu anh thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel like something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy muốn làm việc gì, hứng thú làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I feel like (having ) a drink",
+                      "full_vn": "tôi muốn uống một chút gì đó"
+                    },
+                    {
+                      "full_en": "we'll go for a walk if you feel like it",
+                      "full_vn": "chúng ta sẽ đi dạo nếu anh thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel like something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy muốn làm việc gì, hứng thú làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I feel like (having ) a drink",
+                      "full_vn": "tôi muốn uống một chút gì đó"
+                    },
+                    {
+                      "full_en": "we'll go for a walk if you feel like it",
+                      "full_vn": "chúng ta sẽ đi dạo nếu anh thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel like putting somebody on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) có ý muốn giúp đỡ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it feels like rain",
+              "list_im": [
+                {
+                  "im_full_vn": "trời có vẻ muốn mưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's legs (feet )",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng vững"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) cảm thấy thoải mái, cảm thấy dễ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's legs (feet )",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng vững"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) cảm thấy thoải mái, cảm thấy dễ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel quite oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy sảng khoái"
+                },
+                {
+                  "im_full_vn": "tự chủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel quite oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy sảng khoái"
+                },
+                {
+                  "im_full_vn": "tự chủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel someone out",
+              "list_im": [
+                {
+                  "im_full_vn": "thăm dò ý định của aii"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's ears burning",
+              "list_im": [
+                {
+                  "im_full_vn": "nghi người khác đang nói về mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel (it ) in one's bones",
+              "list_im": [
+                {
+                  "im_full_vn": "linh cảm, linh tính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's oats",
+              "list_im": [
+                {
+                  "im_full_vn": "hăng hái, hăm hở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel the pinch",
+              "list_im": [
+                {
+                  "im_full_vn": "túng tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's presence felt",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng tỏ sự hiện diện của mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to feel for (with ) someone in his sorrow",
+              "full_vn": "cảm thông với nỗi đau đớn của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

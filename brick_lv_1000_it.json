@@ -1,0 +1,107 @@
+{
+  "english": "brick",
+  "phat_am": "[brik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gạch",
+          "list_en_vn": [
+            {
+              "full_en": "to make (burn ) bricks",
+              "full_vn": "nung gạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bánh, thỏi, cục (xà phòng, chè...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) người chính trực, người trung hậu"
+        },
+        {
+          "m_full_vn": "(từ lóng) người rộng lượng, người hào hiệp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drop a brick",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hớ, phạm sai lầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a brick in one's hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) say rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a hundred of bricks",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) với tất cả sức mạnh có thể đè bẹp được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make bricks without straw",
+              "list_im": [
+                {
+                  "im_full_vn": "không đủ phương tiện mà vẫn cứ làm, đóng thuyền mà không xẻ ván"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a cat on hot bricks",
+              "list_im": [
+                {
+                  "im_full_vn": "khắc khoải lo âu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bang one's head against a brick wall",
+              "list_im": [
+                {
+                  "im_full_vn": "húc đầu vào tường, biết là vô ích mà cứ cố gắng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng gạch",
+          "list_en_vn": [
+            {
+              "full_en": "a brick wall",
+              "full_vn": "bức tường gạch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) xây gạch bít đi",
+          "list_en_vn": [
+            {
+              "full_en": "to brick up a window",
+              "full_vn": "xây gạch bít cửa sổ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

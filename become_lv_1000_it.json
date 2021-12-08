@@ -1,0 +1,72 @@
+{
+  "english": "become",
+  "phat_am": "[bi'kʌm]",
+  "list_type": [
+    {
+      "type": "nội động từ, became ; become",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên, trở thành",
+          "list_en_vn": [
+            {
+              "full_en": "it has become much warmer",
+              "full_vn": "trời trở nên ấm hơn nhiều"
+            },
+            {
+              "full_en": "how to become a leader ?",
+              "full_vn": "làm thế nào để trở thành một lãnh tụ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vừa, hợp, thích hợp, xứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to become of",
+              "list_im": [
+                {
+                  "im_full_vn": "xảy đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has not turned up yet , I wonder what has become of him",
+                      "full_vn": "anh ấy bây giờ vẫn chưa tới, tôi tự hỏi không hiểu cái gì đã xảy đến với anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to become of",
+              "list_im": [
+                {
+                  "im_full_vn": "xảy đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has not turned up yet , I wonder what has become of him",
+                      "full_vn": "anh ấy bây giờ vẫn chưa tới, tôi tự hỏi không hiểu cái gì đã xảy đến với anh ta"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this dress becomes you well",
+              "full_vn": "cái áo này anh mặc vừa quá; cái áo này anh mặc hợp quá"
+            },
+            {
+              "full_en": "it does not become you to curse",
+              "full_vn": "chửi rủa là không xứng với anh, chửi rủa là điều anh không nên làm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "english": "feed",
+  "phat_am": "[fi:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ăn, sự cho ăn"
+        },
+        {
+          "m_full_vn": "thức ăn cho súc vật"
+        },
+        {
+          "m_full_vn": "vật liệu cung cấp cho máy"
+        },
+        {
+          "m_full_vn": "ống dẫn, đường vận chuyển vật liệu vào máy"
+        }
+      ]
+    },
+    {
+      "type": "động từ, động tính từ quá khứ và thì quá khứ là fed",
+      "list_m": [
+        {
+          "m_full_vn": "( to feed somebody / something on something ) cho (một người hoặc một con vật) ăn; nuôi",
+          "list_en_vn": [
+            {
+              "full_en": "she has a large family to feed",
+              "full_vn": "bà ta phải nuôi một gia đình đông người"
+            },
+            {
+              "full_en": "as a bread-winner , his father has to work hard to feed all his family",
+              "full_vn": "là lao động trụ cột, cha anh ta phải làm lụng vất vả nuôi cả gia đình"
+            },
+            {
+              "full_en": "have the pigs been fed yet ?",
+              "full_vn": "đã cho lợn ăn chưa?"
+            },
+            {
+              "full_en": "have you fed the chickens ?",
+              "full_vn": "anh cho gà ăn chưa?"
+            },
+            {
+              "full_en": "the baby needs feeding",
+              "full_vn": "đứa bé cần được ăn"
+            },
+            {
+              "full_en": "the old man cannot feed himself",
+              "full_vn": "ông lão không tự ăn một mình được"
+            },
+            {
+              "full_en": "what did you feed you dog on ?",
+              "full_vn": "anh đã cho chó ăn gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to feed something to somebody / something ) cho (người hoặc con vật) cái gì làm thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to feed more soup to the patient",
+              "full_vn": "cho người bệnh ăn thêm súp"
+            },
+            {
+              "full_en": "to feed the baby some more stewed apples",
+              "full_vn": "cho đứa bé ăn thêm vài quả táo hầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to feed on something ) (về súc vật hoặc nói đùa về người) ăn",
+          "list_en_vn": [
+            {
+              "full_en": "have you fed yet ?",
+              "full_vn": "anh đã ăn chưa?"
+            },
+            {
+              "full_en": "the cows were feeding on hay in the barn",
+              "full_vn": "mấy con bò đang ăn cỏ khô trong chuồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dọn ra làm thức ăn cho (người hoặc súc vật)",
+          "list_en_vn": [
+            {
+              "full_en": "there's enough here to feed us all",
+              "full_vn": "ở đây có đủ cho tất cả chúng ta ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to feed A with B / B into A ) cung cấp vật liệu cho (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the lake is fed by several small streams",
+              "full_vn": "hồ này được nhiều dòng suối nhỏ cung cấp nước"
+            },
+            {
+              "full_en": "to feed the fire with wood",
+              "full_vn": "bỏ thêm củi vào lửa cho cháy to hơn"
+            },
+            {
+              "full_en": "the moving belt feeds the machine with raw materials /feeds raw materials into the machine",
+              "full_vn": "dây chuyền cung cấp nguyên vật liệu cho máy/nạp nguyên vật liệu vào máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(bóng đá) chuyền bóng (cho một cầu thủ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feed sb up",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai ăn thêm cho khoẻ; bồi dưỡng ai cho khoẻ mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feed on something",
+              "list_im": [
+                {
+                  "im_full_vn": "được nuôi hoặc có thêm sức mạnh bằng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "hatred feeds on envy",
+                      "full_vn": "lòng căm ghét được nuôi bằng sự đố kỵ"
+                    },
+                    {
+                      "full_en": "virtue feeds on good deeds",
+                      "full_vn": "đạo đức được nuôi dưỡng bằng những việc làm tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feed on something",
+              "list_im": [
+                {
+                  "im_full_vn": "được nuôi hoặc có thêm sức mạnh bằng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "hatred feeds on envy",
+                      "full_vn": "lòng căm ghét được nuôi bằng sự đố kỵ"
+                    },
+                    {
+                      "full_en": "virtue feeds on good deeds",
+                      "full_vn": "đạo đức được nuôi dưỡng bằng những việc làm tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feed on something",
+              "list_im": [
+                {
+                  "im_full_vn": "được nuôi hoặc có thêm sức mạnh bằng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "hatred feeds on envy",
+                      "full_vn": "lòng căm ghét được nuôi bằng sự đố kỵ"
+                    },
+                    {
+                      "full_en": "virtue feeds on good deeds",
+                      "full_vn": "đạo đức được nuôi dưỡng bằng những việc làm tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite the hand that feeds one",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn cháo đá bát"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

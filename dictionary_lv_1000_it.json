@@ -1,0 +1,46 @@
+{
+  "english": "dictionary",
+  "phat_am": "['dik∫ənri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ điển",
+          "list_en_vn": [
+            {
+              "full_en": "a walking dictionary",
+              "full_vn": "từ điển sống; người học rộng biết nhiều"
+            },
+            {
+              "full_en": "dictionary of informatics",
+              "full_vn": "từ điển tin học"
+            },
+            {
+              "full_en": "dictionary of architecture",
+              "full_vn": "từ điển kiến trúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính chất từ điển, có tính chất sách vở",
+          "list_en_vn": [
+            {
+              "full_en": "a dictionary style",
+              "full_vn": "văn sách vở"
+            },
+            {
+              "full_en": "dictionary English",
+              "full_vn": "tiếng Anh sách vở"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

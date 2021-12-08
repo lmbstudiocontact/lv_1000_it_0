@@ -1,0 +1,63 @@
+{
+  "english": "appoint",
+  "phat_am": "[ə'pɔint]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to appoint somebody to something ) chọn một người vào một công việc hay một đơn vị có trách nhiệm; cử; bổ nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "they have appointed Mr Smith/a new manager",
+              "full_vn": "họ đã bổ nhiệm ông Smith/một người quản lý mới"
+            },
+            {
+              "full_en": "he was appointed to the vacant post",
+              "full_vn": "ông ta được bổ nhiệm vào chức vụ đang bỏ trống"
+            },
+            {
+              "full_en": "who shall we appoint (as ) chairperson ?",
+              "full_vn": "chúng ta sẽ cử ai làm chủ toạ?"
+            },
+            {
+              "full_en": "we must appoint somebody to act as secretary",
+              "full_vn": "chúng ta phải cử người nào đó làm thư ký"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo ra (cái gì) bằng cách chọn các thành viên",
+          "list_en_vn": [
+            {
+              "full_en": "to appoint a committee",
+              "full_vn": "cử một ủy ban"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to appoint something for something ) định, hẹn (ngày, giờ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to appoint a date to meet /for a meeting",
+              "full_vn": "định ngày để gặp/để họp"
+            },
+            {
+              "full_en": "the time appointed for the meeting was 10.30",
+              "full_vn": "thời gian họp được ấn định vào 10 giờ 30"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang bị; chu cấp",
+          "list_en_vn": [
+            {
+              "full_en": "the troops were badly appointed",
+              "full_vn": "quân đội được trang bị tồi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

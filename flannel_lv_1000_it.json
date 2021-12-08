@@ -1,0 +1,47 @@
+{
+  "english": "flannel",
+  "phat_am": "['flænl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải fla-nen"
+        },
+        {
+          "m_full_vn": "mẩu vải fla-nen (để đánh bóng, lau chùi)"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần áo fla-nen; quần áo lót bằng fla-nen; đồ bằng fla-nen"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng fla-nen"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau chùi bằng fla-nen"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bọc fla-nen; mặc quần áo fla-nen cho (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói vòng vo tam quốc, nói tràng giang đại hải"
+        }
+      ]
+    }
+  ]
+}

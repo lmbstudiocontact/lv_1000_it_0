@@ -1,0 +1,238 @@
+{
+  "english": "inch",
+  "phat_am": "[int∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đảo nhỏ ( Ê-cốt)"
+        },
+        {
+          "m_full_vn": "insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm)"
+        },
+        {
+          "m_full_vn": "lượng nước mưa hoặc tuyết phủ sâu/dày một insơ"
+        },
+        {
+          "m_full_vn": "một chút, một chút xíu, một tí; một tấc (đất...)",
+          "list_en_vn": [
+            {
+              "full_en": "not to yield (give way ) an inch",
+              "full_vn": "không nhượng một bước; không hề lùi bước"
+            },
+            {
+              "full_en": "he escaped death by an inch",
+              "full_vn": "anh ta thoát chết trong gang tấc"
+            },
+            {
+              "full_en": "we argued for an hour but he wouldn't budge an inch",
+              "full_vn": "chúng tôi tranh cãi suốt cả giờ đồng hồ, nhưng nó vẫn không lay chuyển tí nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tầm vóc",
+          "list_one_mean": [
+            {
+              "id_full_en": "inch by inch",
+              "list_im": [
+                {
+                  "im_full_vn": "dần dần; từng bước",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they climbed the steep mountain inch by inch",
+                      "full_vn": "họ leo từ từ lên ngọn núi dốc đứng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "inch by inch",
+              "list_im": [
+                {
+                  "im_full_vn": "dần dần; từng bước",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they climbed the steep mountain inch by inch",
+                      "full_vn": "họ leo từ từ lên ngọn núi dốc đứng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every inch",
+              "list_im": [
+                {
+                  "im_full_vn": "từng tí một; hoàn toàn, toàn bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the police examined every inch of the room for clues",
+                      "full_vn": "cảnh sát khám xét từng ngóc ngách của căn phòng để tìm manh mối"
+                    },
+                    {
+                      "full_en": "to look every inch a sailor",
+                      "full_vn": "trông hệt như một thuỷ thủ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every inch",
+              "list_im": [
+                {
+                  "im_full_vn": "từng tí một; hoàn toàn, toàn bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the police examined every inch of the room for clues",
+                      "full_vn": "cảnh sát khám xét từng ngóc ngách của căn phòng để tìm manh mối"
+                    },
+                    {
+                      "full_en": "to look every inch a sailor",
+                      "full_vn": "trông hệt như một thuỷ thủ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every inch",
+              "list_im": [
+                {
+                  "im_full_vn": "từng tí một; hoàn toàn, toàn bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the police examined every inch of the room for clues",
+                      "full_vn": "cảnh sát khám xét từng ngóc ngách của căn phòng để tìm manh mối"
+                    },
+                    {
+                      "full_en": "to look every inch a sailor",
+                      "full_vn": "trông hệt như một thuỷ thủ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "give him an inch and he'll take an ell",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cho nó một thì nó vớ mười; cho nó được đằng chân nó sẽ lấn đằng đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by inches",
+              "list_im": [
+                {
+                  "im_full_vn": "trong gang tấc; súyt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the car missed me by inches",
+                      "full_vn": "xe ô tô súyt đâm vào tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by inches",
+              "list_im": [
+                {
+                  "im_full_vn": "trong gang tấc; súyt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the car missed me by inches",
+                      "full_vn": "xe ô tô súyt đâm vào tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "within an inch of something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần với cái gì/làm cái gì; suýt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to flog somebody within an inch of death",
+                      "full_vn": "đánh cho ai gần chết"
+                    },
+                    {
+                      "full_en": "they came within an inch of missing the fast train",
+                      "full_vn": "súyt nữa thì họ lỡ chuyến tàu nhanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "within an inch of something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần với cái gì/làm cái gì; suýt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to flog somebody within an inch of death",
+                      "full_vn": "đánh cho ai gần chết"
+                    },
+                    {
+                      "full_en": "they came within an inch of missing the fast train",
+                      "full_vn": "súyt nữa thì họ lỡ chuyến tàu nhanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "within an inch of something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần với cái gì/làm cái gì; suýt nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to flog somebody within an inch of death",
+                      "full_vn": "đánh cho ai gần chết"
+                    },
+                    {
+                      "full_en": "they came within an inch of missing the fast train",
+                      "full_vn": "súyt nữa thì họ lỡ chuyến tàu nhanh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of your inches",
+              "full_vn": "người cùng tầm vóc như anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lần lần, đi rất chậm, đi từng bước, dịch lần lần",
+          "list_en_vn": [
+            {
+              "full_en": "to inch along the street",
+              "full_vn": "đi lần lần dọc theo phố"
+            },
+            {
+              "full_en": "to inch one's way forward",
+              "full_vn": "tiến lên từng bước một"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

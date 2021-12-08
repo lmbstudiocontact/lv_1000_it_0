@@ -1,0 +1,202 @@
+{
+  "english": "blue",
+  "phat_am": "[blu:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xanh",
+          "list_en_vn": [
+            {
+              "full_en": "dark blue",
+              "full_vn": "xanh sẫm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chán nản, thất vọng",
+          "list_en_vn": [
+            {
+              "full_en": "to feel blue",
+              "full_vn": "cảm thấy chán nản"
+            },
+            {
+              "full_en": "things look blue",
+              "full_vn": "mọi việc có vẻ đáng chán, mọi việc có vẻ đáng buồn"
+            },
+            {
+              "full_en": "blue study",
+              "full_vn": "sự ưu tư buồn bã, sự suy nghĩ ủ ê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hay chữ (đàn bà)"
+        },
+        {
+          "m_full_vn": "tục tĩu (câu chuyện)"
+        },
+        {
+          "m_full_vn": "(chính trị) (thuộc) đảng Tô-ri",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drink till all's blue",
+              "list_im": [
+                {
+                  "im_full_vn": "uống say mèm, uống say bí tỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (turn ) the air blue",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi tục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once in a blue moon",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) moon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat sb black and blue",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai đến thâm tím mình mẩy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to scream blue murder",
+              "list_im": [
+                {
+                  "im_full_vn": "kêu ca ầm ĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do sth till one is blue in the face",
+              "list_im": [
+                {
+                  "im_full_vn": "cật lực làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's blue-eyed boy",
+              "list_im": [
+                {
+                  "im_full_vn": "con cưng của ai (nghĩa bóng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu xanh",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed in blue",
+              "full_vn": "mặc quần áo màu xanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẩm xanh, thuốc xanh",
+          "list_en_vn": [
+            {
+              "full_en": "Paris blue",
+              "full_vn": "xanh Pa-ri"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the blue ) bầu trời"
+        },
+        {
+          "m_full_vn": "( the blue ) biển cả"
+        },
+        {
+          "m_full_vn": "vận động viên điền kinh (trường đại học Ôc-phớt và Căm-brít); huy hiệu vận động điền kinh (trường đại học Ôc-phớt và Căm-brít)",
+          "list_en_vn": [
+            {
+              "full_en": "the dark blues",
+              "full_vn": "những vận động viên điền kinh của trường đại học Ôc-phớt"
+            },
+            {
+              "full_en": "the light blues",
+              "full_vn": "những vận động viên điền kinh của trường đại học Căm-brít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nữ học giả, nữ sĩ ( (cũng) blue stocking )"
+        },
+        {
+          "m_full_vn": "( số nhiều) sự buồn chán",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bolt from the blue",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bolt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the blue",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn bất ngờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the boys in blue",
+              "list_im": [
+                {
+                  "im_full_vn": "toán cảnh sát, nhóm cảnh sát"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in the blues ; to have the blues",
+              "full_vn": "buồn chán"
+            },
+            {
+              "full_en": "to give someone the blues",
+              "full_vn": "gây nỗi buồn chán cho ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm xanh, nhuộm xanh"
+        },
+        {
+          "m_full_vn": "hồ lơ (quần áo)"
+        },
+        {
+          "m_full_vn": "(từ lóng) xài phí, phung phí (tiền bạc)"
+        }
+      ]
+    }
+  ]
+}

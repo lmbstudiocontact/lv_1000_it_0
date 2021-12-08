@@ -1,0 +1,61 @@
+{
+  "english": "farm",
+  "phat_am": "[fɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trại, trang trại, đồn điền"
+        },
+        {
+          "m_full_vn": "nông trường",
+          "list_en_vn": [
+            {
+              "full_en": "a collective farm",
+              "full_vn": "nông trường tập thể"
+            },
+            {
+              "full_en": "a state farm",
+              "full_vn": "nông trường quốc doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu nuôi thuỷ sản"
+        },
+        {
+          "m_full_vn": "trại trẻ"
+        },
+        {
+          "m_full_vn": "(như) farm-house"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cày cấy, trồng trọt"
+        },
+        {
+          "m_full_vn": "cho thuê (nhân công)"
+        },
+        {
+          "m_full_vn": "trông nom trẻ em (ở trại trẻ)"
+        },
+        {
+          "m_full_vn": "trưng (thuê)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ruộng"
+        }
+      ]
+    }
+  ]
+}

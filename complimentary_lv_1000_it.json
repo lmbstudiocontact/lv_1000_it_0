@@ -1,0 +1,33 @@
+{
+  "english": "complimentary",
+  "phat_am": "[,kɔmpli'mentəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ca ngợi, ca tụng, tán tụng",
+          "list_en_vn": [
+            {
+              "full_en": "to be complimentary about somebody's work",
+              "full_vn": "ca ngợi việc làm của ai"
+            },
+            {
+              "full_en": "a complimentary speech",
+              "full_vn": "bài diễn văn tán tụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mời, biếu (vé)",
+          "list_en_vn": [
+            {
+              "full_en": "complimentary tickets",
+              "full_vn": "vé mời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

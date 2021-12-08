@@ -1,0 +1,86 @@
+{
+  "english": "attend",
+  "phat_am": "[ə'tend]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to attend to somebody / something ) rất chú tâm; rất cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "why weren't you attending when I explained before ?",
+              "full_vn": "tại sao anh không chú ý khi tôi giải thích?"
+            },
+            {
+              "full_en": "attend to your work and stop talking",
+              "full_vn": "hãy chú tâm vào công việc và đừng nói chuyện nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to attend to somebody ) chăm sóc; phục vụ",
+          "list_en_vn": [
+            {
+              "full_en": "a nurse attends to his needs",
+              "full_vn": "một y tá chăm sóc ông ta"
+            },
+            {
+              "full_en": "are you being attended to ?",
+              "full_vn": "đã có nhân viên nào phục vụ ông chưa? (người bán hàng nói với khách đang (xem) hàng)"
+            },
+            {
+              "full_en": "could you attend to this matter immediately ?",
+              "full_vn": "ông có thể quan tâm đến vấn đề này ngay không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trông nom; chăm sóc",
+          "list_en_vn": [
+            {
+              "full_en": "Dr Smith attends her in hospital",
+              "full_vn": "Bác sĩ Smith săn sóc cô ấy trong bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi đều đặn đến nơi nào đó; có mặt tại nơi nào đó",
+          "list_one_mean": [
+            {
+              "id_full_en": "May good fortune attend you !",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúc anh nhiều may mắn!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to attend school , church",
+              "full_vn": "đi đến trường, nhà thờ"
+            },
+            {
+              "full_en": "They had a quiet wedding - only a few friends attended it",
+              "full_vn": "Họ lặng lẽ tổ chức đám cưới - chỉ có một ít bạn bè đến dự"
+            },
+            {
+              "full_en": "the meeting was well attended",
+              "full_vn": "cuộc họp có nhiều người tham dự"
+            },
+            {
+              "full_en": "The Queen was attended by her ladies-in-waiting",
+              "full_vn": "Nữ hoàng được các nữ tì hầu hạ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "glue",
+  "phat_am": "[glu:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "keo hồ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gắn lại, dán bằng keo, dán bằng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "to have one's eyes glued to sth",
+              "full_vn": "mắt cứ dán vào cái gì, dõi mắt nhìn theo cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

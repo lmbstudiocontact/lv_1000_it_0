@@ -1,0 +1,62 @@
+{
+  "english": "goose",
+  "phat_am": "[gu:s]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều geese",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) ngỗng, ngỗng cái"
+        },
+        {
+          "m_full_vn": "thịt ngỗng"
+        },
+        {
+          "m_full_vn": "người ngốc nghếch, người khờ dại",
+          "list_one_mean": [
+            {
+              "id_full_en": "all his geese are swans",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) swan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "can't say bo to a goose",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the goose that lays the golden eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "tham lợi trước mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what's sauce for the goose is sauce for the gander",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gì áp dụng cho người này thì cũng có thể áp dụng cho người khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cook sb's goose",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn rằng ai sẽ bị thất bại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

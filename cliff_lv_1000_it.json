@@ -1,0 +1,24 @@
+{
+  "english": "cliff",
+  "phat_am": "[klif]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vách đá (nhô ra biển)",
+          "list_one_mean": [
+            {
+              "id_full_en": "cliff hanger",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) câu chuyện hấp dẫn được kể từng phần trên một đài phát thanh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

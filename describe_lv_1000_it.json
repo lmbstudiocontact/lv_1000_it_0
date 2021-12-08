@@ -1,0 +1,32 @@
+{
+  "english": "describe",
+  "phat_am": "[dis'kraib]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn tả, mô tả, miêu tả"
+        },
+        {
+          "m_full_vn": "vạch, vẽ",
+          "list_en_vn": [
+            {
+              "full_en": "to describe a circle with a pair of compasses",
+              "full_vn": "vạch một vòng tròn bằng com-pa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho là, coi là; định rõ tính chất",
+          "list_en_vn": [
+            {
+              "full_en": "he described himself as a doctor",
+              "full_vn": "nó tự xưng là bác sĩ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

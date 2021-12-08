@@ -1,0 +1,80 @@
+{
+  "english": "belong",
+  "phat_am": "[bi'lɔη]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về, của, thuộc quyền sở hữu",
+          "list_en_vn": [
+            {
+              "full_en": "the power belongs to the people",
+              "full_vn": "chính quyền thuộc về tay nhân dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc vào (chỗ nào), ở (chỗ nào)",
+          "list_en_vn": [
+            {
+              "full_en": "where do these things belong ?",
+              "full_vn": "những thứ này để vào chỗ nào?"
+            },
+            {
+              "full_en": "where it belongs",
+              "full_vn": "đúng chỗ"
+            },
+            {
+              "full_en": "to belong in",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) ở chỗ nào"
+            },
+            {
+              "full_en": "to belong here",
+              "full_vn": "là người; ở đây; ở đúng ngay dưới đầu đề này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về bổn phận của, là việc của; có liên quan tới",
+          "list_en_vn": [
+            {
+              "full_en": "it belongs to you to investigate the matter",
+              "full_vn": "bổn phận của anh là phải điều tra vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc vào loại",
+          "list_en_vn": [
+            {
+              "full_en": "whales belong among the mammals",
+              "full_vn": "cá voi thuộc loài có vú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là hội viên của",
+          "list_one_mean": [
+            {
+              "id_full_en": "to belong together",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ý nhau, hợp tính hợp tình với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to belong with",
+              "list_im": [
+                {
+                  "im_full_vn": "có quan hệ với, liên quan với"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

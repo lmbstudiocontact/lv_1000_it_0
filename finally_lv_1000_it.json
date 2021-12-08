@@ -1,0 +1,38 @@
+{
+  "english": "finally",
+  "phat_am": "['fainəli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuối cùng; kết luận lại",
+          "list_en_vn": [
+            {
+              "full_en": "Finally , I would like to say .....",
+              "full_vn": "Cuối cùng, tôi muốn nói....."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để kết luận; dứt khoát",
+          "list_en_vn": [
+            {
+              "full_en": "to settle a matter finally",
+              "full_vn": "giải quyết dứt khoát một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rốt cuộc; sau rốt",
+          "list_en_vn": [
+            {
+              "full_en": "after a long delay , the performance finally started",
+              "full_vn": "sau một hồi trì hoãn dài, cuối cùng buổi trình diễn cũng bắt đầu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "forbear",
+  "phat_am": "[fɔ:'beə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như forebear"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ forbore , forborne",
+      "list_m": [
+        {
+          "m_full_vn": "( to forbear from something / doing something ) không chịu làm hay nói cái gì một cách kiên trì hay tự chủ",
+          "list_en_vn": [
+            {
+              "full_en": "her mother's gentle and forbearing character",
+              "full_vn": "tính cách dịu dàng và kiên nhẫn của mẹ cô ấy"
+            },
+            {
+              "full_en": "he could not forbear from expressing his disagreement",
+              "full_vn": "anh ấy không thể kiềm chế việc biểu lộ sự thiếu đồng tình của mình"
+            },
+            {
+              "full_en": "he forbore to mention /mentioning the matter again",
+              "full_vn": "ông ta không đề cập đến vấn đề đó nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

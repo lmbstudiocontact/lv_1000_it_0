@@ -1,0 +1,34 @@
+{
+  "english": "coast",
+  "phat_am": "[koust]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bờ biển"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), ( Ca-na-đa) đường lao (của xe trượt tuyết); sự lao xuống (của xe trượt tuyết)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự lao dốc (mô tô, xe đạp)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi men bờ biển (tàu bè)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) trượt xuống, lao xuống (xe trượt tuyết)"
+        },
+        {
+          "m_full_vn": "thả cho (xe đạp) xuống dốc (không đạp); tắt máy lao dốc (mô tô)"
+        }
+      ]
+    }
+  ]
+}

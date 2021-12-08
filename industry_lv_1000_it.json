@@ -1,0 +1,46 @@
+{
+  "english": "industry",
+  "phat_am": "['indəstri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công nghiệp, kỹ nghệ",
+          "list_en_vn": [
+            {
+              "full_en": "heavy industry",
+              "full_vn": "công nghiệp nặng"
+            },
+            {
+              "full_en": "light industry",
+              "full_vn": "công nghiệp nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chăm chỉ, tính cần cù, tính siêng năng ( (cũng) industriousness )"
+        },
+        {
+          "m_full_vn": "ngành kinh doanh; nghề làm ăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a captain of industry",
+              "list_im": [
+                {
+                  "im_full_vn": "người điều hành một cơ sở công nghiệp lớn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "tourist industry",
+              "full_vn": "ngành kinh doanh du lịch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

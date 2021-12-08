@@ -1,0 +1,35 @@
+{
+  "english": "dove",
+  "phat_am": "[dʌv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chim bồ câu"
+        },
+        {
+          "m_full_vn": "người đem tin mừng; sứ giả của hoà bình",
+          "list_en_vn": [
+            {
+              "full_en": "Dove of Peace",
+              "full_vn": "chim bồ câu hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
+          "list_en_vn": [
+            {
+              "full_en": "my dove",
+              "full_vn": "em yêu quí của anh, con bồ câu nhỏ của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
+        }
+      ]
+    }
+  ]
+}

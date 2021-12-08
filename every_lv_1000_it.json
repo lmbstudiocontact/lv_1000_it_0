@@ -1,0 +1,132 @@
+{
+  "english": "every",
+  "phat_am": "['evri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi, mọi",
+          "list_one_mean": [
+            {
+              "id_full_en": "every now and then ; every now and again",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every other",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả mọi cái khác (người hoặc vật); xen kẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every other girl except me is wearing jeans",
+                      "full_vn": "trừ tôi ra, mọi cô gái khác đều mặc quần bò"
+                    },
+                    {
+                      "full_en": "they visit us every other week",
+                      "full_vn": "cư hai tuần họ lại thăm chúng tôi một lần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every other",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả mọi cái khác (người hoặc vật); xen kẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every other girl except me is wearing jeans",
+                      "full_vn": "trừ tôi ra, mọi cô gái khác đều mặc quần bò"
+                    },
+                    {
+                      "full_en": "they visit us every other week",
+                      "full_vn": "cư hai tuần họ lại thăm chúng tôi một lần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "every other",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả mọi cái khác (người hoặc vật); xen kẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every other girl except me is wearing jeans",
+                      "full_vn": "trừ tôi ra, mọi cô gái khác đều mặc quần bò"
+                    },
+                    {
+                      "full_en": "they visit us every other week",
+                      "full_vn": "cư hai tuần họ lại thăm chúng tôi một lần"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "every child in the class passed the examination",
+              "full_vn": "mọi đứa bé trong lớp đều thi đỗ"
+            },
+            {
+              "full_en": "I've got every record she has ever made",
+              "full_vn": "tôi đạt được mọi kỷ lục mà cô ấy đã lập từ trước đến nay"
+            },
+            {
+              "full_en": "I couldn't hear every word of his speech",
+              "full_vn": "tôi không nghe được từng lời từng chữ trong bài nói của ông ấy"
+            },
+            {
+              "full_en": "he examined every item in the set carefully",
+              "full_vn": "anh ta kiểm tra kỹ từng thứ trong cả bộ"
+            },
+            {
+              "full_en": "he enjoyed every minute of his holiday",
+              "full_vn": "anh ấy tận hưởng từng phút của ngày nghỉ"
+            },
+            {
+              "full_en": "I've had to work for every single penny I earned",
+              "full_vn": "tôi phải làm việc để kiếm từng xu"
+            },
+            {
+              "full_en": "they were watching her every movement",
+              "full_vn": "họ quan sát từng động tác của cô ta"
+            },
+            {
+              "full_en": "every time he phones , I always seem to be in the bath",
+              "full_vn": "mỗi lần anh ta gọi điện thoại là cứ y như tôi đang tắm"
+            },
+            {
+              "full_en": "don't forget to take medicine every morning",
+              "full_vn": "nhớ uống thuốc mỗi buổi sáng"
+            },
+            {
+              "full_en": "he has every reason to think we are bad friends",
+              "full_vn": "anh ta có mọi lý do để cho rằng chúng tôi là bạn xấu"
+            },
+            {
+              "full_en": "you have every chance of success",
+              "full_vn": "anh có mọi cơ hội thành công"
+            },
+            {
+              "full_en": "the buses go every ten minutes",
+              "full_vn": "cứ mười phút lại có chuyến xe búyt"
+            },
+            {
+              "full_en": "a quarterly is the one issued regularly every three months",
+              "full_vn": "tạp chí xuất bản hàng quý là tạp chí cứ đều đặn ba tháng ra một kỳ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

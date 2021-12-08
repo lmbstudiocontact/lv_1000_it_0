@@ -1,0 +1,66 @@
+{
+  "english": "going",
+  "phat_am": "['gouiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ra đi"
+        },
+        {
+          "m_full_vn": "trạng thái đường sá (xấu, tốt...); việc đi lại",
+          "list_en_vn": [
+            {
+              "full_en": "the going is hard over this rough road",
+              "full_vn": "việc đi lại trên đường gồ ghề này vất vả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốc độ (của xe lửa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "comings and goings",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ đến người đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get out while the going is good",
+              "list_im": [
+                {
+                  "im_full_vn": "giũ áo ra đi trong lúc đang có nhiều thuận lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heavy going",
+              "list_im": [
+                {
+                  "im_full_vn": "tẻ nhạt, gây chán chường"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đang có sẵn, đang hoạt động, đang tiến hành đều",
+          "list_en_vn": [
+            {
+              "full_en": "a going concern",
+              "full_vn": "một hãng buôn đang làm ăn phát đạt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

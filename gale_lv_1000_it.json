@@ -1,0 +1,32 @@
+{
+  "english": "gale",
+  "phat_am": "[geil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơn gió mạnh (từ cấp 7 đến cấp 10); bão"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự nổ ra, sự phá lên",
+          "list_en_vn": [
+            {
+              "full_en": "gales of laughter",
+              "full_vn": "những tiếng cười phá lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) gió nhẹ, gió hiu hiu"
+        },
+        {
+          "m_full_vn": "sự trả tiền thuê (nhà đất) từng kỳ"
+        },
+        {
+          "m_full_vn": "(thông tục) cây dầu thơm (cùng loại với dâu rượu có lá thơm) ( (cũng) sweet gale )"
+        }
+      ]
+    }
+  ]
+}

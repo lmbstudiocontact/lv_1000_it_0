@@ -1,0 +1,42 @@
+{
+  "english": "illustrate",
+  "phat_am": "['iləstreit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp tranh, biểu đồ cho cái gì; minh hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "to illustrate a book , magazine , lecture",
+              "full_vn": "minh hoạ một cuốn sách, tạp chí, một bài thuyết trình"
+            },
+            {
+              "full_en": "a well illustrated textbook",
+              "full_vn": "một quyển sách giáo khoa có minh hoạ đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng biểu đồ, tranh ảnh... giải thích hoặc làm sáng tỏ cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "To illustrate my point , I've done a comparative analysis",
+              "full_vn": "Để minh hoạ quan điểm của tôi, tôi đã tiến hành phân tích so sánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là điển hình của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "this behaviour illustrates his selfishness",
+              "full_vn": "hành vi này là ví dụ (cho thấy) thói ích kỷ của hắn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

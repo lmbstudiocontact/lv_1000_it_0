@@ -1,0 +1,90 @@
+{
+  "english": "happen",
+  "phat_am": "['hæpən]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy đến, xảy ra; ngẫu nhiên xảy ra, tình cờ xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "it happened last night",
+              "full_vn": "câu chuyện xảy ra đêm qua"
+            },
+            {
+              "full_en": "how did the accident happen ?",
+              "full_vn": "tai nạn xảy ra như thế nào?"
+            },
+            {
+              "full_en": "if anything happens to him , let me know",
+              "full_vn": "nếu có chuyện gì xảy ra với nó, hãy cho tôi biết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình cờ, ngẫu nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "I happened to mention it",
+              "full_vn": "tình cờ tôi nói đến điều đó"
+            },
+            {
+              "full_en": "she happened to be out when he called ; it happened that she was out when he called",
+              "full_vn": "tình cờ cô ta vắng nhà khi anh ta gọi điện thoại đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on something ) tình cờ gặp, ngẫu nhiên gặp; ngẫu nhiên tìm thấy cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "as it happens /happened",
+              "list_im": [
+                {
+                  "im_full_vn": "ngẫu nhiên mà, tình cờ mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we met her only yesterday , as it happens",
+                      "full_vn": "mãi đến hôm qua chúng tôi mới tình cờ gặp cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as it happens /happened",
+              "list_im": [
+                {
+                  "im_full_vn": "ngẫu nhiên mà, tình cờ mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we met her only yesterday , as it happens",
+                      "full_vn": "mãi đến hôm qua chúng tôi mới tình cờ gặp cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "if anything should happen to me",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu tôi có mệnh hệ nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "accidents will happen",
+              "list_im": [
+                {
+                  "im_full_vn": "việc gì đến phải đến"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

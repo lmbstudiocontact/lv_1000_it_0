@@ -1,0 +1,56 @@
+{
+  "english": "gone",
+  "phat_am": "[gɔn]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của go"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đã trôi qua; không còn nữa",
+          "list_en_vn": [
+            {
+              "full_en": "gone are the days when you could bully any of your inferiors",
+              "full_vn": "đã qua rồi cái thời mà anh muốn bắt nạt kẻ nào dưới quyền anh cũng được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thai; có mang",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be gone on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mê ai, say mê ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she's seven months gone",
+              "full_vn": "cô ta có mang đã bảy tháng rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "muộn hơn là, quá",
+          "list_en_vn": [
+            {
+              "full_en": "it's gone midnight already",
+              "full_vn": "đã quá nửa đêm rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

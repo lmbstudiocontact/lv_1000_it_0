@@ -1,0 +1,28 @@
+{
+  "english": "island",
+  "phat_am": "['ailənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hòn đảo"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cái đứng tách riêng, cái đứng tách biệt; miền đồng rừng giữa thảo nguyên; chỗ đứng tránh (cho người đi bộ ở ngã ba đường)"
+        },
+        {
+          "m_full_vn": "(giải phẫu) đảo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa ra một hòn đảo ở; cô lập (như) ở trên một hòn đảo"
+        }
+      ]
+    }
+  ]
+}

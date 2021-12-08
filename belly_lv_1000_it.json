@@ -1,0 +1,45 @@
+{
+  "english": "belly",
+  "phat_am": "['beli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bụng; dạ dày",
+          "list_en_vn": [
+            {
+              "full_en": "with an empty belly",
+              "full_vn": "bụng đói"
+            },
+            {
+              "full_en": "to be belly- pinched",
+              "full_vn": "kiến bò bụng, đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầu (bình, lọ); chỗ khum lên (mặt đàn viôlông), chỗ phồng ra (buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a hungry belly has no ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) bụng đói thì tai điếc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thường) + out phồng ra (cánh buồm...)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "distant",
+  "phat_am": "['distənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xa trong không gian và thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "a distant land /cry /flash of light",
+              "full_vn": "một miền đất/tiếng kêu/tia sáng ở xa"
+            },
+            {
+              "full_en": "the distant horizon ; the distant past",
+              "full_vn": "chân trời xa; quá khứ xa xăm"
+            },
+            {
+              "full_en": "the airport is about ten miles distant from the city",
+              "full_vn": "sân bay cách thành phố khoảng mười dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về người) không có họ hàng gần gũi",
+          "list_en_vn": [
+            {
+              "full_en": "she is a distant cousin of mine",
+              "full_vn": "bà ấy là chị em họ xa với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về mối liên kết, sự tương đồng...) không thật chắc hoặc rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "there is a distant connection between the two theories",
+              "full_vn": "có một mối quan hệ xa giữa hai lý thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thân mật; dè dặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "dim and distant",
+              "list_im": [
+                {
+                  "im_full_vn": "quá khứ xa xôi; ngày xưa; trước đây",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "once , in the dim and distant past , I was a student here",
+                      "full_vn": "trước đây lâu lắm rồi, tôi cũng từng là sinh viên ở đây"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "dim and distant",
+              "list_im": [
+                {
+                  "im_full_vn": "quá khứ xa xôi; ngày xưa; trước đây",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "once , in the dim and distant past , I was a student here",
+                      "full_vn": "trước đây lâu lắm rồi, tôi cũng từng là sinh viên ở đây"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be on distant terms with someone",
+              "full_vn": "có thái độ cách biệt đối với ai; không thân mật với ai"
+            },
+            {
+              "full_en": "a distant nod /attitude /greeting /manner",
+              "full_vn": "cái gật đầu/thái độ/lời chào/cung cách lạnh nhạt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

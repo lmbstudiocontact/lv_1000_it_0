@@ -1,0 +1,57 @@
+{
+  "english": "establish",
+  "phat_am": "[is'tæbli∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lập, thành lập, thiết lập, kiến lập",
+          "list_en_vn": [
+            {
+              "full_en": "to establish a government",
+              "full_vn": "lập chính phủ"
+            },
+            {
+              "full_en": "to establish diplomatic relations",
+              "full_vn": "kiến lập quan hệ ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt (ai vào một địa vị...)"
+        },
+        {
+          "m_full_vn": "chứng minh, xác minh (sự kiện...)"
+        },
+        {
+          "m_full_vn": "đem vào, đưa vào (thói quen, tín ngưỡng...)"
+        },
+        {
+          "m_full_vn": "chính thức hoá (nhà thờ)"
+        },
+        {
+          "m_full_vn": "củng cố, làm vững chắc",
+          "list_en_vn": [
+            {
+              "full_en": "to establish one's reputation",
+              "full_vn": "củng cố thanh danh"
+            },
+            {
+              "full_en": "to establish one's health",
+              "full_vn": "lấy lại sức khoẻ"
+            },
+            {
+              "full_en": "to establish oneself",
+              "full_vn": "sinh cơ lập nghiệp; ổn định cuộc sống"
+            },
+            {
+              "full_en": "to establish oneself as a grocer",
+              "full_vn": "sinh cơ lập nghiệp bằng nghề bán tạp phẩm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

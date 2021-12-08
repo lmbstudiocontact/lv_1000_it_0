@@ -1,0 +1,151 @@
+{
+  "english": "from",
+  "phat_am": "[frɔm, frəm]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ",
+          "list_en_vn": [
+            {
+              "full_en": "to start from Hanoi",
+              "full_vn": "bắt đầu đi từ Hà-nội"
+            },
+            {
+              "full_en": "to know someone from a child",
+              "full_vn": "biết một người nào từ tấm bé"
+            },
+            {
+              "full_en": "the explosion happened 300 metres from the police station",
+              "full_vn": "vụ nổ xảy ra cách đồn cảnh sát ba trăm mét"
+            },
+            {
+              "full_en": "to translate a letter from Vietnamese into French",
+              "full_vn": "dịch một bức thư từ tiếng Việt sang tiếng Pháp"
+            },
+            {
+              "full_en": "from the given parameters , we design a machine",
+              "full_vn": "từ các tham số cho sẵn, ta thiết kế một cái máy"
+            },
+            {
+              "full_en": "to count from one to ten",
+              "full_vn": "đếm từ một đến mười"
+            },
+            {
+              "full_en": "from morning till night",
+              "full_vn": "từ sáng đến tối"
+            },
+            {
+              "full_en": "from place to place",
+              "full_vn": "từ nơi này sang nơi khác"
+            },
+            {
+              "full_en": "a letter from home",
+              "full_vn": "một bức thư (từ) nhà (gửi đến)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa vào, theo, do từ, xuất phát từ",
+          "list_en_vn": [
+            {
+              "full_en": "to judge from appearances",
+              "full_vn": "dựa vào (theo) bề ngoài mà xét đoán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khỏi, đừng; tách khỏi, rời xa, cách",
+          "list_en_vn": [
+            {
+              "full_en": "to save a thing from damage",
+              "full_vn": "giữ gìn một vật khỏi bị hư hỏng"
+            },
+            {
+              "full_en": "to go away from house",
+              "full_vn": "đi (xa) khỏi nhà"
+            },
+            {
+              "full_en": "this document differs from that one",
+              "full_vn": "tài liệu này khác với tài liệu kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì, do, do bởi",
+          "list_en_vn": [
+            {
+              "full_en": "to tremble from fear",
+              "full_vn": "run lên vì sợ hãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng",
+          "list_en_vn": [
+            {
+              "full_en": "wine is made from grapes",
+              "full_vn": "rượu vang làm bằng nho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của (ai... cho, gửi, tặng, đưa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "from of old",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày xưa, ngày trước, thuở xưa, lâu rồi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I know it from of old",
+                      "full_vn": "tôi biết việc ấy đã lâu rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "from of old",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày xưa, ngày trước, thuở xưa, lâu rồi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I know it from of old",
+                      "full_vn": "tôi biết việc ấy đã lâu rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "from now on",
+              "list_im": [
+                {
+                  "im_full_vn": "từ nay trở đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from then on",
+              "list_im": [
+                {
+                  "im_full_vn": "từ ấy trở đi, từ lúc đó"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "gifts from friends",
+              "full_vn": "quà của bạn bè (gửi tặng)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

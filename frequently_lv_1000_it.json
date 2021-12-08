@@ -1,0 +1,20 @@
+{
+  "english": "frequently",
+  "phat_am": "['fri:kwəntli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thường xuyên",
+          "list_en_vn": [
+            {
+              "full_en": "He smokes frequently in the computer room",
+              "full_vn": "Anh ta thường xuyên hút thuốc trong phòng máy điện toán"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

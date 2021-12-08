@@ -1,0 +1,35 @@
+{
+  "english": "faithful",
+  "phat_am": "['feiθful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung thành, chung thủy",
+          "list_en_vn": [
+            {
+              "full_en": "to be faithful to one's beliefs",
+              "full_vn": "trung thành với tín ngưỡng của mình"
+            },
+            {
+              "full_en": "to be faithful to one's wife",
+              "full_vn": "chung thủy với vợ mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có lương tâm, trung thực"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "the faithful tín đồ sùng đạo"
+        }
+      ]
+    }
+  ]
+}

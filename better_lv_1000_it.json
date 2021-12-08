@@ -1,0 +1,311 @@
+{
+  "english": "better",
+  "phat_am": "['betə]",
+  "list_type": [
+    {
+      "type": "tính từ ( cấp so sánh của good )",
+      "list_m": [
+        {
+          "m_full_vn": "hơn, tốt hơn, khá hơn, hay hơn, đẹp hơn",
+          "list_en_vn": [
+            {
+              "full_en": "you can't find a better man",
+              "full_vn": "anh không thể tìm thấy một người nào tốt hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoẻ hơn, dễ chịu hơn, đã đỡ (người ốm...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be better off",
+              "list_im": [
+                {
+                  "im_full_vn": "khấm khá hơn, phong lưu hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be better than one's words",
+              "list_im": [
+                {
+                  "im_full_vn": "hứa ít làm nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the better part",
+              "list_im": [
+                {
+                  "im_full_vn": "phần lớn, đa số"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have seen better days",
+              "list_im": [
+                {
+                  "im_full_vn": "đã có thời kỳ khấm khá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's better half",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) half"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no better than",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng hơn gì, quả là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she is no better than she should be",
+                      "full_vn": "ả ta là đứa lẳng lơ đĩ thoã"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no better than",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng hơn gì, quả là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she is no better than she should be",
+                      "full_vn": "ả ta là đứa lẳng lơ đĩ thoã"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "better luck next time",
+              "list_im": [
+                {
+                  "im_full_vn": "thua keo này, bày keo khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "half a loaf is better than no bread",
+              "list_im": [
+                {
+                  "im_full_vn": "có còn hơn không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "prevention is better than cure",
+              "list_im": [
+                {
+                  "im_full_vn": "phòng bệnh hơn chữa bệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "two heads are better than one",
+              "list_im": [
+                {
+                  "im_full_vn": "hai người hợp lại vẫn hơn một người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "better the devil you know",
+              "list_im": [
+                {
+                  "im_full_vn": "thà cái cũ quen hơn là cái mới lạ, ma quen hơn quỷ lạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "against one's better judgement",
+              "list_im": [
+                {
+                  "im_full_vn": "dù mình thấy làm như vậy là thiếu khôn ngoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "discretion is the better part of valour",
+              "list_im": [
+                {
+                  "im_full_vn": "liều lỉnh đúng chỗ thì mới đáng liều lỉnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is much better",
+              "full_vn": "anh ấy cảm thấy đỡ bệnh rất nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ ( cấp so sánh của well )",
+      "list_m": [
+        {
+          "m_full_vn": "hơn, tốt hơn, hay hơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "better late than never",
+              "list_im": [
+                {
+                  "im_full_vn": "muộn còn hơn không đến, có còn hơn không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for better or worse",
+              "list_im": [
+                {
+                  "im_full_vn": "bất chấp hậu quả ra sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the less /least said about somebody /something the better",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc cái gì đó chẳng hay ho gì, tốt nhất là không nên nhắc đến; càng nhắc tới ai/cái gì càng chán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "had better",
+              "list_im": [
+                {
+                  "im_full_vn": "nên, tốt hơn là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you had better go now",
+                      "full_vn": "anh nên đi bây giờ thì hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "had better",
+              "list_im": [
+                {
+                  "im_full_vn": "nên, tốt hơn là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you had better go now",
+                      "full_vn": "anh nên đi bây giờ thì hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to think better of it",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi ý kiến"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to think better of somebody",
+              "full_vn": "đánh giá ai cao hơn, có quan niệm tốt hơn về ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho tốt hơn, cải tiến, cải thiện",
+          "list_en_vn": [
+            {
+              "full_en": "to better the living conditions of the people",
+              "full_vn": "cải thiện đời sống của nhân dân"
+            },
+            {
+              "full_en": "to better a record",
+              "full_vn": "lập kỷ lục cao hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt, hơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to better oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt địa vị cao hơn, được ăn lương cao hơn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người trên, người hơn (tuổi, địa vị, tài năng)",
+          "list_en_vn": [
+            {
+              "full_en": "to respect one's betters",
+              "full_vn": "kính trọng những người hơn mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế trội hơn, ưu thế",
+          "list_one_mean": [
+            {
+              "id_full_en": "the sooner the better",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "so much the better /worse (for somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "xem worse"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to get the better of",
+              "full_vn": "thắng, thắng thế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ + Cách viết khác : ( bettor )",
+      "list_m": [
+        {
+          "m_full_vn": "người đánh cuộc, người đánh cá"
+        }
+      ]
+    }
+  ]
+}

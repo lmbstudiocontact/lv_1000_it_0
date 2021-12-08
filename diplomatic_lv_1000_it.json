@@ -1,0 +1,41 @@
+{
+  "english": "diplomatic",
+  "phat_am": "[,diplə'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính cách ngoại giao",
+          "list_en_vn": [
+            {
+              "full_en": "to settle disputes by diplomatic means",
+              "full_vn": "giải quyết tranh chấp bằng con đường ngoại giao"
+            },
+            {
+              "full_en": "diplomatic corps",
+              "full_vn": "tất cả các đại sứ và nhân viên sứ quán trong một nước; đoàn ngoại giao; ngoại giao đoàn"
+            },
+            {
+              "full_en": "diplomatic bag",
+              "full_vn": "cái đựng công văn, đồ dùng.. gửi cho sứ quán hoặc từ sứ quán gửi đi; cặp ngoại giao"
+            },
+            {
+              "full_en": "diplomatic service",
+              "full_vn": "ngành ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khéo léo trong việc xử trí; khôn khéo",
+          "list_en_vn": [
+            {
+              "full_en": "a diplomatic answer",
+              "full_vn": "câu trả lời khôn khéo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

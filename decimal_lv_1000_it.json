@@ -1,0 +1,40 @@
+{
+  "english": "decimal",
+  "phat_am": "['desiməl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) thập phân",
+          "list_en_vn": [
+            {
+              "full_en": "decimal number",
+              "full_vn": "số thập phân"
+            },
+            {
+              "full_en": "decimal fraction",
+              "full_vn": "phân số thập phân"
+            },
+            {
+              "full_en": "decimal point",
+              "full_vn": "dấu đặt sau số đơn vị khi ghi phân số thập phân"
+            },
+            {
+              "full_en": "decimal system",
+              "full_vn": "hệ thập phân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) phân số thập phân"
+        }
+      ]
+    }
+  ]
+}

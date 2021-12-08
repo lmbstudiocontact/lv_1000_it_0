@@ -1,0 +1,49 @@
+{
+  "english": "imagine",
+  "phat_am": "[i'mædʒin]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tưởng tượng, hình dung",
+          "list_en_vn": [
+            {
+              "full_en": "imagine a house with a large swimming-pool",
+              "full_vn": "hãy tưởng tượng một ngôi nhà có bể bơi rộng"
+            },
+            {
+              "full_en": "can you imagine what it would be like to live without electricity ?",
+              "full_vn": "anh có thể hình dung xem sống không có điện thì sẽ thế nào không?"
+            },
+            {
+              "full_en": "she imagine walking into the office and telling everyone that she thought of them",
+              "full_vn": "cô ta tưởng tượng mình đi vào văn phòng và nói cho mọi người biết mình nghĩ gì về họ"
+            },
+            {
+              "full_en": "imagine yourself (to be ) rich and famous",
+              "full_vn": "anh hãy tưởng tượng anh giàu có và nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tưởng rằng, ngỡ rằng, cho rằng",
+          "list_en_vn": [
+            {
+              "full_en": "I can't imagine that anyone cares what I do",
+              "full_vn": "tôi không tưởng tượng được là lại có người quan tâm đến những gì tôi làm"
+            },
+            {
+              "full_en": "would you ever have imagined him /his becoming a politician ?",
+              "full_vn": "anh có bao giờ nghĩ rằng nó sẽ trở thành chính khách hay không?"
+            },
+            {
+              "full_en": "I imagine (that ) he'll be there",
+              "full_vn": "tôi cho rằng anh ta sẽ đến đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "input",
+  "phat_am": "['input]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động đưa cái gì vào",
+          "list_en_vn": [
+            {
+              "full_en": "the input of additional resources into the project",
+              "full_vn": "sự đưa thêm phương tiện vào dự án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được cho vào",
+          "list_en_vn": [
+            {
+              "full_en": "an input of energy to a system",
+              "full_vn": "năng lượngđưa vào hệ thống"
+            },
+            {
+              "full_en": "electrical input",
+              "full_vn": "dòng điện vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nguồn vào"
+        },
+        {
+          "m_full_vn": "(tin học) sự đưa dữ liệu vào máy tính để xử lý hoặc lưu trữ; sự nhập liệu"
+        },
+        {
+          "m_full_vn": "dữ liệu được đưa vào"
+        },
+        {
+          "m_full_vn": "bộ phận trong máy tính thực hiện việc nhập liệu",
+          "list_en_vn": [
+            {
+              "full_en": "input key /code /level",
+              "full_vn": "phím/mã/cấp độ nhập liệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Ê-cốt) số tiền cúng"
+        }
+      ]
+    },
+    {
+      "type": "động từ ( động tính từ quá khứ và thì quá khứ là input hoặc inputted )",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) ( to input something to / into something ) đưa (dữ liệu) vào máy tính; nhập liệu"
+        }
+      ]
+    }
+  ]
+}

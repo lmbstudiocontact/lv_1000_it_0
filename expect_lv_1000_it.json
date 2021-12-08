@@ -1,0 +1,178 @@
+{
+  "english": "expect",
+  "phat_am": "[iks'pekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mong chờ; trông mong; trông đợi",
+          "list_en_vn": [
+            {
+              "full_en": "don't expect me till you see me",
+              "full_vn": "đừng ngóng chờ tôi, lúc nào có thể đến là tôi sẽ đến"
+            },
+            {
+              "full_en": "this is the parcel which we have been expecting from New York",
+              "full_vn": "đây là cái gói mà chúng tôi đã mong đợi từ New York"
+            },
+            {
+              "full_en": "you can't expect to learn a foreign language in a week",
+              "full_vn": "anh không thể mong đợi học được một ngoại ngữ trong một tuần"
+            },
+            {
+              "full_en": "don't expect any sympathy from me !",
+              "full_vn": "đừng hy vọng nhận được thiện cảm của tôi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi cái gì (ở ai), nhất là như một quyền hạn hoặc bổn phận",
+          "list_en_vn": [
+            {
+              "full_en": "the sergeant expects obedience from his men /that his men will obey him /his men to obey him",
+              "full_vn": "viên trung sĩ đòi hỏi binh lính của ông ta phải phục tùng"
+            },
+            {
+              "full_en": "I expect you to be punctual",
+              "full_vn": "tôi yêu cầu ông phải đúng giờ"
+            },
+            {
+              "full_en": "you will be expected to work on Saturdays",
+              "full_vn": "người ta sẽ yêu cầu anh phải làm việc các ngày thứ bảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho rằng, nghĩ rằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be expecting (a baby /child )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có mang, có thai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hear Sally's expecting again",
+                      "full_vn": "tôi nghe nói Sally lại có mang"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be expecting (a baby /child )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có mang, có thai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hear Sally's expecting again",
+                      "full_vn": "tôi nghe nói Sally lại có mang"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to expect too much of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt quá nhiều hy vọng vào ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't finish the job by Friday - you expect too much of me",
+                      "full_vn": "tôi không thể xong việc này vào thứ sáu được - ông trông đợi ở tôi quá nhiều đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to expect too much of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt quá nhiều hy vọng vào ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't finish the job by Friday - you expect too much of me",
+                      "full_vn": "tôi không thể xong việc này vào thứ sáu được - ông trông đợi ở tôi quá nhiều đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(only ) to be expected",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể xảy ra, hoàn toàn bình thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a little tiredness after taking these drugs is to be expected",
+                      "full_vn": "sau khi dùng thuốc này, nếu thấy mệt mỏi thì cũng là điều bình thường"
+                    },
+                    {
+                      "full_en": "it is only to be expected your son will leave home eventually",
+                      "full_vn": "con trai ông rồi đây sẽ bỏ nhà mà đi là điều rất có thể xảy ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(only ) to be expected",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể xảy ra, hoàn toàn bình thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a little tiredness after taking these drugs is to be expected",
+                      "full_vn": "sau khi dùng thuốc này, nếu thấy mệt mỏi thì cũng là điều bình thường"
+                    },
+                    {
+                      "full_en": "it is only to be expected your son will leave home eventually",
+                      "full_vn": "con trai ông rồi đây sẽ bỏ nhà mà đi là điều rất có thể xảy ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(only ) to be expected",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể xảy ra, hoàn toàn bình thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a little tiredness after taking these drugs is to be expected",
+                      "full_vn": "sau khi dùng thuốc này, nếu thấy mệt mỏi thì cũng là điều bình thường"
+                    },
+                    {
+                      "full_en": "it is only to be expected your son will leave home eventually",
+                      "full_vn": "con trai ông rồi đây sẽ bỏ nhà mà đi là điều rất có thể xảy ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "'Who has eaten all the cake ? ' - ' Tom, I expect /I expect (that ) it was Tom'",
+              "full_vn": "Ai đã ăn hết cái bánh ngọt? - Tôi cho là Tom"
+            },
+            {
+              "full_en": "'Will you need help ? ' - 'I don't expect so'",
+              "full_vn": "Anh có cần giúp đỡ gì không? - Tôi cho là không"
+            },
+            {
+              "full_en": "'Will he be late ? ' - 'I expect so'",
+              "full_vn": "Liệu nó có đến muộn không? - Tôi cho là nó sẽ đến muộn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

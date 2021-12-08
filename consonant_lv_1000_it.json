@@ -1,0 +1,31 @@
+{
+  "english": "consonant",
+  "phat_am": "['kɔnsənənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) thuận tai, êm ái, du dương"
+        },
+        {
+          "m_full_vn": "hoà hợp, phù hợp",
+          "list_en_vn": [
+            {
+              "full_en": "consonant with one's duty",
+              "full_vn": "phù hợp với bổn phận của mình, đúng với bổn phận của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) phụ âm"
+        }
+      ]
+    }
+  ]
+}

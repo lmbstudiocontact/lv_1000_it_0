@@ -1,0 +1,69 @@
+{
+  "english": "fell",
+  "phat_am": "[fel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "da lông (của thú vật)"
+        },
+        {
+          "m_full_vn": "da người"
+        },
+        {
+          "m_full_vn": "mớ tóc bù xù; bộ lông bờm xờm",
+          "list_en_vn": [
+            {
+              "full_en": "fell of hair",
+              "full_vn": "đầu bù tóc rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồi đá (dùng trong tên đất)"
+        },
+        {
+          "m_full_vn": "vùng đầm lầy (ở miền bắc nước Anh)"
+        },
+        {
+          "m_full_vn": "sự đẫn cây, sự hạ cây, sự đốn, sự chặt"
+        },
+        {
+          "m_full_vn": "mẻ đẫn (khối lượng cây đẫn một lần)"
+        },
+        {
+          "m_full_vn": "sự khâu viền"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đấm ngã, đánh ngã"
+        },
+        {
+          "m_full_vn": "đẫn (cây), hạ (cây), đốn chặt"
+        },
+        {
+          "m_full_vn": "khâu viền"
+        }
+      ]
+    },
+    {
+      "type": "tính từ, (thơ ca)",
+      "list_m": [
+        {
+          "m_full_vn": "ác liệt, ghê gớm; nhẫn tâm, tàn ác"
+        },
+        {
+          "m_full_vn": "huỷ diệt, gây chết chóc"
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ của fall"
+    }
+  ]
+}

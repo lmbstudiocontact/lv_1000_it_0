@@ -1,0 +1,44 @@
+{
+  "english": "chick",
+  "phat_am": "[t∫ik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gà con; chim con"
+        },
+        {
+          "m_full_vn": "trẻ nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the chicks",
+              "full_vn": "con cái trong nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người đàn bà trẻ; cô gái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have neither chick nor child",
+              "list_im": [
+                {
+                  "im_full_vn": "không có con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one chick keeps a hen busy",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) hai vợ chồng son thêm một con thành bốn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

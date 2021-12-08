@@ -1,0 +1,33 @@
+{
+  "english": "easily",
+  "phat_am": "['i:zili]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ dàng",
+          "list_en_vn": [
+            {
+              "full_en": "he easily translated this leading article into English",
+              "full_vn": "anh ta dịch bài xã luận này ra tiếng Anh một cách dễ dàng"
+            },
+            {
+              "full_en": "I can easily finish it tonight",
+              "full_vn": "tôi có thể dễ dàng làm xong việc đó tối nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ ràng, không thể chối cãi",
+          "list_en_vn": [
+            {
+              "full_en": "this is easily the most memorable event in my life",
+              "full_vn": "rõ ràng đây là sự kiện đáng nhớ nhất trong đời tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

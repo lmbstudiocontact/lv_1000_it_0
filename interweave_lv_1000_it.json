@@ -1,0 +1,29 @@
+{
+  "english": "interweave",
+  "phat_am": "[,intə'wi:və]",
+  "list_type": [
+    {
+      "type": "ngoại động từ interwove ; interwoven",
+      "list_m": [
+        {
+          "m_full_vn": "dệt lẫn với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to interweave a nylon warp with a cotton weft",
+              "full_vn": "dệt lẫn đường chỉ dọc bằng sợi ny lông với đường khổ bằng sợi bông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trộn lẫn với nhau; xen lẫn, gắn bó",
+          "list_en_vn": [
+            {
+              "full_en": "to interweave facts with fiction",
+              "full_vn": "xen lẫn sự thật với hư cấu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

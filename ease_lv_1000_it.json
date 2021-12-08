@@ -1,0 +1,228 @@
+{
+  "english": "ease",
+  "phat_am": "[i:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thanh thản, sự thoải mái; sự không bị ràng buộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "(stand ) at ease !",
+              "list_im": [
+                {
+                  "im_full_vn": "(mệnh lệnh của quân đội) nghỉ! (ở tư thế chân tách ra và tay chắp sau lưng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to be /feel ) at (one's ) ease",
+              "list_im": [
+                {
+                  "im_full_vn": "(ở trạng thái/cảm thấy) dễ chịu và không lo ngại gì; hoàn toàn thư giãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ill at ease",
+              "list_im": [
+                {
+                  "im_full_vn": "xem ill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put /set somebody at (his , her ) ease",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai cảm thấy dễ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put /set somebody's mind at ease /rest",
+              "list_im": [
+                {
+                  "im_full_vn": "xem mind"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's ease",
+              "list_im": [
+                {
+                  "im_full_vn": "nghỉ ngơi; thư giãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with ease",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách dễ dàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the injection brought him immediate ease",
+              "full_vn": "mũi tiêm làm cho anh ta dễ chịu ngay"
+            },
+            {
+              "full_en": "a life of ease",
+              "full_vn": "một cuộc sống thanh nhàn"
+            },
+            {
+              "full_en": "ease of mind",
+              "full_vn": "sự thanh thản đầu óc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm dịu (cơ thể hoặc đầu óc)",
+          "list_en_vn": [
+            {
+              "full_en": "the aspirins eased my headache",
+              "full_vn": "thuốc atxpirin làm dịu cơn đau đầu của tôi"
+            },
+            {
+              "full_en": "talking eased his anxiety",
+              "full_vn": "nói chuyện làm cho anh ta bớt lo âu"
+            },
+            {
+              "full_en": "walking helped to ease him of his pain",
+              "full_vn": "đi bộ giúp cho anh ta khỏi đau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nới lỏng",
+          "list_en_vn": [
+            {
+              "full_en": "the coat needs to be eased under the armpits",
+              "full_vn": "cái áo khoác cần phải nới lỏng ở dưới nách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) nẫng nhẹ; cuỗm mất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ease somebody's conscience /mind",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho thanh thản đầu óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ease somebody /something across , along , away ....",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai/cai gì chuyển động ngang qua... một cách chậm chạp và thận trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be eased of one's wallet",
+              "full_vn": "bị cuỗm mất ví tiền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về tình hinh...) bớt căng thẳng; lắng dịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ease down",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm tốc độ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Ease down : There's a sharp bend ahead",
+                      "full_vn": "Giảm tốc độ : Có một đoạn cua gấp ở phía trước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ease down",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm tốc độ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Ease down : There's a sharp bend ahead",
+                      "full_vn": "Giảm tốc độ : Có một đoạn cua gấp ở phía trước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ease off /up",
+              "list_im": [
+                {
+                  "im_full_vn": "trở nên bớt gay gắt; dịu đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ease up on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "phải chăng hơn với ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I should ease up on the cigarettes if I were you",
+                      "full_vn": "Nếu tôi là anh, tôi sẽ dùng thuốc lá điều độ hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ease up on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "phải chăng hơn với ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I should ease up on the cigarettes if I were you",
+                      "full_vn": "Nếu tôi là anh, tôi sẽ dùng thuốc lá điều độ hơn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the pain eased",
+              "full_vn": "cơn đau đã dịu đi"
+            },
+            {
+              "full_en": "the situation has eased",
+              "full_vn": "tình hình đã lắng dịu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

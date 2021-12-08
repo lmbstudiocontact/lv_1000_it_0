@@ -1,0 +1,55 @@
+{
+  "english": "besides",
+  "phat_am": "[bi'saidz]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơn nữa; vả lại",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't time to see the film - besides , it's had dreadful reviews",
+              "full_vn": "Tôi chẳng có thời gian xem bộ phim ấy, hơn nữa nó cũng đã bị giới điểm phim chê kinh khủng"
+            },
+            {
+              "full_en": "Peter is our youngest child and we have three others besides",
+              "full_vn": "Peter là cháu nhỏ nhất của chúng tôi và ngoài ra, chúng tôi còn có ba cháu nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêm vào (cái gì); ngoài ra",
+          "list_en_vn": [
+            {
+              "full_en": "there will be five of us for dinner , besides John",
+              "full_vn": "ngoài John ra, còn có năm người chúng tôi dùng cơm tối"
+            },
+            {
+              "full_en": "the play was badly acted , besides being too long",
+              "full_vn": "vở kịch đóng rất dở, chưa kể là còn quá dài nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(theo sau ý phủ định) trừ ai/cái gì; ngoài ra",
+          "list_en_vn": [
+            {
+              "full_en": "she has no relations besides an aged aunt",
+              "full_vn": "cô ấy chẳng còn người bà con nào ngoài một bà dì già"
+            },
+            {
+              "full_en": "no one writes to me besides you",
+              "full_vn": "ngoài anh ra, chẳng còn ai viết thư cho tôi cả"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

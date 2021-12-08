@@ -1,0 +1,171 @@
+{
+  "english": "fling",
+  "phat_am": "[fliη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ném, sự vứt, sự quăng, sự liệng, sự lao, sự gieo (quân súc sắc)"
+        },
+        {
+          "m_full_vn": "sự nhào xuống, sự nhảy bổ"
+        },
+        {
+          "m_full_vn": "sự lu bù (ăn chơi...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have one's fling",
+              "full_vn": "ăn chơi lu bù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời nói mỉa; lời chế nhạo",
+          "list_en_vn": [
+            {
+              "full_en": "to have a fling at somebody",
+              "full_vn": "nói mỉa ai; chế nhạo ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự thử làm, sự gắng thử",
+          "list_en_vn": [
+            {
+              "full_en": "to have a fling at something",
+              "full_vn": "thử làm gì, gắng thử gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điệu múa sôi nổi",
+          "list_en_vn": [
+            {
+              "full_en": "the Highland fling",
+              "full_vn": "điệu múa sôi nổi của Ê-cốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ flung",
+      "list_m": [
+        {
+          "m_full_vn": "chạy vụt, lao nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "to fling out of the room",
+              "full_vn": "lao ra khỏi phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chửi mắng, nói nặng",
+          "list_en_vn": [
+            {
+              "full_en": "to fling out",
+              "full_vn": "chửi mắng ầm ĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hất (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ném, vứt, quăng, liệng, lao, tống",
+          "list_en_vn": [
+            {
+              "full_en": "to fling something away",
+              "full_vn": "ném vật gì đi"
+            },
+            {
+              "full_en": "to fling troops on enemy (against enemy position )",
+              "full_vn": "lao quân vào kẻ địch (vào vị trí địch)"
+            },
+            {
+              "full_en": "to fling oneself into a task",
+              "full_vn": "lao mình vào nhiệm vụ"
+            },
+            {
+              "full_en": "to fling oneself on someone's pity",
+              "full_vn": "phó thác mình vào lòng thương của ai"
+            },
+            {
+              "full_en": "to fling someone into prison",
+              "full_vn": "tống cổ ai vào tù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hất ngã",
+          "list_en_vn": [
+            {
+              "full_en": "horse flings rider",
+              "full_vn": "ngựa hất ngã người cưỡi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đá hậu"
+        },
+        {
+          "m_full_vn": "vung (tay...); hất (đầu...)"
+        },
+        {
+          "m_full_vn": "đưa (mắt) nhìn lơ đãng"
+        },
+        {
+          "m_full_vn": "toả ra, phát ra",
+          "list_en_vn": [
+            {
+              "full_en": "flowers fling their fragrance around",
+              "full_vn": "hoa toả hương thơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẩy tung (cửa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fling caution to the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "liều lĩnh, liều mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fling facts in somebody's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa việc ra để máng vào mặt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fling oneself at someone's head",
+              "list_im": [
+                {
+                  "im_full_vn": "cố chài được ai lấy mình làm vợ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fling door open",
+              "full_vn": "mở tung cửa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

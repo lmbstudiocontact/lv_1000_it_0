@@ -1,0 +1,1896 @@
+{
+  "english": "all",
+  "phat_am": "[ɔ:l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng với danh từ số nhiều, danh từ không đếm được, danh từ có thể theo sau the / this / that / these / those , my / his / her ... hoặc một con số) tất cả; hết thảy; toàn bộ; suốt trọn; mọi",
+          "list_en_vn": [
+            {
+              "full_en": "all horses are animals , but not all animals are horses",
+              "full_vn": "ngựa nào cũng là động vật, nhưng không phải động vật nào cũng là ngựa"
+            },
+            {
+              "full_en": "all the people you invited are coming",
+              "full_vn": "tất cả những người mà ông mời đều đang đến"
+            },
+            {
+              "full_en": "all my plants have died",
+              "full_vn": "tất cả các cây của tôi đều đã chết"
+            },
+            {
+              "full_en": "all Vietnam",
+              "full_vn": "toàn nước Việt Nam"
+            },
+            {
+              "full_en": "in all respects",
+              "full_vn": "về mọi phương diện"
+            },
+            {
+              "full_en": "all five men are hard workers",
+              "full_vn": "cả năm người đều là những người lao động tích cực"
+            },
+            {
+              "full_en": "he has lived all his life in London",
+              "full_vn": "ông ấy đã sống trọn đời ở Luân Đôn"
+            },
+            {
+              "full_en": "all year /month /week /day",
+              "full_vn": "suốt năm/tháng/tuần/ngày"
+            },
+            {
+              "full_en": "she was abroad all last summer",
+              "full_vn": "cô ta ở nước ngoài suốt mùa hè vừa qua"
+            },
+            {
+              "full_en": "we were unemployed (for ) all that time",
+              "full_vn": "chúng tôi thất nghiệp suốt thời gian ấy"
+            },
+            {
+              "full_en": "all wood tends to shrink",
+              "full_vn": "mọi thứ gỗ đều có khuynh hướng co lại"
+            },
+            {
+              "full_en": "you've had all the fun and I've had all the hard work",
+              "full_vn": "anh được hưởng mọi thú vui, còn tôi thì phải làm đủ thứ việc cực nhọc"
+            },
+            {
+              "full_en": "all this mail must be answered",
+              "full_vn": "tất cả chỗ thư từ này cần được trả lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn nhất có thể được",
+          "list_en_vn": [
+            {
+              "full_en": "with all speed /haste /dispatch",
+              "full_vn": "với tốc độ/sự vội vã/sự khẩn trương cao nhất có thể được"
+            },
+            {
+              "full_en": "in all honesty /frankness /sincerity",
+              "full_vn": "với tất cả sự trung thực/thẳng thắn/trung thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "and all that (jazz , rubbish ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "và những điều tương tự khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm bored by history - dates and battles and all that stuff",
+                      "full_vn": "Tôi ngán môn sử - những niên hiệu, những trận đánh và tất cả những chuyện vớ vẩn như vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "and all that (jazz , rubbish ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "và những điều tương tự khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm bored by history - dates and battles and all that stuff",
+                      "full_vn": "Tôi ngán môn sử - những niên hiệu, những trận đánh và tất cả những chuyện vớ vẩn như vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not all that good /well",
+              "list_im": [
+                {
+                  "im_full_vn": "không hay/tốt gì lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He doesn't sing all that well",
+                      "full_vn": "Nó hát chẳng hay gì lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not all that good /well",
+              "list_im": [
+                {
+                  "im_full_vn": "không hay/tốt gì lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He doesn't sing all that well",
+                      "full_vn": "Nó hát chẳng hay gì lắm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not as bad as all that",
+              "list_im": [
+                {
+                  "im_full_vn": "không đến mức độ như thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're not as rich as all that",
+                      "full_vn": "họ cũng chẳng giàu đến như thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not as bad as all that",
+              "list_im": [
+                {
+                  "im_full_vn": "không đến mức độ như thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're not as rich as all that",
+                      "full_vn": "họ cũng chẳng giàu đến như thế"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "beyond all doubt changes are coming",
+              "full_vn": "không còn nghi ngờ gì nữa, sắp có những thay đổi"
+            },
+            {
+              "full_en": "he denied all knowledge of the crime",
+              "full_vn": "nó chối là không biết gì về vụ phạm tội này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "tất cả, tất thảy, hết thảy, toàn thể, toàn bộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "above all",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) above"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all in all",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chung, nhìn chung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all in all it had been a great success",
+                      "full_vn": "nói chung, đây là một thành công lớn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all in all",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chung, nhìn chung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all in all it had been a great success",
+                      "full_vn": "nói chung, đây là một thành công lớn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all or nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "(về một quá trình hành động) đòi hỏi mọi nỗ lực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's all or nothing - if we don't score now , we've lost the match",
+                      "full_vn": "phải nỗ lực tối đa - nếu chúng ta không ghi bàn ngay bây giờ, chúng ta sẽ thua cuộc đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all or nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "(về một quá trình hành động) đòi hỏi mọi nỗ lực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's all or nothing - if we don't score now , we've lost the match",
+                      "full_vn": "phải nỗ lực tối đa - nếu chúng ta không ghi bàn ngay bây giờ, chúng ta sẽ thua cuộc đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "after all",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) after"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all and sundry",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn thể và từng người một, tất cả và từng cái một"
+                }
+              ]
+            },
+            {
+              "id_full_en": "and all",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng; kể cả; thêm nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the wind blew everything off the table , tablecloth and all",
+                      "full_vn": "gió thổi bay mọi thứ trên bàn, khăn bàn và mọi thứ khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "and all",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng; kể cả; thêm nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the wind blew everything off the table , tablecloth and all",
+                      "full_vn": "gió thổi bay mọi thứ trên bàn, khăn bàn và mọi thứ khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not at all",
+              "list_im": [
+                {
+                  "im_full_vn": "không dám (lời đáp khi ai cảm ơn mình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) at all",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) gì hết; chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't know him at all",
+                      "full_vn": "tôi không hề biết hắn ta"
+                    },
+                    {
+                      "full_en": "I didn't enjoy it at all",
+                      "full_vn": "tôi chẳng thích cái đó tí nào cả"
+                    },
+                    {
+                      "full_en": "there's nothing at all to eat",
+                      "full_vn": "chẳng có cái gì để ăn cả"
+                    },
+                    {
+                      "full_en": "are you at all worried about the forecast",
+                      "full_vn": "anh có lo lắng chút nào về lời dự đoán đó hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) at all",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) gì hết; chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't know him at all",
+                      "full_vn": "tôi không hề biết hắn ta"
+                    },
+                    {
+                      "full_en": "I didn't enjoy it at all",
+                      "full_vn": "tôi chẳng thích cái đó tí nào cả"
+                    },
+                    {
+                      "full_en": "there's nothing at all to eat",
+                      "full_vn": "chẳng có cái gì để ăn cả"
+                    },
+                    {
+                      "full_en": "are you at all worried about the forecast",
+                      "full_vn": "anh có lo lắng chút nào về lời dự đoán đó hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) at all",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) gì hết; chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't know him at all",
+                      "full_vn": "tôi không hề biết hắn ta"
+                    },
+                    {
+                      "full_en": "I didn't enjoy it at all",
+                      "full_vn": "tôi chẳng thích cái đó tí nào cả"
+                    },
+                    {
+                      "full_en": "there's nothing at all to eat",
+                      "full_vn": "chẳng có cái gì để ăn cả"
+                    },
+                    {
+                      "full_en": "are you at all worried about the forecast",
+                      "full_vn": "anh có lo lắng chút nào về lời dự đoán đó hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) at all",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) gì hết; chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't know him at all",
+                      "full_vn": "tôi không hề biết hắn ta"
+                    },
+                    {
+                      "full_en": "I didn't enjoy it at all",
+                      "full_vn": "tôi chẳng thích cái đó tí nào cả"
+                    },
+                    {
+                      "full_en": "there's nothing at all to eat",
+                      "full_vn": "chẳng có cái gì để ăn cả"
+                    },
+                    {
+                      "full_en": "are you at all worried about the forecast",
+                      "full_vn": "anh có lo lắng chút nào về lời dự đoán đó hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(not ) at all",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) gì hết; chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't know him at all",
+                      "full_vn": "tôi không hề biết hắn ta"
+                    },
+                    {
+                      "full_en": "I didn't enjoy it at all",
+                      "full_vn": "tôi chẳng thích cái đó tí nào cả"
+                    },
+                    {
+                      "full_en": "there's nothing at all to eat",
+                      "full_vn": "chẳng có cái gì để ăn cả"
+                    },
+                    {
+                      "full_en": "are you at all worried about the forecast",
+                      "full_vn": "anh có lo lắng chút nào về lời dự đoán đó hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in all",
+              "list_im": [
+                {
+                  "im_full_vn": "tổng cộng, tất cả, cả thảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one and all",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả không trừ một ai; tất cả không trừ một cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's all",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả những gì ta có; đời sống"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we had several bottles of beer left - all (of them ) have disappeared",
+              "full_vn": "chúng tôi còn lại nhiều chai bia - tất cả (các chai đó) đều đã biến mất"
+            },
+            {
+              "full_en": "I invited my five sisters but not all (of them ) can come",
+              "full_vn": "tôi mời năm chị của tôi nhưng không phải tất cả (họ) đều đến được"
+            },
+            {
+              "full_en": "some of the food has been eaten , but not all (of it )",
+              "full_vn": "đã ăn hết một phần thức ăn, nhưng không phải tất cả"
+            },
+            {
+              "full_en": "All of the mourners were dressed in black /They were all dressed in black",
+              "full_vn": "tất cả những người đi đưa ma đều mặc đồ đen/tất cả bọn họ đều mặc đồ đen"
+            },
+            {
+              "full_en": "Take all of the wine /Take it all",
+              "full_vn": "Hãy lấy tất cả chỗ rượu vang/hãy lấy tất cả chỗ đó"
+            },
+            {
+              "full_en": "all I want is peace and quiet",
+              "full_vn": "tất cả những gì tôi muốn là sự yên tĩnh"
+            },
+            {
+              "full_en": "all of us",
+              "full_vn": "tất cả chúng tôi; tất cả chúng ta"
+            },
+            {
+              "full_en": "all is over !",
+              "full_vn": "thế là xong tất cả!"
+            },
+            {
+              "full_en": "all are unanimous to vote",
+              "full_vn": "tất cả đều nhất trí bầu"
+            },
+            {
+              "full_en": "that's all I know",
+              "full_vn": "đó là tất cả những điều tôi biết"
+            },
+            {
+              "full_en": "all but him",
+              "full_vn": "tất cả trừ nó ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn, toàn bộ, tất cả, trọn vẹn",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed all in white",
+              "full_vn": "mặc toàn đồ trắng"
+            },
+            {
+              "full_en": "that's all wrong",
+              "full_vn": "cái đó sai cả rồi"
+            },
+            {
+              "full_en": "she lived all alone /all by herself",
+              "full_vn": "bá ta sống hoàn toàn cô độc"
+            },
+            {
+              "full_en": "the coffee went all over my trousers",
+              "full_vn": "cà phê đổ hết lên quần tôi"
+            },
+            {
+              "full_en": "she was all excited",
+              "full_vn": "cô ta bị kích động mạnh"
+            },
+            {
+              "full_en": "don't get all upset about it",
+              "full_vn": "đừng quá lo lắng về việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong thể thao và trò chơi) cho mỗi bên",
+          "list_one_mean": [
+            {
+              "id_full_en": "all along",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt thời gian; từ đầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I realized I had had it in my pocket",
+                      "full_vn": "tôi nhận thấy rằng tôi vẫn để nó trong túi suốt thời gian đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all along",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt thời gian; từ đầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I realized I had had it in my pocket",
+                      "full_vn": "tôi nhận thấy rằng tôi vẫn để nó trong túi suốt thời gian đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all in",
+              "list_im": [
+                {
+                  "im_full_vn": "mệt rã rời, kiệt sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể nhiều hơn, trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all of two miles to the beach",
+                      "full_vn": "từ đây ra bãi biển xa hơn hai dặm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể nhiều hơn, trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all of two miles to the beach",
+                      "full_vn": "từ đây ra bãi biển xa hơn hai dặm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we looked all for the ring",
+                      "full_vn": "chúng tôi tìm cái nhẫn ở khắp nơi"
+                    },
+                    {
+                      "full_en": "to be covered all over with mud",
+                      "full_vn": "bùn bẩn khắp người"
+                    },
+                    {
+                      "full_en": "I'm aching all over after the match",
+                      "full_vn": "tôi ê ẩm toàn thân sau trận đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cái mà ta chờ đợi ở một người nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that sounds like my sister all over",
+                      "full_vn": "tiếng động đó nghe đúng là em gái tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's all over with him",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thế là nó tong rồi, thế là nó tiêu ma rồi, thế là nó đi đời rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all over somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quá nồng nhiệt đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You can see he's infatuated by her - he was all over her at the party",
+                      "full_vn": "Anh có thể thấy nó say mê cô ta - suốt bữa tiệc nó cứ quấn lấy cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all over somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quá nồng nhiệt đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You can see he's infatuated by her - he was all over her at the party",
+                      "full_vn": "Anh có thể thấy nó say mê cô ta - suốt bữa tiệc nó cứ quấn lấy cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all over ...",
+              "list_im": [
+                {
+                  "im_full_vn": "được mọi người (ở nơi nào đó) biết tỏng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "news of the holiday was all over the school within minutes",
+                      "full_vn": "chỉ trong vài phút, cái tin được nghỉ đã lan khắp cả trường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all over ...",
+              "list_im": [
+                {
+                  "im_full_vn": "được mọi người (ở nơi nào đó) biết tỏng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "news of the holiday was all over the school within minutes",
+                      "full_vn": "chỉ trong vài phút, cái tin được nghỉ đã lan khắp cả trường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all up with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là không còn gì nữa (đối với ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks as though it's all up with us now",
+                      "full_vn": "có vẻ như đối với chúng ta bây giờ thế là hết (chúng ta pha sản, chẳng còn dịp may nào nữa)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all up with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là không còn gì nữa (đối với ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks as though it's all up with us now",
+                      "full_vn": "có vẻ như đối với chúng ta bây giờ thế là hết (chúng ta pha sản, chẳng còn dịp may nào nữa)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all one",
+              "list_im": [
+                {
+                  "im_full_vn": "tạo nên một đơn vị trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we don't have a separate dining-room ; the living area is all one",
+                      "full_vn": "chúng tôi chẳng có phòng ăn riêng; chỗ tiếp khách là một phòng dùng chung (cũng) là phòng ăn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all one",
+              "list_im": [
+                {
+                  "im_full_vn": "tạo nên một đơn vị trọn vẹn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we don't have a separate dining-room ; the living area is all one",
+                      "full_vn": "chúng tôi chẳng có phòng ăn riêng; chỗ tiếp khách là một phòng dùng chung (cũng) là phòng ăn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all right (cũng alright )",
+              "list_im": [
+                {
+                  "im_full_vn": "như đã mong muốn, làm hài lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is the coffee all right ?",
+                      "full_vn": "cà phê có ngon không?"
+                    },
+                    {
+                      "full_en": "are you getting along all right in your new job ?",
+                      "full_vn": "anh có hài lòng với công việc mới của anh hay không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bình an vô sự và khoẻ mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I hope the children are all right",
+                      "full_vn": "tôi mong rằng mọi đứa trẻ đều khoẻ cả"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tốt vừa phải thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this homework is all right but you could do better",
+                      "full_vn": "bài tập này tạm được, nhưng lẽ ra anh có thể làm tốt hơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự đồng ý làm cái gì mà ai yêu cầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you post this for me ? - Yes , all right",
+                      "full_vn": "Anh gửi cái này cho tôi qua bưu điện nhé? - Được"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu thị sự chắc chắn tuyêt đối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that's the man I saw in the car all right",
+                      "full_vn": "dứt khoát đó là người đàn ông tôi đã trông thấy trên xe ô tô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all smiles",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn luôn tươi cười"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all legs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) leg"
+                }
+              ]
+            },
+            {
+              "id_full_en": "grasp all , lose all",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) grasp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's all",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đấy chỉ có thế thôi, không có gì phải nói thêm nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all about something",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy ai/cái gì làm chủ đề hoặc làm mối quan tâm chính",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the news is all about the latest summit meeting",
+                      "full_vn": "tin tức chủ yếu nói về cuộc họp thượng đỉnh gần đây nhất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all about something",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy ai/cái gì làm chủ đề hoặc làm mối quan tâm chính",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the news is all about the latest summit meeting",
+                      "full_vn": "tin tức chủ yếu nói về cuộc họp thượng đỉnh gần đây nhất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all for something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "tin tưởng mạnh mẽ rằng cái gì đó là đáng mong muốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's all for more nursery schools being built",
+                      "full_vn": "bà ta hoàn toàn tin rằng cần phải xây thêm nhiều trường mẫu giáo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all for something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "tin tưởng mạnh mẽ rằng cái gì đó là đáng mong muốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's all for more nursery schools being built",
+                      "full_vn": "bà ta hoàn toàn tin rằng cần phải xây thêm nhiều trường mẫu giáo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all there",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trí óc sáng suốt lành mạnh, không mất trí, không điên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is not quite all there",
+                      "full_vn": "anh ta mất trí rồi; trí óc anh ta không còn sáng suốt nữa rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all there",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trí óc sáng suốt lành mạnh, không mất trí, không điên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is not quite all there",
+                      "full_vn": "anh ta mất trí rồi; trí óc anh ta không còn sáng suốt nữa rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the same",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was all the same to him",
+                      "full_vn": "điều đó chẳng có ý nghĩa gì đối với hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dù thế nào đi nữa; dù sao chăng nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was punished all the same",
+                      "full_vn": "mặc dù thế nào hắn cũng cứ bị phạt"
+                    },
+                    {
+                      "full_en": "all the same I have to stay",
+                      "full_vn": "dù sao chăng nữa tôi vẫn phải ở lại"
+                    },
+                    {
+                      "full_en": "thank you all the same",
+                      "full_vn": "tuy vậy tôi vẫn xin cám ơn anh (chị...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all one to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's all one to me whether we eat now or later",
+                      "full_vn": "đối với tôi, ăn bây giờ hay lát nữa thì cũng như nhau thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all one to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là vấn đề không quan trọng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's all one to me whether we eat now or later",
+                      "full_vn": "đối với tôi, ăn bây giờ hay lát nữa thì cũng như nhau thôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the score was four all",
+              "full_vn": "tỉ số là bốn đều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "an all-electric kitchen",
+              "full_vn": "một nhà bếp dùng toàn đồ điện"
+            },
+            {
+              "full_en": "an all-American show",
+              "full_vn": "một cuộc trưng bày hoàn toàn của Mỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở mức độ cao nhất",
+          "list_en_vn": [
+            {
+              "full_en": "all-important",
+              "full_vn": "hết sức quan trọng"
+            },
+            {
+              "full_en": "all-powerful",
+              "full_vn": "nắm mọi quyền lực"
+            },
+            {
+              "full_en": "all-merciful",
+              "full_vn": "vô cùng từ bi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

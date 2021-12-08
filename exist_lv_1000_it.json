@@ -1,0 +1,49 @@
+{
+  "english": "exist",
+  "phat_am": "[ig'zist]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to exist in / on something ) là có thật hoặc thực sự; đã sống; tồn tại",
+          "list_en_vn": [
+            {
+              "full_en": "do you believe fairies exist ?",
+              "full_vn": "anh tin là thần tiên có thật hay không?"
+            },
+            {
+              "full_en": "the idea exists only in the minds of poets",
+              "full_vn": "ý tưởng ấy chỉ có trong đầu óc các thi sĩ thôi"
+            },
+            {
+              "full_en": "laws that have existed for hundreds of years",
+              "full_vn": "những đạo luật từng tồn tại hàng mấy trăm năm nay"
+            },
+            {
+              "full_en": "does life exist on Mars ?",
+              "full_vn": "có cuộc sống trên sao Hoả hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to exist on something ) tiếp tục sống (nhất là có khó khăn hoặc túng thiếu)",
+          "list_en_vn": [
+            {
+              "full_en": "we cannot exist without food or water",
+              "full_vn": "chúng ta không thể tồn tại nếu không có thức ăn hoặc nước uống"
+            },
+            {
+              "full_en": "he exists on rice and water",
+              "full_vn": "nó sống nhờ gạo và nước"
+            },
+            {
+              "full_en": "I can hardly exist on the wage I'm getting ; there is no money for luxuries",
+              "full_vn": "Tôi sống chật vật với đồng lương kiếm được; đâu có tiền cho những thứ xa xỉ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

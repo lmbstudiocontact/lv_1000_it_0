@@ -1,0 +1,208 @@
+{
+  "english": "be",
+  "phat_am": "[bi:]",
+  "list_type": [
+    {
+      "type": "(bất qui tắc) nội động từ & trợ động từ ( số ít was , số nhiều were , been )",
+      "list_m": [
+        {
+          "m_full_vn": "thì, là",
+          "list_en_vn": [
+            {
+              "full_en": "the earth is round",
+              "full_vn": "quả đất thì tròn"
+            },
+            {
+              "full_en": "he is a teacher",
+              "full_vn": "anh ta là giáo viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có, tồn tại, ở, sống",
+          "list_en_vn": [
+            {
+              "full_en": "there is a concert today",
+              "full_vn": "hôm nay có một buổi hoà nhạc"
+            },
+            {
+              "full_en": "are you often in town ?",
+              "full_vn": "anh thường có ở tỉnh không"
+            },
+            {
+              "full_en": "to be or not to be , that is the question",
+              "full_vn": "sống hay là chết, đó mới là vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên, trở thành",
+          "list_en_vn": [
+            {
+              "full_en": "they'll be linguists in some years",
+              "full_vn": "vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xảy ra, diễn ra",
+          "list_en_vn": [
+            {
+              "full_en": "when is the wedding to be ?",
+              "full_vn": "bao giờ đám cưới sẽ cử hành?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá",
+          "list_en_vn": [
+            {
+              "full_en": "this book is five pence",
+              "full_vn": "cuốn sách này giá năm xu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định, sẽ",
+          "list_en_vn": [
+            {
+              "full_en": "what time am I to come ?",
+              "full_vn": "mấy giờ tôi phải đến"
+            },
+            {
+              "full_en": "he is to leave for Hanoi tomorrow",
+              "full_vn": "ngày mai nó sẽ đi Hà nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + động tính từ hiện tại) đang",
+          "list_en_vn": [
+            {
+              "full_en": "they are doing their work",
+              "full_vn": "họ đang làm việc của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + động tính từ quá khứ) bị, được",
+          "list_en_vn": [
+            {
+              "full_en": "the boy is scolded by his mother",
+              "full_vn": "đứa bé bị mẹ mắng"
+            },
+            {
+              "full_en": "the house is being built",
+              "full_vn": "ngôi nhà đang được xây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã đi, đã đến",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be against",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be for",
+              "list_im": [
+                {
+                  "im_full_vn": "tán thành, đứng về phía"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the be-all and end-all of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "cốt lõi, phần quan trọng của điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be yourself",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy bình tĩnh, hãy tự nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "...-to-be",
+              "list_im": [
+                {
+                  "im_full_vn": "tương lai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "one's bride-to-be",
+                      "full_vn": "vợ tương lai, vị hôn thê của ai"
+                    },
+                    {
+                      "full_en": "a mother-to-be",
+                      "full_vn": "người phụ nữ mang thai, sản phụ (bà mẹ tương lai)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "...-to-be",
+              "list_im": [
+                {
+                  "im_full_vn": "tương lai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "one's bride-to-be",
+                      "full_vn": "vợ tương lai, vị hôn thê của ai"
+                    },
+                    {
+                      "full_en": "a mother-to-be",
+                      "full_vn": "người phụ nữ mang thai, sản phụ (bà mẹ tương lai)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "...-to-be",
+              "list_im": [
+                {
+                  "im_full_vn": "tương lai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "one's bride-to-be",
+                      "full_vn": "vợ tương lai, vị hôn thê của ai"
+                    },
+                    {
+                      "full_en": "a mother-to-be",
+                      "full_vn": "người phụ nữ mang thai, sản phụ (bà mẹ tương lai)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I've been to Peking once",
+              "full_vn": "tôi đã đi Bắc kinh một lần"
+            },
+            {
+              "full_en": "has anyone been during my absence ?",
+              "full_vn": "trong khi tôi đi vắng có ai đến không?"
+            },
+            {
+              "full_en": "he's been and took my books",
+              "full_vn": "(thông tục) cái thằng ấy đã đến lấy mất sách của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

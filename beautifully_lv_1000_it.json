@@ -1,0 +1,24 @@
+{
+  "english": "beautifully",
+  "phat_am": "['bju:tifuli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tốt đẹp, đáng hài lòng",
+          "list_en_vn": [
+            {
+              "full_en": "he plays tennis beautifully",
+              "full_vn": "anh ta chơi tennis rất hay"
+            },
+            {
+              "full_en": "my micro-computer always works beautifully",
+              "full_vn": "máy vi tính của tôi luôn luôn làm việc rất tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

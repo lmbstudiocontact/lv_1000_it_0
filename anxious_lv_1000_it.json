@@ -1,0 +1,54 @@
+{
+  "english": "anxious",
+  "phat_am": "['æηk∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( anxious about / for somebody / something ) lo âu; băn khoăn; khắc khoải",
+          "list_en_vn": [
+            {
+              "full_en": "an anxious mother",
+              "full_vn": "một bà mẹ hay lo"
+            },
+            {
+              "full_en": "I'm very anxious about his exam results",
+              "full_vn": "tôi rất lo lắng về kết quả thi của nó"
+            },
+            {
+              "full_en": "he was anxious for his family , who were travelling abroad",
+              "full_vn": "ông ta lo lắng về gia đình mình đang đi du lịch ở nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ra nỗi lo âu",
+          "list_en_vn": [
+            {
+              "full_en": "we had a few anxious moments before landing safely",
+              "full_vn": "chúng tôi đã trải qua những giây phút lo âu trước khi hạ cánh an toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( anxious for something / to do something / that ...) rất mong muốn cái gì; nóng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "anxious for their safety",
+              "full_vn": "thiết tha mong họ được an toàn"
+            },
+            {
+              "full_en": "anxious to meet one's sweetheart",
+              "full_vn": "nóng lòng muốn gặp người yêu"
+            },
+            {
+              "full_en": "they were anxious that aid should be sent promptly",
+              "full_vn": "họ nóng lòng mong cho viện trợ được gửi đến thật nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

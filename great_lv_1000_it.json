@@ -1,0 +1,210 @@
+{
+  "english": "great",
+  "phat_am": "[greit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lớn, to lớn, vĩ đại",
+          "list_en_vn": [
+            {
+              "full_en": "a great wind",
+              "full_vn": "cơn gió lớn"
+            },
+            {
+              "full_en": "a great distance",
+              "full_vn": "một khoảng cách lớn"
+            },
+            {
+              "full_en": "the Great October Socialist Revolution",
+              "full_vn": "cuộc cách mạng xã hội chủ nghĩa tháng mười vĩ đại"
+            },
+            {
+              "full_en": "a great writer",
+              "full_vn": "một nhà văn lớn"
+            },
+            {
+              "full_en": "the Great Powers",
+              "full_vn": "các nước lớn mạnh, các cường quốc"
+            },
+            {
+              "full_en": "a great scoundrel",
+              "full_vn": "thằng đại bợm"
+            },
+            {
+              "full_en": "the great majority",
+              "full_vn": "đại đa số"
+            },
+            {
+              "full_en": "at a great pace",
+              "full_vn": "đi rất nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hết sức, rất",
+          "list_en_vn": [
+            {
+              "full_en": "with great care",
+              "full_vn": "cẩn thận hết sức"
+            },
+            {
+              "full_en": "to pay great attention to",
+              "full_vn": "hết sức chú ý tới"
+            },
+            {
+              "full_en": "an antique of great price",
+              "full_vn": "một món đồ cổ rất quý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao quý, ca cả, cao thượng",
+          "list_en_vn": [
+            {
+              "full_en": "he appeared greater in adversity than ever before",
+              "full_vn": "trong lúc hoạn nạn anh ấy tỏ ra cao thượng hơn bao giờ hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt hay, thật là thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "that is great !",
+              "full_vn": "thật là tuyệt!"
+            },
+            {
+              "full_en": "to have great time",
+              "full_vn": "được hưởng một thời gian thú tuyệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giỏi, thạo cừ, hiểu rõ, hiểu tường tận",
+          "list_en_vn": [
+            {
+              "full_en": "to be great on",
+              "full_vn": "hiểu rõ, biết rõ, hiểu tường tận về (cái gì)"
+            },
+            {
+              "full_en": "to be great at",
+              "full_vn": "rất giỏi về (cái gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân (với ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be great with child",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) có mang, có chửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "great dozen",
+              "list_im": [
+                {
+                  "im_full_vn": "tá mười ba"
+                }
+              ]
+            },
+            {
+              "id_full_en": "great many",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a great mind to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mind"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live to a great age",
+              "list_im": [
+                {
+                  "im_full_vn": "sống đến tận lúc tuổi già, sống lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a great interest in",
+              "list_im": [
+                {
+                  "im_full_vn": "rất quan tâm đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be no great shakes",
+              "list_im": [
+                {
+                  "im_full_vn": "không thích hợp, không phù hợp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "going great guns",
+              "list_im": [
+                {
+                  "im_full_vn": "sinh động và đạt hiệu quả cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "great and small",
+              "list_im": [
+                {
+                  "im_full_vn": "giàu nghèo, mạnh yếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make great strides",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến bộ, tiến triển theo chiều hướng tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "your need is greater than mine",
+              "list_im": [
+                {
+                  "im_full_vn": "anh cần cái đó hơn là tôi cần"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be great with somebody",
+              "full_vn": "thân với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the great ) những người vĩ đại"
+        },
+        {
+          "m_full_vn": "( số nhiều) kỳ thi tốt nghiệp tú tài văn chương tại trường đại học Ôc-phớt"
+        }
+      ]
+    }
+  ]
+}

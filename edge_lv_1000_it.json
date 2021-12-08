@@ -1,0 +1,167 @@
+{
+  "english": "edge",
+  "phat_am": "[edʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưỡi, cạnh sắc (dao...); tính sắc",
+          "list_en_vn": [
+            {
+              "full_en": "knife has no edge",
+              "full_vn": "dao này không sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bờ, gờ, cạnh (hố sâu...); rìa, lề (rừng, cuốn sách...)"
+        },
+        {
+          "m_full_vn": "đỉnh, sống (núi...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tình trạng nguy khốn; lúc gay go, lúc lao đao",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on edge",
+              "list_im": [
+                {
+                  "im_full_vn": "bực mình"
+                },
+                {
+                  "im_full_vn": "dễ cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on edge",
+              "list_im": [
+                {
+                  "im_full_vn": "bực mình"
+                },
+                {
+                  "im_full_vn": "dễ cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the edge on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi thế hơn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set someone's teeth on edge",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai bực mình; làm cho ai gai người; làm cho ai ghê tởm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the edge off one's appetite",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ăn mất ngon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the edge off someone's argument",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho lý lẽ của ai mất sắc cạnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mài sắc, giũa sắc"
+        },
+        {
+          "m_full_vn": "viền (áo...); làm bờ cho, làm gờ cho, làm cạnh cho"
+        },
+        {
+          "m_full_vn": "xen (cái gì, câu...) vào, len (mình...) vào; dịch dần vào",
+          "list_en_vn": [
+            {
+              "full_en": "to edge one's way into a job",
+              "full_vn": "len lỏi vào một công việc gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi né lên, lách lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to edge away",
+              "list_im": [
+                {
+                  "im_full_vn": "từ từ dịch xa ra"
+                },
+                {
+                  "im_full_vn": "(hàng hải) đi xa ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to edge away",
+              "list_im": [
+                {
+                  "im_full_vn": "từ từ dịch xa ra"
+                },
+                {
+                  "im_full_vn": "(hàng hải) đi xa ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to edge off",
+              "list_im": [
+                {
+                  "im_full_vn": "mài mỏng (lưỡi dao...)"
+                },
+                {
+                  "im_full_vn": "(như) to edge away"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to edge off",
+              "list_im": [
+                {
+                  "im_full_vn": "mài mỏng (lưỡi dao...)"
+                },
+                {
+                  "im_full_vn": "(như) to edge away"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to edge on",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc đẩy, thúc giục"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

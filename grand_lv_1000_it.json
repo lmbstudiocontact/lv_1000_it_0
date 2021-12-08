@@ -1,0 +1,110 @@
+{
+  "english": "grand",
+  "phat_am": "[grænd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất quan trọng, rất lớn",
+          "list_en_vn": [
+            {
+              "full_en": "grand question",
+              "full_vn": "vấn đề rất quan trọng"
+            },
+            {
+              "full_en": "to make a grand mistake",
+              "full_vn": "phạm một lỗi lầm rất lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hùng vĩ, uy nghi, trang nghiêm, huy hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "a grand view",
+              "full_vn": "một cách hùng vĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao quý, cao thượng; trang trọng, bệ vệ",
+          "list_en_vn": [
+            {
+              "full_en": "grand manner",
+              "full_vn": "cử chỉ cao quý"
+            },
+            {
+              "full_en": "a grand air",
+              "full_vn": "điệu bộ trang trọng bệ vệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vĩ đại, cừ khôi, xuất chúng, lỗi lạc, ưu tú",
+          "list_en_vn": [
+            {
+              "full_en": "Grand Lenin",
+              "full_vn": "Lênin vĩ đại"
+            },
+            {
+              "full_en": "Van Cao is one of the grand old men of Vietnamese revolutionary music",
+              "full_vn": "Văn Cao là một trong những cây đại thụ (bậc lão thành) của nền âm nhạc cách mạng Việt Nam"
+            },
+            {
+              "full_en": "he's a grand fellow",
+              "full_vn": "anh ấy là một tay cừ khôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tuyệt, hay, đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "what grand weather !",
+              "full_vn": "trời đẹp tuyệt!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính, lớn, tổng quát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do the grand",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bộ làm tịch; lên mặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the grand entrance",
+              "full_vn": "cổng chính"
+            },
+            {
+              "full_en": "a grand orchestra",
+              "full_vn": "dàn nhạc lớn"
+            },
+            {
+              "full_en": "the grand total",
+              "full_vn": "tổng số tổng quát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) đàn pianô cánh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) một nghìn đô la"
+        }
+      ]
+    }
+  ]
+}

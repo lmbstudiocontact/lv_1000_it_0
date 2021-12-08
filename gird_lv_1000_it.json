@@ -1,0 +1,74 @@
+{
+  "english": "gird",
+  "phat_am": "[gə:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhạo báng, sự chế nhạo, sự chế giễu, sự giễu cợt"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạo báng, chế nhạo, chế giễu, giễu cợt",
+          "list_en_vn": [
+            {
+              "full_en": "to gird at somebody",
+              "full_vn": "chế giễu ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ girded , girt",
+      "list_m": [
+        {
+          "m_full_vn": "đeo, thắt, buộc quanh mình, quấn quanh, đóng đai quanh",
+          "list_en_vn": [
+            {
+              "full_en": "to gird a sword",
+              "full_vn": "đeo gươm vào"
+            },
+            {
+              "full_en": "to gird one's clothes",
+              "full_vn": "thắt lưng áo vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao bọc, vây quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the island girded by the sea",
+              "full_vn": "hòn đảo có biển bao quanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho (sức mạnh, quyền hành)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gird oneself ; to gird up one's loins",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị sẵn sàng hành động; xắn tay áo lên (làm gì...) ( (nghĩa bóng))"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gird someone with power",
+              "full_vn": "cho ai quyền hành"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

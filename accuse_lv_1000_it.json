@@ -1,0 +1,24 @@
+{
+  "english": "accuse",
+  "phat_am": "[ə'kju:z]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to accuse somebody of something ) buộc tội; kết tội",
+          "list_en_vn": [
+            {
+              "full_en": "to accuse sb of theft , of cheating",
+              "full_vn": "buộc tội ai vì trộm cắp, lừa đảo"
+            },
+            {
+              "full_en": "the accused",
+              "full_vn": "người bị kết tội, người bị buộc tội; bị cáo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

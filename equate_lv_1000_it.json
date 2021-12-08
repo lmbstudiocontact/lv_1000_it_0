@@ -1,0 +1,27 @@
+{
+  "english": "equate",
+  "phat_am": "[i'kweit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to equate something to / with something ) xem cái gì là bằng hoặc tương đương với cái gì; coi như ngang nhau/bằng nhau; đánh đồng",
+          "list_en_vn": [
+            {
+              "full_en": "you can't equate the education system of Britain to that of Germany",
+              "full_vn": "các bạn không thể coi hệ thống giáo dục của Anh và Đưc như nhau được"
+            },
+            {
+              "full_en": "he equates poverty with misery",
+              "full_vn": "anh ta coi sự nghèo nàn ngang với cảnh cơ cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đặt thành phương trình"
+        }
+      ]
+    }
+  ]
+}

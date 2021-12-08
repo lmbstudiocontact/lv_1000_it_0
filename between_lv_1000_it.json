@@ -1,0 +1,253 @@
+{
+  "english": "between",
+  "phat_am": "[bi'twi:n]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trong hoặc vào khoảng trống giữa hai hoặc nhiều điểm/vật thể/người",
+          "list_en_vn": [
+            {
+              "full_en": "Q comes between P and R in the English alphabet",
+              "full_vn": "Q đứng giữa P và R trong bảng chữ cái tiếng Anh"
+            },
+            {
+              "full_en": "I lost my keys somewhere between the car and the house",
+              "full_vn": "tôi đánh mất chìa khoá đâu đó trong khoảng từ nhà ra xe"
+            },
+            {
+              "full_en": "Switzerland lies between France , Germany , Austria and Italy",
+              "full_vn": "Thụy Sĩ nằm giữa Pháp, Đức, áo và ý"
+            },
+            {
+              "full_en": "the baby crawled between her father's legs",
+              "full_vn": "đứa bé bò giữa hai chân của bố nó"
+            },
+            {
+              "full_en": "a treaty was concluded between the two nations",
+              "full_vn": "một hiệp ước được ký kết giữa hai nước"
+            },
+            {
+              "full_en": "she divided her possessions equally between her four children",
+              "full_vn": "bà ta chia đều tài sản của mình cho bốn đứa con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng thời gian ngăn cách (giữa hai ngày/năm/sự kiện..)",
+          "list_en_vn": [
+            {
+              "full_en": "it's cheaper between 6 pm and 8 am",
+              "full_vn": "từ 6 giờ tối đến 8 giờ sáng thì giá rẻ hơn"
+            },
+            {
+              "full_en": "I'm usually free between Tuesday and Thursday",
+              "full_vn": "tôi thường rảnh từ thứ ba đến thứ năm"
+            },
+            {
+              "full_en": "children must attend school between 5 and 16",
+              "full_vn": "trẻ từ 5 đến 16 tuổi phải đi học"
+            },
+            {
+              "full_en": "many changes took place between the two world wars",
+              "full_vn": "đã có nhiều biến chuyển giữa hai cuộc thế chiến"
+            },
+            {
+              "full_en": "between now and the end of this month",
+              "full_vn": "trong khoảng thời gian từ nay đến cuối tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở một điểm nào đó từ một số lượng/trọng lượng/khoảng cách đến một điểm khác",
+          "list_en_vn": [
+            {
+              "full_en": "to weigh between nine and ten stones",
+              "full_vn": "cân nặng từ chín đến mười xtôn"
+            },
+            {
+              "full_en": "London is between fifty and sixty miles from Oxford",
+              "full_vn": "Luân Đôn cách Oxford từ 50 đến 60 dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về không gian) ngăn cách chỗ này với chỗ kia",
+          "list_en_vn": [
+            {
+              "full_en": "to build a wall between the two gardens",
+              "full_vn": "xây một bức tường giữa hai khu vườn"
+            },
+            {
+              "full_en": "to draw a line between sections A and B",
+              "full_vn": "vẽ một đường giữa hai đoạn A và B"
+            },
+            {
+              "full_en": "to fly between London and Paris twice daily",
+              "full_vn": "bay từ Luân Đôn đến Pari hai chuyến mỗi ngày"
+            },
+            {
+              "full_en": "to sail between Dover and Calais",
+              "full_vn": "đi thuyền buồm từ Dover đến Calais"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ rõ sự liên quan",
+          "list_en_vn": [
+            {
+              "full_en": "an obvious link between unemployment and crime rate",
+              "full_vn": "một mối liên quan rõ rệt giữa nạn thất nghiệp và tỉ lệ tội phạm"
+            },
+            {
+              "full_en": "they have settled the dispute between them",
+              "full_vn": "họ đã giải quyết cuộc tranh chấp giữa họ với nhau"
+            },
+            {
+              "full_en": "the friendship /love between people",
+              "full_vn": "tình bạn/tình yêu giữa con người với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được chia nhau giữa hai người hoặc hai vật",
+          "list_en_vn": [
+            {
+              "full_en": "this is just between you and me /between ourselves",
+              "full_vn": "đây là chuyện riêng giữa anh và tôi/giữa chúng ta"
+            },
+            {
+              "full_en": "we drank a bottle of wine between us",
+              "full_vn": "chúng tôi uống chung nhau một chai rượu"
+            },
+            {
+              "full_en": "they carried only one rucksack between them",
+              "full_vn": "hai người chỉ mang một chiếc ba lô"
+            },
+            {
+              "full_en": "there's a lot of disagreement between the two main political parties on this issue",
+              "full_vn": "có rất nhiều sự bất đồng giữa hai chính đảng chủ yếu về vấn đề này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do hành động hoặc sự đóng góp của hai người/vật",
+          "list_en_vn": [
+            {
+              "full_en": "they wrote the book between them",
+              "full_vn": "hai người cùng viết một cuốn sách"
+            },
+            {
+              "full_en": "between them they raised $500",
+              "full_vn": "hai người cùng nhau quyên góp được 500 đô la"
+            },
+            {
+              "full_en": "we can afford to buy a house between us",
+              "full_vn": "hai chúng tôi cùng góp chung mua một căn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nửa... nửa; vừa... vừa",
+          "list_one_mean": [
+            {
+              "id_full_en": "between the devil and the deep sea",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào hoàn cảnh bế tắc không có lối thoát; tiến lên mắc núi, lùi lại mắc sông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "between the cup and the lip a morsel may slip",
+              "list_im": [
+                {
+                  "im_full_vn": "miếng ăn đến miệng rồi vẫn có thể mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "between Scylla and Charybdis",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh vỏ dưa gặp vỏ dừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "between wind and water",
+              "list_im": [
+                {
+                  "im_full_vn": "ở đầu sóng ngọn gió"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "my job is somewhere between a typist and a personal assistant",
+              "full_vn": "công việc của tôi nhập nhằng giữa vai trò đánh máy và trợ lý"
+            },
+            {
+              "full_en": "what a strange piece of furniture ! it's something between an armchair and a sofa",
+              "full_vn": "đồ đạc gì mà trông lạ thế này! nửa ra là ghế bành, nửa ra là trường kỷ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở giữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "far between",
+              "list_im": [
+                {
+                  "im_full_vn": "ở cách xa nhau, thưa thớt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "visits are far between",
+                      "full_vn": "những cuộc đến thăm rất thưa thớt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far between",
+              "list_im": [
+                {
+                  "im_full_vn": "ở cách xa nhau, thưa thớt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "visits are far between",
+                      "full_vn": "những cuộc đến thăm rất thưa thớt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "one town ends where the next begins and there's a road that runs between",
+              "full_vn": "hết thành phố này thì sang đến thành phố khác, và giữa hai thành phố có một con đường"
+            },
+            {
+              "full_en": "you'd have a good view of the sea from here except for the block of flats in between",
+              "full_vn": "lẽ ra từ đây cậu có thể nhìn thấy cảnh đẹp của biển nếu không vướng khối nhà ở giữa"
+            },
+            {
+              "full_en": "we have two lessons this morning , but there's some free time in between",
+              "full_vn": "sáng nay chúng tôi học hai tiết, nhưng có nghỉ giải lao giữa giờ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

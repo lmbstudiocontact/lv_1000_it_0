@@ -1,0 +1,36 @@
+{
+  "english": "candidate",
+  "phat_am": "['kændidit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người xin việc; người ứng cử (ứng cử viên)",
+          "list_en_vn": [
+            {
+              "full_en": "to stand as Labour candidate in a parliamentary election",
+              "full_vn": "là người của Công đảng ứng cử vào Nghị viện"
+            },
+            {
+              "full_en": "to offer oneself as a candidate for a post",
+              "full_vn": "ứng cử vào một chức vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người dự thi; thí sinh"
+        },
+        {
+          "m_full_vn": "( candidate for something ) người được coi là thích hợp cho một địa vị hoặc công việc nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "The company is being forced to reduce staff and I fear I'm a likely candidate for redundancy",
+              "full_vn": "Công ty đang buộc phải giảm biên chế và tôi e rằng rất có thể tôi bị liệt vào số dư thừa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

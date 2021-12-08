@@ -1,0 +1,44 @@
+{
+  "english": "dwell",
+  "phat_am": "[dwel]",
+  "list_type": [
+    {
+      "type": "nội động từ dwelt",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + in , at , near , on ) ở, ngụ, ở",
+          "list_en_vn": [
+            {
+              "full_en": "to dwell in the country",
+              "full_vn": "ở nông thôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on , upon ) dừng lại ở, chăm chú vào, nhấn lâu vào, day đi day lại",
+          "list_en_vn": [
+            {
+              "full_en": "to dwell on a note",
+              "full_vn": "nhìn lâu vào một nốt"
+            },
+            {
+              "full_en": "to dwell on someone's mistake",
+              "full_vn": "day đi day lại mãi một lỗi của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng chững lại trước khi vượt rào (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) sự dừng đều đặn của máy móc"
+        }
+      ]
+    }
+  ]
+}

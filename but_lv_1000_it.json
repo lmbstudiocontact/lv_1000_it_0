@@ -1,0 +1,476 @@
+{
+  "english": "but",
+  "phat_am": "[bʌt]",
+  "list_type": [
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhưng, nhưng mà",
+          "list_en_vn": [
+            {
+              "full_en": "we tried to do it but couldn't",
+              "full_vn": "chúng tôi đã thử làm cái đó nhưng không được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( one cannot / could not but ...) không thể không...",
+          "list_en_vn": [
+            {
+              "full_en": "I can't but answer in the negative",
+              "full_vn": "Chúng tôi không còn cách nào khác là phải trả lời từ chối"
+            },
+            {
+              "full_en": "It was a rash thing to do , yet one cannot but admire her courage",
+              "full_vn": "Đó là công việc liều lĩnh, nhưng không thể không khâm phục lòng can đảm của cô ta"
+            },
+            {
+              "full_en": "I could not but admit that he was right and I was wrong",
+              "full_vn": "Tôi không thể không thừa nhận anh ta đúng, còn tôi thì sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mà lại không",
+          "list_one_mean": [
+            {
+              "id_full_en": "Not only ...but also .....",
+              "list_im": [
+                {
+                  "im_full_vn": "Chẳng những..... mà còn, không những.... mà lại.... nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You are not only intelligent but also modest",
+                      "full_vn": "Anh chẳng những thông minh mà còn khiêm tốn nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "Not only ...but also .....",
+              "list_im": [
+                {
+                  "im_full_vn": "Chẳng những..... mà còn, không những.... mà lại.... nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You are not only intelligent but also modest",
+                      "full_vn": "Anh chẳng những thông minh mà còn khiêm tốn nữa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "He never comes but he borrows books from me",
+              "full_vn": "Chẳng lần nào nó đến mà lại không mượn sách của tôi"
+            },
+            {
+              "full_en": "I never pass my old house but I think of the happy years I spent there",
+              "full_vn": "Không bao giờ đi ngang nhà cũ mà tôi không nhớ đến những năm tháng tôi sống hạnh phúc ở đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ, chỉ là, chỉ mới",
+          "list_one_mean": [
+            {
+              "id_full_en": "all but",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) all"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "He is but a child",
+              "full_vn": "Nó chỉ là một đứa trẻ con"
+            },
+            {
+              "full_en": "She left but an hour ago",
+              "full_vn": "Cô ta chỉ vừa mới đi cách đây một tiếng đồng hồ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ ra, ngoài ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "But for",
+              "list_im": [
+                {
+                  "im_full_vn": "Nếu không có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He would have fallen but for me",
+                      "full_vn": "Nếu không có tôi thì nó ngã rồi"
+                    },
+                    {
+                      "full_en": "But for the rain we would have had a nice holiday",
+                      "full_vn": "Nếu trời không mưa thì chúng ta đã có một kỳ nghỉ vui vẻ"
+                    },
+                    {
+                      "full_en": "But for the safety belt I wouldn't be alive today",
+                      "full_vn": "Nếu không có cái thắt lưng an toàn thì tôi đâu còn sống đến hôm nay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "But for",
+              "list_im": [
+                {
+                  "im_full_vn": "Nếu không có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He would have fallen but for me",
+                      "full_vn": "Nếu không có tôi thì nó ngã rồi"
+                    },
+                    {
+                      "full_en": "But for the rain we would have had a nice holiday",
+                      "full_vn": "Nếu trời không mưa thì chúng ta đã có một kỳ nghỉ vui vẻ"
+                    },
+                    {
+                      "full_en": "But for the safety belt I wouldn't be alive today",
+                      "full_vn": "Nếu không có cái thắt lưng an toàn thì tôi đâu còn sống đến hôm nay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "But for",
+              "list_im": [
+                {
+                  "im_full_vn": "Nếu không có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He would have fallen but for me",
+                      "full_vn": "Nếu không có tôi thì nó ngã rồi"
+                    },
+                    {
+                      "full_en": "But for the rain we would have had a nice holiday",
+                      "full_vn": "Nếu trời không mưa thì chúng ta đã có một kỳ nghỉ vui vẻ"
+                    },
+                    {
+                      "full_en": "But for the safety belt I wouldn't be alive today",
+                      "full_vn": "Nếu không có cái thắt lưng an toàn thì tôi đâu còn sống đến hôm nay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "But for",
+              "list_im": [
+                {
+                  "im_full_vn": "Nếu không có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He would have fallen but for me",
+                      "full_vn": "Nếu không có tôi thì nó ngã rồi"
+                    },
+                    {
+                      "full_en": "But for the rain we would have had a nice holiday",
+                      "full_vn": "Nếu trời không mưa thì chúng ta đã có một kỳ nghỉ vui vẻ"
+                    },
+                    {
+                      "full_en": "But for the safety belt I wouldn't be alive today",
+                      "full_vn": "Nếu không có cái thắt lưng an toàn thì tôi đâu còn sống đến hôm nay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "trừ phi, nếu không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I would have gone but that I was ill",
+                      "full_vn": "Nếu tôi không ốm thì tôi đã đi rồi"
+                    },
+                    {
+                      "full_en": "But that you had seen me in the water , I woulod have drowned",
+                      "full_vn": "Nếu anh không thấy tôi dưới nước thì có lẽ tôi đã chết đuối rồi"
+                    },
+                    {
+                      "full_en": "He would have come with us but that he had no money",
+                      "full_vn": "Lẽ ra nó đã đi với chúng tôi nếu nó không có tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "trừ phi, nếu không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I would have gone but that I was ill",
+                      "full_vn": "Nếu tôi không ốm thì tôi đã đi rồi"
+                    },
+                    {
+                      "full_en": "But that you had seen me in the water , I woulod have drowned",
+                      "full_vn": "Nếu anh không thấy tôi dưới nước thì có lẽ tôi đã chết đuối rồi"
+                    },
+                    {
+                      "full_en": "He would have come with us but that he had no money",
+                      "full_vn": "Lẽ ra nó đã đi với chúng tôi nếu nó không có tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "trừ phi, nếu không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I would have gone but that I was ill",
+                      "full_vn": "Nếu tôi không ốm thì tôi đã đi rồi"
+                    },
+                    {
+                      "full_en": "But that you had seen me in the water , I woulod have drowned",
+                      "full_vn": "Nếu anh không thấy tôi dưới nước thì có lẽ tôi đã chết đuối rồi"
+                    },
+                    {
+                      "full_en": "He would have come with us but that he had no money",
+                      "full_vn": "Lẽ ra nó đã đi với chúng tôi nếu nó không có tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "trừ phi, nếu không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I would have gone but that I was ill",
+                      "full_vn": "Nếu tôi không ốm thì tôi đã đi rồi"
+                    },
+                    {
+                      "full_en": "But that you had seen me in the water , I woulod have drowned",
+                      "full_vn": "Nếu anh không thấy tôi dưới nước thì có lẽ tôi đã chết đuối rồi"
+                    },
+                    {
+                      "full_en": "He would have come with us but that he had no money",
+                      "full_vn": "Lẽ ra nó đã đi với chúng tôi nếu nó không có tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(sau một từ phủ định) rằng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't deny /doubt /question but that you're telling the truth",
+                      "full_vn": "Tôi không phủ nhận/nghi ngờ/ngờ vực rằng anh đang nói thật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(sau một từ phủ định) rằng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I don't deny /doubt /question but that you're telling the truth",
+                      "full_vn": "Tôi không phủ nhận/nghi ngờ/ngờ vực rằng anh đang nói thật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Who knows but that what he says is true ? We have no proof that he is lying",
+                      "full_vn": "Đố ai biết được điều nó nói là không thật? Chúng ta đâu có bằng chứng gì cho thấy là nó nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "but that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "khác với...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Who knows but that what he says is true ? We have no proof that he is lying",
+                      "full_vn": "Đố ai biết được điều nó nói là không thật? Chúng ta đâu có bằng chứng gì cho thấy là nó nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "But then",
+              "list_im": [
+                {
+                  "im_full_vn": "Mặt khác, nhưng mặt khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The book is rather difficult , but then it gives us many interesting instructions on the use of modern machines",
+                      "full_vn": "Quyển sách cũng hơi khó, nhưng mặt khác nó cung cấp cho chúng tôi nhiều lời chỉ dẫn thú vị về cách dùng những máy tối tân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "But then",
+              "list_im": [
+                {
+                  "im_full_vn": "Mặt khác, nhưng mặt khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The book is rather difficult , but then it gives us many interesting instructions on the use of modern machines",
+                      "full_vn": "Quyển sách cũng hơi khó, nhưng mặt khác nó cung cấp cho chúng tôi nhiều lời chỉ dẫn thú vị về cách dùng những máy tối tân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "Not but that (what )",
+              "list_im": [
+                {
+                  "im_full_vn": "Nhưng không phải vì...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't come , not but that I'd like to",
+                      "full_vn": "Tôi không đến được, nhưng không phải vì tôi không thích đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "Not but that (what )",
+              "list_im": [
+                {
+                  "im_full_vn": "Nhưng không phải vì...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't come , not but that I'd like to",
+                      "full_vn": "Tôi không đến được, nhưng không phải vì tôi không thích đến"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "The problem is anything but easy",
+              "full_vn": "Bài toán này không dễ đâu"
+            },
+            {
+              "full_en": "Come any day but tomorrow",
+              "full_vn": "Hãy đến bất cứ ngày nào trừ ngày mai"
+            },
+            {
+              "full_en": "Read the last but one line",
+              "full_vn": "Đọc dòng trên dòng cuối cùng"
+            },
+            {
+              "full_en": "Nobody but you could be so selfish",
+              "full_vn": "Trừ anh ra, không ai có thể ích kỷ đến mức đó"
+            },
+            {
+              "full_en": "Everyone was there but him",
+              "full_vn": "Mọi người đều có mặt trừ nó ( Trừ nó ra, ai (cũng) có mặt)"
+            },
+            {
+              "full_en": "Nothing but trouble will come of this plan",
+              "full_vn": "Kế hoạch chẳng đem lại cái gì ngoài những chuyện rắc rối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "ai... mà không",
+          "list_en_vn": [
+            {
+              "full_en": "There was no one but admired him",
+              "full_vn": "Không có ai mà không thán phục ông ta"
+            },
+            {
+              "full_en": "There's no man but feels pity for starving children",
+              "full_vn": "Không ai không cảm thấy thương hại lũ trẻ đang chết đói"
+            },
+            {
+              "full_en": "There's not one of us but wishes to help you",
+              "full_vn": "Không ai trong chúng tôi mà không muốn giúp đỡ anh ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái \"nhưng mà\" ; điều phản đối, điều trái lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản đối, nói trái lại",
+          "list_en_vn": [
+            {
+              "full_en": "But me no buts",
+              "full_vn": "Đừng có phản đối tôi bằng những cái nhưng mà"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

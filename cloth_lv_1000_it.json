@@ -1,0 +1,85 @@
+{
+  "english": "cloth",
+  "phat_am": "[klɔθ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều clothes",
+      "list_m": [
+        {
+          "m_full_vn": "vải",
+          "list_en_vn": [
+            {
+              "full_en": "american cloth ; oil cloth",
+              "full_vn": "vải sơn, vải dầu"
+            },
+            {
+              "full_en": "cloth of gold",
+              "full_vn": "vải kim tuyến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khăn trải bàn",
+          "list_en_vn": [
+            {
+              "full_en": "to lay the cloth",
+              "full_vn": "trải khăn bàn (để chuẩn bị ăn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "áo thầy tu"
+        },
+        {
+          "m_full_vn": "( the cloth ) giới thầy tu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut one's coat according to one's cloth",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) liệu vải mà cắt áo; liệu cơm gắp mắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the same cloth",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một giuộc với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the whole cloth",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không một lời nào là đúng sự thật; hoàn toàn bịa từ đầu đến cuối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is a lie out of the whole cloth",
+                      "full_vn": "đó là một lời nói láo từ đầu đến cuối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the whole cloth",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không một lời nào là đúng sự thật; hoàn toàn bịa từ đầu đến cuối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is a lie out of the whole cloth",
+                      "full_vn": "đó là một lời nói láo từ đầu đến cuối"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

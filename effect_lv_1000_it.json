@@ -1,0 +1,262 @@
+{
+  "english": "effect",
+  "phat_am": "[i'fekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( effect on somebody / something ) tác động; tác dụng; hiệu quả; hiệu lực; ấn tượng",
+          "list_en_vn": [
+            {
+              "full_en": "did the medicine have any effect ?",
+              "full_vn": "thuốc có tác dụng hay không?"
+            },
+            {
+              "full_en": "the effect of light on plants",
+              "full_vn": "ảnh hưởng của ánh sáng lên cây cối"
+            },
+            {
+              "full_en": "cause and effect",
+              "full_vn": "nguyên nhân và kết quả"
+            },
+            {
+              "full_en": "that movie had quite an effect on her",
+              "full_vn": "bộ phim đã thực sự tác động đến cô ấy"
+            },
+            {
+              "full_en": "of no effect",
+              "full_vn": "không có hiệu quả"
+            },
+            {
+              "full_en": "with little effect",
+              "full_vn": "có hiệu lực kể từ ngày hôm nay"
+            },
+            {
+              "full_en": "the general effect of the painting is overwhelming",
+              "full_vn": "ấn tượng chung về bức tranh là rất mãnh liệt"
+            },
+            {
+              "full_en": "the stage lighting gives the effect of a moonlit scene",
+              "full_vn": "ánh đèn sân khấu tạo ra ấn tượng về một cảnh sáng trăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tài sản cá nhân; của cải",
+          "list_en_vn": [
+            {
+              "full_en": "personal effects",
+              "full_vn": "tài sản cá nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) hiệu ứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bring into effect ; to carry into effect",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào sử dụng; thực hiện; thi hành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the new computer system will soon be put into effect",
+                      "full_vn": "hệ thống máy tính mới sẽ sớm được đưa vào sử dụng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring into effect ; to carry into effect",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào sử dụng; thực hiện; thi hành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the new computer system will soon be put into effect",
+                      "full_vn": "hệ thống máy tính mới sẽ sớm được đưa vào sử dụng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come into effect",
+              "list_im": [
+                {
+                  "im_full_vn": "có hiệu lực thi hành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this governmental decree will come into effect by the end of this month",
+                      "full_vn": "nghị định này của chính phủ sẽ có hiệu lực vào cuối tháng này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come into effect",
+              "list_im": [
+                {
+                  "im_full_vn": "có hiệu lực thi hành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this governmental decree will come into effect by the end of this month",
+                      "full_vn": "nghị định này của chính phủ sẽ có hiệu lực vào cuối tháng này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give effect to something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho có hiệu lực (văn bản, luật lệ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in effect",
+              "list_im": [
+                {
+                  "im_full_vn": "đang có hiệu lực; hiện hành (luật lệ, văn bản...)"
+                },
+                {
+                  "im_full_vn": "trong thực tế; thực ra mà nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in effect",
+              "list_im": [
+                {
+                  "im_full_vn": "đang có hiệu lực; hiện hành (luật lệ, văn bản...)"
+                },
+                {
+                  "im_full_vn": "trong thực tế; thực ra mà nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to no effect",
+              "list_im": [
+                {
+                  "im_full_vn": "không hiệu quả; không có kết quả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take effect",
+              "list_im": [
+                {
+                  "im_full_vn": "mang lại kết quả như dự kiến; có tác dụng; có hiệu quả"
+                },
+                {
+                  "im_full_vn": "có hiệu lực (luật lệ, văn bản...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take effect",
+              "list_im": [
+                {
+                  "im_full_vn": "mang lại kết quả như dự kiến; có tác dụng; có hiệu quả"
+                },
+                {
+                  "im_full_vn": "có hiệu lực (luật lệ, văn bản...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to this /that effect",
+              "list_im": [
+                {
+                  "im_full_vn": "với ý nghĩa thế này/thế kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he told me to get out , or words to that effect",
+                      "full_vn": "ông ấy bảo tôi đi ra ngoài, hoặc những lời lẽ có ý nghĩa như thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to this /that effect",
+              "list_im": [
+                {
+                  "im_full_vn": "với ý nghĩa thế này/thế kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he told me to get out , or words to that effect",
+                      "full_vn": "ông ấy bảo tôi đi ra ngoài, hoặc những lời lẽ có ý nghĩa như thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the effect that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "với ý nghĩa là...; hàm ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left a note to the effect that he had paid the meals",
+                      "full_vn": "hắn để lại tờ giấy cho biết là hắn đã trả tiền ăn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the effect that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "với ý nghĩa là...; hàm ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left a note to the effect that he had paid the meals",
+                      "full_vn": "hắn để lại tờ giấy cho biết là hắn đã trả tiền ăn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cái gì xảy ra; thực hiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to effect a policy of insurance",
+              "list_im": [
+                {
+                  "im_full_vn": "ký một hợp đồng bảo hiểm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to effect a method",
+              "full_vn": "thực hiện một phương pháp"
+            },
+            {
+              "full_en": "to effect a change",
+              "full_vn": "đem lại sự thay đổi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

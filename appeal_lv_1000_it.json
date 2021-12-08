@@ -1,0 +1,123 @@
+{
+  "english": "appeal",
+  "phat_am": "[ə'pi:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( appeal to somebody for something ) yêu cầu khẩn khoản",
+          "list_en_vn": [
+            {
+              "full_en": "an appeal for help , food , extra staff",
+              "full_vn": "việc kêu gọi cứu giúp, cung cấp thức ăn, thêm nhân viên"
+            },
+            {
+              "full_en": "a charity appeal",
+              "full_vn": "lời kêu gọi cứu tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yêu cầu giúp đỡ và thông cảm",
+          "list_en_vn": [
+            {
+              "full_en": "her eyes held a look of silent appeal",
+              "full_vn": "đôi mắt cô ấy chất chứa một lời kêu cứu thầm lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hấp dẫn, sự thích thú",
+          "list_en_vn": [
+            {
+              "full_en": "does jazz hold any appeal for you ?",
+              "full_vn": "nhạc jazz có hấp dẫn anh chút nào không?"
+            },
+            {
+              "full_en": "the new fashion soon lost its appeal",
+              "full_vn": "mốt mới chẳng bao lâu đã mất sức hấp dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chống án, sự kháng cáo",
+          "list_en_vn": [
+            {
+              "full_en": "to lodge an appeal",
+              "full_vn": "gửi đơn kháng cáo"
+            },
+            {
+              "full_en": "to have the right of appeal",
+              "full_vn": "có quyền chống án"
+            },
+            {
+              "full_en": "appeal court",
+              "full_vn": "toà phúc thẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong môn cricket) hành vi yêu cầu trọng tài ra quyết định"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to appeal to somebody for something ) ( to appeal for something ) khẩn khoản yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "I'm appealing on behalf of the famine victims",
+              "full_vn": "tôi khẩn khoản kêu gọi các ngài nhân danh các nạn nhân của vụ đói kém"
+            },
+            {
+              "full_en": "the police appealed to the crowd not to panic",
+              "full_vn": "cảnh sát kêu gọi đám đông đừng hoảng hốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hấp dẫn; lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "the idea of camping has never appealed to me",
+              "full_vn": "ý nghĩ cắm trại chưa bao giờ là điều hấp dẫn tôi"
+            },
+            {
+              "full_en": "her sense of humour appealed to him enormously",
+              "full_vn": "sự nhạy bén của cô ta đối với chất trào phúng đã lôi cuốn anh ta hết sức mạnh mẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to appeal to something ) ( to appeal against something ) kháng cáo; chống án",
+          "list_en_vn": [
+            {
+              "full_en": "I've decided not to appeal",
+              "full_vn": "tôi đã quyết định không chống án"
+            },
+            {
+              "full_en": "she appealed to the higher court against her sentence",
+              "full_vn": "bà ấy chống án lên toà trên để phản đối quyết định kết tội bà ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to appeal to somebody ) ( to appeal for / against something ) yêu cầu (trọng tài) tuyên bố một cầu thủ phải ra sân hoặc một quyết định gì khác",
+          "list_en_vn": [
+            {
+              "full_en": "the whole side appealed for a catch",
+              "full_vn": "cả một bên yêu cầu cho bắt bóng"
+            },
+            {
+              "full_en": "the captain appealed against the light",
+              "full_vn": "người đội trưởng phản đối về ánh sáng (cho rằng ánh sáng không bảo đảm cho trận đấu tiếp tục)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

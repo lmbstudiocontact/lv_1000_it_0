@@ -1,0 +1,66 @@
+{
+  "english": "elect",
+  "phat_am": "[i'lekt]",
+  "list_type": [
+    {
+      "type": "tính từ (đứng sau danh từ)",
+      "list_m": [
+        {
+          "m_full_vn": "mới được chọn (được bầu) mà chưa nhậm chức; đắc cử",
+          "list_one_mean": [
+            {
+              "id_full_en": "the elect",
+              "list_im": [
+                {
+                  "im_full_vn": "những người được chọn là giỏi nhất, những người đắc cử; (tôn giáo) những người được Chúa chọn lên thiên đường"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the president elect",
+              "full_vn": "tổng thống mới được bầu (chưa nhậm chức); tổng thống mới đắc cử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to elect somebody to something ) bầu",
+          "list_en_vn": [
+            {
+              "full_en": "to elect a professor to the national assembly",
+              "full_vn": "bầu một vị giáo sư vào quốc hội"
+            },
+            {
+              "full_en": "Mr .X was elected again as Secretary General",
+              "full_vn": "Ông X được bầu lại làm Tổng thư ký"
+            },
+            {
+              "full_en": "they elected me (to be ) chairwoman",
+              "full_vn": "họ bầu tôi làm chủ tịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyết định",
+          "list_en_vn": [
+            {
+              "full_en": "he elected to stay at home",
+              "full_vn": "nó quyết định ở nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

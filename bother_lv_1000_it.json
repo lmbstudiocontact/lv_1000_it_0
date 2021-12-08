@@ -1,0 +1,57 @@
+{
+  "english": "bother",
+  "phat_am": "['bɔðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều bực mình, điều khó chịu, điều buồn bực, điều phiền muộn"
+        },
+        {
+          "m_full_vn": "sự lo lắng",
+          "list_one_mean": [
+            {
+              "id_full_en": "what a bother !",
+              "list_im": [
+                {
+                  "im_full_vn": "chà, phiền quá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm buồn bực, làm phiền, quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "to bother someone with something",
+              "full_vn": "làm phiền ai vì một chuyện gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lo lắng, lo ngại băn khoăn, áy náy",
+          "list_en_vn": [
+            {
+              "full_en": "to bother oneself about something ; to bother one's head about something",
+              "full_vn": "lo lắng về cái gì"
+            },
+            {
+              "full_en": "don't bother to come , just call me up",
+              "full_vn": "không phiền anh phải đến, cứ gọi dây nói cho tôi là được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ]
+}

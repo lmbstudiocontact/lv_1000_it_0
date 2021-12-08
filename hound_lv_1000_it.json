@@ -1,0 +1,69 @@
+{
+  "english": "hound",
+  "phat_am": "[haund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chó săn",
+          "list_en_vn": [
+            {
+              "full_en": "the hounds",
+              "full_vn": "bầy chó săn"
+            },
+            {
+              "full_en": "to follow the hounds ; to ride to hounds",
+              "full_vn": "đi săn bằng chó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ đê tiện đáng khinh"
+        },
+        {
+          "m_full_vn": "người theo vết giầy đi tìm (trong trò chơi chạy đuổi rắc giấy) ( (xem) hare )"
+        },
+        {
+          "m_full_vn": "(như) houndfish",
+          "list_one_mean": [
+            {
+              "id_full_en": "to run with the hare and to hunt with the hounds",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi với cả hai phe đang nghịch nhau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn lùng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hound sth /sb down",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm thấy sau một cuộc săn lùng ráo riết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hound sb out of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc ai từ bỏ cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

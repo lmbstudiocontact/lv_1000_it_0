@@ -1,0 +1,239 @@
+{
+  "english": "enough",
+  "phat_am": "[i'nʌf]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( enough something for somebody / something ) ( enough something for somebody to do something ) (dùng trước danh từ số nhiều hoặc danh từ không đếm được) cần bao nhiêu có bấy nhiêu; đủ",
+          "list_en_vn": [
+            {
+              "full_en": "have you made enough copies ?",
+              "full_vn": "anh sao đủ các bản chưa?"
+            },
+            {
+              "full_en": "have we got enough sandwiches for lunch ?",
+              "full_vn": "chúng ta có đủ bánh mì kẹp thịt cho bữa ăn trưa chưa?"
+            },
+            {
+              "full_en": "surely 15 minutes is enough time for you to have a coffee",
+              "full_vn": "chắc chắn 15 phút là đủ thời gian cho anh uống cà phê"
+            },
+            {
+              "full_en": "I've got enough money to pay for a taxi",
+              "full_vn": "tôi có đủ tiền để trả tắc xi"
+            },
+            {
+              "full_en": "there isn't enough space for my address",
+              "full_vn": "không đủ chỗ ghi địa chỉ của tôi"
+            },
+            {
+              "full_en": "there's food enough on the table",
+              "full_vn": "có đủ thức ăn trên bàn"
+            },
+            {
+              "full_en": "we have time enough to get to the airport",
+              "full_vn": "chúng tôi có đủ thời gian để đến sân bay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "( enough for somebody / something ) ( enough to do something / for doing something ) (dùng sau động từ, tính từ, phó từ) đạt tới mức độ thoả mãn; đủ",
+          "list_en_vn": [
+            {
+              "full_en": "you don't practise enough at the piano",
+              "full_vn": "anh không tập luyện pianô một cách đầy đủ"
+            },
+            {
+              "full_en": "is the river deep enough for swimming /to swim in ?",
+              "full_vn": "dòng sông có đủ độ sâu để bơi lội hay không?"
+            },
+            {
+              "full_en": "at 14, you aren't old enough to buy alcohol",
+              "full_vn": "ở tuổi 14, em chưa đủ tuổi để mua rượu"
+            },
+            {
+              "full_en": "she isn't good enough for the exam",
+              "full_vn": "cô ấy chưa đủ sức để đi thi"
+            },
+            {
+              "full_en": "I wish you'd write clearly enough for us to read it",
+              "full_vn": "tôi mong anh viết đủ rõ cho chúng tôi đọc được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(gợi ý rằng cái gì đó chỉ xứng đáng ca ngợi qua loa) ở một mức độ có ý nghĩa nào đó; một cách công bằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "curiously /oddly /strangely enough",
+              "list_im": [
+                {
+                  "im_full_vn": "rất kỳ lạ là...; điều lạ là...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "strangely enough , I said the same thing to my wife only yesterday",
+                      "full_vn": "rất kỳ lạ là tôi đã nói cũng điều ấy với vợ tôi chỉ mới ngày hôm qua"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "curiously /oddly /strangely enough",
+              "list_im": [
+                {
+                  "im_full_vn": "rất kỳ lạ là...; điều lạ là...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "strangely enough , I said the same thing to my wife only yesterday",
+                      "full_vn": "rất kỳ lạ là tôi đã nói cũng điều ấy với vợ tôi chỉ mới ngày hôm qua"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "fair enough",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng làm thán từ) thôi được, tôi chấp nhận (đồng ý một cách miễn cưỡng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sure enough",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để mở đầu một lời nói xác nhận một điều tiên đoán) không còn nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I said it would happen and sure enough it did",
+                      "full_vn": "tôi đã nói điều đó sẽ xảy ra và không còn nghi ngờ gì nữa, nó đã xảy ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sure enough",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để mở đầu một lời nói xác nhận một điều tiên đoán) không còn nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I said it would happen and sure enough it did",
+                      "full_vn": "tôi đã nói điều đó sẽ xảy ra và không còn nghi ngờ gì nữa, nó đã xảy ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she plays well enough for a beginner",
+              "full_vn": "cô ấy chơi khá hay so với một người mới tập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "cần bao nhiêu có bấy nhiêu; đủ",
+          "list_one_mean": [
+            {
+              "id_full_en": "enough is enough",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thêm hoặc làm thêm là không cần thiết và có thể có hại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have had enough of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chán ngấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "after three years without promotion , he decided he'd had enough and resigned",
+                      "full_vn": "sau ba năm không được thăng chức, anh ta quyết không chịu đựng nữa và từ chức"
+                    },
+                    {
+                      "full_en": "I've had enough of her continual chatter",
+                      "full_vn": "tôi đã chán ngấy cái cách nói huyên thuyên không ngớt của cô ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "have had enough of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chán ngấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "after three years without promotion , he decided he'd had enough and resigned",
+                      "full_vn": "sau ba năm không được thăng chức, anh ta quyết không chịu đựng nữa và từ chức"
+                    },
+                    {
+                      "full_en": "I've had enough of her continual chatter",
+                      "full_vn": "tôi đã chán ngấy cái cách nói huyên thuyên không ngớt của cô ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "have had enough of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chán ngấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "after three years without promotion , he decided he'd had enough and resigned",
+                      "full_vn": "sau ba năm không được thăng chức, anh ta quyết không chịu đựng nữa và từ chức"
+                    },
+                    {
+                      "full_en": "I've had enough of her continual chatter",
+                      "full_vn": "tôi đã chán ngấy cái cách nói huyên thuyên không ngớt của cô ấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Six bottles of wine will be enough",
+              "full_vn": "Sáu chai rượu là đủ"
+            },
+            {
+              "full_en": "Is this sum of money enough for your expenses ?",
+              "full_vn": "Số tiền này có đủ cho anh chi tiêu hay không?"
+            },
+            {
+              "full_en": "I hope enough of you are prepared to help with the show",
+              "full_vn": "Tôi hy vọng là có đủ người trong số các anh vui lòng giúp buổi trình diễn"
+            },
+            {
+              "full_en": "They were able to save enough of their furniture to fill a room",
+              "full_vn": "Họ có thể để dành đủ đồ đạc để bày biện căn phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

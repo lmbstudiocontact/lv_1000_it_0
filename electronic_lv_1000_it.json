@@ -1,0 +1,44 @@
+{
+  "english": "electronic",
+  "phat_am": "[,ilek'trɔnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được tạo ra hoặc hoạt động bởi dòng điện tử",
+          "list_en_vn": [
+            {
+              "full_en": "Electronic calculator",
+              "full_vn": "Máy tính điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên quan đến một thiết bị điện tử",
+          "list_en_vn": [
+            {
+              "full_en": "Electronic mail",
+              "full_vn": "Thư tín điện tử"
+            },
+            {
+              "full_en": "Electronic mailbox",
+              "full_vn": "Thiết bị nhận và lưu thư tín điện tử; hộp thư điện tử"
+            },
+            {
+              "full_en": "This dictionary is available in electronic form",
+              "full_vn": "Cuốn từ điển này có cả ở dạng điện tử (nghĩa là trên máy vi tính)"
+            },
+            {
+              "full_en": "Electronic music",
+              "full_vn": "Âm nhạc điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về ngành điện tử; liên quan đến ngành điện tử"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "coach",
+  "phat_am": "[kout∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe ngựa bốn bánh"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) toa hành khách"
+        },
+        {
+          "m_full_vn": "xe buýt chuyên chở khách đi xa; xe buýt đường dài"
+        },
+        {
+          "m_full_vn": "người kèm học; thầy dạy tư (luyện thi...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) huấn luyện viên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng xe ngựa"
+        },
+        {
+          "m_full_vn": "( to coach somebody for / in something ) dạy hoặc huấn luyện (nhất là để đi thi)",
+          "list_en_vn": [
+            {
+              "full_en": "to coach a swimmer for the Olympics",
+              "full_vn": "huấn luyện một vận động viên bơi lội để tham gia Thế vận hội"
+            },
+            {
+              "full_en": "to coach somebody in English",
+              "full_vn": "luyện tiếng Anh cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) hướng dẫn (phi công) bằng điện đài khi bay đêm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi bằng xe ngựa"
+        },
+        {
+          "m_full_vn": "làm việc hoặc hành động như một huấn luyện viên",
+          "list_en_vn": [
+            {
+              "full_en": "she'll be coaching all summer",
+              "full_vn": "cô ấy sẽ làm huấn luyện viên suốt mùa hè"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "english": "buy",
+  "phat_am": "[bai]",
+  "list_type": [
+    {
+      "type": "động từ bất quy tắc bought",
+      "list_m": [
+        {
+          "m_full_vn": "mua"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trả bằng giá; đạt được, được (cái gì bằng một sự hy sinh nào đó)"
+        },
+        {
+          "m_full_vn": "mua chuộc, đút lót, hối lộ (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buy back",
+              "list_im": [
+                {
+                  "im_full_vn": "mua lại (cái gì mình đã bán đi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy in",
+              "list_im": [
+                {
+                  "im_full_vn": "mua trữ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy in coal for the winter",
+                      "full_vn": "mua trữ than cho mùa đông"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mua lại đồ của mình với giá cao nhất (trong cuộc bán đấu giá)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) mua chức tước; xuỳ tiền ra để được gia nhập (một tổ chức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy in",
+              "list_im": [
+                {
+                  "im_full_vn": "mua trữ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy in coal for the winter",
+                      "full_vn": "mua trữ than cho mùa đông"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mua lại đồ của mình với giá cao nhất (trong cuộc bán đấu giá)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) mua chức tước; xuỳ tiền ra để được gia nhập (một tổ chức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy in",
+              "list_im": [
+                {
+                  "im_full_vn": "mua trữ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy in coal for the winter",
+                      "full_vn": "mua trữ than cho mùa đông"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mua lại đồ của mình với giá cao nhất (trong cuộc bán đấu giá)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) mua chức tước; xuỳ tiền ra để được gia nhập (một tổ chức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy in",
+              "list_im": [
+                {
+                  "im_full_vn": "mua trữ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to buy in coal for the winter",
+                      "full_vn": "mua trữ than cho mùa đông"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mua lại đồ của mình với giá cao nhất (trong cuộc bán đấu giá)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) mua chức tước; xuỳ tiền ra để được gia nhập (một tổ chức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy into",
+              "list_im": [
+                {
+                  "im_full_vn": "mua cổ phần (của công ty...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy off",
+              "list_im": [
+                {
+                  "im_full_vn": "đấm mồm, đút lót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy out",
+              "list_im": [
+                {
+                  "im_full_vn": "trả tiền (cho ai) để người ta bỏ chức vị hay tài sản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy over",
+              "list_im": [
+                {
+                  "im_full_vn": "mua chuộc, đút lót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy up",
+              "list_im": [
+                {
+                  "im_full_vn": "mua sạch, mua nhẵn, mua toàn bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy a pig in a poke",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pig"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll buy it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) tớ xin chịu, tớ không biết (để trả lời một câu đố, hay một câu hỏi)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục)"
+        },
+        {
+          "m_full_vn": "sự mua"
+        },
+        {
+          "m_full_vn": "vật mua",
+          "list_en_vn": [
+            {
+              "full_en": "a good buy",
+              "full_vn": "món hời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

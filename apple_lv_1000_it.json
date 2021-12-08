@@ -1,0 +1,84 @@
+{
+  "english": "apple",
+  "phat_am": "['æpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả táo",
+          "list_one_mean": [
+            {
+              "id_full_en": "Adam's apple",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) Adam"
+                }
+              ]
+            },
+            {
+              "id_full_en": "apple of discord",
+              "list_im": [
+                {
+                  "im_full_vn": "mối bất hoà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "apple of the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng tử, con ngươi"
+                },
+                {
+                  "im_full_vn": "vật quí báu phải giữ gìn nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "apple of the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng tử, con ngươi"
+                },
+                {
+                  "im_full_vn": "vật quí báu phải giữ gìn nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the apple of Sodom ; Dead Sea apple",
+              "list_im": [
+                {
+                  "im_full_vn": "quả táo trông mã ngoài thì đẹp nhưng trong đã thối"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) thành tích bề ngoài, thành tích giả tạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the apple of Sodom ; Dead Sea apple",
+              "list_im": [
+                {
+                  "im_full_vn": "quả táo trông mã ngoài thì đẹp nhưng trong đã thối"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) thành tích bề ngoài, thành tích giả tạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the rotten apple injures its neighbours",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) con sâu làm rầu nồi canh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

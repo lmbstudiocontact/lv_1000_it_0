@@ -1,0 +1,48 @@
+{
+  "english": "cone",
+  "phat_am": "[koun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình nón; vật hình nón"
+        },
+        {
+          "m_full_vn": "(thực vật học) nón"
+        },
+        {
+          "m_full_vn": "(động vật học) ốc nón"
+        },
+        {
+          "m_full_vn": "(hàng hải) tín hiệu báo bão (hình nón)"
+        },
+        {
+          "m_full_vn": "( số nhiều) bột áo (bột mịn để xoa bột bánh mì đã nhào)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành hình nón",
+          "list_en_vn": [
+            {
+              "full_en": "to be coned",
+              "full_vn": "bị đèn pha chiếu chụm vào; bị đèn pha phát hiện (máy bay)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình nón"
+        }
+      ]
+    }
+  ]
+}

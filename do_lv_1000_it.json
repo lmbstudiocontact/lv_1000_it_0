@@ -1,0 +1,683 @@
+{
+  "english": "do",
+  "phat_am": "[du:]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều là dos hoặc do's",
+      "list_m": [
+        {
+          "m_full_vn": "bữa tiệc, bữa liên hoan",
+          "list_en_vn": [
+            {
+              "full_en": "I hear the Newtons are having a big do tonight",
+              "full_vn": "tôi nghe nói là nhà Newtons mở tiệc lớn tối nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trò bịp bợm; trò bất lương",
+          "list_en_vn": [
+            {
+              "full_en": "if you ask me , the whole thing's a do",
+              "full_vn": "nếu anh hỏi tôi, toàn bộ sự việc là một trò bịp bợm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như doh",
+          "list_one_mean": [
+            {
+              "id_full_en": "do's and don'ts",
+              "list_im": [
+                {
+                  "im_full_vn": "các quy tắc (phải làm và không được làm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you want to lose weight , here are some do's and don'ts",
+                      "full_vn": "nếu anh muốn sụt cân thì đây là một số điều nên làm và nên tránh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "do's and don'ts",
+              "list_im": [
+                {
+                  "im_full_vn": "các quy tắc (phải làm và không được làm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you want to lose weight , here are some do's and don'ts",
+                      "full_vn": "nếu anh muốn sụt cân thì đây là một số điều nên làm và nên tránh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "fair do /dos / do's",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fair"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "như trên ( ditto )"
+        }
+      ]
+    },
+    {
+      "type": "Trợ động từ, phủ định là do not , rút gọn thành don't & Ngôi thứ ba số ít là does , phủ định là does not , rút gọn thành doesn't & Thì quá khứ là did , phủ định là did not , rút gọn thành didn't & Động tính từ quá khứ là done",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trước một động từ trọn vẹn để tạo thành câu hỏi và câu phủ định)",
+          "list_en_vn": [
+            {
+              "full_en": "I don't like fish",
+              "full_vn": "tôi không thích (ăn) cá"
+            },
+            {
+              "full_en": "they didn't go to Paris",
+              "full_vn": "họ không đi Pari"
+            },
+            {
+              "full_en": "don't forget to write",
+              "full_vn": "đừng quên viết thư nhé"
+            },
+            {
+              "full_en": "does she speak French ?",
+              "full_vn": "cô ta có nói tiếng Pháp không?"
+            },
+            {
+              "full_en": "do you believe him ?",
+              "full_vn": "anh có tin hắn không?"
+            },
+            {
+              "full_en": "did they take you home ?",
+              "full_vn": "họ có đưa anh về nhà hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để tạo nên câu hỏi lặp lại)",
+          "list_en_vn": [
+            {
+              "full_en": "you live in London, don't you ?",
+              "full_vn": "Anh sống ở Luân Đôn, có phải không?"
+            },
+            {
+              "full_en": "he married his boss' daughter , didn't he ?",
+              "full_vn": "anh ta cưới con gái ông chủ, có phải không?"
+            },
+            {
+              "full_en": "she doesn't work here , does she ?",
+              "full_vn": "cô ta không làm việc ở đây, có phải không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng khi không có trợ động từ khác để nhấn mạnh rằng một động từ là khẳng định)",
+          "list_en_vn": [
+            {
+              "full_en": "he does look tired",
+              "full_vn": "anh ta trông thật mệt mỏi"
+            },
+            {
+              "full_en": "she did write to say thank you",
+              "full_vn": "cô ấy đã viết thư cảm ơn anh"
+            },
+            {
+              "full_en": "do shut up !",
+              "full_vn": "hãy im mồm đi!"
+            },
+            {
+              "full_en": "do say you'll stay for supper !",
+              "full_vn": "hãy nói là anh sẽ ở lại ăn tối nhé!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để đảo ngược thứ tự của chủ ngữ và động từ khi một phó từ hoặc câu có phó từ chuyển lên đầu)",
+          "list_en_vn": [
+            {
+              "full_en": "not only does she speak Spanish , (but ) she also knows how to type",
+              "full_vn": "cô ấy không chỉ nói tiếng Tây Ban Nha, mà còn biết đánh máy chữ nữa"
+            },
+            {
+              "full_en": "so much did they eat that they could not move for the next hour !",
+              "full_vn": "họ ăn nhiều đến mức không thể ra đi vào giờ sau"
+            },
+            {
+              "full_en": "rarely did she request help but this was a matter of urgency",
+              "full_vn": "hiếm khi cô ấy yêu cầu giúp đỡ, nhưng đây là một việc khẩn cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để tránh việc nhắc lại động từ trọn vẹn)",
+          "list_en_vn": [
+            {
+              "full_en": "he drives faster than he did a year ago",
+              "full_vn": "anh ấy lái xe nhanh hơn là một năm trước đây"
+            },
+            {
+              "full_en": "she works harder than he does",
+              "full_vn": "chị ấy làm việc vất vả hơn anh ấy"
+            },
+            {
+              "full_en": "Who won ? - I did",
+              "full_vn": "Ai thắng? - Tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(được dùng nhất là với what , anything , nothing và something , để nói đến các hành động không xác định rõ hay chưa biết) làm",
+          "list_en_vn": [
+            {
+              "full_en": "What are you doing this evening ? - I'm going to the cinema",
+              "full_vn": "Anh làm gì tối nay? - Tôi đi xem phim"
+            },
+            {
+              "full_en": "Are you doing anything tomorrow evening ?",
+              "full_vn": "Tối mai anh có làm gì không?"
+            },
+            {
+              "full_en": "the company ought to do something about the poor service",
+              "full_vn": "công ta phải làm điều gì đó nhằm khắc phục việc phục vụ kém cỏi"
+            },
+            {
+              "full_en": "what does she want to do when she leaves school ?",
+              "full_vn": "cô ta muốn làm nghề gì sau khi ra trường?"
+            },
+            {
+              "full_en": "there's nothing to do in this place",
+              "full_vn": "ở đây không có việc gì để làm"
+            },
+            {
+              "full_en": "he does nothing but complain",
+              "full_vn": "hắn chẳng làm gì ngoài việc than vãn"
+            },
+            {
+              "full_en": "What can I do for you ?",
+              "full_vn": "tôi có thể làm được điều gì cho ông?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động, cư xử, làm",
+          "list_en_vn": [
+            {
+              "full_en": "do as you wish /please",
+              "full_vn": "hãy làm điều gì anh muốn"
+            },
+            {
+              "full_en": "why can't you do as you're told ?",
+              "full_vn": "sao anh không thể làm như người ta đã bảo?"
+            },
+            {
+              "full_en": "do as I do",
+              "full_vn": "hãy hành động (làm) như tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm việc, thực hiện (một hành động, một nhiệm vụ)",
+          "list_en_vn": [
+            {
+              "full_en": "to do a university degree",
+              "full_vn": "học lấy bằng đại học"
+            },
+            {
+              "full_en": "to do research into French history",
+              "full_vn": "nghiên cứu lịch sử nước Pháp"
+            },
+            {
+              "full_en": "he still has to do his military service",
+              "full_vn": "anh ấy còn phải thực hiện nghĩa vụ quân sự"
+            },
+            {
+              "full_en": "I've a number of important things to do today",
+              "full_vn": "hôm nay tôi có nhiều việc quan trọng phải làm"
+            },
+            {
+              "full_en": "she does aerobics once a week",
+              "full_vn": "cô ta tập thể dục nhịp điệu mỗi tuần một lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng nhất là với the + danh từ hoặc my , his ... + danh từ để nói đến các việc hàng ngày (như) lau chùi, quét dọn...)",
+          "list_en_vn": [
+            {
+              "full_en": "to do one's teeth",
+              "full_vn": "đánh răng"
+            },
+            {
+              "full_en": "to do the dishes",
+              "full_vn": "rửa bát đĩa"
+            },
+            {
+              "full_en": "to do the silver",
+              "full_vn": "đánh bóng đồ bạc"
+            },
+            {
+              "full_en": "to do the flowers",
+              "full_vn": "cắm hoa (vào lọ)"
+            },
+            {
+              "full_en": "I like the way you've done your hair",
+              "full_vn": "tôi thích kiểu làm đầu của chị"
+            },
+            {
+              "full_en": "we have to get someone to do the roof",
+              "full_vn": "chúng ta sẽ phải gọi ai đó đến sửa mái nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với the , my , some , much ... + dạng ing của một động từ để nói tới một hoạt động với (nghĩa rộng))",
+          "list_en_vn": [
+            {
+              "full_en": "to do the ironing /cooking /washing",
+              "full_vn": "là (quần áo) /nấu ăn/giặt giũ"
+            },
+            {
+              "full_en": "we usually do our shopping at the weekend",
+              "full_vn": "chúng tôi thường đi mua sắm vào ngày nghỉ cuối tuần"
+            },
+            {
+              "full_en": "you do the painting and I'll do the papering",
+              "full_vn": "anh quét sơn, còn tôi thì dán giấy lên tường"
+            },
+            {
+              "full_en": "he does some writing in his spare time",
+              "full_vn": "anh ấy viết lách đôi chút trong lúc rỗi rãi"
+            },
+            {
+              "full_en": "she did a lot of acting when she was at university",
+              "full_vn": "cô ấy đóng kịch nhiều khi còn học ở đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học, nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "do you do science at school ?",
+              "full_vn": "anh có nghiên cứu khoa học ở trường hay không?"
+            },
+            {
+              "full_en": "to do accountancy /engineering /law",
+              "full_vn": "học nghề kế toán/kỹ sư/luật"
+            },
+            {
+              "full_en": "she did economics at Sheffield University",
+              "full_vn": "cô ấy học kinh tế ở Đại học Sheffield"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm lời đáp (cho cái gì), giải đáp",
+          "list_en_vn": [
+            {
+              "full_en": "I can't do this sum",
+              "full_vn": "tôi thể giải bài tính cộng này"
+            },
+            {
+              "full_en": "I could never do simultaneous equations",
+              "full_vn": "tôi chẳng bao giờ giải được các phương trình tương thích"
+            },
+            {
+              "full_en": "can you do crosswords ?",
+              "full_vn": "anh giải ô chữ được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sản xuất cái gì, làm ra cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to do a drawing /painting /sketch",
+              "full_vn": "vẽ một bản vẽ/bức tranh/bức ký hoạ"
+            },
+            {
+              "full_en": "she did five copies of the agenda",
+              "full_vn": "cô ấy làm (đánh máy, in...) năm bản chườngtrinh nghị sự"
+            },
+            {
+              "full_en": "who's doing the food at the wedding reception ?",
+              "full_vn": "ai làm bữa tiệc cưới? (tổ chức và chuẩn bị thức ăn)"
+            },
+            {
+              "full_en": "does this pub do lunches ?",
+              "full_vn": "quán này có bán bữa ăn trưa hay không?"
+            },
+            {
+              "full_en": "I'll do a translation for you /do you a translation",
+              "full_vn": "tôi sẽ dịch cho anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giải quyết hay chăm lo cho ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the barber said he'd do me next",
+              "full_vn": "ông thợ cạo báo tiếp theo ông ấy sẽ cắt (tóc) cho tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng tác, đem trình diễn",
+          "list_en_vn": [
+            {
+              "full_en": "The Dramatic Society are doing Hamlet next year",
+              "full_vn": "sang năm Hội sân khấu sẽ diễn Hamlet"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắm vai gì, bắt chước ai",
+          "list_en_vn": [
+            {
+              "full_en": "I thought he did Hamlet superbly",
+              "full_vn": "tôi cho rằng anh ta sắm vai Hamlet tuyệt vời"
+            },
+            {
+              "full_en": "she does Mrs . Thatcher rather well",
+              "full_vn": "bà ấy bắt chước bà Thatcher khá giống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng ở thời hoàn thành hay bị động) làm xong; hoàn thành",
+          "list_en_vn": [
+            {
+              "full_en": "have you done ?",
+              "full_vn": "anh làm xong chưa?"
+            },
+            {
+              "full_en": "I've done talking - it's time to act",
+              "full_vn": "tôi đã nói xong - bây giờ đến lúc phải hành động"
+            },
+            {
+              "full_en": "the work won't take too long to do",
+              "full_vn": "công việc sẽ không được làm quá lâu"
+            },
+            {
+              "full_en": "did you get your article done in time ?",
+              "full_vn": "anh có hoàn thành đúng thời hạn bài báo hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "du hành qua một quãng đường; đi",
+          "list_en_vn": [
+            {
+              "full_en": "how many miles did you do during your tour ?",
+              "full_vn": "anh đi được bao nhiêu dặm trong chuyến đi này?"
+            },
+            {
+              "full_en": "my car does 40 miles to the gallon",
+              "full_vn": "xe tôi chạy 40 dặm hết một galông xăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành (một cuộc hành trình)",
+          "list_en_vn": [
+            {
+              "full_en": "we did the journey from London to Oxford in an hour",
+              "full_vn": "chúng tôi đi từ Luân Đôn đến Oxford hết một giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi, chạy, đạt (một tốc độ)",
+          "list_en_vn": [
+            {
+              "full_en": "the car was doing 90 miles an hour",
+              "full_vn": "chiếc xe đang chạy chín mươi dặm một giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tham quan, xem thắng cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "we did Tokyo in three days",
+              "full_vn": "chúng tôi thăm Tokyo trong ba ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng (một khoảng thời gian); mất",
+          "list_en_vn": [
+            {
+              "full_en": "she did a year at university , but decided to give up the course",
+              "full_vn": "cô ta mất một năm học đại học, nhưng rồi quyết định bỏ lớp"
+            },
+            {
+              "full_en": "he did six months in prison for burglary",
+              "full_vn": "nó ngồi tù sáu tháng về tội trộm cắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy đủ hay làm thoả mãn ( ai/cái gì); được",
+          "list_en_vn": [
+            {
+              "full_en": "Can you lend me some money ? - Certainly - will 100 dollars do ?",
+              "full_vn": "Anh cho tôi mượn ít tiền được không? - Được chứ, 100 đô la đủ không?"
+            },
+            {
+              "full_en": "will next Friday do for our meeting ?",
+              "full_vn": "thứ sáu sau tổ chức mít tinh được không?"
+            },
+            {
+              "full_en": "these shoes won't do for climbing",
+              "full_vn": "đôi giày này không dùng để leo được"
+            },
+            {
+              "full_en": "this log will do fine as a table for our picnic",
+              "full_vn": "khúc gỗ này làm bàn ăn cho cuộc pich nich của chúng ta thì thật đẹp"
+            },
+            {
+              "full_en": "this room will do me nicely , thank you",
+              "full_vn": "phòng này vừa ý tôi quá, cám ơn anh nhé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với phó từ, hoặc câu hỏi bắt đầu bằng how )",
+          "list_en_vn": [
+            {
+              "full_en": "she's doing very well at school",
+              "full_vn": "cô bé học rất tiến bộ trong trường"
+            },
+            {
+              "full_en": "both mother and baby are doing well",
+              "full_vn": "cả mẹ lẫn con đều khoẻ mạnh (mẹ tròn con vuông)"
+            },
+            {
+              "full_en": "how is the business doing ?",
+              "full_vn": "công việc kinh doanh tiến triển ra sao?"
+            },
+            {
+              "full_en": "everything in the garden is doing splendidly",
+              "full_vn": "cây cối trong vườn mọc rất tươi tốt"
+            },
+            {
+              "full_en": "she did well out of the deal",
+              "full_vn": "cô ấy hoàn thành tốt chuyện giao dịch mua bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nấu nướng, xào, rán",
+          "list_en_vn": [
+            {
+              "full_en": "shall I do the casserole in the oven ?",
+              "full_vn": "tôi hầm món thịt trong lò nhé?"
+            },
+            {
+              "full_en": "how would you like your steak done ?",
+              "full_vn": "anh muốn làm món thịt nướng thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lừa, bịp",
+          "list_en_vn": [
+            {
+              "full_en": "this table isn't a genuine antique ; I'm afraid you've been done",
+              "full_vn": "cái bàn này không phải đồ cổ thật, tôi e rằng anh đã bị lừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cướp, trộm",
+          "list_en_vn": [
+            {
+              "full_en": "the gang did a warehouse and a supermarket",
+              "full_vn": "băng đó cướp một kho hàng và một siêu thị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh đập",
+          "list_en_vn": [
+            {
+              "full_en": "say that again and I'll do you !",
+              "full_vn": "mày mà nói nữa thì tao sẽ cho một trận!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to get done ) bị bắt giữ; bị phạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /have to do with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có quan hệ hoặc liên quan với ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "do as you would be done by",
+              "list_im": [
+                {
+                  "im_full_vn": "cần phải đối xử với người khác như là mình muốn người ta đối xử với mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have (got ) something , nothing , a lot to do with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "có quan hệ hoặc liên quan với ai/cái gì trong một phạm vi nhất định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "how do you do ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(lời chào chính thức khi gặp ai lần đầu tiên)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it /that will never / won't do",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho thấy tình trạng công việc không tốt đẹp và cần phải cải thiện); không ổn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing doing",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để từ chối một yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can you lend me some money ? - Nothing doing !",
+                      "full_vn": "Anh cho tôi mượn tí tiền được không? - Làm gì có!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing doing",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để từ chối một yêu cầu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can you lend me some money ? - Nothing doing !",
+                      "full_vn": "Anh cho tôi mượn tí tiền được không? - Làm gì có!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that does it",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho thấy người ta không thể chịu đựng cái gì nữa) đủ rồi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's done it",
+              "list_im": [
+                {
+                  "im_full_vn": "(cho thấy sự mất tinh thần, sự tức giận, rằng một sự rủi ro, tai nạn hoặc một sai lầm đã làm hỏng hoặc hư hại cái gì đó); thế là toi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that will do",
+              "list_im": [
+                {
+                  "im_full_vn": "(ra lệnh cho ai đừng làm hoặc nói gì nữa) thôi đủ rồi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easier said than done",
+              "list_im": [
+                {
+                  "im_full_vn": "nói dễ hơn làm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he got done for speeding",
+              "full_vn": "anh ta bị bắt giữ vì lái xe quá tốc độ quy định"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

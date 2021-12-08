@@ -1,0 +1,51 @@
+{
+  "english": "cling",
+  "phat_am": "[kliη]",
+  "list_type": [
+    {
+      "type": "nội động từ clung",
+      "list_m": [
+        {
+          "m_full_vn": "bám vào, dính sát vào, níu lấy",
+          "list_en_vn": [
+            {
+              "full_en": "wet clothes cling to the body",
+              "full_vn": "quần áo ướt dính sát vào người"
+            },
+            {
+              "full_en": "clinging dress",
+              "full_vn": "quần áo bó sát vào người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bám lấy; trung thành (với); giữ mãi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cling on to",
+              "list_im": [
+                {
+                  "im_full_vn": "bám chặt lấy, giữ chặt lấy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cling to one's friend",
+              "full_vn": "trung thành với bạn"
+            },
+            {
+              "full_en": "to cling to one's habit",
+              "full_vn": "giữ mãi một thói quen"
+            },
+            {
+              "full_en": "to cling to an idea",
+              "full_vn": "giữ một ý kiến"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

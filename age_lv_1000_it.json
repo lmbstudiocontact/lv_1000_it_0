@@ -1,0 +1,315 @@
+{
+  "english": "age",
+  "phat_am": "[eidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "what age are you ?",
+              "full_vn": "anh bao nhiêu tuổi?"
+            },
+            {
+              "full_en": "he's twenty years of age /twenty years old",
+              "full_vn": "anh ta hai mươi tuổi"
+            },
+            {
+              "full_en": "their ages are ten and twelve",
+              "full_vn": "tuổi của chúng nó là 10 và 12"
+            },
+            {
+              "full_en": "at what age did she retire ?",
+              "full_vn": "bà ta về hưu lúc mấy tuổi?"
+            },
+            {
+              "full_en": "I left school at the age of 18",
+              "full_vn": "tôi thôi học năm 18 tuổi"
+            },
+            {
+              "full_en": "when I was your age ...",
+              "full_vn": "hồi tôi bằng tuổi anh..."
+            },
+            {
+              "full_en": "we have a son your age",
+              "full_vn": "chúng tôi có một đứa con trai bằng tuổi anh"
+            },
+            {
+              "full_en": "he lived to a great age",
+              "full_vn": "ông ấy sống rất thọ"
+            },
+            {
+              "full_en": "he's the same age as my eldest brother",
+              "full_vn": "anh ta bằng tuổi anh cả của tôi"
+            },
+            {
+              "full_en": "geologists have calculated the age of the earth",
+              "full_vn": "các nhà địa chất học đã tính được tuổi của trái đất"
+            },
+            {
+              "full_en": "the age /years of discretion",
+              "full_vn": "tuổi khôn, tuổi biết suy xét rồi ( 14 tuổi)"
+            },
+            {
+              "full_en": "at the tender age /of tender age",
+              "full_vn": "trẻ tuổi và chưa chín chắn; trẻ người non dạ"
+            },
+            {
+              "full_en": "the awkward age",
+              "full_vn": "tuổi mới lớn"
+            },
+            {
+              "full_en": "over age",
+              "full_vn": "quá tuổi quy định"
+            },
+            {
+              "full_en": "age limit",
+              "full_vn": "giới hạn tuổi"
+            },
+            {
+              "full_en": "anyone can enter the contest - there's no age limit",
+              "full_vn": "ai tham gia cuộc thi cũng được - không có giới hạn tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi già, tuổi tác",
+          "list_en_vn": [
+            {
+              "full_en": "the wisdom that comes with age",
+              "full_vn": "sự khôn ngoan đến với tuổi già"
+            },
+            {
+              "full_en": "his face was wrinkled with age",
+              "full_vn": "mặt ông ta nhăn nheo vì tuổi già"
+            },
+            {
+              "full_en": "fine wine improves with age",
+              "full_vn": "rượu ngon càng để lâu càng ngon"
+            },
+            {
+              "full_en": "back bent with age",
+              "full_vn": "lưng còng vì tuổi tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời đại, thời kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "the bronze age",
+              "full_vn": "thời kỳ đồ đồng"
+            },
+            {
+              "full_en": "the golden age",
+              "full_vn": "thời kỳ hoàng kim"
+            },
+            {
+              "full_en": "the Elizabethan age",
+              "full_vn": "thời Elizabeth"
+            },
+            {
+              "full_en": "the modern /nuclear age",
+              "full_vn": "thời hiện đại/thời đại hạt nhân"
+            },
+            {
+              "full_en": "the age of the microchip",
+              "full_vn": "thời đại máy tính điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thời gian rất dài",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /come of age",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tuổi trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under age",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đến tuổi trưởng thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you shouldn't sell cigarettes to teenagers who are under age /to under age teenagers",
+                      "full_vn": "anh không nên bán thuốc lá cho thanh thiếu niên chưa đến tuổi trưởng thành"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "under age",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đến tuổi trưởng thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you shouldn't sell cigarettes to teenagers who are under age /to under age teenagers",
+                      "full_vn": "anh không nên bán thuốc lá cho thanh thiếu niên chưa đến tuổi trưởng thành"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be of an age",
+              "list_im": [
+                {
+                  "im_full_vn": "đã đến tuổi phải làm cái gì đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "over age",
+              "list_im": [
+                {
+                  "im_full_vn": "già quá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be your age",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy xử sự đúng với lứa tuổi của anh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "age of consent",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi cập kê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's age",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận ra rằng mình đã già, nhận ra rằng mình lỗi thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beat one's age",
+              "list_im": [
+                {
+                  "im_full_vn": "già mà còn khoẻ, nom trẻ hơn tuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look one's age",
+              "list_im": [
+                {
+                  "im_full_vn": "trông đúng như tuổi thật của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be of an age with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng tuổi với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dog's age",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) (thông tục) một thời gian dài, hàng thế kỷ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a green old age",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi già, tuổi già sung sướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hoary age",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi già, tuổi hạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the infirmities of age",
+              "list_im": [
+                {
+                  "im_full_vn": "những bệnh tật lúc tuổi già"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I waited for ages",
+              "full_vn": "tôi đã đợi hàng bao nhiêu năm"
+            },
+            {
+              "full_en": "it took us ages to find a place to park",
+              "full_vn": "chúng tôi đã tốn rất nhiều thời gian để tìm chỗ đỗ xe ô tô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho già cỗi",
+          "list_en_vn": [
+            {
+              "full_en": "worry aged my mother rapidly",
+              "full_vn": "sự lo lắng khiến cho mẹ tôi mau già"
+            },
+            {
+              "full_en": "I found her greatly aged",
+              "full_vn": "tôi thấy bà ấy già đi nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho chín, ngấu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "già đi, cho thấy dấu hiệu già đi",
+          "list_en_vn": [
+            {
+              "full_en": "he's aged a lot recently",
+              "full_vn": "gần đây ông ta đã già đi nhiều"
+            },
+            {
+              "full_en": "she's aging /ageing gracefully",
+              "full_vn": "bà ta già đi mà vẫn duyên dáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chín, ngấu"
+        }
+      ]
+    }
+  ]
+}

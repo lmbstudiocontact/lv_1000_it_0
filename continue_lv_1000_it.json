@@ -1,0 +1,58 @@
+{
+  "english": "continue",
+  "phat_am": "[kən'tinju:]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếp tục, làm tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "to continue one's narrative",
+              "full_vn": "tiếp tục câu chuyện"
+            },
+            {
+              "full_en": "to be continued",
+              "full_vn": "còn tiếp nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ, duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "to continue someone in a post",
+              "full_vn": "giữ ai ở trong một cương vị công tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫn cứ, tiếp diễn",
+          "list_en_vn": [
+            {
+              "full_en": "if you continue to be stubborn",
+              "full_vn": "nếu anh vẫn cứ cứng đầu cứng cổ"
+            },
+            {
+              "full_en": "I continue to think the same",
+              "full_vn": "tôi vẫn cứ nghĩ như vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở lại",
+          "list_en_vn": [
+            {
+              "full_en": "I'll in Paris till next year",
+              "full_vn": "tôi sẽ ở lại Pa-ri cho đến sang năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) hoãn lại, đình lại (một vụ kiện)"
+        }
+      ]
+    }
+  ]
+}

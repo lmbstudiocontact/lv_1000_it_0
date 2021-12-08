@@ -1,0 +1,32 @@
+{
+  "english": "accredit",
+  "phat_am": "[ə'kredit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to accredit somebody to / at ...; to accredit somebody to somebody ) gửi hay chỉ định ai (nhất là đại sứ) làm đại diện chính thức tới (một chính phủ nước ngoài...)",
+          "list_en_vn": [
+            {
+              "full_en": "he was accredited to /at Madrid/accredited to the Spanish king",
+              "full_vn": "ông ta được cử tới Madrid làm đại sứ/chỉ định làm đại sứ bên cạnh vua Tây Ban Nha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to accredit something to somebody ; to accredit somebody with something ) gán cho, quy cho, đổ cho",
+          "list_en_vn": [
+            {
+              "full_en": "he is accredited with having first invented that device",
+              "full_vn": "ông ta được coi là người đầu tiên phát minh ra thiết bị ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giành, chiếm được lòngtin hay ảnh hưởng về (lời khuyên, người khuyên, lời tuyên bố...)"
+        }
+      ]
+    }
+  ]
+}

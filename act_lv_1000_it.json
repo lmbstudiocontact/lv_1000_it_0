@@ -1,0 +1,312 @@
+{
+  "english": "act",
+  "phat_am": "[ækt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc làm; hành vi; hành động",
+          "list_en_vn": [
+            {
+              "full_en": "act of violence",
+              "full_vn": "hành động bạo lực"
+            },
+            {
+              "full_en": "it is an act of kindness /a kind act to help the poor",
+              "full_vn": "giúp đỡ người nghèo là một việc làm/nghĩa cử nhân từ"
+            },
+            {
+              "full_en": "this dreadful murder is surely the act of a mad man",
+              "full_vn": "án mạng khủng khiếp này chắc chắn là hành động của một kẻ điên dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạo luật",
+          "list_en_vn": [
+            {
+              "full_en": "to pass an act",
+              "full_vn": "thông qua một đạo luật"
+            },
+            {
+              "full_en": "act of parliament",
+              "full_vn": "một đạo luật của quốc hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hồi (một phân đoạn trong một trong vở kịch)",
+          "list_en_vn": [
+            {
+              "full_en": "a play in five acts",
+              "full_vn": "vở kịch năm màn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết mục (xiếc, ca múa nhạc...)",
+          "list_en_vn": [
+            {
+              "full_en": "a circus act",
+              "full_vn": "tiết mục xiếc"
+            },
+            {
+              "full_en": "a song and dance act",
+              "full_vn": "tiết mục múa hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giả vờ; sự ra vẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "(the ) Acts (of the Apostles )",
+              "list_im": [
+                {
+                  "im_full_vn": "(trong Kinh Thánh) các thiên kể về sự nghiệp của các Tông đồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an act of God",
+              "list_im": [
+                {
+                  "im_full_vn": "thiên tai (bão lụt, động đất...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "insured against all loss or damage , including that caused by an act of God",
+                      "full_vn": "được bảo hiểm về mọi sự mất mát hoặc thiệt hại, kể cả mất mát hoặc thiệt hại do thiên tai gây ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "an act of God",
+              "list_im": [
+                {
+                  "im_full_vn": "thiên tai (bão lụt, động đất...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "insured against all loss or damage , including that caused by an act of God",
+                      "full_vn": "được bảo hiểm về mọi sự mất mát hoặc thiệt hại, kể cả mất mát hoặc thiệt hại do thiên tai gây ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get in on the act",
+              "list_im": [
+                {
+                  "im_full_vn": "tham gia vào một công cuộc kinh doanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do a disappearing act",
+              "list_im": [
+                {
+                  "im_full_vn": "xem disappear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on an act",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) khoe mẽ (để che đậy thực tế)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to catch somebody ) in the (very ) act (of doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(phát hiện ai) đang làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I caught your favourite daughter in the (very ) act (of smoking )",
+                      "full_vn": "Tôi bắt gặp quả tang con gái cưng của anh (đang hút thuốc)"
+                    },
+                    {
+                      "full_en": "In climbing a tree , he slipped and fell headlong",
+                      "full_vn": "Trong lúc leo cây, anh ta trượt chân và ngã đâm đầu xuống"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to catch somebody ) in the (very ) act (of doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(phát hiện ai) đang làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I caught your favourite daughter in the (very ) act (of smoking )",
+                      "full_vn": "Tôi bắt gặp quả tang con gái cưng của anh (đang hút thuốc)"
+                    },
+                    {
+                      "full_en": "In climbing a tree , he slipped and fell headlong",
+                      "full_vn": "Trong lúc leo cây, anh ta trượt chân và ngã đâm đầu xuống"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to catch somebody ) in the (very ) act (of doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(phát hiện ai) đang làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I caught your favourite daughter in the (very ) act (of smoking )",
+                      "full_vn": "Tôi bắt gặp quả tang con gái cưng của anh (đang hút thuốc)"
+                    },
+                    {
+                      "full_en": "In climbing a tree , he slipped and fell headlong",
+                      "full_vn": "Trong lúc leo cây, anh ta trượt chân và ngã đâm đầu xuống"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Don't believe what she says - it's all an act !",
+              "full_vn": "Đừng tin những điều cô ta nói - tất cả chỉ là vờ vịt thôi!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng (vai) trong một vở kịch, bộ phim...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to act /play the fool",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fool"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to act /play the goat",
+              "list_im": [
+                {
+                  "im_full_vn": "xem goat"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to act a part",
+              "full_vn": "đóng một vai"
+            },
+            {
+              "full_en": "to act (the part of) Hamlet; to act Hamlet",
+              "full_vn": "đóng vai Hăm-lét"
+            },
+            {
+              "full_en": "She's not really insolent - she's just acting the demi-mondaine",
+              "full_vn": "Cô ấy không phải xấc láo thật đâu - cô ấy chỉ đang đóng vai ả giang hồ thôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động",
+          "list_en_vn": [
+            {
+              "full_en": "to act like a fool",
+              "full_vn": "hành động như một thằng điên"
+            },
+            {
+              "full_en": "you acted wisely by /in telling him the whole truth",
+              "full_vn": "anh đã hành động khôn ngoan khi kể hết sự thật cho ông ấy nghe"
+            },
+            {
+              "full_en": "the police refused to act without a search-warrant",
+              "full_vn": "cảnh sát không chịu ra tay khi chưa có lệnh khám nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to act as somebody / something ) thực hiệnvai trò hoặc nhiệm vụ của ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to act as interpreter",
+              "full_vn": "làm phiên dịch"
+            },
+            {
+              "full_en": "Nobody can drive a car , so I have to act as a driver",
+              "full_vn": "Không ai lái xe được, nên tôi phải làm tài xế vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to act for / on behalf of somebody ) hành động nhân danh ai; thay mặt/đại diện ai"
+        },
+        {
+          "m_full_vn": "( to act on something ) tác động/ảnh hưởng đến cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "alcohol acts on the nerves",
+              "full_vn": "rượu có tác động đến thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng kịch; diễn kịch; diễn xuất",
+          "list_en_vn": [
+            {
+              "full_en": "to act very well",
+              "full_vn": "thủ vai rất đạt; diễn xuất rất hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to act upon / on something ) hành động theo cái gì; làm theo cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to act on someone's advice",
+              "full_vn": "hành động theo lời khuyên của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(to act up to something ) hành động cho xứng đáng với cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to act up",
+              "list_im": [
+                {
+                  "im_full_vn": "gây phiền toái (do vận hành kém, do hỏng hóc..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to act up to one's reputation",
+              "full_vn": "hành động xứng đáng với thanh danh của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

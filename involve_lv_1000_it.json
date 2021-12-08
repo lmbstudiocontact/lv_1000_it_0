@@ -1,0 +1,38 @@
+{
+  "english": "involve",
+  "phat_am": "[in'vɔlv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gồm, bao hàm"
+        },
+        {
+          "m_full_vn": "làm cho mắc míu (vào chuyện gì); làm liên luỵ, làm dính líu, làm dính dáng"
+        },
+        {
+          "m_full_vn": "thu hút tâm trí của; để hết tâm trí vào (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "he was involved in working out a solution to the problem",
+              "full_vn": "anh ấy để hết tâm trí tìm cách giải quyết vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi phải, cần phải, kéo theo",
+          "list_en_vn": [
+            {
+              "full_en": "expansion in business involves expenditure",
+              "full_vn": "sự mở rộng việc kinh doanh đòi hỏi phải chi tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộn vào, quấn lại"
+        }
+      ]
+    }
+  ]
+}

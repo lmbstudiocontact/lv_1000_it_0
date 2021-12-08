@@ -1,0 +1,36 @@
+{
+  "english": "hew",
+  "phat_am": "[hju:]",
+  "list_type": [
+    {
+      "type": "động từ hewed , hewed , hewn",
+      "list_m": [
+        {
+          "m_full_vn": "chặt, đốn, đẽo; bổ",
+          "list_en_vn": [
+            {
+              "full_en": "to hew down a tree",
+              "full_vn": "đốn cây"
+            },
+            {
+              "full_en": "to hew something to pieces",
+              "full_vn": "bổ cái gì ra làm nhiều mảnh"
+            },
+            {
+              "full_en": "to hew asunder",
+              "full_vn": "bổ đôi"
+            },
+            {
+              "full_en": "to hew one's way",
+              "full_vn": "chặt cây mở đường"
+            },
+            {
+              "full_en": "to hew at somebody",
+              "full_vn": "bổ rìu vào ai, chặt vào ai, lấy dao phạt vào ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

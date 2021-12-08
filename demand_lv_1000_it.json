@@ -1,0 +1,62 @@
+{
+  "english": "demand",
+  "phat_am": "[di'mɑ:nd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đòi hỏi, sự yêu cầu; nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "demand bill",
+              "full_vn": "giấy yêu cầu thanh toán nợ"
+            },
+            {
+              "full_en": "on demand",
+              "full_vn": "khi yêu cầu, theo yêu cầu"
+            },
+            {
+              "full_en": "in great demand",
+              "full_vn": "được nhiều người yêu cầu, được nhiều người chuộng"
+            },
+            {
+              "full_en": "law of supply and demand",
+              "full_vn": "luật cung cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những sự đòi hỏi cấp bách (đối với thì giờ, túi tiền... của ai)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đòi hỏi, yêu cầu; cần, cần phải",
+          "list_en_vn": [
+            {
+              "full_en": "this problem demands careful treatment",
+              "full_vn": "vấn đề này đòi hỏi phải giải quyết thận trọng"
+            },
+            {
+              "full_en": "this letter demands an immediate reply",
+              "full_vn": "lá thư này cần phải trả lời ngay tức khắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỏi, hỏi gặng",
+          "list_en_vn": [
+            {
+              "full_en": "he demanded my business",
+              "full_vn": "anh ta gặng hỏi tôi cần những gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

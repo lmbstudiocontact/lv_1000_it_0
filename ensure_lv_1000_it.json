@@ -1,0 +1,24 @@
+{
+  "english": "ensure",
+  "phat_am": "[in'∫uə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "these encouraging results ensure that you will pass your examination",
+              "full_vn": "những kết quả phấn khởi này bảo đảm chắc rằng bạn sẽ thi đỗ"
+            },
+            {
+              "full_en": "these documents ensure your legitimate rights",
+              "full_vn": "các chứng thư này bảo đảm cho quyền lợi hợp pháp của bạn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

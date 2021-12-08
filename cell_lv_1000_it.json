@@ -1,0 +1,59 @@
+{
+  "english": "cell",
+  "phat_am": "[sel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ô, ngăn"
+        },
+        {
+          "m_full_vn": "phòng nhỏ"
+        },
+        {
+          "m_full_vn": "xà lim",
+          "list_en_vn": [
+            {
+              "full_en": "condemned cell",
+              "full_vn": "xà lim giam những người bị kết án tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lỗ tổ ong"
+        },
+        {
+          "m_full_vn": "(điện học) pin",
+          "list_en_vn": [
+            {
+              "full_en": "dry cell",
+              "full_vn": "pin khô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) tế bào"
+        },
+        {
+          "m_full_vn": "(chính trị) chi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "communist party cell",
+              "full_vn": "chi bộ đảng cộng sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "am (nhà nhỏ một gian của ẩn sĩ)"
+        },
+        {
+          "m_full_vn": "(thơ ca) túp lều tranh, căn nhà nhỏ"
+        },
+        {
+          "m_full_vn": "(thơ ca) nấm mồ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "awake",
+  "phat_am": "[ə'weik]",
+  "list_type": [
+    {
+      "type": "động từ, thời quá khứ là awoke , động tính từ quá khứ là awoken",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho một người hoặc một động vật) thôi ngủ, đánh thức; thức giấc",
+          "list_en_vn": [
+            {
+              "full_en": "he awoke the sleeping child",
+              "full_vn": "anh ấy đánh thức đứa bé đang ngủ"
+            },
+            {
+              "full_en": "she awoke when the nurse entered the room",
+              "full_vn": "bà ta thức giấc khi cô y tá bước vào buồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho cái gì) trở nên hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "the letter awoke old fears",
+              "full_vn": "bức thư làm sống lại những nỗi kinh sợ trước đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to awake to something ) nhận ra cái gì; nhận thức được cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to awake to the dangers /opportunities",
+              "full_vn": "nhận ra những nguy cơ/cơ hội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tỉnh, thức, không ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "to lie awake",
+              "full_vn": "nằm thức (chứ không ngủ)"
+            },
+            {
+              "full_en": "they aren't awake yet",
+              "full_vn": "chúng vẫn chưa tỉnh"
+            },
+            {
+              "full_en": "are the children still awake ?",
+              "full_vn": "bọn trẻ vẫn còn thức à?"
+            },
+            {
+              "full_en": "to be wide awake",
+              "full_vn": "hoàn toàn tỉnh táo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( awake to something ) ý thức, nhận thức rõ",
+          "list_en_vn": [
+            {
+              "full_en": "everyone should be awake to his role in the collectivity",
+              "full_vn": "mọi người nên nhận thức rõ vai trò của mình trong tập thể"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

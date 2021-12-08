@@ -1,0 +1,75 @@
+{
+  "english": "arrive",
+  "phat_am": "[ə'raiv]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tới (một nơi), nhất là sau một chuyến đi",
+          "list_en_vn": [
+            {
+              "full_en": "to arrive at school",
+              "full_vn": "đến trường"
+            },
+            {
+              "full_en": "to arrive home",
+              "full_vn": "về đến nhà"
+            },
+            {
+              "full_en": "what time did you arrive ?",
+              "full_vn": "anh đến lúc mấy giờ?"
+            },
+            {
+              "full_en": "we arrived at the station five minutes late",
+              "full_vn": "chúng tôi đến nhà ga chậm năm phút"
+            },
+            {
+              "full_en": "they will arrive in New York at noon",
+              "full_vn": "họ sẽ đến New York vào giữa trưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về một sự kiện trong thời gian) đến",
+          "list_en_vn": [
+            {
+              "full_en": "the great day has arrived",
+              "full_vn": "ngày trọng đại đã đến"
+            },
+            {
+              "full_en": "the baby finally arrived just after midnight",
+              "full_vn": "cuối cùng đứa bé ra đời ngay sau nửa đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên nổi tiếng hoặc thành công",
+          "list_en_vn": [
+            {
+              "full_en": "you know you've arrived when you're asked to appear on TV",
+              "full_vn": "anh biết là anh đã thành công khi được người ta mời lên TV"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt được (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to arrive at an agreement",
+              "full_vn": "đi tới/đạt được một sự thoả thuận"
+            },
+            {
+              "full_en": "to arrive at a decision /conclusion",
+              "full_vn": "đi đến một quyết định/kết luận"
+            },
+            {
+              "full_en": "to arrive at perfection",
+              "full_vn": "đạt tới chỗ hoàn thiện"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

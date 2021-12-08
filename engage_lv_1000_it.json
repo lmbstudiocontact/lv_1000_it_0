@@ -1,0 +1,106 @@
+{
+  "english": "engage",
+  "phat_am": "[in'geidʒ]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dàn xếp để tuyển dụng một người; thuê một người",
+          "list_en_vn": [
+            {
+              "full_en": "to engage a new accountant",
+              "full_vn": "tuyển một nhân viên kế toán mới"
+            },
+            {
+              "full_en": "she was engaged to baby-sit ; she was engaged as a baby-sitter",
+              "full_vn": "bà ta được thuê làm người giữ trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm hoặc thu hút (ý nghĩ, thời gian... của một người)",
+          "list_en_vn": [
+            {
+              "full_en": "nothing engages his attention for long",
+              "full_vn": "chẳng có gì làm anh ta chú ý được lâu"
+            },
+            {
+              "full_en": "the old mendicant's plight engaged our pity",
+              "full_vn": "cảnh ngộ của ông lão ăn xin khiến chúng tôi phải thương cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bắt đầu chiến đấu; giao chiến",
+          "list_en_vn": [
+            {
+              "full_en": "to engage the enemy in heavy fighting",
+              "full_vn": "đánh nhau với quân địch rất dữ dội"
+            },
+            {
+              "full_en": "our orders are to engage (the enemy ) immediately",
+              "full_vn": "mệnh lệnh của chúng tôi là tiến đánh quân địch ngay lập tức"
+            },
+            {
+              "full_en": "the two armies were fiercely engaged for several hours",
+              "full_vn": "hai đạo quân giao chiến dữ dội mấy giờ liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho ăn khớp nhau; gài số",
+          "list_en_vn": [
+            {
+              "full_en": "to engage the clutch /first gear",
+              "full_vn": "vào khớp ly hợp/số một (trong xe ô tô)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to engage with something ) ăn khớp",
+          "list_en_vn": [
+            {
+              "full_en": "the two cog-wheels engaged and the machine started",
+              "full_vn": "hai bánh răng ăn khớp nhau và cỗ máy chuyển động"
+            },
+            {
+              "full_en": "one cog-wheel engages with another",
+              "full_vn": "một chiếc bánh răng khớp vào chiếc kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự ràng buộc bởi một lời hứa; cam kết",
+          "list_en_vn": [
+            {
+              "full_en": "this lawyer engaged to plead for our orphan nephew",
+              "full_vn": "luật sư này hứa sẽ biện hộ cho đứa cháu mồ côi của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to engage somebody in something ) (làm cho một người) tham gia vào một việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "don't engage him in your scandals",
+              "full_vn": "đừng lôi kéo ông ta vào những vụ bê bối của anh"
+            },
+            {
+              "full_en": "I have no time to engage in gossip",
+              "full_vn": "tôi chẳng có thời giờ để tham gia vào những chuyện ngồi lê đôi mách"
+            },
+            {
+              "full_en": "to be engaged in politics /business",
+              "full_vn": "tham gia hoạt động chính trị/kinh doanh"
+            },
+            {
+              "full_en": "to engage in negotiations with someone",
+              "full_vn": "tiến hành thương lượng với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

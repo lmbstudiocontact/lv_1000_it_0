@@ -1,0 +1,120 @@
+{
+  "english": "always",
+  "phat_am": "['ɔ:lweiz]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "luôn luôn, lúc nào cũng, bao giờ cũng, hoài",
+          "list_en_vn": [
+            {
+              "full_en": "my father always gets up early to take exercise",
+              "full_vn": "cha tôi bao giờ cũng dậy sớm để tập thể dục"
+            },
+            {
+              "full_en": "they are always in need of your help",
+              "full_vn": "họ luôn luôn cần sự giúp đỡ của anh"
+            },
+            {
+              "full_en": "he nearly always wears a bow tie",
+              "full_vn": "hầu như lúc nào anh ta cũng cài nơ con bướm"
+            },
+            {
+              "full_en": "she has always loved gardening",
+              "full_vn": "lúc nào bà ấy cũng thích làm vườn"
+            },
+            {
+              "full_en": "he was always asking for money",
+              "full_vn": "nó đòi tiền hoài"
+            },
+            {
+              "full_en": "why are you always biting your nails ?",
+              "full_vn": "sao cô cứ cắn móng tay hoài vậy?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thường xuyên lặp đi lặp lại; luôn luôn; đều đặn",
+          "list_en_vn": [
+            {
+              "full_en": "the postman always calls at 7.30",
+              "full_vn": "người đưa thư thường hay gọi lúc 7 giờ 30"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sau can , could ) dù thế nào chăng nữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "always supposing that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "ví như mà, giả dụ mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm going to university , always supposing (that ) I pass my exams",
+                      "full_vn": "Tôi sẽ vào đại học, nếu giả dụ là tôi thi đỗ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "always supposing that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "ví như mà, giả dụ mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm going to university , always supposing (that ) I pass my exams",
+                      "full_vn": "Tôi sẽ vào đại học, nếu giả dụ là tôi thi đỗ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as always",
+              "list_im": [
+                {
+                  "im_full_vn": "như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "As always he was late and had to run to catch the bus",
+                      "full_vn": "Như thường lệ, anh ta bị muộn giờ và phải chạy cho kịp chuyến xe búyt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as always",
+              "list_im": [
+                {
+                  "im_full_vn": "như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "As always he was late and had to run to catch the bus",
+                      "full_vn": "Như thường lệ, anh ta bị muộn giờ và phải chạy cho kịp chuyến xe búyt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you could always use a dictionary",
+              "full_vn": "dù sao anh cũng có thể dùng từ điển"
+            },
+            {
+              "full_en": "they can always go to bank if they need more money",
+              "full_vn": "họ vẫn có thể đến ngân hàng nếu họ thiếu tiền"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

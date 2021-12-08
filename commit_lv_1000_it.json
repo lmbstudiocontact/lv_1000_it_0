@@ -1,0 +1,124 @@
+{
+  "english": "commit",
+  "phat_am": "[kə'mit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to commit somebody / something to something ) trao hoặc chuyển ai/cái gì đến một tình trạng hoặc nơi an toàn để giữ, chữa trị...",
+          "list_en_vn": [
+            {
+              "full_en": "to commit somebody to prison",
+              "full_vn": "tống giam ai"
+            },
+            {
+              "full_en": "to commit a patient to a mental hospital",
+              "full_vn": "đưa một bệnh nhân vào bệnh viện tâm thần"
+            },
+            {
+              "full_en": "the body was committed to the flames",
+              "full_vn": "xác được đưa vào lửa (đưa đi thiêu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phạm",
+          "list_en_vn": [
+            {
+              "full_en": "to commit a blunder",
+              "full_vn": "phạm sai lầm ngớ ngẩn"
+            },
+            {
+              "full_en": "to commit murder /theft",
+              "full_vn": "phạm tội giết người/trộm cắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển một dự luật cho một tiểu ban của nghị viện xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "to commit a financial bill to the Lower Chamber",
+              "full_vn": "chuyển một dự luật về tài chính cho Hạ nghị viện xem xét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to commit somebody / oneself to something / doing something ) làm cho ai/bản thân không thể không làm cái gì hoặc làm cái gì khác (nhất là vì một lời hứa), cam kết",
+          "list_en_vn": [
+            {
+              "full_en": "I can't come on Sunday : I'm already committed",
+              "full_vn": "tôi không thể đến vào chủ nhật, tôi mắc bận rồi"
+            },
+            {
+              "full_en": "this regiment is already committed to the eastern front",
+              "full_vn": "trung đoàn này đã được thoả thuận giao cho mặt trận phía đông"
+            },
+            {
+              "full_en": "the company has committed funds to an advertising campaign",
+              "full_vn": "công ty đã cam kết bỏ tiền vào một chiến dịch quảng cáo"
+            },
+            {
+              "full_en": "signing this form commits you to buying the goods",
+              "full_vn": "anh ký vào biểu mẫu này là cam kết mua hàng đấy"
+            },
+            {
+              "full_en": "to commit oneself to a course of action",
+              "full_vn": "cam kết theo một hướng hành động"
+            },
+            {
+              "full_en": "to commit oneself to fulfil one's duty",
+              "full_vn": "cam kết hoàn thành nhiệm vụ của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to commit oneself on something ) thẳng thắng đưa ra ý kiến của mình",
+          "list_en_vn": [
+            {
+              "full_en": "I asked her what she thought , but she refused to commit herself",
+              "full_vn": "tôi hỏi cô ta nghĩ gì, nhưng cô ta không chịu nói thẳng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to commit somebody for something ) đưa lên toà cấp cao để xử",
+          "list_en_vn": [
+            {
+              "full_en": "the magistrates committed him for trial at the Old Bailey",
+              "full_vn": "các quan toà đã chuyển hắn cho toà án Old Bailey xét xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đưa quân đi đánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to commit something to paper /writing",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi cái gì ra giấy trắng mực đen hẳn hòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to commit to memory",
+              "list_im": [
+                {
+                  "im_full_vn": "xem memory"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to commit troops to a war",
+              "full_vn": "đưa quân vào một cuộc chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

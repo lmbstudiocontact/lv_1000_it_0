@@ -1,0 +1,98 @@
+{
+  "english": "hundred",
+  "phat_am": "['hʌndrəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a hundred and one things to do",
+              "list_im": [
+                {
+                  "im_full_vn": "bận trăm công nghìn việc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "six hundred men",
+              "full_vn": "sáu trăm người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trăm; hàng trăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "one hundred per cent efficient",
+              "list_im": [
+                {
+                  "im_full_vn": "hiệu nghiệm trăm phần trăm, hoàn toàn hiệu nghiệm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "long hundred",
+              "list_im": [
+                {
+                  "im_full_vn": "(thương nghiệp) một trăm hai mươi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hundreds and thousands",
+              "list_im": [
+                {
+                  "im_full_vn": "kẹo trứng chim để bày lên bánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one hundred per cent",
+              "list_im": [
+                {
+                  "im_full_vn": "một trăm phần trăm, hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this answer is one hundred per cent accurate",
+                      "full_vn": "câu trả lời này chính xác trăm phần trăm, câu trả lời này hoàn toàn chính xác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "one hundred per cent",
+              "list_im": [
+                {
+                  "im_full_vn": "một trăm phần trăm, hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this answer is one hundred per cent accurate",
+                      "full_vn": "câu trả lời này chính xác trăm phần trăm, câu trả lời này hoàn toàn chính xác"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hundreds of people",
+              "full_vn": "hàng trăm người"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

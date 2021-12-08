@@ -1,0 +1,37 @@
+{
+  "english": "difficult",
+  "phat_am": "['difikəlt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khó; khó khăn; gay go",
+          "list_en_vn": [
+            {
+              "full_en": "This question is difficult to answer ; It is difficult to answer this question",
+              "full_vn": "Câu hỏi này khó trả lời"
+            },
+            {
+              "full_en": "He finds it difficult to stop drinking",
+              "full_vn": "Anh ta thấy khó mà bỏ rượu được"
+            },
+            {
+              "full_en": "Their proposal puts us in a difficult position",
+              "full_vn": "Lời đề nghị của họ đặt chúng tôi vào một tình thế khó xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó tính; khó ai làm vừa lòng",
+          "list_en_vn": [
+            {
+              "full_en": "a difficult boss /customer",
+              "full_vn": "ông chủ/khách hàng khó tính"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

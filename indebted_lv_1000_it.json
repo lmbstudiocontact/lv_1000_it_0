@@ -1,0 +1,29 @@
+{
+  "english": "indebted",
+  "phat_am": "[in'detid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắc nợ",
+          "list_en_vn": [
+            {
+              "full_en": "to be indebted to someone",
+              "full_vn": "mắc nợ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mang ơn, đội ơn, hàm ơn",
+          "list_en_vn": [
+            {
+              "full_en": "I am greatly indebted to you for your kindness",
+              "full_vn": "tôi rất đội ơn lòng tốt của ông"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

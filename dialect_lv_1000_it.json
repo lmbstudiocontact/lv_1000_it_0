@@ -1,0 +1,28 @@
+{
+  "english": "dialect",
+  "phat_am": "['daiəlekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình thái ngôn ngữ (ngữ pháp, từ vựng và phát âm) của một vùng trong nước hoặc một lớp người dùng; tiếng địa phương; phương ngữ",
+          "list_en_vn": [
+            {
+              "full_en": "the Yorshire dialect",
+              "full_vn": "tiếng địa phương Yorshire"
+            },
+            {
+              "full_en": "a play written in dialect",
+              "full_vn": "vở kịch viết bằng tiếng địa phương"
+            },
+            {
+              "full_en": "dialect words , pronunciations",
+              "full_vn": "từ địa phương, cách phát âm địa phương"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

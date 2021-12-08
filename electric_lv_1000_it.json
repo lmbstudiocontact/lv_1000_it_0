@@ -1,0 +1,45 @@
+{
+  "english": "electric",
+  "phat_am": "[i'lektrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo ra điện; do điện tạo ra; dùng để truyền điện; chạy bằng điện",
+          "list_en_vn": [
+            {
+              "full_en": "electric generator",
+              "full_vn": "máy phát điện"
+            },
+            {
+              "full_en": "an electric torch",
+              "full_vn": "đèn pin"
+            },
+            {
+              "full_en": "electric current",
+              "full_vn": "dòng điện"
+            },
+            {
+              "full_en": "electric plug",
+              "full_vn": "phích cắm điện"
+            },
+            {
+              "full_en": "quạt điện",
+              "full_vn": "electric fan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm náo động, làm sôi nổi",
+          "list_en_vn": [
+            {
+              "full_en": "an electric atmosphere",
+              "full_vn": "một bầu không khí sôi động"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "highly",
+  "phat_am": "['haili]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất, lắm, hết sức, ở mức độ cao",
+          "list_en_vn": [
+            {
+              "full_en": "to commend highly",
+              "full_vn": "hết sức ca ngợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt, cao; với ý tôn trọng, với ý ca ngợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to speak highly of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nói tốt về ai; ca ngợi ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "highly descended",
+              "list_im": [
+                {
+                  "im_full_vn": "xuất thân từ dòng dõi quý phái"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to think highly of somebody",
+              "full_vn": "coi trọng ai; tôn trọng ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

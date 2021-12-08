@@ -1,0 +1,60 @@
+{
+  "english": "guide",
+  "phat_am": "[gaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)"
+        },
+        {
+          "m_full_vn": "bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)"
+        },
+        {
+          "m_full_vn": "như guide-book",
+          "list_en_vn": [
+            {
+              "full_en": "a guide to Vietnam",
+              "full_vn": "sách chỉ dẫn đi thăm Việt Nam"
+            },
+            {
+              "full_en": "a guide to poultry keeping",
+              "full_vn": "sách chỉ dẫn cách nuôi gà vịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cọc hướng dẫn; biển chỉ đường"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) thiết bị dẫn đường, thanh dẫn"
+        },
+        {
+          "m_full_vn": "(quân sự) quân thám báo"
+        },
+        {
+          "m_full_vn": "(hàng hải) tàu hướng dẫn (cho cả đội tàu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "to guide somebody to a place",
+              "full_vn": "dẫn ai tới nơi nào"
+            },
+            {
+              "full_en": "to guide somebody in (out of )",
+              "full_vn": "đưa ai vào (ra khỏi) nơi nào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

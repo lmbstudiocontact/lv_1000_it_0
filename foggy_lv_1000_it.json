@@ -1,0 +1,33 @@
+{
+  "english": "foggy",
+  "phat_am": "['fɔgi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có sương mù; tối tăm"
+        },
+        {
+          "m_full_vn": "lờ mờ, mơ hồ, không rõ rệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to have the foggiest idea",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng biết mô tê ất giáp gì cả"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a foggy idea",
+              "full_vn": "ý kiến không rõ rệtt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

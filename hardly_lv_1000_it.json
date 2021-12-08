@@ -1,0 +1,87 @@
+{
+  "english": "hardly",
+  "phat_am": "['hɑ:dli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "khắc nghiệt, nghiêm khắc, tàn tệ, cứng rắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be hardly treated",
+              "full_vn": "bị đối xử khắc nghiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để gợi ý rằng cái gì là khó có thể xảy ra, không chắc có thực hoặc vô lý)",
+          "list_en_vn": [
+            {
+              "full_en": "they can hardly understand this leading article",
+              "full_vn": "phải khó khăn lắm họ mới hiểu được bài xã luận này"
+            },
+            {
+              "full_en": "you can hardly expect me to lend you money again",
+              "full_vn": "anh khó lòng hy vọng tôi cho anh mượn tiền nữa"
+            },
+            {
+              "full_en": "I'm so tired I can hardly stay awake",
+              "full_vn": "tôi mệt đến nỗi khó mà tỉnh dậy được"
+            },
+            {
+              "full_en": "she sang so quietly that I could hardly hear her",
+              "full_vn": "cô ta hát khẽ đến nỗi tôi khó mà nghe được (gần (như) không nghe được)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa mới, chỉ vừa mới",
+          "list_en_vn": [
+            {
+              "full_en": "I hardly know her",
+              "full_vn": "tôi chỉ vừa mới biết cô ta thôi"
+            },
+            {
+              "full_en": "he had hardly finished relating the story when everyone burst out laughing ; hardly had he finished relating the story when everyone burst out laughing",
+              "full_vn": "anh ta vừa mới kể xong câu chuyện thì mọi người cười phá lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hầu như không",
+          "list_en_vn": [
+            {
+              "full_en": "hardly a day passes but ...",
+              "full_vn": "hầu như không có ngày nào mà không..."
+            },
+            {
+              "full_en": "he hardly ever goes to bed before midnight",
+              "full_vn": "hầu như không bao giờ nó đi ngủ trước nửa đêm"
+            },
+            {
+              "full_en": "he ate hardly anything",
+              "full_vn": "hầu như anh ta không ăn gì cả"
+            },
+            {
+              "full_en": "there's hardly any space to sit",
+              "full_vn": "hầu như không có chỗ nào để mà ngồi"
+            },
+            {
+              "full_en": "there's hardly any coal left",
+              "full_vn": "hầu như không còn tí than nào"
+            },
+            {
+              "full_en": "hardly anybody came",
+              "full_vn": "hầu như chẳng ai đến"
+            },
+            {
+              "full_en": "I need hardly say that I was very upset",
+              "full_vn": "tôi hầu như không cần phải nói là tôi rất bối rối lo ngại"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

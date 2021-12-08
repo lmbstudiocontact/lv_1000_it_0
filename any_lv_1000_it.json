@@ -1,0 +1,293 @@
+{
+  "english": "any",
+  "phat_am": "['eni]",
+  "list_type": [
+    {
+      "type": "tính từ (dùng trong câu phủ định và câu hỏi, sau if / whether , hardly , never , without ... và sau các động từ prevent , ban , avoid , forbid )",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để chỉ một số lượng không xác định)",
+          "list_en_vn": [
+            {
+              "full_en": "have you any book (s )?",
+              "full_vn": "anh có quyển sách nào không?"
+            },
+            {
+              "full_en": "did you know any French ?",
+              "full_vn": "bạn biết chút ít tiếng Pháp chứ?"
+            },
+            {
+              "full_en": "there was hardly any free time",
+              "full_vn": "khó có chút thời gian rỗi nào"
+            },
+            {
+              "full_en": "we did the job without any difficulty",
+              "full_vn": "chúng tôi làm việc ấy chẳng khó khăn gì"
+            },
+            {
+              "full_en": "to avoid any delay , please phone your order direct",
+              "full_vn": "để tránh bất kỳ sự chậm trễ nào, xin trực tiếp đặt hàng qua điện thoại"
+            },
+            {
+              "full_en": "I haven't any penny",
+              "full_vn": "tôi tuyệt không có đồng xu nào"
+            },
+            {
+              "full_en": "I haven't read any book by Tolstoi",
+              "full_vn": "tôi chưa hề đọc quyển sách nào của Tolstoi"
+            },
+            {
+              "full_en": "I wonder whether Mr Black has any roses in his garden",
+              "full_vn": "tôi chẳng biết ông Black có cái hoa hồng nào trong vườn của ông ta hay không"
+            },
+            {
+              "full_en": "you can't go out without any shoes",
+              "full_vn": "bạn không thể ra ngoài mà chẳng mang giày dép gì"
+            },
+            {
+              "full_en": "I can't see any door in this room",
+              "full_vn": "tôi không thấy cái cửa nào trong phòng này cả"
+            },
+            {
+              "full_en": "are there any stamps in that drawer ?",
+              "full_vn": "có con tem nào trong ngăn kéo ấy không?"
+            },
+            {
+              "full_en": "to prevent any casualty",
+              "full_vn": "để tránh bất kỳ thương tổn nào có thể xảy ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mọi; bất cứ",
+          "list_en_vn": [
+            {
+              "full_en": "take any book you like",
+              "full_vn": "anh muốn lấy cuốn nào thì cứ lấy"
+            },
+            {
+              "full_en": "phone me any day next week",
+              "full_vn": "gọi điện cho tôi bất cứ ngày nào trong tuầnsau"
+            },
+            {
+              "full_en": "at any time",
+              "full_vn": "vào bất cứ lúc nào"
+            },
+            {
+              "full_en": "any fool could tell you that",
+              "full_vn": "bất cứ thằng ngốc nào cũng có thể nói với bạn như thế"
+            },
+            {
+              "full_en": "you'll find me here at any hour of the day",
+              "full_vn": "bạn có thể gặp tôi ở đây bất cứ giờ nào trong ngày"
+            },
+            {
+              "full_en": "you may ask any person about it",
+              "full_vn": "anh có thể hỏi bất cứ người nào về việc ấy"
+            },
+            {
+              "full_en": "they want any money you can spare",
+              "full_vn": "họ muốn rằng tiền của anh dư ra bao nhiêu đưa cho họ bấy nhiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình thường; thông thường",
+          "list_en_vn": [
+            {
+              "full_en": "this isn't any old bed - it belonged to Shakespeare",
+              "full_vn": "đây không phải là cái giừơng cũ bình thường - mà là cái giừơng của Shakespeare"
+            },
+            {
+              "full_en": "if it were any ordinary paint , you would need two coats",
+              "full_vn": "nếu nó là loại sơn thông thường, bạn nên quét hai lớp"
+            },
+            {
+              "full_en": "she isn't just any woman - she is the Queen",
+              "full_vn": "bà ấy không phải là người phụ nữ bình thường mà la Nữ hoàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trong câu phủ định và câu hỏi, sau if / whether , hardly , never , without ...) một số lượng không xác định",
+          "list_en_vn": [
+            {
+              "full_en": "is there any of them there ?",
+              "full_vn": "có ai trong bọn họ ở đó không?"
+            },
+            {
+              "full_en": "I cannot find any of them",
+              "full_vn": "tôi không tìm thấy một đứa nào trong bọn chúng"
+            },
+            {
+              "full_en": "have got any ?",
+              "full_vn": "bạn có được gì không?"
+            },
+            {
+              "full_en": "I can't give you any",
+              "full_vn": "tôi không thể cho bạn được gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ",
+          "list_one_mean": [
+            {
+              "id_full_en": "sb isn't having any",
+              "list_im": [
+                {
+                  "im_full_vn": "người nào chẳng thèm quan tâm (chẳng thèm hé môi)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I tried to get her to talk about her divorce but she wasn't having any",
+                      "full_vn": "tôi tìm cách để cô ấy nói về việc ly hôn của cô ấy, nhưng cô ấy chẳng chịu nói gì cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb isn't having any",
+              "list_im": [
+                {
+                  "im_full_vn": "người nào chẳng thèm quan tâm (chẳng thèm hé môi)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I tried to get her to talk about her divorce but she wasn't having any",
+                      "full_vn": "tôi tìm cách để cô ấy nói về việc ly hôn của cô ấy, nhưng cô ấy chẳng chịu nói gì cả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "if you recognize any of the people in the photograph , tell us",
+              "full_vn": "nếu anh nhận ra bất cứ người nào trong ảnh, hãy cho chúng tôi biết"
+            },
+            {
+              "full_en": "she didn't spend any of the money",
+              "full_vn": "bà ấy không tiêu gì trong số tiền ấy cả"
+            },
+            {
+              "full_en": "choose any of these books",
+              "full_vn": "anh có thể chọn bất cứ quyển nào trong những quyển sách này"
+            },
+            {
+              "full_en": "if he had read any of those novels , he would have known what to do",
+              "full_vn": "nếu từng đọc bất kỳ quyển nào trong các tiểu thuyết ấy, ắt nó đã biết nên làm gì rồi"
+            },
+            {
+              "full_en": "he returned home without any of the others",
+              "full_vn": "nó về nhà mà chẳng có ai khác về theo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ (dùng với faster , slower , better ... ở thể nghi vấn và sau if , whether )",
+      "list_m": [
+        {
+          "m_full_vn": "một chút nào, một tí nào (trong câu phủ định, câu hỏi dạng so sánh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it did not matter any",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó hoàn toàn không đáng kể; điều đó hoàn toàn chẳng có nghĩa lý gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "any more / anymore",
+              "list_im": [
+                {
+                  "im_full_vn": "không.... nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they cannot see you any more",
+                      "full_vn": "họ không thể gặp anh nữa"
+                    },
+                    {
+                      "full_en": "she doesn't live here any more",
+                      "full_vn": "bà ta không ở đây nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "any more / anymore",
+              "list_im": [
+                {
+                  "im_full_vn": "không.... nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they cannot see you any more",
+                      "full_vn": "họ không thể gặp anh nữa"
+                    },
+                    {
+                      "full_en": "she doesn't live here any more",
+                      "full_vn": "bà ta không ở đây nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "any more / anymore",
+              "list_im": [
+                {
+                  "im_full_vn": "không.... nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they cannot see you any more",
+                      "full_vn": "họ không thể gặp anh nữa"
+                    },
+                    {
+                      "full_en": "she doesn't live here any more",
+                      "full_vn": "bà ta không ở đây nữa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "is that any better ?",
+              "full_vn": "cái đó có khá hơn chút nào không?"
+            },
+            {
+              "full_en": "is your father any better at all ?",
+              "full_vn": "bố anh có khá hơn tí nào hay không?"
+            },
+            {
+              "full_en": "I can't run any faster",
+              "full_vn": "tôi không thể chạy nhanh hơn tí nào nữa"
+            },
+            {
+              "full_en": "if it were any further , we wouldn't be able to get there",
+              "full_vn": "nếu xa hơn chút nữa, chúng tôi không thể đến được"
+            },
+            {
+              "full_en": "the children didn't behave any too well",
+              "full_vn": "mấy đứa trẻ chẳng ngoan gì lắm"
+            },
+            {
+              "full_en": "I can't afford to spend any more on food",
+              "full_vn": "tôi không thể chi thêm tiền về việc ăn uống"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

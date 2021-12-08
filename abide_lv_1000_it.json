@@ -1,0 +1,68 @@
+{
+  "english": "abide",
+  "phat_am": "[ə'baid]",
+  "list_type": [
+    {
+      "type": "động từ (thì quá khứ và động tính từ quá khứ là abode )",
+      "list_m": [
+        {
+          "m_full_vn": "vẫn còn, tiếp tục, ở lại, kéo dài",
+          "list_en_vn": [
+            {
+              "full_en": "this mistake will not abide for ever",
+              "full_vn": "sai lầm này sẽ không thể kéo dài mãi được"
+            },
+            {
+              "full_en": "to abide at a place",
+              "full_vn": "ở lại một nơi"
+            },
+            {
+              "full_en": "to abide with somebody",
+              "full_vn": "ở lại với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ (thì quá khứ và động tính từ quá khứ là abided )",
+      "list_m": [
+        {
+          "m_full_vn": "chờ, chờ đợi",
+          "list_en_vn": [
+            {
+              "full_en": "to abide one's time",
+              "full_vn": "chờ thời cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng, chịu",
+          "list_en_vn": [
+            {
+              "full_en": "we can't abide his fits of temper",
+              "full_vn": "chúng tôi không thể chịu được những cơn nóng giận của hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + by ) hành động đúng theo cái gì; tôn trọng; trung thành tôn trọng, giữ, tuân theo, chịu theo; trung thành với",
+          "list_en_vn": [
+            {
+              "full_en": "to abide by a promise",
+              "full_vn": "hành động theo đúng lời hứa; giữ đúng lời hứa"
+            },
+            {
+              "full_en": "to abide by one's friend",
+              "full_vn": "trung thành với bạn"
+            },
+            {
+              "full_en": "to abide by the laws",
+              "full_vn": "tuân thủ pháp luật"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

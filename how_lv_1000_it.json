@@ -1,0 +1,297 @@
+{
+  "english": "how",
+  "phat_am": "[hau]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo cách nào hoặc như thế nào",
+          "list_en_vn": [
+            {
+              "full_en": "he doesn't know how to behave",
+              "full_vn": "hắn không biết xử sự thế nào; hắn không biết cách xử sự"
+            },
+            {
+              "full_en": "how is this word spelt ?",
+              "full_vn": "từ này đánh vần như thế nào?"
+            },
+            {
+              "full_en": "tell me how to spell it",
+              "full_vn": "hãy cho tôi biết từ ấy từ ấy đánh vần như thế nào (hãy cho tôi biết cách đánh vần từ ấy)"
+            },
+            {
+              "full_en": "how did you escape ?",
+              "full_vn": "anh đã trốn như thế nào (bằng cách nào)?"
+            },
+            {
+              "full_en": "how are things going at the moment ?",
+              "full_vn": "lúc này đời sống anh ra sao?"
+            },
+            {
+              "full_en": "how does it come ? how is it ?",
+              "full_vn": "sao, sự thể ra sao? sao lại ra như vậy?"
+            },
+            {
+              "full_en": "how now ?",
+              "full_vn": "sao, thế là thế nào?"
+            },
+            {
+              "full_en": "how so ?",
+              "full_vn": "sao lại như thế được?"
+            },
+            {
+              "full_en": "how is it that ...?",
+              "full_vn": "làm sao mà...?, làm thế nào mà...?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng sức khoẻ thế nào; hoàn cảnh thế nào",
+          "list_en_vn": [
+            {
+              "full_en": "how are your kids ?",
+              "full_vn": "bọn trẻ nhà anh dạo này ra sao?"
+            },
+            {
+              "full_en": "how are you /how do you do ?",
+              "full_vn": "dạo này anh có khoẻ không?"
+            },
+            {
+              "full_en": "how is your job ?",
+              "full_vn": "công việc của anh thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trước tính từ hoặc phó từ) tới chừng mực hoặc mức độ nào; bao nhiêu",
+          "list_en_vn": [
+            {
+              "full_en": "how old is he ?",
+              "full_vn": "hắn bao nhiêu tuổi?"
+            },
+            {
+              "full_en": "how deep is this river ?",
+              "full_vn": "sông này sâu bao nhiêu"
+            },
+            {
+              "full_en": "how much money have you got ?",
+              "full_vn": "anh có bao nhiêu tiền?"
+            },
+            {
+              "full_en": "how many children do you have ?",
+              "full_vn": "anh có bao nhiêu đứa con? (anh được mấy cháu?)"
+            },
+            {
+              "full_en": "how far is it to Hue from here ?",
+              "full_vn": "từ đây đi Huế bao xa?"
+            },
+            {
+              "full_en": "how long did you stand here ?",
+              "full_vn": "anh đứng đây bao lâu rồi?"
+            },
+            {
+              "full_en": "how often do you go to church ?",
+              "full_vn": "bao lâu anh lại đi lễ một lần?"
+            },
+            {
+              "full_en": "how fast can she run ?",
+              "full_vn": "cô ấy có thể chạy nhanh đến thế nào?"
+            },
+            {
+              "full_en": "how much are eggs today ?",
+              "full_vn": "hôm nay trứng giá bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm sao, biết bao, xiết bao, biết bao nhiêu, sao mà... đến thế",
+          "list_en_vn": [
+            {
+              "full_en": "how beautiful !",
+              "full_vn": "sao mà đẹp thế! thật là đẹp biết bao!"
+            },
+            {
+              "full_en": "how slovenly that child is !",
+              "full_vn": "đứa bé sao mà nhếch nhác thế!"
+            },
+            {
+              "full_en": "how pale she looks !",
+              "full_vn": "cô ta trông sao mà nhợt nhạt thế!"
+            },
+            {
+              "full_en": "how well he plays the violin !",
+              "full_vn": "anh ta chơi viôlông hay làm sao!"
+            },
+            {
+              "full_en": "how kind of you to help me",
+              "full_vn": "anh thật là tốt bụng mới giúp đỡ tôi như vậy"
+            },
+            {
+              "full_en": "how he snores !",
+              "full_vn": "hắn ngáy sao mà to thế!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách mà, như thế nào",
+          "list_one_mean": [
+            {
+              "id_full_en": "how about ...?",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng để gợi ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how about orange juice ?",
+                      "full_vn": "dùng nước cam nhé?"
+                    },
+                    {
+                      "full_en": "how about buying a new watch ?",
+                      "full_vn": "mua đồng hồ mới nhé?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ...?",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng để gợi ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how about orange juice ?",
+                      "full_vn": "dùng nước cam nhé?"
+                    },
+                    {
+                      "full_en": "how about buying a new watch ?",
+                      "full_vn": "mua đồng hồ mới nhé?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ...?",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng để gợi ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how about orange juice ?",
+                      "full_vn": "dùng nước cam nhé?"
+                    },
+                    {
+                      "full_en": "how about buying a new watch ?",
+                      "full_vn": "mua đồng hồ mới nhé?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "and how !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng), ( (thường) (mỉa mai)) sao, mà có hơn thế nhiều nữa chứ!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "here's how !",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) here"
+                }
+              ]
+            },
+            {
+              "id_full_en": "how on earth ...",
+              "list_im": [
+                {
+                  "im_full_vn": "quái quỷ thế nào mà..., làm thế quái nào mà..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "how much ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cái quái gì?, cái đếch gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he plays the saxtuba - Plays how much ?",
+                      "full_vn": "nó biết thổi kèn xactuba- Biết thổi cái đếch gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how much ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cái quái gì?, cái đếch gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he plays the saxtuba - Plays how much ?",
+                      "full_vn": "nó biết thổi kèn xactuba- Biết thổi cái đếch gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how's that ?",
+              "list_im": [
+                {
+                  "im_full_vn": "sao thế?; (dùng khi hỏi ý kiến ai); (dùng bởi bên chặn và ném trả bóng trong cricket hỏi trọng tài (xem) người cầm gậy có ra ngoài biên hay không)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how's that for punctuality ?",
+                      "full_vn": "phải đúng giờ chứ?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how's that ?",
+              "list_im": [
+                {
+                  "im_full_vn": "sao thế?; (dùng khi hỏi ý kiến ai); (dùng bởi bên chặn và ném trả bóng trong cricket hỏi trọng tài (xem) người cầm gậy có ra ngoài biên hay không)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how's that for punctuality ?",
+                      "full_vn": "phải đúng giờ chứ?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she described to me how he ran up to her and grabbed her handbag",
+              "full_vn": "cô ta tả cho tôi nghe nó xông tới giật túi xách của cô ta như thế nào"
+            },
+            {
+              "full_en": "do it how you can",
+              "full_vn": "hãy làm việc đó theo cái cách mà anh có thể làm được"
+            },
+            {
+              "full_en": "I can dress how I like in my own house",
+              "full_vn": "trong nhà tôi, tôi muốn mặc thế nào tùy tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

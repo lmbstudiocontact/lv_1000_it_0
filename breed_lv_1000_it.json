@@ -1,0 +1,109 @@
+{
+  "english": "breed",
+  "phat_am": "[bred]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nòi, giống"
+        },
+        {
+          "m_full_vn": "dòng dõi"
+        }
+      ]
+    },
+    {
+      "type": "(bất qui tắc) ngoại động từ bred",
+      "list_m": [
+        {
+          "m_full_vn": "gây giống; chăn nuôi",
+          "list_en_vn": [
+            {
+              "full_en": "to breed horses",
+              "full_vn": "gây giống ngựa, chăn nuôi ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi dưỡng, chăm sóc; dạy dỗ; giáo dục",
+          "list_en_vn": [
+            {
+              "full_en": "to be bred to be a doctor",
+              "full_vn": "được nuôi ăn học thành bác sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ra, phát sinh ra",
+          "list_en_vn": [
+            {
+              "full_en": "dirt breeds diseases",
+              "full_vn": "bụi bặm làm phát sinh ra bệnh tật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "(bất qui tắc) nội động từ bred",
+      "list_m": [
+        {
+          "m_full_vn": "sinh sản, sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "birds breed in spring",
+              "full_vn": "chim sinh sản vào mùa xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nảy ra, phát sinh ra; lan tràn",
+          "list_en_vn": [
+            {
+              "full_en": "dissensions breed among them",
+              "full_vn": "giữa họ đã nảy ra những mối bất hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chăn nuôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to breed in and in",
+              "list_im": [
+                {
+                  "im_full_vn": "dựng vợ gả chồng trong họ hàng gần với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breed out and out",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy vợ lấy chồng người ngoài họ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "too much familiarity breeds contempt",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) contempt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what is bred in the bone will not go (come ) out of the flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

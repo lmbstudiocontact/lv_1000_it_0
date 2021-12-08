@@ -1,0 +1,110 @@
+{
+  "english": "against",
+  "phat_am": "[ə'geinst]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "chống lại, ngược lại, phản đối",
+          "list_en_vn": [
+            {
+              "full_en": "to fight against aggression",
+              "full_vn": "chiến đấu chống xâm lược"
+            },
+            {
+              "full_en": "to be against aggression wars",
+              "full_vn": "phản đối chiến tranh xâm lược"
+            },
+            {
+              "full_en": "to go against the wind",
+              "full_vn": "đi ngược chiều gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tương phản với",
+          "list_en_vn": [
+            {
+              "full_en": "black is against white",
+              "full_vn": "màu đen tương phản với màu trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa vào, tỳ vào, áp vào, đập vào",
+          "list_en_vn": [
+            {
+              "full_en": "to stand against the wall",
+              "full_vn": "đứng dựa vào tường"
+            },
+            {
+              "full_en": "to run against a rock",
+              "full_vn": "chạy va phải tảng đá"
+            },
+            {
+              "full_en": "rain beats against the window-panes",
+              "full_vn": "mưa đập vào kính cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng, đề phòng, phòng xa",
+          "list_en_vn": [
+            {
+              "full_en": "to keep provisions against rainy days",
+              "full_vn": "dự trữ thực phẩm đề phòng những ngày mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi lấy",
+          "list_one_mean": [
+            {
+              "id_full_en": "over against",
+              "list_im": [
+                {
+                  "im_full_vn": "đối diện với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his house is over against mine",
+                      "full_vn": "nhà anh ta đối diện với nhà tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "over against",
+              "list_im": [
+                {
+                  "im_full_vn": "đối diện với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his house is over against mine",
+                      "full_vn": "nhà anh ta đối diện với nhà tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "against time",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) time"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "each USD is against VND10 ,000",
+              "full_vn": "mỗi đô la Mỹ đổi lấy 10. 000 đồng Việt Nam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "city",
+  "phat_am": "['siti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành phố, thành thị, đô thị"
+        },
+        {
+          "m_full_vn": "dân thành thị"
+        },
+        {
+          "m_full_vn": "( the City ) trung tâm thương nghiệp và tài chính thành phố Luân-đôn"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) thành phố"
+        },
+        {
+          "m_full_vn": "( City ) ( định ngữ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a city man",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà kinh doanh, doanh nhân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "city articles",
+              "list_im": [
+                {
+                  "im_full_vn": "những bài báo bàn về thương nghiệp và tài chính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "city editor",
+              "list_im": [
+                {
+                  "im_full_vn": "người phụ trách mục tài chính (trong một tờ báo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "city desk",
+              "list_im": [
+                {
+                  "im_full_vn": "ban phụ trách chuyên mục tài chính của một tờ báo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Celestial City , Heavenly City , City of God",
+              "list_im": [
+                {
+                  "im_full_vn": "thiên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "city state",
+              "list_im": [
+                {
+                  "im_full_vn": "thành phố độc lập và có chủ quyền như một nước"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

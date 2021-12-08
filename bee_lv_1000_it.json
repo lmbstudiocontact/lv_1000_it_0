@@ -1,0 +1,76 @@
+{
+  "english": "bee",
+  "phat_am": "[bi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con ong",
+          "list_en_vn": [
+            {
+              "full_en": "to keep bees",
+              "full_vn": "nuôi ong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bận nhiều việc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) buổi vui chơi tập thể, buổi lao động tập thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "as busy as a bee",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức bận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bee's knees",
+              "list_im": [
+                {
+                  "im_full_vn": "cái hoàn hảo tột đỉnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the birds and the bees",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bird"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a bee in one's bonnet about something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bonnet"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's head full of bees",
+              "list_im": [
+                {
+                  "im_full_vn": "ấp ủ trong lòng những mộng tưởng viễn vông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the bee on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nài xin, xin lải nhải"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

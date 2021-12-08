@@ -1,0 +1,115 @@
+{
+  "english": "east",
+  "phat_am": "[i:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hướng đông; phía đông",
+          "list_en_vn": [
+            {
+              "full_en": "he lives to the east of Exeter",
+              "full_vn": "anh ta sống ở phía đông của Exeter"
+            },
+            {
+              "full_en": "the wind is blowing from the east",
+              "full_vn": "gió từ hướng đông thổi tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the East ) những nước ở châu á (nhất là Trung Quốc và Nhật Bản)",
+          "list_en_vn": [
+            {
+              "full_en": "philosophies of the East",
+              "full_vn": "các triết lý phương Đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the East ) bất cứ phần nào của thế giới ở phía đông châu Âu",
+          "list_en_vn": [
+            {
+              "full_en": "the Middle East",
+              "full_vn": "Trung Đông"
+            },
+            {
+              "full_en": "the Near East",
+              "full_vn": "Cận Đông"
+            },
+            {
+              "full_en": "the Far East",
+              "full_vn": "Viễn Đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the East ) mạn phía Đông của Hoa Kỳ",
+          "list_one_mean": [
+            {
+              "id_full_en": "Far East",
+              "list_im": [
+                {
+                  "im_full_vn": "Viễn đông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Middle East",
+              "list_im": [
+                {
+                  "im_full_vn": "Trung đông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Near East",
+              "list_im": [
+                {
+                  "im_full_vn": "Cận đông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "East or West , home is best",
+              "list_im": [
+                {
+                  "im_full_vn": "dù cho đi khắp bốn phương, về nhà mới thấy quê hương đâu bằng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I was born in the East , but now live in Los Angeles",
+              "full_vn": "Tôi chào đời ở miền Đông, nhưng bây giờ thì sống ở Los Angeles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đông",
+          "list_en_vn": [
+            {
+              "full_en": "east wind",
+              "full_vn": "gió đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về hướng đông; ở phía đông"
+        }
+      ]
+    }
+  ]
+}

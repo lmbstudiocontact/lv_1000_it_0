@@ -1,0 +1,23 @@
+{
+  "english": "documentation",
+  "phat_am": "[,dɔkjumen'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chứng minh bằng tài liệu; sự dẫn chứng bằng tư liệu"
+        },
+        {
+          "m_full_vn": "những tài liệu làm bằng chứng",
+          "list_en_vn": [
+            {
+              "full_en": "We haven't enough documentation to process your claim",
+              "full_vn": "Chúng tôi không có đủ tài liệu để xử lý yêu cầu của ông"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

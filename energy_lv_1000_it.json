@@ -1,0 +1,39 @@
+{
+  "english": "energy",
+  "phat_am": "['enədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghị lực, sinh lực"
+        },
+        {
+          "m_full_vn": "sự hoạt động tích cực"
+        },
+        {
+          "m_full_vn": "khả năng tiềm tàng, năng lực tiềm tàng"
+        },
+        {
+          "m_full_vn": "( số nhiều) sức lực"
+        },
+        {
+          "m_full_vn": "(vật lý) năng lượng",
+          "list_one_mean": [
+            {}
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "solar energy",
+              "full_vn": "năng lượng mặt trời"
+            },
+            {
+              "full_en": "kinetic energy",
+              "full_vn": "động năng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

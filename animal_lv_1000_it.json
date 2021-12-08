@@ -1,0 +1,71 @@
+{
+  "english": "animal",
+  "phat_am": "['æniməl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sinh vật có cảm xúc và tự di chuyển được; động vật",
+          "list_en_vn": [
+            {
+              "full_en": "Men , dogs , birds , flies , fish and snakes are all animals",
+              "full_vn": "Người, chó, chim, ruồi, cá và rắn đều là động vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh vật có bốn chân; thú vật",
+          "list_en_vn": [
+            {
+              "full_en": "domestic animal",
+              "full_vn": "động vật nuôi"
+            },
+            {
+              "full_en": "wild animal",
+              "full_vn": "động vật hoang dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hung tợn dữ dằn"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) động vật; (thuộc) thú vật",
+          "list_en_vn": [
+            {
+              "full_en": "the animal kingdom",
+              "full_vn": "giới động vật"
+            },
+            {
+              "full_en": "animal husbandry",
+              "full_vn": "nghề chăn nuôi gia súc"
+            },
+            {
+              "full_en": "animal magnetism",
+              "full_vn": "sức hấp dẫn vật chất ở động vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) xác thịt",
+          "list_en_vn": [
+            {
+              "full_en": "animal spirits",
+              "full_vn": "tính sôi nổi, tính yêu đời"
+            },
+            {
+              "full_en": "animal desires",
+              "full_vn": "những ham muốn xác thịt; nhục dục"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

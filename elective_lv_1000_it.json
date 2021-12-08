@@ -1,0 +1,61 @@
+{
+  "english": "elective",
+  "phat_am": "[i'lektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được chọn lọc bằng cách bầu cử",
+          "list_en_vn": [
+            {
+              "full_en": "an elective office",
+              "full_vn": "cơ quan do dân bầu ra; cơ quan dân cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quyền bầu cử",
+          "list_en_vn": [
+            {
+              "full_en": "an elective assembly",
+              "full_vn": "một hội đồng có quyền bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (về một khoá học trong trường đại học) không bắt buộc; có thể lựa chọn",
+          "list_en_vn": [
+            {
+              "full_en": "elective subjects",
+              "full_vn": "các môn học tự chọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không cấp thiết",
+          "list_en_vn": [
+            {
+              "full_en": "elective surgery",
+              "full_vn": "giải phẫu không cấp thiết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) khoá học hoặc môn học tự chọn",
+          "list_en_vn": [
+            {
+              "full_en": "she is taking French as an elective next year",
+              "full_vn": "sang năm cô ấy học tiếng Pháp như một môn tự chọn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

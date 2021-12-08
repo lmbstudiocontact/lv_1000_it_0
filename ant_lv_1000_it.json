@@ -1,0 +1,38 @@
+{
+  "english": "ant",
+  "phat_am": "[ænt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con kiến",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have ants in one's pants",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn chồn lo lắng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "red (wood ) ant",
+              "full_vn": "kiến lửa"
+            },
+            {
+              "full_en": "winged ant",
+              "full_vn": "kiến cánh"
+            },
+            {
+              "full_en": "white ant",
+              "full_vn": "con mối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

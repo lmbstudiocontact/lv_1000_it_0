@@ -1,0 +1,71 @@
+{
+  "english": "employ",
+  "phat_am": "[im'plɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dịch vụ hoặc sự làm thuê",
+          "list_en_vn": [
+            {
+              "full_en": "I left their employ after an argument",
+              "full_vn": "sau một cuộc tranh cãi, tôi không làm việc cho họ nữa"
+            },
+            {
+              "full_en": "how long has she been in your employ ?",
+              "full_vn": "cô ấy làm thuê cho anh được bao lâu rồi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to employ somebody in / on something ) giao việc cho ai (có trả công); thuê làm",
+          "list_en_vn": [
+            {
+              "full_en": "she hasn't been employed for six months now",
+              "full_vn": "cô ấy không được giao việc đã sáu tháng nay"
+            },
+            {
+              "full_en": "they've just employed five new waiters",
+              "full_vn": "họ vừa mới thuê năm người hầu bàn mới"
+            },
+            {
+              "full_en": "he's employed on the oil rigs",
+              "full_vn": "anh ta được thuê làm trên giàn khoan dầu"
+            },
+            {
+              "full_en": "she's employed as a taxi driver",
+              "full_vn": "cô ấy được thuê làm tài xế tắc xi"
+            },
+            {
+              "full_en": "they employed her to look after the baby",
+              "full_vn": "họ thuê bà ta trông nom đứa bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to employ somebody / something in / on something ) ( to employ something as something ) tận dụng ai/cái gì; chiếm (thời gian, sự chú ý....)",
+          "list_en_vn": [
+            {
+              "full_en": "he was busily employed in cleaning his shoes",
+              "full_vn": "anh ta bận lau chùi đôi giày của mình"
+            },
+            {
+              "full_en": "he employed his knife as a lever",
+              "full_vn": "hắn dùng con dao làm đòn bẩy"
+            },
+            {
+              "full_en": "the police employed force to open the door",
+              "full_vn": "cảnh sát đã dùng vũ lực để mở cửa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

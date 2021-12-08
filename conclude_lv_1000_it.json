@@ -1,0 +1,63 @@
+{
+  "english": "conclude",
+  "phat_am": "[kən'klu:d]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to conclude something with something ) kết luận; kết thúc",
+          "list_en_vn": [
+            {
+              "full_en": "a few concluding remarks",
+              "full_vn": "Một vài nhận xét có tính cách kết luận"
+            },
+            {
+              "full_en": "the conference concluded at 11 o'clock",
+              "full_vn": "hội nghị bế mạc lúc 11 giờ"
+            },
+            {
+              "full_en": "the film concludes with the betrayer's suicide",
+              "full_vn": "bộ phim kết thúc bằng việc kẻ phản bội tự sát"
+            },
+            {
+              "full_en": "she concluded by saying that ...",
+              "full_vn": "bà ta kết luận bằng cách cho rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to conclude something from something ) kết luận",
+          "list_en_vn": [
+            {
+              "full_en": "Those are the facts ; what do you conclude from them ?",
+              "full_vn": "Sự thật là như vậy, anh rút ra kết luận gì từ đây?"
+            },
+            {
+              "full_en": "the jury concluded , from the evidence , that he was a war criminal",
+              "full_vn": "Từ những chứng cứ thu thập được, hội đồng xét xử kết luận y là tội phạm chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to conclude something with somebody ) ký kết",
+          "list_en_vn": [
+            {
+              "full_en": "Vietnam concluded a trade agreement with the United States of America",
+              "full_vn": "Việt Nam ký hiệp định thương mại với Mỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) quyết định (sau khi bàn thảo)",
+          "list_en_vn": [
+            {
+              "full_en": "they concluded to leave /that they would leave",
+              "full_vn": "họ quyết định ra đi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

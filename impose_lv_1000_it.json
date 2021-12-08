@@ -1,0 +1,66 @@
+{
+  "english": "impose",
+  "phat_am": "[im'pouz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to impose something on / upon somebody / something ) đánh (thuế...) ai/cái gì; bắt ai/cái gì phải làm/chịu cái gì; áp đặt",
+          "list_en_vn": [
+            {
+              "full_en": "to impose heavy taxes upon luxuries",
+              "full_vn": "đánh thuế nặng vào hàng xa xỉ"
+            },
+            {
+              "full_en": "to impose a fine , term of imprisonment",
+              "full_vn": "bắt nộp tiền phạt, bắt phải chịu một thời hạn tù"
+            },
+            {
+              "full_en": "to impose strict regulations on imports",
+              "full_vn": "áp đặt những quy định nghiêm ngặt đối với hàng nhập khẩu"
+            },
+            {
+              "full_en": "to impose one's rule on a people",
+              "full_vn": "đặt ách cai trị lên một dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to impose oneself something on somebody ) buộc ai phải chấp nhận điều gì đó",
+          "list_en_vn": [
+            {
+              "full_en": "to impose classical methods on his inferiors",
+              "full_vn": "bắt thuộc cấp của mình phải làm theo phương pháp cổ điển"
+            },
+            {
+              "full_en": "he has never thought of imposing himself on his offspring",
+              "full_vn": "ông ấy chưa bao giờ nghĩ đến việc buộc con cái phải tuân theo mình răm rắp"
+            },
+            {
+              "full_en": "she imposed her presence on me for my birthday party",
+              "full_vn": "cô ta buộc tôi phải để cô ta có mặt trong tiệc sinh nhật của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) lên khuôn (trang in)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to impose on / upon somebody / something ) lạm dụng; lợi dụng",
+          "list_en_vn": [
+            {
+              "full_en": "I hope it's not imposing on you /your kindness , but may I borrow some money from you ?",
+              "full_vn": "Tôi mong đây không phải là lợi dụng anh/lòng tốt của anh, nhưng tôi mượn anh tí tiền được chứ?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

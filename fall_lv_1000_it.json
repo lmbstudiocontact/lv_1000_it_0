@@ -1,0 +1,1114 @@
+{
+  "english": "fall",
+  "phat_am": "[fɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rơi, sự ngã; sự rụng xuống (lá); sự rũ xuống; sự hạ"
+        },
+        {
+          "m_full_vn": "sự sụp đổ, sự suy sụp (của một đế quốc...); sự sa sút, sự mất địa vị, sự xuống thế, sự xuống dốc (của một người...)"
+        },
+        {
+          "m_full_vn": "sự sụt giá, sự giảm giá"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự vật ngã; keo vật",
+          "list_en_vn": [
+            {
+              "full_en": "to try a fall",
+              "full_vn": "vật thử một keo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sa ngã (đàn bà)"
+        },
+        {
+          "m_full_vn": "lượng mưa, lượng tuyết"
+        },
+        {
+          "m_full_vn": "số lượng cây ngả; số lượng gỗ xẻ"
+        },
+        {
+          "m_full_vn": "hướng đi xuống; dốc xuống"
+        },
+        {
+          "m_full_vn": "( số nhiều) thác",
+          "list_en_vn": [
+            {
+              "full_en": "the Niagara falls",
+              "full_vn": "thác Ni-a-ga-ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đẻ (của cừu); lứa cừu con"
+        },
+        {
+          "m_full_vn": "dây ròng rọc"
+        },
+        {
+          "m_full_vn": "lưới che mặt, mạng che mặt (của phụ nữ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) mùa lá rụng, mùa thu",
+          "list_one_mean": [
+            {
+              "id_full_en": "the fall of day",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc chập tối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fall of night",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc màn đêm buông xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pride will have a fall",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) trèo cao ngã đau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride for a fall",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ride"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ fallen",
+      "list_m": [
+        {
+          "m_full_vn": "rơi, rơi xuống, rơi vào ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to fall out of the window",
+              "full_vn": "rơi ra ngoài cửa sổ"
+            },
+            {
+              "full_en": "to fall to pieces",
+              "full_vn": "rơi vỡ tan tành"
+            },
+            {
+              "full_en": "to fall to somebody's lot",
+              "full_vn": "rơi vào số phận ai"
+            },
+            {
+              "full_en": "to fall into the hands of the enemy",
+              "full_vn": "rơi vào tay kẻ địch"
+            },
+            {
+              "full_en": "the accent falls on the third syllable",
+              "full_vn": "trọng âm rơi vào âm tiết thứ ba"
+            },
+            {
+              "full_en": "the meeting falls on Friday",
+              "full_vn": "cuộc mít tinh rơi vào ngày thứ sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rủ xuống, xoã xuống (tóc...); rụng xuống (lá); ngã",
+          "list_en_vn": [
+            {
+              "full_en": "to fall flat to the ground",
+              "full_vn": "ngã sóng soài dưới đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạ thấp, xuống thấp, xịu xuống; dịu đi, nguôi đi",
+          "list_en_vn": [
+            {
+              "full_en": "curtain falls",
+              "full_vn": "màn hạ"
+            },
+            {
+              "full_en": "temperature falls",
+              "full_vn": "độ nhiệt xuống thấp"
+            },
+            {
+              "full_en": "prices fall",
+              "full_vn": "giá cả hạ xuống"
+            },
+            {
+              "full_en": "face falls",
+              "full_vn": "mặt xịu xuống"
+            },
+            {
+              "full_en": "voice falls",
+              "full_vn": "giọng nói khẽ đi"
+            },
+            {
+              "full_en": "eyes fall",
+              "full_vn": "mắt cụp xuống"
+            },
+            {
+              "full_en": "wind falls",
+              "full_vn": "gió dịu đi"
+            },
+            {
+              "full_en": "anger falls",
+              "full_vn": "cơn giận nguôi đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ nát, sụp đổ",
+          "list_en_vn": [
+            {
+              "full_en": "houses fall",
+              "full_vn": "nhà cửa đổ nát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất địa vị, bị hạ bệ, xuống thế, sa sút, xuống dốc",
+          "list_en_vn": [
+            {
+              "full_en": "to fall very low",
+              "full_vn": "sa sút quá, xuống dốc quá"
+            },
+            {
+              "full_en": "to fall in somebody's esteem",
+              "full_vn": "mất lòng quý trọng của aii"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sa ngã (đàn bà)"
+        },
+        {
+          "m_full_vn": "thất bại, thất thủ",
+          "list_en_vn": [
+            {
+              "full_en": "plans fall to the ground",
+              "full_vn": "kế hoạch thất bại"
+            },
+            {
+              "full_en": "fortress falls",
+              "full_vn": "pháo đài thất thủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hy sinh, chết, ngã xuống ( (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "many fell",
+              "full_vn": "nhiều người bị hy sinh (trong chiến trận)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buột nói ra, thốt ra",
+          "list_en_vn": [
+            {
+              "full_en": "the news fell from his lips",
+              "full_vn": "hắn buộc miệng nói ra tin đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh ra, đẻ ra (cừu con...)"
+        },
+        {
+          "m_full_vn": "( + into ) được chia thành, thuộc về",
+          "list_en_vn": [
+            {
+              "full_en": "the books falls into three parts",
+              "full_vn": "cuốn sách được chia làm ba phần"
+            },
+            {
+              "full_en": "to fall into the category",
+              "full_vn": "thuộc vào loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị (rơi vào tình trạng nào đó...)",
+          "list_en_vn": [
+            {
+              "full_en": "to fall into error",
+              "full_vn": "bị lầm lẫn"
+            },
+            {
+              "full_en": "to fall ill",
+              "full_vn": "bị ốm"
+            },
+            {
+              "full_en": "to fall on evil days",
+              "full_vn": "bị sa cơ thất thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dốc xuống",
+          "list_en_vn": [
+            {
+              "full_en": "the land falls in gentle slopes to the sea",
+              "full_vn": "đất dốc thoai thoải xuống biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ ra",
+          "list_en_vn": [
+            {
+              "full_en": "the river falls to the sea",
+              "full_vn": "sông đổ ra biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to fall to work at once",
+              "full_vn": "bắt tay vào việc ngay lập tức"
+            },
+            {
+              "full_en": "to fall into conversation",
+              "full_vn": "bắt đầu nói chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xông vào",
+          "list_en_vn": [
+            {
+              "full_en": "to fall on the enemy",
+              "full_vn": "xông vào kẻ địch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tiếng địa phương); (từ Mỹ,nghĩa Mỹ) chặt, hạ (cây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fall across",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall among",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ rơi vào đám (người nào...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, rời bỏ, bỏ rơi (ai...); ly khai (đạo, đảng)"
+                },
+                {
+                  "im_full_vn": "héo mòn đi, gầy mòn đi"
+                },
+                {
+                  "im_full_vn": "biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, rời bỏ, bỏ rơi (ai...); ly khai (đạo, đảng)"
+                },
+                {
+                  "im_full_vn": "héo mòn đi, gầy mòn đi"
+                },
+                {
+                  "im_full_vn": "biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, rời bỏ, bỏ rơi (ai...); ly khai (đạo, đảng)"
+                },
+                {
+                  "im_full_vn": "héo mòn đi, gầy mòn đi"
+                },
+                {
+                  "im_full_vn": "biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall back",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã ngửa"
+                },
+                {
+                  "im_full_vn": "rút lui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall back",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã ngửa"
+                },
+                {
+                  "im_full_vn": "rút lui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall back on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "phải cầu đến, phải dùng đến (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall behind",
+              "list_im": [
+                {
+                  "im_full_vn": "thụt lùi, bị tụt lại đằng sau"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không trả được đúng hạn, còn thiếu lại, còn nợ lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall behind",
+              "list_im": [
+                {
+                  "im_full_vn": "thụt lùi, bị tụt lại đằng sau"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không trả được đúng hạn, còn thiếu lại, còn nợ lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall down",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống, ngã xuống, sụp xuống, thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mê tít, phục lăn"
+                },
+                {
+                  "im_full_vn": "bị bịp, bị chơi xỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mê tít, phục lăn"
+                },
+                {
+                  "im_full_vn": "bị bịp, bị chơi xỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đứng vào hàng"
+                },
+                {
+                  "im_full_vn": "(thông tục) thụt vào, lùi vào trong ( ngôi nhà)"
+                },
+                {
+                  "im_full_vn": "đến lúc phải thanh toán (nợ); hết hạn (hợp đồng thuê nhà)"
+                },
+                {
+                  "im_full_vn": "sập, lún, sụp đổ (mái nhà...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đứng vào hàng"
+                },
+                {
+                  "im_full_vn": "(thông tục) thụt vào, lùi vào trong ( ngôi nhà)"
+                },
+                {
+                  "im_full_vn": "đến lúc phải thanh toán (nợ); hết hạn (hợp đồng thuê nhà)"
+                },
+                {
+                  "im_full_vn": "sập, lún, sụp đổ (mái nhà...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đứng vào hàng"
+                },
+                {
+                  "im_full_vn": "(thông tục) thụt vào, lùi vào trong ( ngôi nhà)"
+                },
+                {
+                  "im_full_vn": "đến lúc phải thanh toán (nợ); hết hạn (hợp đồng thuê nhà)"
+                },
+                {
+                  "im_full_vn": "sập, lún, sụp đổ (mái nhà...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đứng vào hàng"
+                },
+                {
+                  "im_full_vn": "(thông tục) thụt vào, lùi vào trong ( ngôi nhà)"
+                },
+                {
+                  "im_full_vn": "đến lúc phải thanh toán (nợ); hết hạn (hợp đồng thuê nhà)"
+                },
+                {
+                  "im_full_vn": "sập, lún, sụp đổ (mái nhà...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in with",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp (ai)"
+                },
+                {
+                  "im_full_vn": "theo, tán đồng (quan điểm của ai...); đồng ý với (ai); (từ Mỹ,nghĩa Mỹ) chiều ý, theo ý (ai) i)"
+                },
+                {
+                  "im_full_vn": "trùng hợp với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in with",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp (ai)"
+                },
+                {
+                  "im_full_vn": "theo, tán đồng (quan điểm của ai...); đồng ý với (ai); (từ Mỹ,nghĩa Mỹ) chiều ý, theo ý (ai) i)"
+                },
+                {
+                  "im_full_vn": "trùng hợp với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in with",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp (ai)"
+                },
+                {
+                  "im_full_vn": "theo, tán đồng (quan điểm của ai...); đồng ý với (ai); (từ Mỹ,nghĩa Mỹ) chiều ý, theo ý (ai) i)"
+                },
+                {
+                  "im_full_vn": "trùng hợp với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall off",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống"
+                },
+                {
+                  "im_full_vn": "rút, giảm sút; thoái hoá, tàn tạ, suy đồi"
+                },
+                {
+                  "im_full_vn": "(hàng hải) không ăn theo tay lái"
+                },
+                {
+                  "im_full_vn": "nổi dậy, bỏ hàng ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall off",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống"
+                },
+                {
+                  "im_full_vn": "rút, giảm sút; thoái hoá, tàn tạ, suy đồi"
+                },
+                {
+                  "im_full_vn": "(hàng hải) không ăn theo tay lái"
+                },
+                {
+                  "im_full_vn": "nổi dậy, bỏ hàng ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall off",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống"
+                },
+                {
+                  "im_full_vn": "rút, giảm sút; thoái hoá, tàn tạ, suy đồi"
+                },
+                {
+                  "im_full_vn": "(hàng hải) không ăn theo tay lái"
+                },
+                {
+                  "im_full_vn": "nổi dậy, bỏ hàng ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall off",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống"
+                },
+                {
+                  "im_full_vn": "rút, giảm sút; thoái hoá, tàn tạ, suy đồi"
+                },
+                {
+                  "im_full_vn": "(hàng hải) không ăn theo tay lái"
+                },
+                {
+                  "im_full_vn": "nổi dậy, bỏ hàng ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on",
+              "list_im": [
+                {
+                  "im_full_vn": "nhập trận, tấn công"
+                },
+                {
+                  "im_full_vn": "bắt đầu ăn uống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on",
+              "list_im": [
+                {
+                  "im_full_vn": "nhập trận, tấn công"
+                },
+                {
+                  "im_full_vn": "bắt đầu ăn uống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall out",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi ra ngoài; xoã ra (tóc)"
+                },
+                {
+                  "im_full_vn": "cãi nhau, bất hoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out with somebody",
+                      "full_vn": "cãi nhau với ai, bất hoà với ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoá ra là, thành ra là, dẫn đến kết quả là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall out",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi ra ngoài; xoã ra (tóc)"
+                },
+                {
+                  "im_full_vn": "cãi nhau, bất hoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out with somebody",
+                      "full_vn": "cãi nhau với ai, bất hoà với ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoá ra là, thành ra là, dẫn đến kết quả là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall out",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi ra ngoài; xoã ra (tóc)"
+                },
+                {
+                  "im_full_vn": "cãi nhau, bất hoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out with somebody",
+                      "full_vn": "cãi nhau với ai, bất hoà với ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoá ra là, thành ra là, dẫn đến kết quả là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall out",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi ra ngoài; xoã ra (tóc)"
+                },
+                {
+                  "im_full_vn": "cãi nhau, bất hoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out with somebody",
+                      "full_vn": "cãi nhau với ai, bất hoà với ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoá ra là, thành ra là, dẫn đến kết quả là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it fell out that",
+              "list_im": [
+                {
+                  "im_full_vn": "hoá ra là, thành ra là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out well",
+                      "full_vn": "dẫn đến kết quả tốt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(quân sự) bỏ hàng, ra ngoài hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out of",
+                      "full_vn": "bỏ (một thói quen...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it fell out that",
+              "list_im": [
+                {
+                  "im_full_vn": "hoá ra là, thành ra là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out well",
+                      "full_vn": "dẫn đến kết quả tốt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(quân sự) bỏ hàng, ra ngoài hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out of",
+                      "full_vn": "bỏ (một thói quen...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it fell out that",
+              "list_im": [
+                {
+                  "im_full_vn": "hoá ra là, thành ra là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out well",
+                      "full_vn": "dẫn đến kết quả tốt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(quân sự) bỏ hàng, ra ngoài hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out of",
+                      "full_vn": "bỏ (một thói quen...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it fell out that",
+              "list_im": [
+                {
+                  "im_full_vn": "hoá ra là, thành ra là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out well",
+                      "full_vn": "dẫn đến kết quả tốt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(quân sự) bỏ hàng, ra ngoài hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall out of",
+                      "full_vn": "bỏ (một thói quen...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall over",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã lộn nhào, bị đổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall over an obstacle",
+                      "full_vn": "va vào một chướng ngại và ngã lộn nhào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall over",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã lộn nhào, bị đổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fall over an obstacle",
+                      "full_vn": "va vào một chướng ngại và ngã lộn nhào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall through",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏng, thất bại; không đi đến kết quả nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu"
+                },
+                {
+                  "im_full_vn": "bắt đầu tấn công; bắt đầu ăn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now , let's fall to !",
+                      "full_vn": "(thông tục) nào, chúng ta bắt đầu tấn công (bắt đầu ăn)!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu"
+                },
+                {
+                  "im_full_vn": "bắt đầu tấn công; bắt đầu ăn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now , let's fall to !",
+                      "full_vn": "(thông tục) nào, chúng ta bắt đầu tấn công (bắt đầu ăn)!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu"
+                },
+                {
+                  "im_full_vn": "bắt đầu tấn công; bắt đầu ăn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "now , let's fall to !",
+                      "full_vn": "(thông tục) nào, chúng ta bắt đầu tấn công (bắt đầu ăn)!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall under",
+              "list_im": [
+                {
+                  "im_full_vn": "được liệt vào, được xếp loại vào"
+                },
+                {
+                  "im_full_vn": "ở dưới (sự quan sát...); chịu (ảnh hưởng của ai...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall under",
+              "list_im": [
+                {
+                  "im_full_vn": "được liệt vào, được xếp loại vào"
+                },
+                {
+                  "im_full_vn": "ở dưới (sự quan sát...); chịu (ảnh hưởng của ai...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall upon",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall within",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm trong, gồm trong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall due",
+              "list_im": [
+                {
+                  "im_full_vn": "đến kỳ phải trả, đến hạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall flat",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) flat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall foul of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) foul"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall in love with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) love"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall into a habit",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) habit"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall into line",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng vào hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall into line with",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý vớii"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall into a rage",
+              "list_im": [
+                {
+                  "im_full_vn": "giận điên lên, nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on one's sword",
+              "list_im": [
+                {
+                  "im_full_vn": "tự tử, tự sát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall over backwards",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến chỗ cực đoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall over each other",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh lộn, ẩu đả; cạnh tranh xâu xé nhau kịch liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall a sacrifice to",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mồi cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall short",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu, không đủ"
+                },
+                {
+                  "im_full_vn": "không tới đích (đạn, tên lửa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall short",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu, không đủ"
+                },
+                {
+                  "im_full_vn": "không tới đích (đạn, tên lửa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall short of",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại, không đạt (mục đích...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your work falls short of my expectations",
+                      "full_vn": "công việc làm của anh không được như ý tôi mong đợii"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall short of",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại, không đạt (mục đích...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your work falls short of my expectations",
+                      "full_vn": "công việc làm của anh không được như ý tôi mong đợii"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on (upon ) one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát khỏi khó khăn, lại đứng vững chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall a victim to",
+              "list_im": [
+                {
+                  "im_full_vn": "là nạn nhân của"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

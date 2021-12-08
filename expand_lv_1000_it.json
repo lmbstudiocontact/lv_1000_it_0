@@ -1,0 +1,38 @@
+{
+  "english": "expand",
+  "phat_am": "[iks'pænd]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở rộng, trải ra"
+        },
+        {
+          "m_full_vn": "nở ra, phồng ra, giãn",
+          "list_en_vn": [
+            {
+              "full_en": "expanded polystyrene",
+              "full_vn": "vật liệu cách điện hoặc để đóng gói bằng chất dẻo chứa không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) khai triển"
+        },
+        {
+          "m_full_vn": "phát triển (một vấn đề...)",
+          "list_en_vn": [
+            {
+              "full_en": "to expand the economic relations",
+              "full_vn": "phát triển các quan hệ kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên cởi mở"
+        }
+      ]
+    }
+  ]
+}

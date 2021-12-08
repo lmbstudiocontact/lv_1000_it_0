@@ -1,0 +1,34 @@
+{
+  "english": "curve",
+  "phat_am": "[kə:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường cong, đường vòng, chỗ quanh co",
+          "list_en_vn": [
+            {
+              "full_en": "a curve of pursuit",
+              "full_vn": "đường đuôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cong, uốn cong, bẻ cong, làm vênh",
+          "list_en_vn": [
+            {
+              "full_en": "the road curves round the hillside",
+              "full_vn": "con đường uốn quanh sườn đồi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

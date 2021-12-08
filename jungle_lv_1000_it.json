@@ -1,0 +1,30 @@
+{
+  "english": "jungle",
+  "phat_am": "['dʒʌηgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rừng nhiệt đới"
+        },
+        {
+          "m_full_vn": "khu đất hoang mọc đầy bụi rậm"
+        },
+        {
+          "m_full_vn": "mớ hỗn độn",
+          "list_one_mean": [
+            {
+              "id_full_en": "the law of the jungle",
+              "list_im": [
+                {
+                  "im_full_vn": "luật của kẻ mạnh đè kẻ yếu, luật rừng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

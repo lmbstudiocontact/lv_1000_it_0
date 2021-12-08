@@ -1,0 +1,56 @@
+{
+  "english": "else",
+  "phat_am": "[els]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(với các đại từ và phó từ khẳng định, nghi vấn hoặc phủ định) thêm vào hoặc ngoài (cái đã được đề cập)",
+          "list_en_vn": [
+            {
+              "full_en": "did you see anybody else ?",
+              "full_vn": "anh có gặp ai nữa không?"
+            },
+            {
+              "full_en": "have you anything else to do ?",
+              "full_vn": "anh có việc nào khác phải làm hay không?"
+            },
+            {
+              "full_en": "ask somebody else to help you",
+              "full_vn": "hãy đề nghị ai khác giúp anh đi"
+            },
+            {
+              "full_en": "that must be somebody else's coat , it isn't mine",
+              "full_vn": "chắc là áo khoác của ai đó, chứ không phải của tôi"
+            },
+            {
+              "full_en": "nothing else , thank you",
+              "full_vn": "không cần gì nữa, xin cám ơn"
+            },
+            {
+              "full_en": "we went to the cinema and nowhere else",
+              "full_vn": "chúng tôi đi xem phim và không đi đâu nữa"
+            },
+            {
+              "full_en": "I've tried to phone her six times today ; what else can I do ?",
+              "full_vn": "Tôi đã cố gọi điện thoại cho cô ấy sáu lần trong ngày hôm nay; tôi còn có thể làm gì được nữa?"
+            },
+            {
+              "full_en": "who else was at the party ?",
+              "full_vn": "còn ai khác trong bữa tiệc?"
+            },
+            {
+              "full_en": "how else would you do it ?",
+              "full_vn": "anh sẽ làm việc đó bằng cách nào nữa?"
+            },
+            {
+              "full_en": "we have a bit of bread and little /no much else",
+              "full_vn": "chúng ta có một ít bánh mì và chút ít/không nhiều nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

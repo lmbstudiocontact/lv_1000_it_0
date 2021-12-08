@@ -1,0 +1,33 @@
+{
+  "english": "cuckoo",
+  "phat_am": "['kuku:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chim cu cu"
+        },
+        {
+          "m_full_vn": "chàng ngốc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gáy cu cu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) điên điên, gàn gàn"
+        }
+      ]
+    }
+  ]
+}

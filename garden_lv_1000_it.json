@@ -1,0 +1,95 @@
+{
+  "english": "garden",
+  "phat_am": "['gɑ:dn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vườn",
+          "list_en_vn": [
+            {
+              "full_en": "a vegetable garden",
+              "full_vn": "vườn rau"
+            },
+            {
+              "full_en": "a formal garden",
+              "full_vn": "một mảnh vườn ngay hàng thẳng lối"
+            },
+            {
+              "full_en": "weeding the garden",
+              "full_vn": "nhổ cỏ trong vườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) công viên, vườn",
+          "list_en_vn": [
+            {
+              "full_en": "zoological gardens",
+              "full_vn": "vườn bách thú"
+            },
+            {
+              "full_en": "botanical gardens",
+              "full_vn": "vườn bách thảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vùng màu mỡ xanh tốt"
+        },
+        {
+          "m_full_vn": "nơi phục vụ đồ giải khát ngoài trời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lead somebody up the garden path",
+              "list_im": [
+                {
+                  "im_full_vn": "lừa phỉnh ai; đánh lừa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bear garden",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi bát nháo lộn xộn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "common or garden",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có gì khác lạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "everything in the garden is lovely",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi thứ đều mỹ mãn, mọi việc đều tốt đẹp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a beer /tea garden",
+              "full_vn": "quán bia/trà ngoài trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm vườn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "bind",
+  "phat_am": "[baund]",
+  "list_type": [
+    {
+      "type": "(bất qui tắc) ngoại động từ bound",
+      "list_m": [
+        {
+          "m_full_vn": "trói, buộc, bỏ lại",
+          "list_en_vn": [
+            {
+              "full_en": "to bind hand and foot",
+              "full_vn": "trói tay, trói chân"
+            },
+            {
+              "full_en": "to be bound to do something",
+              "full_vn": "bắt buộc phải làm gì; nhất định phải làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ký hợp đồng học nghề",
+          "list_en_vn": [
+            {
+              "full_en": "to be bound as an apprentice",
+              "full_vn": "ký hợp đồng học nghề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ràng buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to bind oneself",
+              "full_vn": "tự mình ràng buộc với, giao ước, hứa hẹn, cam đoan"
+            },
+            {
+              "full_en": "to be bound by an oath",
+              "full_vn": "bị ràng buộc bởi lời thề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấp nhận, thừa nhận (một giao kèo, giá cả mua bán...)",
+          "list_en_vn": [
+            {
+              "full_en": "to bind a bargain",
+              "full_vn": "chấp nhận giá cả mua bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm táo bón (đồ ăn)"
+        },
+        {
+          "m_full_vn": "băng bó (vết thương); đánh đai nẹp (thùng...); đóng (sách); tết quanh",
+          "list_en_vn": [
+            {
+              "full_en": "head bound with laurels",
+              "full_vn": "đầu tết vòng hoa nguyệt quế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "(bất qui tắc) nội động từ bound",
+      "list_m": [
+        {
+          "m_full_vn": "kết lại với nhau, kết thành khối rắn",
+          "list_en_vn": [
+            {
+              "full_en": "clay binds to heat",
+              "full_vn": "đất sét rắn lại khi đem nung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) kẹt (các bộ phận trong máy)"
+        },
+        {
+          "m_full_vn": "táo bón",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bind up",
+              "list_im": [
+                {
+                  "im_full_vn": "băng bó (vết thương)"
+                },
+                {
+                  "im_full_vn": "đóng (nhiều quyển sách) thành một tập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bind up",
+              "list_im": [
+                {
+                  "im_full_vn": "băng bó (vết thương)"
+                },
+                {
+                  "im_full_vn": "đóng (nhiều quyển sách) thành một tập"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngành mỏ) vỉa đất sét (giữa hai vỉa than)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu nối"
+        },
+        {
+          "m_full_vn": "chuyện phiền nhiễu rắc rối"
+        }
+      ]
+    }
+  ]
+}

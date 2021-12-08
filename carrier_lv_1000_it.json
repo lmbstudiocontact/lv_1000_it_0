@@ -1,0 +1,62 @@
+{
+  "english": "carrier",
+  "phat_am": "['kæriə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc vật chở cái gì"
+        },
+        {
+          "m_full_vn": "hãng vận tải",
+          "list_en_vn": [
+            {
+              "full_en": "common carrier",
+              "full_vn": "hãng vận tải đường bộ, đường sắt và đường thuỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái đèo hàng (ở xe đạp...)",
+          "list_en_vn": [
+            {
+              "full_en": "to strap a parcel to the carrier",
+              "full_vn": "buộc một bưu kiện vào cái đèo hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) người mang mầm bệnh; vật mang mầm bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "mosquitoes are carriers of malaria",
+              "full_vn": "muỗi mang mầm bệnh sốt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tàu chuyên chở"
+        },
+        {
+          "m_full_vn": "như aircraft carrier"
+        },
+        {
+          "m_full_vn": "như carrier-pigeon"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vật mang, vật đỡ, giá đỡ"
+        },
+        {
+          "m_full_vn": "(vật lý) chất mang, phần tử mang",
+          "list_en_vn": [
+            {
+              "full_en": "charge carrier",
+              "full_vn": "phần tử mang điện tích"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

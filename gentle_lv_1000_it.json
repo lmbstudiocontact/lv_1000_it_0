@@ -1,0 +1,83 @@
+{
+  "english": "gentle",
+  "phat_am": "['dʒentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiền lành, dịu dàng, hoà nhã; nhẹ nhàng; thoai thoải",
+          "list_en_vn": [
+            {
+              "full_en": "a gentle nature",
+              "full_vn": "bản chất hiền lành hoà nhã"
+            },
+            {
+              "full_en": "a gentle breeze",
+              "full_vn": "làn gió nhẹ"
+            },
+            {
+              "full_en": "the gentle sex",
+              "full_vn": "phái đẹp, giới phụ nữ"
+            },
+            {
+              "full_en": "a gentle medicine",
+              "full_vn": "thuốc nhẹ (ít công phạt)"
+            },
+            {
+              "full_en": "a gentle slope",
+              "full_vn": "dốc thoai thoải"
+            },
+            {
+              "full_en": "the gentle craft",
+              "full_vn": "nghề câu cá (một công việc êm ái, nhẹ nhàng)"
+            },
+            {
+              "full_en": "a gentle person , manner , voice , look",
+              "full_vn": "con người, phong cách, giọng nói, cái nhìn dịu dàng"
+            },
+            {
+              "full_en": "to be gentle with animals , children",
+              "full_vn": "dịu dàng với thú vật, trẻ em"
+            },
+            {
+              "full_en": "gentle rainfall",
+              "full_vn": "mưa lớt phớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) dòng dõi trâm anh, (thuộc) gia đình quyền quý"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) lịch thiệp, lịch sự; cao quý",
+          "list_en_vn": [
+            {
+              "full_en": "gentle reader",
+              "full_vn": "bạn đọc cao quý (lời nói đầu của tác giả với người đọc)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mồi giòi (để câu cá)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) những người thuộc gia đình quyền quý"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "luyện (ngựa) cho thuần"
+        }
+      ]
+    }
+  ]
+}

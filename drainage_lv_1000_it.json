@@ -1,0 +1,23 @@
+{
+  "english": "drainage",
+  "phat_am": "['dreinidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rút nước, sự tháo nước, sự tiêu nước"
+        },
+        {
+          "m_full_vn": "hệ thống thoát nước, hệ thống cống rãnh, hệ thống mương máng"
+        },
+        {
+          "m_full_vn": "(y học) sự dẫn lưu"
+        },
+        {
+          "m_full_vn": "nước thoát đi (qua cống rãnh...); nước tiêu (qua hệ thống mương máng...)"
+        }
+      ]
+    }
+  ]
+}

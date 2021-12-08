@@ -1,0 +1,32 @@
+{
+  "english": "careless",
+  "phat_am": "['keəlis]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không để ý, không chú ý, sơ suất, lơ đễnh, cẩu thả",
+          "list_en_vn": [
+            {
+              "full_en": "he is careless to (about ) the kind of clothes he wears",
+              "full_vn": "anh ta không chú ý đến quần áo mình mặc"
+            },
+            {
+              "full_en": "a careless driver",
+              "full_vn": "người lái xe cẩu thả"
+            },
+            {
+              "full_en": "a careless mistake",
+              "full_vn": "một lỗi do sơ ý"
+            },
+            {
+              "full_en": "to be careless of hardship",
+              "full_vn": "không để ý tới gian khổ, không màng gian khổ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

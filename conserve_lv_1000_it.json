@@ -1,0 +1,35 @@
+{
+  "english": "conserve",
+  "phat_am": "[kən'sə:v]",
+  "list_type": [
+    {
+      "type": "danh từ, thường ở số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "mứt có những miếng hoa quả lớn trong đó; mứt quả"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ gìn; bảo tồn",
+          "list_en_vn": [
+            {
+              "full_en": "to conserve one's health",
+              "full_vn": "giữ gìn sức khoẻ"
+            },
+            {
+              "full_en": "new laws to conserve wildlife in the area",
+              "full_vn": "những đạo luật mới bảo tồn động vật hoang dã trong vùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chế thành mứt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "brown",
+  "phat_am": "[braun]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâu",
+          "list_en_vn": [
+            {
+              "full_en": "brown paper",
+              "full_vn": "giấy nâu gói hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rám nắng (da)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as brown as a berry",
+              "list_im": [
+                {
+                  "im_full_vn": "có da sạm nắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a brown study",
+              "list_im": [
+                {
+                  "im_full_vn": "trầm ngâm suy tưởng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do brown",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bịp, đánh lừa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu nâu"
+        },
+        {
+          "m_full_vn": "quần áo nâu"
+        },
+        {
+          "m_full_vn": "the brown bầy chim đang bay",
+          "list_en_vn": [
+            {
+              "full_en": "to fire into the brown",
+              "full_vn": "bắn vào bầy chim đang bay; (nghĩa rộng) bắn bừa bãi vào đám đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộm nâu; quệt nâu, sơn nâu"
+        },
+        {
+          "m_full_vn": "rán vàng (thịt, cá); phi",
+          "list_en_vn": [
+            {
+              "full_en": "to brown onions",
+              "full_vn": "phi hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rám nắng",
+          "list_en_vn": [
+            {
+              "full_en": "face browned by the sun",
+              "full_vn": "mặt rám nắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoá nâu, hoá sạm"
+        },
+        {
+          "m_full_vn": "chín vàng (cá rán...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I'm browned off with it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) tôi chán ngấy cái đó rồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

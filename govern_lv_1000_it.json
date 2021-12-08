@@ -1,0 +1,59 @@
+{
+  "english": "govern",
+  "phat_am": "['gʌvən]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cai trị (một đất nước...); cầm quyền",
+          "list_en_vn": [
+            {
+              "full_en": "In Britain the Queen reigns , but elected representatives of the people govern the country",
+              "full_vn": "ở Anh nữ hoàng trị vì, còn các đại biểu do dân bầu lên thì cai trị đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khống chế; kiềm chế, đè nén (một dục vọng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to govern one's feelings , passion , temper",
+              "full_vn": "kiềm chế dục vọng, tình cảm, tính tình"
+            },
+            {
+              "full_en": "to govern oneself",
+              "full_vn": "tự kiềm chế mình; tự hãm mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi phối; ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to be governed by the opinions of others",
+              "full_vn": "bị ý kiến người khác chi phối"
+            },
+            {
+              "full_en": "to be governed by what other people say",
+              "full_vn": "bị ảnh hưởng bởi những điều người khác nói"
+            },
+            {
+              "full_en": "the law of supply and demand governs the prices of goods",
+              "full_vn": "luật cung cầu quyết định giá cả của hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chi phối",
+          "list_en_vn": [
+            {
+              "full_en": "a noun governed by a preposition",
+              "full_vn": "một danh từ bị một giới từ chi phối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "conduct",
+  "phat_am": "[kən'dʌkt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạnh kiểm; tư cách đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "the rules of conduct",
+              "full_vn": "các quy tắc đạo đức"
+            },
+            {
+              "full_en": "good conduct",
+              "full_vn": "hạnh kiểm tốt"
+            },
+            {
+              "full_en": "bad conduct",
+              "full_vn": "hạnh kiểm xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( conduct of something ) cách chỉ đạo; cách quản lý",
+          "list_en_vn": [
+            {
+              "full_en": "there was growing criticism of the Government's conduct of the war",
+              "full_vn": "ngày càng có nhiều lời chỉ trích cách chỉ đạo chiến tranh của chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghệ thuật) cách sắp đặt, cách bố cục (vở kịch, bài thơ...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "regimental (company ) conduct sheet",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) giấy ghi khuyết điểm và kỷ luật của người lính"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dẫn đường; hướng dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "I told the bodyguard to conduct him to the door /to conduct him out",
+              "full_vn": "Tôi bảo vệ sĩ đưa ông ta ra cửa/đưa ông ta ra ngoài"
+            },
+            {
+              "full_en": "The guide conducted the tourists round the museum",
+              "full_vn": "Hướng dẫn viên đưa du kh 1 ch đi thăm khắp viện bảo tàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ đạo; kiểm soát; quản lý",
+          "list_en_vn": [
+            {
+              "full_en": "to conduct an army",
+              "full_vn": "chỉ huy một đạo quân"
+            },
+            {
+              "full_en": "to conduct an orchestra",
+              "full_vn": "điều khiển một dàn nhạc"
+            },
+            {
+              "full_en": "to conduct an affair",
+              "full_vn": "quản lý một công việc"
+            },
+            {
+              "full_en": "to conduct a meeting , negotiations",
+              "full_vn": "tiến hành một cuộc họp, các cuộc đàm phán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn (điện, nhiệt...)",
+          "list_en_vn": [
+            {
+              "full_en": "copper conducts electricity better than other materials do",
+              "full_vn": "đồng dẫn điện tốt hơn các chất liệu khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to conduct oneself ) ăn ở; cư xử",
+          "list_en_vn": [
+            {
+              "full_en": "to conduct oneself honourably , with dignity , like a gentleman",
+              "full_vn": "cư xử đàng hoàng, có phẩm giá, như một người đàng hoàng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

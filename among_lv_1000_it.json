@@ -1,0 +1,71 @@
+{
+  "english": "among",
+  "phat_am": "[ə'mʌη]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị vây quanh bởi ai/cái gì; giữa",
+          "list_en_vn": [
+            {
+              "full_en": "to work among the poor , the sick , the elderly",
+              "full_vn": "làm việc giữa những người nghèo, người đau ốm, người lớn tuổi"
+            },
+            {
+              "full_en": "to stand among the crowd at the football match",
+              "full_vn": "đứng giữa đám đông trong trận bóng đá"
+            },
+            {
+              "full_en": "he found it among a pile of old books",
+              "full_vn": "nó tìm thấy cái đó giữa một đống sách cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nằm trong số (những cái gì); bao gồm trong",
+          "list_en_vn": [
+            {
+              "full_en": "I was among the last to leave",
+              "full_vn": "tôi ở trong số những người ra về sau cùng"
+            },
+            {
+              "full_en": "among those present were the Prime Minister and her husband",
+              "full_vn": "trong số những người có mặt, có bà thủ tướng và chồng bà ta"
+            },
+            {
+              "full_en": "he was only one among many who needed help",
+              "full_vn": "nó chỉ là một trong số nhiều người cần được giúp đỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chia phần) cho mỗi thành viên (của một nhóm)",
+          "list_en_vn": [
+            {
+              "full_en": "to distribute the books among the class",
+              "full_vn": "phân phát sách cho cả lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữa (với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "politicians are always arguing among themselves",
+              "full_vn": "các chính trị gia luôn luôn tranh luận với nhau"
+            },
+            {
+              "full_en": "they talked among themselves while they waited",
+              "full_vn": "họ trò chuyện với nhau trong khi chờ đợi"
+            },
+            {
+              "full_en": "there is honour among thieves",
+              "full_vn": "giữa kẻ cắp với nhau cũng có danh dự"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

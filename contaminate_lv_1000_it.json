@@ -1,0 +1,26 @@
+{
+  "english": "contaminate",
+  "phat_am": "[kən'tæmineit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bẩn, làm ô uế"
+        },
+        {
+          "m_full_vn": "làm nhiễm (bệnh)"
+        },
+        {
+          "m_full_vn": "làm hư hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to be contaminated by companions",
+              "full_vn": "bị bạn xấu làm hư hỏng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

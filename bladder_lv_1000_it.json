@@ -1,0 +1,29 @@
+{
+  "english": "bladder",
+  "phat_am": "['blædə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bong bóng"
+        },
+        {
+          "m_full_vn": "ruột của quả bóng"
+        },
+        {
+          "m_full_vn": "người huênh hoang rỗng tuếch; người chỉ nói suông"
+        },
+        {
+          "m_full_vn": "(giải phẫu) bọng đái, bàng quang",
+          "list_en_vn": [
+            {
+              "full_en": "urinary bladder",
+              "full_vn": "bọng đái, bàng quang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

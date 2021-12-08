@@ -1,0 +1,35 @@
+{
+  "english": "journey",
+  "phat_am": "['dʒə:ni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc hành trình (thường) là bằng đường bộ"
+        },
+        {
+          "m_full_vn": "chặng đường đi, quãng đường đi (trong một thời gian nhất định)",
+          "list_en_vn": [
+            {
+              "full_en": "to go by easy journeys",
+              "full_vn": "đi từng chặng đường ngắn"
+            },
+            {
+              "full_en": "a three day's journey",
+              "full_vn": "chặng đường đi mất ba ngày; cuộc hành trình ba ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm một cuộc hành trình"
+        }
+      ]
+    }
+  ]
+}

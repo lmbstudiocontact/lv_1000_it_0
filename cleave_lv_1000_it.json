@@ -1,0 +1,81 @@
+{
+  "english": "cleave",
+  "phat_am": "[kli:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ clove , cleft , cleft , cloven",
+      "list_m": [
+        {
+          "m_full_vn": "chẻ, bổ",
+          "list_en_vn": [
+            {
+              "full_en": "to cleave a block of wood in two",
+              "full_vn": "bổ đôi khúc gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rẽ (sóng, nước, không khí, đám đông)",
+          "list_en_vn": [
+            {
+              "full_en": "to cleave the waves",
+              "full_vn": "rẽ sóng"
+            },
+            {
+              "full_en": "to cleave one's way through the crowd",
+              "full_vn": "rẽ đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chia ra, tách ra"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chẻ, bổ, tách ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to show the cloven hoof",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hoof"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this wood cleaves easily",
+              "full_vn": "củi này dễ chẻ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ clave , cleaved , cleaved",
+      "list_m": [
+        {
+          "m_full_vn": "( + to ) trung thành với",
+          "list_en_vn": [
+            {
+              "full_en": "to cleave to the party",
+              "full_vn": "trung thành với đảng"
+            },
+            {
+              "full_en": "to cleave to principles",
+              "full_vn": "trung thành với nguyên tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa cổ) dính chặt với, dính liền với, bám chặt lấy"
+        }
+      ]
+    }
+  ]
+}

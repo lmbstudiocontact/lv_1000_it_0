@@ -1,0 +1,76 @@
+{
+  "english": "appreciate",
+  "phat_am": "[ə'pri:∫ieit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh giá đúng, đánh giá cao, hiểu rõ giá trị, thưởng thức",
+          "list_en_vn": [
+            {
+              "full_en": "you can't fully appreciate foreign literature in translation",
+              "full_vn": "anh không thể thưởng thức đầy đủ văn học nước ngoài qua bản dịch"
+            },
+            {
+              "full_en": "I really appreciate a good cup of tea",
+              "full_vn": "tôi thực sự thưởng thức một tách trà ngon"
+            },
+            {
+              "full_en": "to appreciate the value of something",
+              "full_vn": "đánh giá đúng cái gì; nhận thức được giá trị của cái gì"
+            },
+            {
+              "full_en": "to appreciate the difficulties of the situation",
+              "full_vn": "thấy rõ hoàn cảnh khó khăn, nhận thức được những khó khăn của tình hình"
+            },
+            {
+              "full_en": "to appreciate the necessity",
+              "full_vn": "thấy rõ được sự cần thiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu (cái gì) với sự thông cảm",
+          "list_en_vn": [
+            {
+              "full_en": "I appreciate your problem , but I don't think I can help you",
+              "full_vn": "tôi thông cảm với vấn đề của bạn, nhưng tôi không nghĩ rằng tôi giúp được bạn"
+            },
+            {
+              "full_en": "you don't seem to appreciate how busy I am",
+              "full_vn": "hình như bạn không thông cảm tôi bận như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm kích",
+          "list_en_vn": [
+            {
+              "full_en": "your help was highly appreciated",
+              "full_vn": "sự giúp đỡ của bạn được đánh giá cao (nghĩa là chúng tôi biết ơn điều đó)"
+            },
+            {
+              "full_en": "I greatly appreciate your kindness",
+              "full_vn": "tôi rất cảm kích lòng tốt của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên giá (hàng hoá...), tăng giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "local property has appreciated (in value ) since they built the motorway nearby",
+              "full_vn": "tài sản ở địa phương đã tăng giá trị từ khi người ta làm xa lộ gần đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

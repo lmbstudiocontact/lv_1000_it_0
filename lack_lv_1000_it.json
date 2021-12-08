@@ -1,0 +1,76 @@
+{
+  "english": "lack",
+  "phat_am": "[læk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thiếu",
+          "list_en_vn": [
+            {
+              "full_en": "the plant died for lack of water",
+              "full_vn": "cây chết vì thiếu nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiếu, không có",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lack the courage of one's convictions",
+              "list_im": [
+                {
+                  "im_full_vn": "không dám làm điều mà mình cho là hợp lý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I lack words to express my joy",
+              "full_vn": "tôi không đủ lời để diễn tả hết niềm vui của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiếu, không có",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lack for sth",
+              "list_im": [
+                {
+                  "im_full_vn": "cần có cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be lacking in sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu cái gì, không có đủ cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "water is no longer lacking thanks to irrigation works",
+              "full_vn": "nước không còn thiếu nữa nhờ có công trình thuỷ lợi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

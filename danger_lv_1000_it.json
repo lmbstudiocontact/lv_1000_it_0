@@ -1,0 +1,62 @@
+{
+  "english": "danger",
+  "phat_am": "['deindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nguy hiểm, mối hiểm nghèo",
+          "list_en_vn": [
+            {
+              "full_en": "to be in danger",
+              "full_vn": "bị nạn, lâm vào cảnh nguy hiểm"
+            },
+            {
+              "full_en": "to be out of danger",
+              "full_vn": "thoát nạn, thoát khỏi cảnh nguy hiểm"
+            },
+            {
+              "full_en": "in danger of one's life",
+              "full_vn": "nguy hiểm đến tính mạng"
+            },
+            {
+              "full_en": "to keep out of danger",
+              "full_vn": "đứng ở ngoài vòng nguy hiểm, tránh được sự nguy hiểm"
+            },
+            {
+              "full_en": "danger money",
+              "full_vn": "trợ cấp dành cho công việc nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguy cơ, mối đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "a danger to peace",
+              "full_vn": "mối đe doạ cho hoà bình"
+            },
+            {
+              "full_en": "the imperialist war",
+              "full_vn": "nguy cơ chiến tranh đế quốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) tín hiệu báo nguy",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the danger list",
+              "list_im": [
+                {
+                  "im_full_vn": "gần chết do bạo bệnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

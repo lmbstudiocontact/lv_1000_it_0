@@ -1,0 +1,34 @@
+{
+  "english": "godfather",
+  "phat_am": "['gɔd,fɑ:ðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cha đỡ đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to stand godfather to a child",
+              "full_vn": "đỡ đầu cho một đứa trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người được lấy tên để đặt cho (ai, vật gì...)"
+        },
+        {
+          "m_full_vn": "thủ lĩnh của một băng nhóm tội phạm; trùm tội phạm; bố già"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỡ đầu (cho một đứa trẻ), đặt tên mình cho một đứa trẻ"
+        }
+      ]
+    }
+  ]
+}

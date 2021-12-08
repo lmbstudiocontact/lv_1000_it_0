@@ -1,0 +1,131 @@
+{
+  "english": "broad",
+  "phat_am": "['brɔ:d]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rộng",
+          "list_en_vn": [
+            {
+              "full_en": "a broad street",
+              "full_vn": "phố rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao la, mênh mông",
+          "list_en_vn": [
+            {
+              "full_en": "the broad ocean",
+              "full_vn": "đại dương bao la"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rộng rãi, khoáng đạt, phóng khoáng",
+          "list_en_vn": [
+            {
+              "full_en": "broad view",
+              "full_vn": "quan điểm rộng rãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ, rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "broad facts",
+              "full_vn": "những sự kiện rõ ràng"
+            },
+            {
+              "full_en": "in broad daylight",
+              "full_vn": "giữa ban ngày"
+            },
+            {
+              "full_en": "broad hint",
+              "full_vn": "lời ám chỉ khá lộ liễu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô tục, tục tĩu",
+          "list_en_vn": [
+            {
+              "full_en": "a broad joke",
+              "full_vn": "câu nói đùa thô tục"
+            },
+            {
+              "full_en": "a broad story",
+              "full_vn": "câu chuyện tục tĩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khái quát, đại cương, chung, chính",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's view in broad outlines",
+              "full_vn": "trình bày quan điểm trên những nét đại cương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nặng (giọng nói)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is as broad as it is long",
+              "list_im": [
+                {
+                  "im_full_vn": "quanh quanh thì cũng vẫn vậy (không có gì khác), trở đi trở lại thì cũng vẫn thế thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "broad in the beam",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về người) mập quanh hông, có nây to"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to speak broad Scotch",
+              "full_vn": "nói tiếng Ê pom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ rộng, phần rộng (của cái gì)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đàn bà"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) gái đĩ, gái điếm"
+        },
+        {
+          "m_full_vn": "( số nhiều) vùng hồ ở Đông Anglia nổi tiếng về du thuyền",
+          "list_one_mean": [
+            {
+              "id_full_en": "Broad Church",
+              "list_im": [
+                {
+                  "im_full_vn": "nhóm chủ trương tự do lý giải giáo lý trong giáo hội Anh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

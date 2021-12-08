@@ -1,0 +1,24 @@
+{
+  "english": "environmental",
+  "phat_am": "[in,vairən'mentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "environmental pollution",
+              "full_vn": "sự ô nhiễm môi trường"
+            },
+            {
+              "full_en": "environmental science",
+              "full_vn": "khoa học về môi trường, môi trường học"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

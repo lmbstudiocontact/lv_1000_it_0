@@ -1,0 +1,339 @@
+{
+  "english": "chance",
+  "phat_am": "[t∫ɑ:ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự may rủi, sự tình cờ",
+          "list_en_vn": [
+            {
+              "full_en": "by chance",
+              "full_vn": "tình cờ, ngẫu nhiên"
+            },
+            {
+              "full_en": "it was (pure ) chance that we met in Paris",
+              "full_vn": "chúng tôi gặp nhau ở Pari là điều hoàn toàn ngẫu nhiên"
+            },
+            {
+              "full_en": "to trust to chance /luck /fortune",
+              "full_vn": "tin vào sự may rủi"
+            },
+            {
+              "full_en": "to leave nothing to chance",
+              "full_vn": "loại trừ mọi may rủi (trù tính cẩn thận để hạn chế rủi ro)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự có thể, sự có khả năng, khả năng có thể",
+          "list_en_vn": [
+            {
+              "full_en": "is there any chance of getting tickets for tonight's performance ?",
+              "full_vn": "liệu có (khả năng) lấy được vé cho buổi biểu diễn tối nay không?"
+            },
+            {
+              "full_en": "the chances are against such an attempt",
+              "full_vn": "có khả năng là sự cố gắng ấy sẽ không thành công"
+            },
+            {
+              "full_en": "he has a chance of winning the prize",
+              "full_vn": "anh ta có thể đoạt giải"
+            },
+            {
+              "full_en": "what chance of success do you have ?",
+              "full_vn": "anh có khả năng thành công nhiều hay ít?"
+            },
+            {
+              "full_en": "she has a good chance /no chance /not much chance /only a slim chance of winning",
+              "full_vn": "cô ta có nhiều khả năng/không có khả năng nào/không có nhiều khả năng lắm/chỉ có một khả năng mong manh để thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ hội, cơ may",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the chance",
+              "list_im": [
+                {
+                  "im_full_vn": "may ra có thể",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll call at his house on the chance of seeing him before he leaves home",
+                      "full_vn": "tôi sẽ lại nhà hắn may ra có thể gặp hắn trước khi hắn đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the chance",
+              "list_im": [
+                {
+                  "im_full_vn": "may ra có thể",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll call at his house on the chance of seeing him before he leaves home",
+                      "full_vn": "tôi sẽ lại nhà hắn may ra có thể gặp hắn trước khi hắn đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the main chance",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ hội làm giàu, cơ hội để phất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the capitalist always has an eye to the main chance",
+                      "full_vn": "nhà tư bản luôn luôn tìm cơ hội để phất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the main chance",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ hội làm giàu, cơ hội để phất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the capitalist always has an eye to the main chance",
+                      "full_vn": "nhà tư bản luôn luôn tìm cơ hội để phất"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this is your big chance !",
+              "full_vn": "đây là cơ may lớn của anh!"
+            },
+            {
+              "full_en": "the chance of a lifetime",
+              "full_vn": "cơ hội nghìn năm có một"
+            },
+            {
+              "full_en": "to stand a chance of something /of doing something",
+              "full_vn": "có cơ may làm được điều gì"
+            },
+            {
+              "full_en": "to lose a chance",
+              "full_vn": "bỏ lỡ cơ hội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình cờ, ngẫu nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "a chance meeting /encounter /happening",
+              "full_vn": "một cuộc gặp gỡ/chạm trán/biến cố ngẫu nhiên"
+            },
+            {
+              "full_en": "there is a chance likeness between the two boys , but they are not brothers",
+              "full_vn": "hai đứa trẻ tình cờ giống nhau nhưng chúng không phải là anh em"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình cờ, ngẫu nhiên, may mà",
+          "list_en_vn": [
+            {
+              "full_en": "it chanced that my friend was at home when I came; my friend chanced to be at home when I came",
+              "full_vn": "may mà bạn tôi lại có nhà lúc tôi đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) liều, đánh liều",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chance on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ tìm thấy, tình cờ gặp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chance one's arm",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đánh liều dù là có thể thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sporting chance",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sporting"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /something half a chance",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai/cái gì một cơ hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an even chance",
+              "list_im": [
+                {
+                  "im_full_vn": "xem even"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the chances are (that ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể là..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fighting chance",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fight"
+                }
+              ]
+            },
+            {
+              "id_full_en": "chance would be a fine thing",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi muốn làm điều đó nhưng chẳng bao giờ có cơ hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no chance",
+              "list_im": [
+                {
+                  "im_full_vn": "không có khả năng điều đó xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a chance /hope in hell",
+              "list_im": [
+                {
+                  "im_full_vn": "xem hell"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the (off ) chance (of doing sth /that ...)",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng cái gì sẽ xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chance one's luck",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a chance on something",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng làm điều gì (dù có thể thất bại)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's chance",
+              "list_im": [
+                {
+                  "im_full_vn": "tận dụng cơ hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take chances",
+              "list_im": [
+                {
+                  "im_full_vn": "ứng xử liều lĩnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as chance would have it",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách tình cờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cat in hell's chance of doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm mơ cũng chẳng thấy cơ hội làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb half a chance",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai một cơ may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "even chances /odds /money",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể thắng mà cũng có thể thua"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Take an umbrella - No , I'll chance it",
+              "full_vn": "Hãy mang ô theo - Không, tôi cũng liều (chấp nhận bị ướt)"
+            },
+            {
+              "full_en": "we'll have to chance meeting an enemy patrol",
+              "full_vn": "chúng ta đành chấp nhận nguy cơ có thể gặp toán tuần tiễu của địch"
+            },
+            {
+              "full_en": "let's chance it !",
+              "full_vn": "chúng ta cứ liều xem sao!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

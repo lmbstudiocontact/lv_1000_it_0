@@ -1,0 +1,80 @@
+{
+  "english": "column",
+  "phat_am": "['kɔləm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột, trụ ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the columns of a building",
+              "full_vn": "những cột trụ của toà nhà"
+            },
+            {
+              "full_en": "a column of smoke",
+              "full_vn": "cột khói"
+            },
+            {
+              "full_en": "a column of figures",
+              "full_vn": "cột số"
+            },
+            {
+              "full_en": "the spinal column",
+              "full_vn": "cột sống"
+            },
+            {
+              "full_en": "the right-hand column of a page",
+              "full_vn": "cột bên phải của trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng dọc; đội hình hàng dọc (đơn vị bộ đội, tàu chiến)",
+          "list_en_vn": [
+            {
+              "full_en": "to march in two columns",
+              "full_vn": "đi thành hai hàng dọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột; mục (báo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "agony column",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) agony"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fifth column",
+              "list_im": [
+                {
+                  "im_full_vn": "một tổ chức bí mật hoạt động trong một tổ chức hoặc một nước khác để sẵn sàng tiếp tay với bên ngoài phá hoại tổ chức hoặc nước này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "storming column",
+              "list_im": [
+                {
+                  "im_full_vn": "đội quân xung kích"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in our columns",
+              "full_vn": "trong tờ báo của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

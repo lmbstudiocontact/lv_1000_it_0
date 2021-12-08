@@ -1,0 +1,84 @@
+{
+  "english": "acknowledge",
+  "phat_am": "[ək'nɔlidʒ]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấp nhận sự thật của cái gì; thừa nhận cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to acknowledge one's guilt",
+              "full_vn": "nhận tội; thú tội"
+            },
+            {
+              "full_en": "to acknowledge the need for reform",
+              "full_vn": "thừa nhận sự cần thiết phải cải cách"
+            },
+            {
+              "full_en": "a generally acknowledged fact",
+              "full_vn": "một thực tế đã được mọi người thừa nhận"
+            },
+            {
+              "full_en": "he acknowledged it to be true /that it was true",
+              "full_vn": "anh ấy thừa nhận điều đó là đúng"
+            },
+            {
+              "full_en": "they refused to acknowledge defeat /that they were defeated /themselves beaten",
+              "full_vn": "họ không chịu thừa nhận thất bại/rằng họ đã bị thất bại/bản thân họ đã bị đánh bại"
+            },
+            {
+              "full_en": "the country acknowledged his claim to the throne",
+              "full_vn": "đất nước chấp nhận yêu sách của ông ta đối với ngai vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to acknowledge somebody as something ) công nhận; thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "he was acknowledged as /to be the best player in the team",
+              "full_vn": "anh ta được công nhận là cầu thủ xuất sắc nhất trong đội"
+            },
+            {
+              "full_en": "he acknowledge me as his equal",
+              "full_vn": "hắn thừa nhận tôi là người ngang tài ngang sức với hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "báo cho biết đã nhận được",
+          "list_en_vn": [
+            {
+              "full_en": "to acknowledge (receipt of ) a letter",
+              "full_vn": "báo là đã nhận được thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày tỏ lòng biết ơn về việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "to acknowledge someone's help",
+              "full_vn": "cảm tạ sự giúp đỡ của ai"
+            },
+            {
+              "full_en": "his services to the country were never officially acknowledged",
+              "full_vn": "những công lao của ông ấy đối với đât nước không hề được chính thức đền đáp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ ra mình đã lưu ý hoặc nhận ra (ai) bằng một nụ cười, lời chào",
+          "list_en_vn": [
+            {
+              "full_en": "I was among the guests , but she didn't acknowledge me /my presence",
+              "full_vn": "Tôi ở trong số khách mời, nhưng cô ta không nhận thấy sự hiện diện của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

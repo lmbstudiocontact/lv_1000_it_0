@@ -1,0 +1,134 @@
+{
+  "english": "depend",
+  "phat_am": "[di'pend]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to depend on something ) được quyết định bởi cái gì; sinh ra từ cái gì; phụ thuộc",
+          "list_en_vn": [
+            {
+              "full_en": "an agriculture that doesn't depend on weather",
+              "full_vn": "một nền nông nghiệp không phụ thuộc vào thời tiết"
+            },
+            {
+              "full_en": "a lot will depend on how she responds to the challenge",
+              "full_vn": "nhiều việc sẽ tùy thuộc cô ấy đối phó với sự thách thức này như thế nào"
+            },
+            {
+              "full_en": "how much is produced depends on how hard we work",
+              "full_vn": "sản xuất được bao nhiêu là do chúng ta làm việc tích cực như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to depend on somebody / something for something ) cần ai/cái gì cho một mục đích cụ thể; thu được tiền hoặc sự trợ giúp từ ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't got a car , so I've to depend on the buses",
+              "full_vn": "tôi không có ô tô riêng, nên phải nhờ vào xe búyt"
+            },
+            {
+              "full_en": "we depend on the radio for news",
+              "full_vn": "chúng tôi nghe tin tức nhờ vào cái đài"
+            },
+            {
+              "full_en": "this area depends on the mining industry",
+              "full_vn": "vùng này sinh lợi là nhờ công nghiệp mỏ"
+            },
+            {
+              "full_en": "children depend on their parents for food and clothing",
+              "full_vn": "trẻ em nhờ vào bố mẹ mà có cái ăn cái mặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to depend on / upon somebody / something ) tin tưởng, tin cậy",
+          "list_one_mean": [
+            {
+              "id_full_en": "that depends ; it (all ) depends",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng riêng hoặc đứng đầu một câu) kết quả sẽ được quyết định bởi cái đã được nêu lên hoặc nhắc tới; tùy theo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can I come ? - That depends : There might not be room in the car",
+                      "full_vn": "Tôi được không? - Cái đó còn tùy : Có thể xe không còn chỗ đâu"
+                    },
+                    {
+                      "full_en": "It depends how you tackle the problem",
+                      "full_vn": "Cái đó tùy theo anh giải quyết vấn đề như thế nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that depends ; it (all ) depends",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng riêng hoặc đứng đầu một câu) kết quả sẽ được quyết định bởi cái đã được nêu lên hoặc nhắc tới; tùy theo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can I come ? - That depends : There might not be room in the car",
+                      "full_vn": "Tôi được không? - Cái đó còn tùy : Có thể xe không còn chỗ đâu"
+                    },
+                    {
+                      "full_en": "It depends how you tackle the problem",
+                      "full_vn": "Cái đó tùy theo anh giải quyết vấn đề như thế nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that depends ; it (all ) depends",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng riêng hoặc đứng đầu một câu) kết quả sẽ được quyết định bởi cái đã được nêu lên hoặc nhắc tới; tùy theo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Can I come ? - That depends : There might not be room in the car",
+                      "full_vn": "Tôi được không? - Cái đó còn tùy : Có thể xe không còn chỗ đâu"
+                    },
+                    {
+                      "full_en": "It depends how you tackle the problem",
+                      "full_vn": "Cái đó tùy theo anh giải quyết vấn đề như thế nào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'm depending on you coming",
+              "full_vn": "tôi chắc là anh sẽ đến"
+            },
+            {
+              "full_en": "you can never depend on his arriving on time",
+              "full_vn": "anh đừng bao giờ trông mong ông ấy đến đúng giờ"
+            },
+            {
+              "full_en": "you can depend on her to be late",
+              "full_vn": "anh có thể tin chắc rằng cô ấy đến muộn"
+            },
+            {
+              "full_en": "depend on it : we won't give up",
+              "full_vn": "hãy tin đi : chúng tôi sẽ không bỏ cuộc đâu"
+            },
+            {
+              "full_en": "you can't depend on the train arriving on time",
+              "full_vn": "anh đừng tin rằng tàu đến đúng giờ"
+            },
+            {
+              "full_en": "she's a woman who can be depended on",
+              "full_vn": "cô ấy là người phụ nữ có thể tin cậy được"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

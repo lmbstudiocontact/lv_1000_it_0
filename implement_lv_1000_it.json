@@ -1,0 +1,41 @@
+{
+  "english": "implement",
+  "phat_am": "['implimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dùng (đồ đạc quần áo...), dụng cụ, công cụ; phương tiện",
+          "list_en_vn": [
+            {
+              "full_en": "kitchen implements",
+              "full_vn": "dụng cụ làm bếp"
+            },
+            {
+              "full_en": "the army is an implement of proletarian power",
+              "full_vn": "quân đội là một công cụ của chính quyền vô sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Ê-cốt) (pháp lý) sự thi hành, sự thực hiện đầy đủ (giao kèo...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thi hành, thực hiện đầy đủ (giao kèo, khế ước...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cung cấp dụng cụ"
+        },
+        {
+          "m_full_vn": "bổ sung"
+        }
+      ]
+    }
+  ]
+}

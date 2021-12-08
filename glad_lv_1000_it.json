@@ -1,0 +1,50 @@
+{
+  "english": "glad",
+  "phat_am": "[glæd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vui lòng, sung sướng, vui mừng, vui vẻ, hân hoan",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give the glad eye to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nhìn ai âu yếm, liếc mắt đưa tình; nhìn ai hân hoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the glad hand to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp đón ai niềm nở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "glad rags",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) quần áo ngày hội"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be glad to see someone",
+              "full_vn": "sung sướng vui mừng được gặp ai"
+            },
+            {
+              "full_en": "glad news",
+              "full_vn": "tin vui, tin mừng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

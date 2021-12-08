@@ -1,0 +1,49 @@
+{
+  "english": "curb",
+  "phat_am": "[kə:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây cằm (ngựa)"
+        },
+        {
+          "m_full_vn": "sự kiềm chế, sự nén lại, sự kìm lại; sự hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "to put (keep ) a curb on one's anger",
+              "full_vn": "kiềm chế cơn giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như kerb"
+        },
+        {
+          "m_full_vn": "(thú y học) chỗ sưng, cục u (ở chân ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc dây cằm (vào ngựa); điều khiển (ngựa) bằng dây cằm"
+        },
+        {
+          "m_full_vn": "kiềm chế, nén lại; hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "to curb one's anger",
+              "full_vn": "nén giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xây thành cho (giếng); xây lề cho (đường...)"
+        }
+      ]
+    }
+  ]
+}

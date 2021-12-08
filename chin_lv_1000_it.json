@@ -1,0 +1,76 @@
+{
+  "english": "chin",
+  "phat_am": "[t∫in]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cằm",
+          "list_one_mean": [
+            {
+              "id_full_en": "chins were wagging",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wag"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold up by the chin",
+              "list_im": [
+                {
+                  "im_full_vn": "ủng hộ, giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep your chin up !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không được nản chí! không được thất vọng!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take it on the chin",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thất bại"
+                },
+                {
+                  "im_full_vn": "chịu khổ; chịu đau; chịu sự trừng phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take it on the chin",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thất bại"
+                },
+                {
+                  "im_full_vn": "chịu khổ; chịu đau; chịu sự trừng phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wag one's chin",
+              "list_im": [
+                {
+                  "im_full_vn": "nói huyên thiên, nói luôn mồm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be up to the chin",
+              "full_vn": "nước lên tới cằm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

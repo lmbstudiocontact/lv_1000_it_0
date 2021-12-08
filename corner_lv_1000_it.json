@@ -1,0 +1,186 @@
+{
+  "english": "corner",
+  "phat_am": "['kɔ:nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "góc (tường, nhà, phố...)",
+          "list_en_vn": [
+            {
+              "full_en": "the corner of the street",
+              "full_vn": "góc phố"
+            },
+            {
+              "full_en": "to put a child in the corner",
+              "full_vn": "bắt phạt đứa trẻ đứng vào góc tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối rẽ; khúc quanh"
+        },
+        {
+          "m_full_vn": "nơi kín đáo, xó xỉnh; chỗ ẩn náu, chỗ giấu giếm",
+          "list_en_vn": [
+            {
+              "full_en": "done in a corner",
+              "full_vn": "làm giấu giếm, làm lén lút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi, phương",
+          "list_en_vn": [
+            {
+              "full_en": "from all the corners of the world",
+              "full_vn": "từ khắp mọi nơi trên thế giới; từ bốn phương trời"
+            },
+            {
+              "full_en": "the four corners of the earth",
+              "full_vn": "khắp bốn phương trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự đầu cơ, sự lũng đoạn thị trường",
+          "list_en_vn": [
+            {
+              "full_en": "to make a big corner in wheat",
+              "full_vn": "làm một chuyến đầu cơ lúa mì lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quả phạt góc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut off a corner",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive somebody into a corner",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) drive"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a corner in somebody's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai yêu mến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a warm (soft ) corner in one's heart for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dành cho ai một cảm tình đặc biệt; có cảm tình với ai, yêu mến ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hot (warm ) corner",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự), (thông tục) chỗ nguy hiểm, chỗ chiến sự xảy ra ác liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look (see , watch ) somebody out of the corner of one's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "liếc ai, nhìn trộm ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tight corner",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi nguy hiểm"
+                },
+                {
+                  "im_full_vn": "hoàn cảnh khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tight corner",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi nguy hiểm"
+                },
+                {
+                  "im_full_vn": "hoàn cảnh khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the corner",
+              "list_im": [
+                {
+                  "im_full_vn": "rẽ, ngoặt"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) vượt qua nơi nguy hiểm, vượt qua giai đoạn khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the corner",
+              "list_im": [
+                {
+                  "im_full_vn": "rẽ, ngoặt"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) vượt qua nơi nguy hiểm, vượt qua giai đoạn khó khăn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt thành góc, làm thành góc"
+        },
+        {
+          "m_full_vn": "để vào góc"
+        },
+        {
+          "m_full_vn": "dồn vào chân tường, dồn vào thế bí"
+        },
+        {
+          "m_full_vn": "mua vét (để đầu cơ, lũng đoạn thị trường)",
+          "list_en_vn": [
+            {
+              "full_en": "to corner the market",
+              "full_vn": "mua vét hết hàng ở thị trường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vét hàng (để đầu cơ)"
+        }
+      ]
+    }
+  ]
+}

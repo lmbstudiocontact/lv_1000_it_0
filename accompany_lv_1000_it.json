@@ -1,0 +1,58 @@
+{
+  "english": "accompany",
+  "phat_am": "[ə'kʌmpəni]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi cùng với ai như là một người bạn đường hoặc người giúp đỡ, người hộ tống",
+          "list_en_vn": [
+            {
+              "full_en": "I must ask you to accompany me to the police station",
+              "full_vn": "Tôi phải nhờ anh đi cùng tôi đến đồn cảnh sát"
+            },
+            {
+              "full_en": "he was accompanied on the expedition by his wife",
+              "full_vn": "vợ ông ta đi cùng với ông ta trong đoàn thám hiểm"
+            },
+            {
+              "full_en": "the Prime Minister is always accompanied by faithful body-guards",
+              "full_vn": "Thủ tướng luôn luôn được hộ tống bởi những vệ sĩ trung thành"
+            },
+            {
+              "full_en": "warships will accompany the convoy",
+              "full_vn": "tàu chiến sẽ làm nhiệm vụ hộ tống đoàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to accompany something by / with something ) có mặt hoặc xảy ra cùng với cái gì; cung cấp cái gì thêm vào cái gì khác, phụ thêm vào",
+          "list_en_vn": [
+            {
+              "full_en": "war is accompanied by many natural calamities",
+              "full_vn": "kèm theo chiến tranh là nhiều hiểm hoạ thiên nhiên"
+            },
+            {
+              "full_en": "fever accompanied with delirium",
+              "full_vn": "sốt cao kèm theo mê sảng"
+            },
+            {
+              "full_en": "each application should be accompanied by a stamped addressed envelope",
+              "full_vn": "mỗi lá đơn phải có một phong bì có sẵn tem và địa chỉ kèm theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) ( to accompany somebody at / on something ) đệm nhạc cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "she is accompanied on the organ by her mother",
+              "full_vn": "cô ta được mẹ đệm đàn organ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "joy",
+  "phat_am": "[dʒɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui mừng, sự hân hoan, sự vui sướng",
+          "list_en_vn": [
+            {
+              "full_en": "to jump for joy",
+              "full_vn": "nhảy lên vì vui sướng"
+            },
+            {
+              "full_en": "to someone's joy",
+              "full_vn": "làm cho ai vui sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm vui",
+          "list_one_mean": [
+            {
+              "id_full_en": "full of the joys of spring",
+              "list_im": [
+                {
+                  "im_full_vn": "sôi nổi và vui vẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have no joy from sb",
+              "list_im": [
+                {
+                  "im_full_vn": "không được sự hài lòng của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is the joy and pride of his mother",
+              "full_vn": "nó là niềm vui và tự hào của mẹ nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) vui mừng, vui sướng"
+        },
+        {
+          "m_full_vn": "(thơ ca) làm vui mừng, làm vui sướng"
+        }
+      ]
+    }
+  ]
+}

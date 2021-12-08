@@ -1,0 +1,38 @@
+{
+  "english": "her",
+  "phat_am": "[hə:]",
+  "list_type": [
+    {
+      "type": "đại từ nhân xưng",
+      "list_m": [
+        {
+          "m_full_vn": "nó, cô ấy, bà ấy, chị ấy...",
+          "list_en_vn": [
+            {
+              "full_en": "give it her",
+              "full_vn": "đưa cái đó cho cô ấy"
+            },
+            {
+              "full_en": "was that her ?",
+              "full_vn": "có phải cô ta đó không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "của nó, của cô ấy, của bà ấy, của chị ấy...",
+          "list_en_vn": [
+            {
+              "full_en": "her book",
+              "full_vn": "quyển sách của cô ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "accept",
+  "phat_am": "[ək'sept]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận, chấp nhận, chấp thuận",
+          "list_en_vn": [
+            {
+              "full_en": "to accept a proposal",
+              "full_vn": "chấp nhận một đề nghị"
+            },
+            {
+              "full_en": "to accept a present",
+              "full_vn": "nhận một món quà"
+            },
+            {
+              "full_en": "to accept an invitation",
+              "full_vn": "nhận lời mời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to accept a truth",
+              "full_vn": "thừa nhận một sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đảm nhận (công việc...)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) nhận thanh toán (hoá đơn, hối phiếu...)"
+        }
+      ]
+    }
+  ]
+}

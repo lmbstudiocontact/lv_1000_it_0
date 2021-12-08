@@ -1,0 +1,46 @@
+{
+  "english": "fully",
+  "phat_am": "['fuli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy đủ, hoàn toàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "fully-fashioned",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về quần áo) bó sát thân người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fully stretched",
+              "list_im": [
+                {
+                  "im_full_vn": "bị buộc phải làm hết sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fully-fledged",
+              "list_im": [
+                {
+                  "im_full_vn": "đủ lông đủ cánh, đủ bản lĩnh ra đời (nghĩa bóng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be fully qualified for a post",
+              "full_vn": "đủ tư cách đảm nhiệm một chức vụ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

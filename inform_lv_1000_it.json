@@ -1,0 +1,54 @@
+{
+  "english": "inform",
+  "phat_am": "[in'fɔ:m]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to inform somebody of / about something ) cho ai biết về cái gì; nói cho ai biết",
+          "list_en_vn": [
+            {
+              "full_en": "to inform the casualty ward about a car accident",
+              "full_vn": "báo cho phòng cấp cứu biết một vụ tai nạn xe hơi"
+            },
+            {
+              "full_en": "have you informed the police ?",
+              "full_vn": "anh đã báo cho cảnh sát chưa?"
+            },
+            {
+              "full_en": "he informed the police that some money was missing",
+              "full_vn": "anh ta báo cho cảnh sát biết rằng có bị mất tiền"
+            },
+            {
+              "full_en": "keep me informed of /about what happens",
+              "full_vn": "có chuyện gì xảy ra thì báo cho tôi biết"
+            },
+            {
+              "full_en": "to inform oneself of the facts",
+              "full_vn": "tự mình tìm hiểu sự việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to inform against / on somebody ) đưa ra bằng chứng hoặc lời tố cáo ai (cho cảnh sát biết); khai báo",
+          "list_en_vn": [
+            {
+              "full_en": "one of the criminals informed against /on the rest of the gang",
+              "full_vn": "một tên trong bọn tội phạm đã khai báo về những tên còn lại trong băng nhóm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nêu những nét chủ yếu của cái gì; thấm nhuần",
+          "list_en_vn": [
+            {
+              "full_en": "the sense of justice which informs all her writings",
+              "full_vn": "ý thức về công lý thấm nhuần tất cả các trước tác của bà ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

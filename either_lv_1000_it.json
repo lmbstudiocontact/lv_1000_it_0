@@ -1,0 +1,135 @@
+{
+  "english": "either",
+  "phat_am": "['aiðə, 'i:ðə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái này hay cái kia trong hai cái",
+          "list_en_vn": [
+            {
+              "full_en": "you can park on either side of the street",
+              "full_vn": "anh có thể đỗ xe ở bên này hay bên kia đường phố"
+            },
+            {
+              "full_en": "keep either one of the forms",
+              "full_vn": "hãy giữ một trong hai mẫu đơn đó"
+            },
+            {
+              "full_en": "there's a staircase at either end of the corridor",
+              "full_vn": "có cầu thang ở cả hai đầu hành lang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ (dùng với động từ số ít)"
+    },
+    {
+      "type": "phó từ (dùng sau hai động từ phủ định)",
+      "list_m": [
+        {
+          "m_full_vn": "dùng để nhấn mạnh (một nhóm từ phủ định)",
+          "list_one_mean": [
+            {
+              "id_full_en": "either ...or ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chỉ sự lựa chọn một trong hai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "either French or Spanish",
+                      "full_vn": "hoặc tiếng Pháp hoặc tiếng Tây Ban Nha"
+                    },
+                    {
+                      "full_en": "I left it either on the table or in the drawer",
+                      "full_vn": "tôi đã để nó hoặc trên bàn hoặc trong ngăn kéo"
+                    },
+                    {
+                      "full_en": "you can either write or phone to request a copy",
+                      "full_vn": "anh có thể viết thư hoặc gọi điện thoại để xin một bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "either ...or ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chỉ sự lựa chọn một trong hai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "either French or Spanish",
+                      "full_vn": "hoặc tiếng Pháp hoặc tiếng Tây Ban Nha"
+                    },
+                    {
+                      "full_en": "I left it either on the table or in the drawer",
+                      "full_vn": "tôi đã để nó hoặc trên bàn hoặc trong ngăn kéo"
+                    },
+                    {
+                      "full_en": "you can either write or phone to request a copy",
+                      "full_vn": "anh có thể viết thư hoặc gọi điện thoại để xin một bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "either ...or ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chỉ sự lựa chọn một trong hai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "either French or Spanish",
+                      "full_vn": "hoặc tiếng Pháp hoặc tiếng Tây Ban Nha"
+                    },
+                    {
+                      "full_en": "I left it either on the table or in the drawer",
+                      "full_vn": "tôi đã để nó hoặc trên bàn hoặc trong ngăn kéo"
+                    },
+                    {
+                      "full_en": "you can either write or phone to request a copy",
+                      "full_vn": "anh có thể viết thư hoặc gọi điện thoại để xin một bản"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "either ...or ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để chỉ sự lựa chọn một trong hai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "either French or Spanish",
+                      "full_vn": "hoặc tiếng Pháp hoặc tiếng Tây Ban Nha"
+                    },
+                    {
+                      "full_en": "I left it either on the table or in the drawer",
+                      "full_vn": "tôi đã để nó hoặc trên bàn hoặc trong ngăn kéo"
+                    },
+                    {
+                      "full_en": "you can either write or phone to request a copy",
+                      "full_vn": "anh có thể viết thư hoặc gọi điện thoại để xin một bản"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I know a good Italian restaurant . It's not far from here , either",
+              "full_vn": "tôi biết một nhà hàng Italia ngon. Nó cũng không xa đây lắm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

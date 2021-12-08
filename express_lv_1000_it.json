@@ -1,0 +1,110 @@
+{
+  "english": "express",
+  "phat_am": "[iks'pres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đưa thư hoả tốc, công văn hoả tốc"
+        },
+        {
+          "m_full_vn": "xe lửa tốc hành, xe nhanh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hàng gửi xe lửa tốc hành; tiền gửi hoả tốc"
+        },
+        {
+          "m_full_vn": "hãng vận tải tốc hành"
+        },
+        {
+          "m_full_vn": "súng bắn nhanh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói rõ, rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "an express order",
+              "full_vn": "mệnh lệnh rõ ràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như hệt, như in, như tạc",
+          "list_en_vn": [
+            {
+              "full_en": "an express likeness",
+              "full_vn": "sự giống như hệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhằm mục đích đặc biệt, nhằm mục đích riêng biệt",
+          "list_en_vn": [
+            {
+              "full_en": "his express reason for going ...",
+              "full_vn": "lý do đặc biệt để đi... của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh, hoả tốc, tốc hành",
+          "list_en_vn": [
+            {
+              "full_en": "an express rifle",
+              "full_vn": "súng bắn nhanh"
+            },
+            {
+              "full_en": "an express bullet",
+              "full_vn": "đạn cho súng bắn nhanh"
+            },
+            {
+              "full_en": "an express train",
+              "full_vn": "xe lửa tốc hành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoả tốc, tốc hành"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vắt, ép, bóp (quả chanh...)"
+        },
+        {
+          "m_full_vn": "biểu lộ, bày tỏ (tình cảm...); phát biểu ý kiên",
+          "list_en_vn": [
+            {
+              "full_en": "to express oneself",
+              "full_vn": "diễn đạt, phát biểu ý kiến (về một vấn đề gì...)"
+            },
+            {
+              "full_en": "his face expressed sorrow",
+              "full_vn": "nét mặt anh ta biểu lộ sự đau buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) biểu diễn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) gửi hoả tốc"
+        }
+      ]
+    }
+  ]
+}

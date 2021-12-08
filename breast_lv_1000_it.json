@@ -1,0 +1,124 @@
+{
+  "english": "breast",
+  "phat_am": "[brest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một trong hai bộ phận trên cơ thể phụ nữ sinh ra sữa; vú",
+          "list_en_vn": [
+            {
+              "full_en": "a baby at the breast",
+              "full_vn": "trẻ còn ẵm ngửa"
+            },
+            {
+              "full_en": "cancer of the breast",
+              "full_vn": "ung thư vú"
+            },
+            {
+              "full_en": "the breasts swell during pregnancy",
+              "full_vn": "vú căng lên trong thời kỳ mang thai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần đằng trước ở bên trên cơ thể người; ngực",
+          "list_en_vn": [
+            {
+              "full_en": "to clasp /hold somebody to one's breast",
+              "full_vn": "siết chặt/ôm ai vào ngực mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận quần áo che ngực",
+          "list_en_vn": [
+            {
+              "full_en": "a soldier with medals pinned to the breast of his coat",
+              "full_vn": "người lính có nhiều huy chương cài trên ngực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận của súc vật tương ứng với ngực của người, được ăn như là thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "chicken breasts",
+              "full_vn": "lườn gà"
+            },
+            {
+              "full_en": "breast of lamb",
+              "full_vn": "sườn cừu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn tình cảm; tâm trạng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a troubled breast",
+              "full_vn": "lo âu khắc khoải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái diệp (ở cái cày)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) gương lò",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beat one's breast",
+              "list_im": [
+                {
+                  "im_full_vn": "xem beat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a clean breast of something",
+              "list_im": [
+                {
+                  "im_full_vn": "thú nhận, thú lỗi, nhận tội; khai hết những việc đã làm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạm cái gì bằng ngực",
+          "list_en_vn": [
+            {
+              "full_en": "the runner breasted the tape",
+              "full_vn": "tay đua chạm ngực vào dây chăng ở đích đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối diện và tiến lên trước chống lại cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "breasting the waves",
+              "full_vn": "ưỡn ngực rẽ sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên đến đỉnh của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to breast a hill /rise",
+              "full_vn": "lên đến đỉnh đồi/gò"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "forbid",
+  "phat_am": "[fə'bid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, thì quá khứ là forbad hoặc forbade , động tính từ quá khứ là forbidden",
+      "list_m": [
+        {
+          "m_full_vn": "không cho phép; cấm; ngăn cấm",
+          "list_one_mean": [
+            {
+              "id_full_en": "God /Heaven forbid (that ....)",
+              "list_im": [
+                {
+                  "im_full_vn": "lạy trời đừng có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Heaven forbid that anything awful should have happened to her",
+                      "full_vn": "lạy trời cho đừng có điều gì khủng khiếp xảy ra cho cô ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "God /Heaven forbid (that ....)",
+              "list_im": [
+                {
+                  "im_full_vn": "lạy trời đừng có.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Heaven forbid that anything awful should have happened to her",
+                      "full_vn": "lạy trời cho đừng có điều gì khủng khiếp xảy ra cho cô ấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I can't forbid you /your seeing that man again",
+              "full_vn": "Tôi không thể cấm cô gặp lại người đàn ông đó"
+            },
+            {
+              "full_en": "smoking is strictly forbidden ; it is strictly forbidden to smoke",
+              "full_vn": "tuyệt đối cấm hút thuốc lá"
+            },
+            {
+              "full_en": "it is forbidden for anyone to smoke in this room",
+              "full_vn": "không ai được hút thuốc trong phòng này"
+            },
+            {
+              "full_en": "photography is strictly forbidden in the cathedral",
+              "full_vn": "tuyệt đối cấm chụp ảnh trong nhà thờ"
+            },
+            {
+              "full_en": "he was forbidden to talk to her",
+              "full_vn": "anh ấy bị cấm nói chuyện với cô ấy"
+            },
+            {
+              "full_en": "I am forbidden tobacco",
+              "full_vn": "tôi bị cấm hút thuốc lá"
+            },
+            {
+              "full_en": "she was forbidden access to the club",
+              "full_vn": "cô ấy bị cấm tham gia câu lạc bộ"
+            },
+            {
+              "full_en": "If you want to go there , I can't forbid you",
+              "full_vn": "Nếu anh muốn đến đó, tôi không cấm anh được"
+            },
+            {
+              "full_en": "her father forbade their marriage",
+              "full_vn": "bố cô ấy cấm họ lấy nhau"
+            },
+            {
+              "full_en": "time forbids",
+              "full_vn": "thời gian không cho phép"
+            },
+            {
+              "full_en": "lack of space forbids further treatment of the topic here",
+              "full_vn": "vì thiếu chỗ nên không thể xử lý thêm về đề tài đó ở đây"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

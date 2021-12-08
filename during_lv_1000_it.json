@@ -1,0 +1,24 @@
+{
+  "english": "during",
+  "phat_am": "['djuəriη]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong lúc, trong thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "during my absence , they have done too many evils",
+              "full_vn": "trong thời gian tôi vắng mặt, họ đã làm quá nhiều điều xấu xa"
+            },
+            {
+              "full_en": "nobody likes to leave home during the stormy night",
+              "full_vn": "chẳng ai thích ra khỏi nhà trong đêm giông bão"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

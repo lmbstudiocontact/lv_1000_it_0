@@ -1,0 +1,204 @@
+{
+  "english": "away",
+  "phat_am": "[ə'wei]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "xa, xa cách, rời xa, xa ra, đi (xa)",
+          "list_en_vn": [
+            {
+              "full_en": "away from home",
+              "full_vn": "xa nhà"
+            },
+            {
+              "full_en": "to stand away from the rest",
+              "full_vn": "đứng cách xa những người khác"
+            },
+            {
+              "full_en": "to fly away",
+              "full_vn": "bay đi"
+            },
+            {
+              "full_en": "to go away",
+              "full_vn": "rời đi, đi khỏi, đi xa"
+            },
+            {
+              "full_en": "to throw away",
+              "full_vn": "ném đi; ném ra xa"
+            },
+            {
+              "full_en": "away with you !",
+              "full_vn": "cút đi! ra chỗ khác!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biến đi, mất đi, hết đi",
+          "list_en_vn": [
+            {
+              "full_en": "to boil away",
+              "full_vn": "sôi cạn đi"
+            },
+            {
+              "full_en": "to gamble away all one's money",
+              "full_vn": "cờ bạc hết sạch cả tiền của"
+            },
+            {
+              "full_en": "to make away with oneself",
+              "full_vn": "tự tử"
+            },
+            {
+              "full_en": "to do away with somebody",
+              "full_vn": "khử ai đi"
+            },
+            {
+              "full_en": "to pass away",
+              "full_vn": "chết"
+            },
+            {
+              "full_en": "to food away one's time",
+              "full_vn": "lãng phí hết thời gian vào những việc làm nhảm, tầm phào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không ngừng liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "to work (peg ) away for six hours",
+              "full_vn": "làm việc liên tục trong sáu tiếng liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không chậm trễ, ngay lập tức",
+          "list_one_mean": [
+            {
+              "id_full_en": "away back",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) từ cách đây đã lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "away off",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) xa lắc xa lơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "away with it !",
+              "list_im": [
+                {
+                  "im_full_vn": "vứt nó đi!; tống khứ nó đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xa, hơn hẳn, không thể so sánh được"
+                },
+                {
+                  "im_full_vn": "tất nhiên, dĩ nhiên, chắc chắn, không nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who's the best shot ? - Mr . Smith , far and away",
+                      "full_vn": "Ai bắn giỏi nhất? -Tất nhiên là ông Xmít chứ còn ai nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xa, hơn hẳn, không thể so sánh được"
+                },
+                {
+                  "im_full_vn": "tất nhiên, dĩ nhiên, chắc chắn, không nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who's the best shot ? - Mr . Smith , far and away",
+                      "full_vn": "Ai bắn giỏi nhất? -Tất nhiên là ông Xmít chứ còn ai nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xa, hơn hẳn, không thể so sánh được"
+                },
+                {
+                  "im_full_vn": "tất nhiên, dĩ nhiên, chắc chắn, không nghi ngờ gì nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who's the best shot ? - Mr . Smith , far and away",
+                      "full_vn": "Ai bắn giỏi nhất? -Tất nhiên là ông Xmít chứ còn ai nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "out and away",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) out"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be away",
+              "list_im": [
+                {
+                  "im_full_vn": "vắng mặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You want to see my father , don't you ? But he's away .",
+                      "full_vn": "Ông cần gặp ba tôi phải không? Nhưng ba tôi không có ở nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be away",
+              "list_im": [
+                {
+                  "im_full_vn": "vắng mặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You want to see my father , don't you ? But he's away .",
+                      "full_vn": "Ông cần gặp ba tôi phải không? Nhưng ba tôi không có ở nhà"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "speak away !",
+              "full_vn": "nói (ngay) đi!"
+            },
+            {
+              "full_en": "right away",
+              "full_vn": "ngay tức thì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "could",
+  "phat_am": "[kud]",
+  "list_type": [
+    {
+      "type": "động từ khiếm khuyết, thể phủ định là could not , rút gọn thành couldn't",
+      "list_m": [
+        {
+          "m_full_vn": "thời quá khứ của can"
+        },
+        {
+          "m_full_vn": "chỉ sự cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "could I use your phone ?",
+              "full_vn": "tôi dùng máy điện thoại của anh được không?"
+            },
+            {
+              "full_en": "could I borrow your bicycle ?",
+              "full_vn": "tôi dùng xe đạp của nah được không?"
+            },
+            {
+              "full_en": "could I come round next week ?",
+              "full_vn": "tuần tới tôi quay trở lại được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể hiện yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "could you baby-sit for us on Friday ?",
+              "full_vn": "thứ sáu chị trông hộ cháu cho chúng tôi được không?"
+            },
+            {
+              "full_en": "could you type one more letter before you go ?",
+              "full_vn": "trước khi ra về, cô đánh máy thêm một bức thư được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể hiện kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "I'm so unhappy I could weep",
+              "full_vn": "tôi khổ đến nỗi có thể khóc được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày tỏ khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "you could be right , I suppose",
+              "full_vn": "tôi cho là cậu có lẽ đúng đấy"
+            },
+            {
+              "full_en": "My wife's in hospital - our baby could arrive at any time",
+              "full_vn": "Vợ tôi nằm bệnh viện - có thể đẻ bất cứ lúc nào"
+            },
+            {
+              "full_en": "Don't worry - they could have just forgotten to phone",
+              "full_vn": "Đừng lo - có lẽ chúng chỉ quên gọi điện thoại thôi"
+            },
+            {
+              "full_en": "Somebody must have opened the cage - the lion couldn't have escaped on its own",
+              "full_vn": "Phải có người nào đó mở chuồng - con sư tử không thể tự nó thoát ra được"
+            },
+            {
+              "full_en": "You could at least have sent a card",
+              "full_vn": "thì ít nhất anh cũng có thể gửi một cái thiếp đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gợi lên đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "we could write a letter to the headmaster",
+              "full_vn": "chúng ta có thể viết thư cho ông hiệu trưởng"
+            },
+            {
+              "full_en": "you could always try his home number",
+              "full_vn": "anh vẫn có thể gọi thử số điện thoại nhà riêng của ông ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

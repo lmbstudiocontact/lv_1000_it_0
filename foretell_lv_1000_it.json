@@ -1,0 +1,23 @@
+{
+  "english": "foretell",
+  "phat_am": "[fɔ:'tel]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói trước, đoán trước",
+          "list_en_vn": [
+            {
+              "full_en": "to foretell someone's future",
+              "full_vn": "đoán trước tương lai của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "báo hiệu, báo trước"
+        }
+      ]
+    }
+  ]
+}

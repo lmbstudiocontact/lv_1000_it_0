@@ -1,0 +1,56 @@
+{
+  "english": "anger",
+  "phat_am": "['æηgə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tức giận, sự giận dữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "more in sorrow than in anger",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn nhiều hơn giận, tiếc nhiều hơn tức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "fit of anger",
+              "full_vn": "cơn tức giận"
+            },
+            {
+              "full_en": "filled with anger at the way he had been tricked",
+              "full_vn": "lòng tràn đầy tức giận vì cái cách mà nó bị lường gạt"
+            },
+            {
+              "full_en": "to speak in anger about the plight of poor people",
+              "full_vn": "giận dữ nói về cảnh ngộ của người nghèo"
+            },
+            {
+              "full_en": "it was said in a moment of anger",
+              "full_vn": "những lời đó được nói ra trong lúc nóng giận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chọc tức, làm tức giận",
+          "list_en_vn": [
+            {
+              "full_en": "he was angered by the selfishness of the others",
+              "full_vn": "anh ta tức giận vì thái độ của những người khác"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

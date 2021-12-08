@@ -1,0 +1,41 @@
+{
+  "english": "forecast",
+  "phat_am": "['fɔ:kɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dự đoán trước; sự dự báo trước",
+          "list_en_vn": [
+            {
+              "full_en": "weather forecast",
+              "full_vn": "dự báo thời tiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) sự biết lo xa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, forecast , forecasted",
+      "list_m": [
+        {
+          "m_full_vn": "dự đoán, đoán trước; dự báo",
+          "list_en_vn": [
+            {
+              "full_en": "to forecast the weather",
+              "full_vn": "dự báo thời tiết"
+            },
+            {
+              "full_en": "can you forecast the results of the coming general elections ?",
+              "full_vn": "anh dự báo được kết quả cuộc tổng tuyển cử sắp tới hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

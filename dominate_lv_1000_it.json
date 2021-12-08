@@ -1,0 +1,41 @@
+{
+  "english": "dominate",
+  "phat_am": "['dɔmineit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "át hẳn, trội hơn, chiếm ưu thế; có ảnh hưởng lớn, chi phối"
+        },
+        {
+          "m_full_vn": "thống trị",
+          "list_en_vn": [
+            {
+              "full_en": "to dominate [over ] a people",
+              "full_vn": "thống trị một dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiềm chế, chế ngự, nén được (dục vọng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dominate one's emotions",
+              "full_vn": "nén xúc động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt cao hơn hẳn, bao quát (núi cao...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dominate [over ] a place",
+              "full_vn": "vượt cao hơn hẳn nơi nào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

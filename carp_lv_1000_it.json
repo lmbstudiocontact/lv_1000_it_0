@@ -1,0 +1,36 @@
+{
+  "english": "carp",
+  "phat_am": "[kɑ:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá chép"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bới móc, xoi mói, bắt bẻ, chê bai",
+          "list_en_vn": [
+            {
+              "full_en": "to carp at somebody",
+              "full_vn": "bới móc ai, bắt bẻ ai"
+            },
+            {
+              "full_en": "a carping tongue",
+              "full_vn": "miệng lưỡi bới móc"
+            },
+            {
+              "full_en": "carping criticism",
+              "full_vn": "sự phê bình xoi mói"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

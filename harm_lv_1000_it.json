@@ -1,0 +1,73 @@
+{
+  "english": "harm",
+  "phat_am": "[hɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tổn hại; sự thiệt hại",
+          "list_en_vn": [
+            {
+              "full_en": "to do somebody harm",
+              "full_vn": "làm hại ai"
+            },
+            {
+              "full_en": "to keep out of harm's way",
+              "full_vn": "tránh những cái có thể gây tai hại; ở vào một nơi an toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý muốn hại người; điều gây tai hại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come to harm",
+              "list_im": [
+                {
+                  "im_full_vn": "bị tổn hại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "more harm than good",
+              "list_im": [
+                {
+                  "im_full_vn": "hại nhiều hơn lợi, bất lợi nhiều hơn thuận lợi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's no harm in him",
+              "full_vn": "nó không cố ý hại ai"
+            },
+            {
+              "full_en": "he meant no harm",
+              "full_vn": "nó không có ý muốn hại aii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm hại, gây tai hại, làm tổn hại",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to harm a fly",
+              "list_im": [
+                {
+                  "im_full_vn": "hiền như cục đất, hiền khô"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

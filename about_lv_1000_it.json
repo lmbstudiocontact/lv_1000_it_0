@@ -1,0 +1,417 @@
+{
+  "english": "about",
+  "phat_am": "[ə'baut]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đây đó, ở nhiều hướng, khắp chung quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the children were rushing about",
+              "full_vn": "các trẻ em xông xáo chỗ này chỗ kia"
+            },
+            {
+              "full_en": "the boys were climbing about on the rocks",
+              "full_vn": "bọn con trai đang leo lên khắp các tảng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ này chỗ kia (tại một nơi)",
+          "list_en_vn": [
+            {
+              "full_en": "books lying about on the floor",
+              "full_vn": "sách nằm la liệt trên sàn nhà"
+            },
+            {
+              "full_en": "people sitting about on the grass",
+              "full_vn": "người ngồi la liệt trên bãi cỏ"
+            },
+            {
+              "full_en": "there was nobody about",
+              "full_vn": "không có ai quanh đây cả"
+            },
+            {
+              "full_en": "there's a lot of flu about",
+              "full_vn": "quanh đây có nhiều người bị bệnh cúm"
+            },
+            {
+              "full_en": "he'll soon be about again",
+              "full_vn": "rồi anh ta sẽ sớm đi lại được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở gần đâu đây, không xa",
+          "list_en_vn": [
+            {
+              "full_en": "he is somewhere about",
+              "full_vn": "anh ta ở quanh quẩn đâu đây, anh ta ở gần đâu đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đằng sau",
+          "list_en_vn": [
+            {
+              "full_en": "about turn !",
+              "full_vn": "(mệnh lệnh (quân sự)) đằng sau, quay!"
+            },
+            {
+              "full_en": "to put the ship about",
+              "full_vn": "quay tàu về hướng ngược lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng chừng, xấp xỉ",
+          "list_en_vn": [
+            {
+              "full_en": "it costs about $10",
+              "full_vn": "cái đó giá khoảng 10 đô la"
+            },
+            {
+              "full_en": "he's about the same height as you",
+              "full_vn": "nó cao khoảng bằng anh"
+            },
+            {
+              "full_en": "she drove for about ten miles",
+              "full_vn": "bà ta lái xe được khoảng mười dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần như",
+          "list_one_mean": [
+            {
+              "id_full_en": "that's about it /the size of it",
+              "list_im": [
+                {
+                  "im_full_vn": "đó là cách tôi thấy điều đó/đánh giá điều đó"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'm (just ) about ready",
+              "full_vn": "tôi sắp xong rồi"
+            },
+            {
+              "full_en": "I've had (just ) about enough",
+              "full_vn": "tôi đã có gần như đủ (khá đủ)"
+            },
+            {
+              "full_en": "he's been promoted , and about time too",
+              "full_vn": "ông ấy đã được thăng chức, và cũng khá kịp thời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "đây đó, nhiều hướng",
+          "list_en_vn": [
+            {
+              "full_en": "walking about the town",
+              "full_vn": "đi loanh quanh trong thành phố"
+            },
+            {
+              "full_en": "travelling about the world",
+              "full_vn": "du hành đó đây trên thế giới"
+            },
+            {
+              "full_en": "look about you",
+              "full_vn": "hãy nhìn chung quanh bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ này chỗ kia (tại một nơi)",
+          "list_en_vn": [
+            {
+              "full_en": "papers strewn about the room",
+              "full_vn": "giấy má vương vãi khắp căn phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần, không xa",
+          "list_en_vn": [
+            {
+              "full_en": "she's somewhere about the place",
+              "full_vn": "cô ấy ở gần đâu đây"
+            },
+            {
+              "full_en": "I dropped the key somewhere about here",
+              "full_vn": "tôi đã đánh rơi chìa khoá gần đâu đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về chủ đề ( ai/cái gì); liên quan tới",
+          "list_en_vn": [
+            {
+              "full_en": "a book about flowers",
+              "full_vn": "sách nói về hoa"
+            },
+            {
+              "full_en": "what is he angry about ?",
+              "full_vn": "hắn tức giận về chuyện gì vậy?"
+            },
+            {
+              "full_en": "to know much about Vietnam",
+              "full_vn": "biết nhiều về Việt Nam"
+            },
+            {
+              "full_en": "what shall we write about ?",
+              "full_vn": "chúng ta sẽ viết về cái gì bây giờ?"
+            },
+            {
+              "full_en": "he is careless about his personal appearance",
+              "full_vn": "nó thường không quan tâm đến vẻ bề ngoài của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan tâm hoặc bận việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "And while you're about it ...",
+              "full_vn": "Và trong khi bạn bận việc đó..."
+            },
+            {
+              "full_en": "Mind what you're about",
+              "full_vn": "Hãy để tâm đến việc anh đang làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng chừng, gần",
+          "list_en_vn": [
+            {
+              "full_en": "he arrived (at ) about ten o'clock",
+              "full_vn": "anh ấy đến vào khoảng mười giờ"
+            },
+            {
+              "full_en": "about nightfall",
+              "full_vn": "vào khoảng chập tối"
+            },
+            {
+              "full_en": "it is about two o'clock",
+              "full_vn": "bây giờ khoảng chừng hai giờ"
+            },
+            {
+              "full_en": "she is about forty years old",
+              "full_vn": "bà ta khoảng 40 tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở (ai); trong người (ai), theo với (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "about and about",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) rất giống nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be about to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "định làm gì ngay tức khắp, sắp làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're about to start",
+                      "full_vn": "chúng tôi sắp khởi hành"
+                    },
+                    {
+                      "full_en": "I'm not about to admit feat",
+                      "full_vn": "tôi nhất định không chịu thua"
+                    },
+                    {
+                      "full_en": "as I was about to say when you interrupted me",
+                      "full_vn": "khi tôi định nói thì anh lại ngắt lời tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be about to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "định làm gì ngay tức khắp, sắp làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're about to start",
+                      "full_vn": "chúng tôi sắp khởi hành"
+                    },
+                    {
+                      "full_en": "I'm not about to admit feat",
+                      "full_vn": "tôi nhất định không chịu thua"
+                    },
+                    {
+                      "full_en": "as I was about to say when you interrupted me",
+                      "full_vn": "khi tôi định nói thì anh lại ngắt lời tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be about to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "định làm gì ngay tức khắp, sắp làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're about to start",
+                      "full_vn": "chúng tôi sắp khởi hành"
+                    },
+                    {
+                      "full_en": "I'm not about to admit feat",
+                      "full_vn": "tôi nhất định không chịu thua"
+                    },
+                    {
+                      "full_en": "as I was about to say when you interrupted me",
+                      "full_vn": "khi tôi định nói thì anh lại ngắt lời tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be about to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "định làm gì ngay tức khắp, sắp làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're about to start",
+                      "full_vn": "chúng tôi sắp khởi hành"
+                    },
+                    {
+                      "full_en": "I'm not about to admit feat",
+                      "full_vn": "tôi nhất định không chịu thua"
+                    },
+                    {
+                      "full_en": "as I was about to say when you interrupted me",
+                      "full_vn": "khi tôi định nói thì anh lại ngắt lời tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ; what about",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi hỏi tin tức hoặc để biết ý kiến của ai); (dùng khi gợi ý)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what about his qualifications for the job ?",
+                      "full_vn": "khả năng của nó đối với công việc này thế nào?"
+                    },
+                    {
+                      "full_en": "how about going to France for our holidays ?",
+                      "full_vn": "chúng ta đi sang Pháp nghỉ nhé?"
+                    },
+                    {
+                      "full_en": "man about town",
+                      "full_vn": "tay ăn chơi, tay giao thiệp rộng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ; what about",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi hỏi tin tức hoặc để biết ý kiến của ai); (dùng khi gợi ý)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what about his qualifications for the job ?",
+                      "full_vn": "khả năng của nó đối với công việc này thế nào?"
+                    },
+                    {
+                      "full_en": "how about going to France for our holidays ?",
+                      "full_vn": "chúng ta đi sang Pháp nghỉ nhé?"
+                    },
+                    {
+                      "full_en": "man about town",
+                      "full_vn": "tay ăn chơi, tay giao thiệp rộng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ; what about",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi hỏi tin tức hoặc để biết ý kiến của ai); (dùng khi gợi ý)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what about his qualifications for the job ?",
+                      "full_vn": "khả năng của nó đối với công việc này thế nào?"
+                    },
+                    {
+                      "full_en": "how about going to France for our holidays ?",
+                      "full_vn": "chúng ta đi sang Pháp nghỉ nhé?"
+                    },
+                    {
+                      "full_en": "man about town",
+                      "full_vn": "tay ăn chơi, tay giao thiệp rộng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "how about ; what about",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng khi hỏi tin tức hoặc để biết ý kiến của ai); (dùng khi gợi ý)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what about his qualifications for the job ?",
+                      "full_vn": "khả năng của nó đối với công việc này thế nào?"
+                    },
+                    {
+                      "full_en": "how about going to France for our holidays ?",
+                      "full_vn": "chúng ta đi sang Pháp nghỉ nhé?"
+                    },
+                    {
+                      "full_en": "man about town",
+                      "full_vn": "tay ăn chơi, tay giao thiệp rộng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I have all the documents about me",
+              "full_vn": "tôi có mang theo đầy đủ tài liệu"
+            },
+            {
+              "full_en": "there's something nice about him",
+              "full_vn": "ở anh ta có một cái gì đó hay hay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "boring",
+  "phat_am": "['bɔ:riη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khoan, sự đào"
+        },
+        {
+          "m_full_vn": "lỗ khoan"
+        },
+        {
+          "m_full_vn": "( số nhiều) phoi khoan"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạt nhẽo, tẻ nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "a boring occupation",
+              "full_vn": "một công việc tẻ nhạt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

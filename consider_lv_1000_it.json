@@ -1,0 +1,104 @@
+{
+  "english": "consider",
+  "phat_am": "[kən'sidə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to consider somebody / something for / as something ) nghĩ về ai/cái gì (nhất là để đi đến một quyết định); ngắm nghía ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "He stood considering the painting for some minutes",
+              "full_vn": "Nó đứng ngắm bức hoạ cả mấy phút"
+            },
+            {
+              "full_en": "We have considered your application carefully , but cannot offer you the job",
+              "full_vn": "Chúng tôi đã xem kỹ đơn của anh, nhưng không thể có việc cho anh được"
+            },
+            {
+              "full_en": "To consider somebody for a job /as a candidate",
+              "full_vn": "xem xét ai để tuyển vào việc nào đó"
+            },
+            {
+              "full_en": "Have you considered how to get there ?",
+              "full_vn": "anh đã cân nhắc xem làm sao đi đến đó chưa?"
+            },
+            {
+              "full_en": "We are considering going to Canada",
+              "full_vn": "chúng tôi đang cân nhắc việc đi Canađa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to consider somebody / something as something ) coi ai/cái gì như một cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "We consider that you are not to blame",
+              "full_vn": "chúng tôi cho rằng anh không phải là kẻ đáng trách"
+            },
+            {
+              "full_en": "we consider this (to be ) very important",
+              "full_vn": "chúng tôi coi việc này (là) rất quan trọng"
+            },
+            {
+              "full_en": "Do you consider it wise to interfere ?",
+              "full_vn": "anh có cho rằng việc can thiệp là khôn ngoan hay không?"
+            },
+            {
+              "full_en": "He will be considered a weak leader",
+              "full_vn": "ông ta sẽ bị coi là một nhà lãnh đạo yếu ớt"
+            },
+            {
+              "full_en": "A painting previously considered as worthless , but which now turns out to be very valuable",
+              "full_vn": "một bức tranh trước đây bị coi là không có giá trị, nhưng nay lại hoá ra đáng giá"
+            },
+            {
+              "full_en": "He's generally considered to have the finest tenor voice in the country",
+              "full_vn": "nhìn chung, anh ta được coi là người có giọng nam cao hay nhất xứ này"
+            },
+            {
+              "full_en": "He's very well considered in the company",
+              "full_vn": "anh ta được đánh giá rất cao trong công ty"
+            },
+            {
+              "full_en": "Consider yourself under arrest",
+              "full_vn": "coi như anh bị bắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính toán đến cái gì; chiếu cố đến cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "all things considered",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi cân nhắc kỹ; sau khi suy nghĩ kỹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's considered opinion",
+              "list_im": [
+                {
+                  "im_full_vn": "ý kiến có được sau khi suy nghĩ kỹ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "We must consider the feelings of other people",
+              "full_vn": "chúng ta phải tính đến tình cảm của những người khác"
+            },
+            {
+              "full_en": "In judging him , you should consider his youth",
+              "full_vn": "khi xét xử nó, ông nên chiếu cố đến tuổi trẻ của nó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "english": "kneel",
+  "phat_am": "[ni:l]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quỳ, quỳ xuống ( (cũng) to kneel down )",
+          "list_en_vn": [
+            {
+              "full_en": "to kneel to somebody",
+              "full_vn": "quỳ gối trước ai, quỳ lạy ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "cheerful",
+  "phat_am": "['t∫jəful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vui mừng, phấn khởi; hớn hở, tươi cười",
+          "list_en_vn": [
+            {
+              "full_en": "a cheerful face",
+              "full_vn": "bộ mặt hớn hở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui mắt; vui vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a cheerful room",
+              "full_vn": "căn phòng vui mắt"
+            },
+            {
+              "full_en": "a cheerful conversation",
+              "full_vn": "câu chuyện vui vẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui lòng, sẵn lòng, không miễn cưỡng (việc làm)"
+        }
+      ]
+    }
+  ]
+}

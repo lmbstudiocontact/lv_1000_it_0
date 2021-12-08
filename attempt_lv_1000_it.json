@@ -1,0 +1,97 @@
+{
+  "english": "attempt",
+  "phat_am": "[ə'tempt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( attempt to do something / at doing something ) sự cố gắng, sự thử",
+          "list_en_vn": [
+            {
+              "full_en": "They made no attempt to break out of jail /at breaking out of jail",
+              "full_vn": "Họ không hề tìm cách vượt ngục"
+            },
+            {
+              "full_en": "To fail in one's attempt",
+              "full_vn": "Thử làm nhưng thất bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( attempt at something ) vật do ai tạo ra khi cố thực hiện cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "My first attempt at a chocolate cake tasted horrible",
+              "full_vn": "Cái bánh sôcôla của tôi làm thử làm đầu nếm thật khủng khiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( attempt on something ) nỗ lực nhằm hoàn thiện hơn hoặc chấm dứt cái gì; sự tấn công",
+          "list_en_vn": [
+            {
+              "full_en": "An attempt on somebody's prerogatives",
+              "full_vn": "Sự phạm đến đặc quyền của ai"
+            },
+            {
+              "full_en": "The latest attempt on the world land speed record",
+              "full_vn": "Nỗ lực nhằm đạt kỷ lục thế giới vếtôc độ trên đường bộ được thực hiện gần đây nhất"
+            },
+            {
+              "full_en": "An attempt was made on the President's life",
+              "full_vn": "Đã có kẻ mưu sát Tổng thống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cố gắng làm cái gì; thử làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "To attempt a hard task",
+              "full_vn": "Cố gắng làm một việc khó khăn"
+            },
+            {
+              "full_en": "The prisoners of war attempted a jailbreak , but failed",
+              "full_vn": "Các tù binh toan vượt ngục, nhưng đã thất bại"
+            },
+            {
+              "full_en": "To attempt the impossible",
+              "full_vn": "Cố làm một việc không thể làm được"
+            },
+            {
+              "full_en": "All candidates must attempt Questions 1 -5",
+              "full_vn": "Tất cả các thí sinh đều phải làm thử các câu hỏi 1 - 5"
+            },
+            {
+              "full_en": "He was charged with attempted robbery",
+              "full_vn": "Anh ta bị kết tội mưu toan cướp của"
+            },
+            {
+              "full_en": "She will attempt to beat the world record",
+              "full_vn": "Cô ấy sẽ cố gắng phá kỷ lục thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố gắng vượt qua (quả núi...); cố gắng đánh chiếm (đồn lính....)",
+          "list_en_vn": [
+            {
+              "full_en": "To attempt a fortress",
+              "full_vn": "Cố chiếm cho được một pháo đài"
+            },
+            {
+              "full_en": "To attempt a mountain peak",
+              "full_vn": "Thử vượt qua một ngọn núi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

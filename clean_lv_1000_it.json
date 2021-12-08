@@ -1,0 +1,440 @@
+{
+  "english": "clean",
+  "phat_am": "[kli:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sạch, sạch sẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a clean boy",
+              "full_vn": "đứa trẻ sạch sẽ"
+            },
+            {
+              "full_en": "a clean room",
+              "full_vn": "căn phòng sạch sẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trong sạch không tội lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "a clean life",
+              "full_vn": "cuộc sống trong sạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không lỗi, dễ đọc (bản in)"
+        },
+        {
+          "m_full_vn": "thẳng, không có mấu; không nham nhở",
+          "list_en_vn": [
+            {
+              "full_en": "a sharp knife makes a clean cut",
+              "full_vn": "dao bén cắt thẳng"
+            },
+            {
+              "full_en": "clean wood",
+              "full_vn": "gỗ không có mấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cân đối, đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "clean line",
+              "full_vn": "đường nét đẹp cân đối"
+            },
+            {
+              "full_en": "clean limbs",
+              "full_vn": "chân tay cân đối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh, khéo gọn",
+          "list_en_vn": [
+            {
+              "full_en": "a clean blow",
+              "full_vn": "cú đấm gọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh thánh) không bị ô uế; không bệnh tật"
+        },
+        {
+          "m_full_vn": "có thể ăn thịt được",
+          "list_one_mean": [
+            {
+              "id_full_en": "as clean as a whistle",
+              "list_im": [
+                {
+                  "im_full_vn": "sạch như chùi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a clean bill of health",
+              "list_im": [
+                {
+                  "im_full_vn": "giấy chứng nhận sức khoẻ tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a clean bill of lading",
+              "list_im": [
+                {
+                  "im_full_vn": "vận đơn mà thuyền trưởng không ghi chú gì về hàng hoá chở đi ( (xem) (như) hàng hoá tốt)), vận đơn sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "clean tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "cách ăn nói nhã nhặn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "clean slate",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) tình trạng không một tí gì ràng buộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a clean sweep of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xoá những gì không cần thiết"
+                },
+                {
+                  "im_full_vn": "(thể thao) giành được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a clean sweep of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xoá những gì không cần thiết"
+                },
+                {
+                  "im_full_vn": "(thể thao) giành được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's nose clean",
+              "list_im": [
+                {
+                  "im_full_vn": "không phạm lỗi, giữ mình trong sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a clean break with sth",
+              "list_im": [
+                {
+                  "im_full_vn": "dứt khoát từ bỏ, đoạn tuyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a clean breast of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thú nhận về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show a clean pair of heels",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn mất dạng, cao chạy xa bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have clean hands in the matter",
+              "list_im": [
+                {
+                  "im_full_vn": "không dính líu gì về việc đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come clean with sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thật tình thú nhận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lau sạch, sự rửa sạch, sự quét sạch",
+          "list_en_vn": [
+            {
+              "full_en": "give it a good clean",
+              "full_vn": "lau cái đó cho thật sạch đi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn, hẳn",
+          "list_en_vn": [
+            {
+              "full_en": "I clean forget about it",
+              "full_vn": "tôi quên hẳn chuyện đó"
+            },
+            {
+              "full_en": "they got clean away",
+              "full_vn": "chúng đi mất, hoàn toàn không để lại dấu vết gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sạch, sạch sẽ",
+          "list_en_vn": [
+            {
+              "full_en": "to scrub the floor clean",
+              "full_vn": "cọ sạch sàn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau chùi, rửa sạch, cạo sạch, đánh sạch, tẩy sạch, vét sạch, quét sạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clean down",
+              "list_im": [
+                {
+                  "im_full_vn": "chải (ngựa); làm cho sạch, quét sạch (tường...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean out",
+              "list_im": [
+                {
+                  "im_full_vn": "cạo, nạo, dọn sạch, làm cho sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean out a drawer",
+                      "full_vn": "dọn sạch ngăn kéo"
+                    },
+                    {
+                      "full_en": "to clean out someone",
+                      "full_vn": "(từ lóng) bóc lột hết tiền của ai; bòn hết tiền của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean out",
+              "list_im": [
+                {
+                  "im_full_vn": "cạo, nạo, dọn sạch, làm cho sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean out a drawer",
+                      "full_vn": "dọn sạch ngăn kéo"
+                    },
+                    {
+                      "full_en": "to clean out someone",
+                      "full_vn": "(từ lóng) bóc lột hết tiền của ai; bòn hết tiền của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean out",
+              "list_im": [
+                {
+                  "im_full_vn": "cạo, nạo, dọn sạch, làm cho sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean out a drawer",
+                      "full_vn": "dọn sạch ngăn kéo"
+                    },
+                    {
+                      "full_en": "to clean out someone",
+                      "full_vn": "(từ lóng) bóc lột hết tiền của ai; bòn hết tiền của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean up a room",
+                      "full_vn": "dọn vệ sinh phòng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoàn thành công việc"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) vớ được món tiền lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean up a room",
+                      "full_vn": "dọn vệ sinh phòng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoàn thành công việc"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) vớ được món tiền lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean up a room",
+                      "full_vn": "dọn vệ sinh phòng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoàn thành công việc"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) vớ được món tiền lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to clean up a room",
+                      "full_vn": "dọn vệ sinh phòng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoàn thành công việc"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) vớ được món tiền lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be cleaned out",
+              "list_im": [
+                {
+                  "im_full_vn": "nhẵn túi, cháy túi, sạch túi, bị bòn rút hết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to clean clothes",
+              "full_vn": "tẩy quần áo"
+            },
+            {
+              "full_en": "to clean a road",
+              "full_vn": "quét đường"
+            },
+            {
+              "full_en": "to clean a pot",
+              "full_vn": "cạo nồi, đánh nồi"
+            },
+            {
+              "full_en": "to clean a well",
+              "full_vn": "vét giếng"
+            },
+            {
+              "full_en": "to clean a room",
+              "full_vn": "quét dọn phòng"
+            },
+            {
+              "full_en": "to clean one's teeth",
+              "full_vn": "đánh răng"
+            },
+            {
+              "full_en": "to clean a piece of land",
+              "full_vn": "giẫy cỏ một mảnh đất"
+            },
+            {
+              "full_en": "to clean oil",
+              "full_vn": "lọc dầu"
+            },
+            {
+              "full_en": "to clean a wound",
+              "full_vn": "rửa sạch vết thương"
+            },
+            {
+              "full_en": "to clean a channel",
+              "full_vn": "nạo vét kênh"
+            },
+            {
+              "full_en": "to clean a fish",
+              "full_vn": "moi ruột cá"
+            },
+            {
+              "full_en": "to clean vegetables",
+              "full_vn": "nhặt rau"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

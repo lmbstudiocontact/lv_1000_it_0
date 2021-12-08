@@ -1,0 +1,128 @@
+{
+  "english": "certain",
+  "phat_am": "['sə:tn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc, chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be certain of success",
+              "full_vn": "chắc chắn là thành công"
+            },
+            {
+              "full_en": "there is no certain cure for this disease",
+              "full_vn": "bệnh này chưa có phương thuốc chữa chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a certain Mr . X telephoned while you were out",
+              "full_vn": "một ông X nào đó điện thoại đến trong lúc anh đi vắng"
+            },
+            {
+              "full_en": "For certain reasons I 'll not attend the ceremony",
+              "full_vn": "Vì một vài lý do nào đó, tôi sẽ không dự lễ"
+            },
+            {
+              "full_en": "under certain conditions",
+              "full_vn": "trong những điều kiện nào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đôi chút, chút ít",
+          "list_one_mean": [
+            {
+              "id_full_en": "for certain",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn, đích xác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I cannot say for certain whether it will shine tomorrow",
+                      "full_vn": "tôi không thể nói đích xác ngày mai có nắng không"
+                    },
+                    {
+                      "full_en": "I don't know for certain",
+                      "full_vn": "tôi không biết chắc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for certain",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn, đích xác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I cannot say for certain whether it will shine tomorrow",
+                      "full_vn": "tôi không thể nói đích xác ngày mai có nắng không"
+                    },
+                    {
+                      "full_en": "I don't know for certain",
+                      "full_vn": "tôi không biết chắc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for certain",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn, đích xác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I cannot say for certain whether it will shine tomorrow",
+                      "full_vn": "tôi không thể nói đích xác ngày mai có nắng không"
+                    },
+                    {
+                      "full_en": "I don't know for certain",
+                      "full_vn": "tôi không biết chắc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make certain of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) make"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to feel a certain reluctance",
+              "full_vn": "cảm thấy miễn cưỡng chút ít, hơi cảm thấy miễn cưỡng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "một vài người hoặc vật trong số...",
+          "list_en_vn": [
+            {
+              "full_en": "certain of those policemen are very authoritative",
+              "full_vn": "một vài người trong số các cảnh sát viên ấy rất hống hách"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

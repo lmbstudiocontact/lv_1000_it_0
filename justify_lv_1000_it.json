@@ -1,0 +1,57 @@
+{
+  "english": "justify",
+  "phat_am": "['dʒʌstifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bào chữa; thanh minh",
+          "list_en_vn": [
+            {
+              "full_en": "the end justifies the means",
+              "full_vn": "mục đích biện minh cho phương tiện (chấp nhận dùng cả phương cách bất chính để đạt mục đích)"
+            },
+            {
+              "full_en": "such action can be justified on the grounds of greater efficiency",
+              "full_vn": "một hành động như vậy có thể chứng minh là đúng trên cơ sở hiệu quả lớn hơn"
+            },
+            {
+              "full_en": "you shouldn't attempt to justify yourself",
+              "full_vn": "anh không nên tìm cách tự thanh minh cho mình, anh không nên tìm cách tự minh oan cho mình"
+            },
+            {
+              "full_en": "this cannot justify his laziness",
+              "full_vn": "điều này không thể biện minh cho thói chây lười của hắn"
+            },
+            {
+              "full_en": "pressure of work cannot justify your treating staff this way",
+              "full_vn": "sự làm việc căng thẳng không thể biện minh cho việc anh đối xử với nhân viên như vậy"
+            },
+            {
+              "full_en": "you can't justify neglecting your wife and children",
+              "full_vn": "anh không thể bào chữa được việc anh lơ là vợ con"
+            },
+            {
+              "full_en": "they found it hard to justify their son's giving up a secure well-paid job",
+              "full_vn": "họ thấy khó có thể biện hộ cho việc con trai họ từ bỏ một công việc chắc chắn lương hậu"
+            },
+            {
+              "full_en": "improved productivity justifies an increase in wages",
+              "full_vn": "năng suất được cải thiện chứng minh cho việc tăng lương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) sắp (các hàng chữ in) cho lề đều nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a justified text",
+              "full_vn": "văn bản được sắp chữ thẳng hàng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

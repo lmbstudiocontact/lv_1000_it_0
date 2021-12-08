@@ -1,0 +1,38 @@
+{
+  "english": "instead",
+  "phat_am": "[in'sted]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay cho, thay vì",
+          "list_en_vn": [
+            {
+              "full_en": "instead of this",
+              "full_vn": "thay cho cái này, thay vì cái này"
+            },
+            {
+              "full_en": "instead of going out , he stayed at home",
+              "full_vn": "đáng lẽ phải đi ra ngoài, hắn ta cứ ở xó nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "để thay thế",
+          "list_en_vn": [
+            {
+              "full_en": "since we had no sugar , we used honey instead",
+              "full_vn": "vì không có đường, chúng tôi dùng mật để thay thế"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

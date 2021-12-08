@@ -1,0 +1,24 @@
+{
+  "english": "destination",
+  "phat_am": "[,desti'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi mà ai/cái gì sẽ được gửi tới; nơi đến",
+          "list_en_vn": [
+            {
+              "full_en": "Tokyo was our final destination",
+              "full_vn": "Tokyo là nơi đến cuối cùng của chúng ta"
+            },
+            {
+              "full_en": "to arrive at /reach one's destination",
+              "full_vn": "đến nơi; đến đích"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "ivory",
+  "phat_am": "['aivəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngà (voi...)"
+        },
+        {
+          "m_full_vn": "màu ngà"
+        },
+        {
+          "m_full_vn": "( số nhiều) đồ bằng ngà"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ lóng) phím đàn pianô; con súc sắc, quả bi-a",
+          "list_one_mean": [
+            {
+              "id_full_en": "black ivory",
+              "list_im": [
+                {
+                  "im_full_vn": "(sử học) những người nô lệ da đen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng ngà"
+        },
+        {
+          "m_full_vn": "màu ngà",
+          "list_one_mean": [
+            {
+              "id_full_en": "an ivory tower",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) nơi con người ẩn mình để xa lánh thực tế; tháp ngà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

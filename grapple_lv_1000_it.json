@@ -1,0 +1,41 @@
+{
+  "english": "grapple",
+  "phat_am": "['græpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) grapnel"
+        },
+        {
+          "m_full_vn": "sự túm lấy, sự níu lấy"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) móc bằng móc sắt"
+        },
+        {
+          "m_full_vn": "túm lấy, níu lấy"
+        },
+        {
+          "m_full_vn": "( + with , together ) vật, vật lộn",
+          "list_en_vn": [
+            {
+              "full_en": "to grapple with somebody",
+              "full_vn": "ôm ghì lấy (ai) để vật"
+            },
+            {
+              "full_en": "to grapple with difficulties",
+              "full_vn": "vật lộn với khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

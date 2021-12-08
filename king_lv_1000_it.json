@@ -1,0 +1,152 @@
+{
+  "english": "king",
+  "phat_am": "[kiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vua, quốc vương"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vua (đại tư bản...)",
+          "list_en_vn": [
+            {
+              "full_en": "an oil king",
+              "full_vn": "vua dầu lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chúa tể (loài thú, loài chim)",
+          "list_en_vn": [
+            {
+              "full_en": "king of beast",
+              "full_vn": "chúa tể các loài thú (sư tử)"
+            },
+            {
+              "full_en": "king of birds",
+              "full_vn": "chúa tể các loài chim (đại bàng)"
+            },
+            {
+              "full_en": "king of metals",
+              "full_vn": "vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh cờ) quân tướng, quân chúa"
+        },
+        {
+          "m_full_vn": "(đánh bài) lá bài K"
+        },
+        {
+          "m_full_vn": "loại tốt nhất; loại to, loại lớn (hoa quả)",
+          "list_one_mean": [
+            {
+              "id_full_en": "King's highway",
+              "list_im": [
+                {
+                  "im_full_vn": "con đường chính (thuỷ bộ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Kings' (Queen's ) weather",
+              "list_im": [
+                {
+                  "im_full_vn": "thời tiết đẹp vào những ngày lễ lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the King of day",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the King of glory (of heaven , of kings )",
+              "list_im": [
+                {
+                  "im_full_vn": "(tôn giáo) Chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the King of Terrors",
+              "list_im": [
+                {
+                  "im_full_vn": "thần chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn King's (Queen's ) evidence",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) evidence"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tragedy king",
+              "list_im": [
+                {
+                  "im_full_vn": "diễn viên đóng vai vua (trong các bi kịch)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "King's colour",
+              "list_im": [
+                {
+                  "im_full_vn": "lá cờ của vua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "King's bounty",
+              "list_im": [
+                {
+                  "im_full_vn": "quà của nhà vua tặng cho những bà mẹ sinh ba"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm vua, trị vì"
+        },
+        {
+          "m_full_vn": "làm như vua, làm ra vẻ vua"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tôn lên làm vua",
+          "list_one_mean": [
+            {
+              "id_full_en": "to king it",
+              "list_im": [
+                {
+                  "im_full_vn": "làm như vua, làm ra vẻ vua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

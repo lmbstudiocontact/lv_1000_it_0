@@ -1,0 +1,69 @@
+{
+  "english": "continent",
+  "phat_am": "['kɔntinənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiềm chế được tình cảm và ham muốn (nhất là về tình dục); tiết dục"
+        },
+        {
+          "m_full_vn": "có khả năng điều khiển bọng đái và ruột của mình; nhịn được (đại, tiểu tiện)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lục địa; đại lục",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Continent",
+              "list_im": [
+                {
+                  "im_full_vn": "lục địa Châu âu (đối với nước Anh)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lục địa Bắc mỹ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) các thuộc địa sáp nhập thành nước Hoa-kỳ (trong thời kỳ chiến tranh giành độc lập)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Continent",
+              "list_im": [
+                {
+                  "im_full_vn": "lục địa Châu âu (đối với nước Anh)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lục địa Bắc mỹ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) các thuộc địa sáp nhập thành nước Hoa-kỳ (trong thời kỳ chiến tranh giành độc lập)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Continent",
+              "list_im": [
+                {
+                  "im_full_vn": "lục địa Châu âu (đối với nước Anh)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lục địa Bắc mỹ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) các thuộc địa sáp nhập thành nước Hoa-kỳ (trong thời kỳ chiến tranh giành độc lập)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

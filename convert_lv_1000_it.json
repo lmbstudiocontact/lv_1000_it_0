@@ -1,0 +1,59 @@
+{
+  "english": "convert",
+  "phat_am": "[kən'və:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cải đạo, người thay đổi tín ngưỡng"
+        },
+        {
+          "m_full_vn": "người thay đổi chính kiến"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đổi tôn giáo, làm đổi đảng phái",
+          "list_en_vn": [
+            {
+              "full_en": "to convert someone to Christianity",
+              "full_vn": "làm cho ai (đổi (tôn giáo)) theo đạo Cơ đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi, biến đổi",
+          "list_en_vn": [
+            {
+              "full_en": "to convert iron into steel",
+              "full_vn": "biến sắt ra thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) biển thủ, thụt (két), tham ô",
+          "list_one_mean": [
+            {
+              "id_full_en": "to convert timber",
+              "list_im": [
+                {
+                  "im_full_vn": "xẻ gỗ (còn vỏ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to convert funds to one's own use",
+              "full_vn": "biển thủ tiền quỹ, thụt két"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

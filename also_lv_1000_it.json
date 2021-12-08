@@ -1,0 +1,45 @@
+{
+  "english": "also",
+  "phat_am": "['ɔ:lsou]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(không dùng với động từ ở thể phủ định) cũng, cả, nữa, ngoài ra",
+          "list_en_vn": [
+            {
+              "full_en": "to do this , you can also consult with your friends",
+              "full_vn": "để làm việc này, anh cũng có thể hội ý với bạn bè"
+            },
+            {
+              "full_en": "I know that you also want to join the army",
+              "full_vn": "tôi biết anh cũng muốn gia nhập quân đội"
+            },
+            {
+              "full_en": "she speaks French and German and also a little Russian",
+              "full_vn": "cô ta nói tiếng Pháp và tiếng Đức, ngoài ra còn nói được chút ít tiếng Nga nữa"
+            },
+            {
+              "full_en": "I teach five days a week and I also teach evening classes",
+              "full_vn": "tôi dạy mỗi tuần năm ngày và ngoài ra còn dạy những lớp buổi tối nữa"
+            },
+            {
+              "full_en": "she not only plays well , but also writes music",
+              "full_vn": "cô ta không những chơi hay mà còn soạn nhạc nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đặt ở đầu câu) hơn nữa, ngoài ra",
+          "list_en_vn": [
+            {
+              "full_en": "also , I must add ...",
+              "full_vn": "hơn nữa, tôi phải nói thêm rằng..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

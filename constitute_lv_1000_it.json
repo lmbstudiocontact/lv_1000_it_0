@@ -1,0 +1,77 @@
+{
+  "english": "constitute",
+  "phat_am": "['kɔnstitju:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấu thành; tạo thành",
+          "list_en_vn": [
+            {
+              "full_en": "twelve months constitute a year",
+              "full_vn": "mười hai tháng thành một năm"
+            },
+            {
+              "full_en": "the committee is constituted of members of all three parties",
+              "full_vn": "ủy ban bao gồm thành viên của cả ba đảng"
+            },
+            {
+              "full_en": "he's so constituted that he can accept criticism without resentment",
+              "full_vn": "bản chất ông ta là có thể tiếp nhận phê bình mà không oán giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết lập; thành lập",
+          "list_en_vn": [
+            {
+              "full_en": "to constitute a tribunal",
+              "full_vn": "thiết lập toà án"
+            },
+            {
+              "full_en": "the committee had been improperly constituted and therefore had no legal power",
+              "full_vn": "ủy ban hình thành không hợp thức, nên chẳng có quyền lực hợp pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ định; uỷ nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "they constituted him president",
+              "full_vn": "ông ta được chỉ định làm chủ tịch"
+            },
+            {
+              "full_en": "he seemed to have constituted himself our representative",
+              "full_vn": "dường như ông ta tự chỉ định mình làm đại diện cho chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be strongly constituted",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ; có thể chất khoẻ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "my decision doest not constitute a precedent",
+              "full_vn": "quyết định của tôi không phải là một tiền lệ"
+            },
+            {
+              "full_en": "the defeat constitutes a major setback for our diplomacy",
+              "full_vn": "thất bại này là một thiệt thòi lớn cho ngành ngoại giao chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

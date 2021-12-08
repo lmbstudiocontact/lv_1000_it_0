@@ -1,0 +1,64 @@
+{
+  "english": "forgive",
+  "phat_am": "[fə'giv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, thì quá khứ là forgave , động tính từ quá khứ là forgiven",
+      "list_m": [
+        {
+          "m_full_vn": "( to forgive something ; to forgive somebody for something / doing something ) tha thứ",
+          "list_en_vn": [
+            {
+              "full_en": "I forgave her a long time ago",
+              "full_vn": "Tôi đã tha thứ cho cô ta từ lâu rồi"
+            },
+            {
+              "full_en": "I cannot forgive myself for not seeing my mother before she died",
+              "full_vn": "Tôi không thể tự tha cho mình đã không gặp được mẹ trước khi mẹ mất"
+            },
+            {
+              "full_en": "She forgave him his thoughtless remark",
+              "full_vn": "Cô ta đã tha thứ cho lời nhận xét thiếu suy nghĩ của hắn"
+            },
+            {
+              "full_en": "Forgive us our trespasses",
+              "full_vn": "( Tôn giáo) Xin tha tội cho chúng con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to forgive somebody for doing something ) (dùng trong những cách diễn đạt lịch sự để giảm nhẹ những điều diễn giả nói và trong những lời xin lỗi nhẹ nhàng) thứ lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "Forgive my ignorance , but what exactly are you talking about ?",
+              "full_vn": "Xin ngài thứ lỗi cho sự ngu muội của tôi, nhưng kỳ thực ngài đang nói về chuyện gì vậy?"
+            },
+            {
+              "full_en": "Please forgive me for interrupting /my interruting",
+              "full_vn": "Xin thứ lỗi vì đã ngắt lời ông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tha nợ cho ai; xoá nợ cho ai (bảo họ khỏi trả khoản tiền mà họ đã vay)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Forgive and forget",
+              "list_im": [
+                {
+                  "im_full_vn": "loại khỏi tâm trí mình những cảm nghĩ thù hận và lòng ham muốn buộc tội hoặc trừng phạt ai; tha thứ và quên đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Won't you forgive me such a small debt ?",
+              "full_vn": "Anh không miễn cho tôi món nợ cỏn con vậy sao?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

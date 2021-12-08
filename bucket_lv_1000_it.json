@@ -1,0 +1,88 @@
+{
+  "english": "bucket",
+  "phat_am": "['bʌkit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thùng, xô (để múc nước)",
+          "list_en_vn": [
+            {
+              "full_en": "to build sandcastles with a bucket and spade",
+              "full_vn": "dùng một cái xô và cái bay để xây lâu đài cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như bucketful"
+        },
+        {
+          "m_full_vn": "( buckets ) số lượng nhiều (nước mưa hoặc nước mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "the rain came down /fell in buckets",
+              "full_vn": "mưa rơi xối xả"
+            },
+            {
+              "full_en": "she wept buckets",
+              "full_vn": "cô ấy khóc sướt mướt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pittông (ống bơm)"
+        },
+        {
+          "m_full_vn": "gầu (ở guồng nước)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a drop in the bucket /ocean",
+              "list_im": [
+                {
+                  "im_full_vn": "xem drop"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the bucket",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ra không cho làm, sa thải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick the bucket",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chết, ngoẻo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt (ngựa) chạy quá sức"
+        },
+        {
+          "m_full_vn": "chèo (thuyền) vội vàng"
+        },
+        {
+          "m_full_vn": "(về mưa) rơi như trút",
+          "list_en_vn": [
+            {
+              "full_en": "it /the rain bucketed down all afternoon",
+              "full_vn": "mưa rơi như trút nước suốt buổi chiều"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

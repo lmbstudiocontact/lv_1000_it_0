@@ -1,0 +1,97 @@
+{
+  "english": "knuckle",
+  "phat_am": "['nʌkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khớp đốt ngón tay"
+        },
+        {
+          "m_full_vn": "khuỷ, đốt khuỷ (chân giò lợn, cừu...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khớp nối",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get a rap on (over ) the knuckles",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đánh vào đốt ngón tay"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) bị mắng mỏ, bị trách phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a rap on (over ) the knuckles",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đánh vào đốt ngón tay"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) bị mắng mỏ, bị trách phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "near the knuckle",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gần đi đến chỗ thô tục bất lịch sự (câu chuyện, câu nói đùa...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cốc (bằng ngón tay)"
+        },
+        {
+          "m_full_vn": "ấn bằng cách gập ngón tay lại"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tì đốt ngón tay xuống đất (để bắn bi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to knuckle under",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu hàng, chịu khuất phục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knuckle down",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu hàng, chịu khuất phục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knuckle down to one's work",
+              "list_im": [
+                {
+                  "im_full_vn": "tích cực (kiên quyết) bắt tay vào việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

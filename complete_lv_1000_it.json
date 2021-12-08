@@ -1,0 +1,55 @@
+{
+  "english": "complete",
+  "phat_am": "[kəm'pli:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy đủ, trọn vẹn, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "a complete failure",
+              "full_vn": "một sự thất bại hoàn toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành, xong",
+          "list_en_vn": [
+            {
+              "full_en": "when will the work be complete ?",
+              "full_vn": "khi nào công việc ấy sẽ hoàn thành?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) hoàn toàn, toàn diện (người)",
+          "list_en_vn": [
+            {
+              "full_en": "complete horseman",
+              "full_vn": "một người cưỡi ngựa giỏi hoàn toàn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn thành, làm xong"
+        },
+        {
+          "m_full_vn": "làm đầy đủ, bổ sung, làm cho trọn vẹn; làm cho hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "this completes my happiness",
+              "full_vn": "điều này làm cho niềm hạnh phúc của tôi thêm trọn vẹn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "develop",
+  "phat_am": "[di'veləp]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trình bày, bày tỏ, thuyết minh (luận điểm, vấn đề...)",
+          "list_en_vn": [
+            {
+              "full_en": "to develop one's views on a subject",
+              "full_vn": "trình bày quan điểm về một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát triển, mở mang, mở rộng, khuếch trương, làm cho phát đạt",
+          "list_en_vn": [
+            {
+              "full_en": "to develop industry",
+              "full_vn": "phát triển công nghiệp"
+            },
+            {
+              "full_en": "to develop an industrial area",
+              "full_vn": "mở rộng khu công nghiệp"
+            },
+            {
+              "full_en": "to develop one's mind",
+              "full_vn": "phát triển trí tuệ"
+            },
+            {
+              "full_en": "to develop one's body",
+              "full_vn": "phát triển cơ thể, làm cho cơ thể nở nang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khai thác",
+          "list_en_vn": [
+            {
+              "full_en": "to develop resources",
+              "full_vn": "khai thác tài nguyên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiễm, tiêm nhiễm (thói quen...); ngày càng bộc lộ rõ, ngày càng phát huy (khả năng, khuynh hướng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to develop a bad habit",
+              "full_vn": "nhiễm thói xấu"
+            },
+            {
+              "full_en": "to develop a gift for mathematics",
+              "full_vn": "ngày càng bộc lộ năng khiếu về toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) rửa (phim ảnh)"
+        },
+        {
+          "m_full_vn": "(quân sự) triển khai, mở",
+          "list_en_vn": [
+            {
+              "full_en": "to develop an attack",
+              "full_vn": "mở một cuộc tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) khai triển"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tỏ rõ ra, bộc lộ ra, biểu lộ ra"
+        },
+        {
+          "m_full_vn": "phát triển, mở mang, nảy nở",
+          "list_en_vn": [
+            {
+              "full_en": "seeds develop into plants",
+              "full_vn": "hạt giống phát triển thành cây con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến triển",
+          "list_en_vn": [
+            {
+              "full_en": "the story developed into good ending",
+              "full_vn": "câu chuyện tiến triển đến một kết thúc tốt đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện (ảnh)"
+        }
+      ]
+    }
+  ]
+}

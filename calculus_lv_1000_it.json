@@ -1,0 +1,27 @@
+{
+  "english": "calculus",
+  "phat_am": "['kælkjuləs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều calculuses hoặc calculi",
+      "list_m": [
+        {
+          "m_full_vn": "ngành toán học chia làm hai phần (phép tính vi phân và phép tính tích phân) giải quyết những bài toán về hệ số các biến",
+          "list_en_vn": [
+            {
+              "full_en": "differential calculus",
+              "full_vn": "phép tính vi phân"
+            },
+            {
+              "full_en": "integral calculus",
+              "full_vn": "phép tính tích phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sỏi thận"
+        }
+      ]
+    }
+  ]
+}

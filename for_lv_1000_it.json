@@ -1,0 +1,404 @@
+{
+  "english": "for",
+  "phat_am": "[fɔ:,fə]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay cho, thế cho, đại diện cho",
+          "list_en_vn": [
+            {
+              "full_en": "to sit for Hanoi",
+              "full_vn": "đại diện cho Hà nội (ở quốc hội...)"
+            },
+            {
+              "full_en": "to stand for a noun",
+              "full_vn": "(ngôn ngữ học) thay cho một danh từ ( đại từ)"
+            },
+            {
+              "full_en": "he signed it for me",
+              "full_vn": "anh ta ký cái đó thay tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ủng hộ, về phe, về phía",
+          "list_en_vn": [
+            {
+              "full_en": "to be for peace",
+              "full_vn": "ủng hộ hoà bình"
+            },
+            {
+              "full_en": "hurrah for Vietnam",
+              "full_vn": "hoan hô Việt nam, ủng hộ Việt nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành cho, để, với mục đích là",
+          "list_en_vn": [
+            {
+              "full_en": "for sale",
+              "full_vn": "để bán"
+            },
+            {
+              "full_en": "for example ; for instance",
+              "full_vn": "ví dụ, chẳng hạn"
+            },
+            {
+              "full_en": "these are documents for high-ranking officials",
+              "full_vn": "đây là tài liệu dành cho viên chức cao cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để lấy, để được",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a car",
+              "full_vn": "đi (để) gọi xe, đi (để) lấy xe"
+            },
+            {
+              "full_en": "to send for a doctor",
+              "full_vn": "cho đi mời bác sĩ"
+            },
+            {
+              "full_en": "to fight for independence",
+              "full_vn": "đấu tranh để giành độc lập"
+            },
+            {
+              "full_en": "to hunger for knowledge",
+              "full_vn": "khao khát sự hiểu biết"
+            },
+            {
+              "full_en": "to exchange an old car for a new one",
+              "full_vn": "đổi xe hơi cũ lấy xe hơi mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến, đi đến",
+          "list_en_vn": [
+            {
+              "full_en": "to leave for Haiphong",
+              "full_vn": "đi đến Hải Phòng"
+            },
+            {
+              "full_en": "it's getting on for two o'clock",
+              "full_vn": "sắp đến hai giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho",
+          "list_en_vn": [
+            {
+              "full_en": "to buy something for somebody",
+              "full_vn": "mua cái gì cho ai"
+            },
+            {
+              "full_en": "I can shift for myself",
+              "full_vn": "tôi có thể tự xoay sở lấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì, bởi vì",
+          "list_en_vn": [
+            {
+              "full_en": "for want of money",
+              "full_vn": "vì thiếu tiền"
+            },
+            {
+              "full_en": "to live for each other",
+              "full_vn": "sống vì nhau"
+            },
+            {
+              "full_en": "please do it for my sake",
+              "full_vn": "mong anh làm điều đó vì tôi"
+            },
+            {
+              "full_en": "to avoid something for fear of accidents",
+              "full_vn": "tránh cái gì vì sợ tai nạn"
+            },
+            {
+              "full_en": "for many reasons",
+              "full_vn": "vì nhiều lẽ"
+            },
+            {
+              "full_en": "famous for something",
+              "full_vn": "nổi tiếng vì cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc dù",
+          "list_en_vn": [
+            {
+              "full_en": "for all that",
+              "full_vn": "mặc dù tất cả những cái đó"
+            },
+            {
+              "full_en": "for all you say",
+              "full_vn": "mặc dù những điều anh nói"
+            },
+            {
+              "full_en": "for all their modern weapons , the imperialism will be defeated",
+              "full_vn": "mặc dù có vũ khí tối tân, bọn đế quốc vẫn sẽ bị đánh bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối với, về phần",
+          "list_en_vn": [
+            {
+              "full_en": "respect for one's teachers",
+              "full_vn": "lòng kính trọng đối với các bậc thầy giáo"
+            },
+            {
+              "full_en": "it's too easy for him",
+              "full_vn": "điều đó quá dễ đối với hắn"
+            },
+            {
+              "full_en": "the machine is too heavy for me to lift",
+              "full_vn": "cái máy nặng quá tôi nhấc không nổi"
+            },
+            {
+              "full_en": "for my part ; as for me",
+              "full_vn": "về phần tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "so với, đối với, theo tỷ lệ",
+          "list_en_vn": [
+            {
+              "full_en": "very tall for one's age",
+              "full_vn": "rất cao lớn so với tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong (thời gian), được (mức là...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "alas for him !",
+              "list_im": [
+                {
+                  "im_full_vn": "thương thay cho nó!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be for it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) phải bị trừng phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be not long for this world",
+              "list_im": [
+                {
+                  "im_full_vn": "gần đất xa trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fie for shame !",
+              "list_im": [
+                {
+                  "im_full_vn": "thẹn quá! nhục quá!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for all I know",
+              "list_im": [
+                {
+                  "im_full_vn": "trong chừng mực mà tôi biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for all the world",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng như, hệt như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look for all the world like a monkey",
+                      "full_vn": "trông hệt như một con khỉ"
+                    },
+                    {
+                      "full_en": "for good",
+                      "full_vn": "mãi mãi, vĩnh viễn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for all the world",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng như, hệt như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look for all the world like a monkey",
+                      "full_vn": "trông hệt như một con khỉ"
+                    },
+                    {
+                      "full_en": "for good",
+                      "full_vn": "mãi mãi, vĩnh viễn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for all the world",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng như, hệt như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look for all the world like a monkey",
+                      "full_vn": "trông hệt như một con khỉ"
+                    },
+                    {
+                      "full_en": "for good",
+                      "full_vn": "mãi mãi, vĩnh viễn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for certain",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) certain"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the life of one",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) life"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not for the world !",
+              "list_im": [
+                {
+                  "im_full_vn": "không đời nào! không khi nào!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once for all",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) once"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is nothing for it but",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nothing"
+                }
+              ]
+            },
+            {
+              "id_full_en": "too beautiful for words",
+              "list_im": [
+                {
+                  "im_full_vn": "đẹp không tả được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "were it not (but , except ) for your help , I could not finish it",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu không có sự giúp đỡ của anh, tôi không thể làm xong việc đó được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what ... for ?",
+              "list_im": [
+                {
+                  "im_full_vn": "để làm gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what do you want it for ?",
+                      "full_vn": "anh cần cái đó để làm gì?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what ... for ?",
+              "list_im": [
+                {
+                  "im_full_vn": "để làm gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what do you want it for ?",
+                      "full_vn": "anh cần cái đó để làm gì?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to last for an hour",
+              "full_vn": "kéo dài trong một tiếng đồng hồ"
+            },
+            {
+              "full_en": "to walk for three kilometers",
+              "full_vn": "đi bộ được ba kilômét"
+            },
+            {
+              "full_en": "we have worked here for six months",
+              "full_vn": "chúng tôi làm việc ở đây đã được sáu tháng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ (không đặt ở đầu câu)",
+      "list_m": [
+        {
+          "m_full_vn": "vì, bởi vì, tại vì",
+          "list_en_vn": [
+            {
+              "full_en": "they don't go to the movies , for it rains cats and dogs",
+              "full_vn": "họ không đi xem phim, vì trời mưa như trút nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt của Free on rails",
+      "list_m": [
+        {
+          "m_full_vn": "(thương mại) người bán chịu trách nhiệm đến khi hàng chất xong lên tàu hoả"
+        }
+      ]
+    }
+  ]
+}

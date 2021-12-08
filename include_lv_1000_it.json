@@ -1,0 +1,23 @@
+{
+  "english": "include",
+  "phat_am": "[in'klu:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao gồm, gồm có",
+          "list_en_vn": [
+            {
+              "full_en": "his conclusion includes all our ideas",
+              "full_vn": "kết luận của ông ta bao gồm tất cả ý kiến của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính đến, kể cả"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "english": "bit",
+  "phat_am": "[bit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miếng (thức ăn...), mảnh, mẩu",
+          "list_en_vn": [
+            {
+              "full_en": "a dainty bit",
+              "full_vn": "một miếng ngon"
+            },
+            {
+              "full_en": "a bit of wood",
+              "full_vn": "một mẩu gỗ"
+            },
+            {
+              "full_en": "a bit of string",
+              "full_vn": "một mẩu dây"
+            },
+            {
+              "full_en": "to smash to bits",
+              "full_vn": "đập tan ra từng mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chút, một tí",
+          "list_en_vn": [
+            {
+              "full_en": "wait a bit",
+              "full_vn": "đợi một tí, đợi một chút"
+            },
+            {
+              "full_en": "he is a bit of a coward",
+              "full_vn": "hắn ta hơi nhát gan một chút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn ngắn (của một vai kịch nói, trong sách...)"
+        },
+        {
+          "m_full_vn": "(một) góc phong cảnh (thực hoặc vẽ)"
+        },
+        {
+          "m_full_vn": "đồng tiền",
+          "list_en_vn": [
+            {
+              "full_en": "a threepenny bit",
+              "full_vn": "đồng ba xu ( Anh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) bit (viết tắt) của Binary digit",
+          "list_one_mean": [
+            {
+              "id_full_en": "bit by bit",
+              "list_im": [
+                {
+                  "im_full_vn": "dần dần; từ từ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bit long in the tooth",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn là trẻ con nữa, lớn rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bits of children",
+              "list_im": [
+                {
+                  "im_full_vn": "những em bé tội nghiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bit of crumpet /fluff /skirt /stuff",
+              "list_im": [
+                {
+                  "im_full_vn": "người đàn bà có nhan sắc quyến rũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bit thick",
+              "list_im": [
+                {
+                  "im_full_vn": "điều bất hợp lý, điều vô lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bits and bobs , bits and pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "những vật linh tinh, những thứ lặt vặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not a bit of it",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng tí nào cả, ngược lại là khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bits of furniture",
+              "list_im": [
+                {
+                  "im_full_vn": "đồ đạc lắt nhắt tồi tàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do one's bit",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tròn bổn phận mình; đóng góp phần mình (vào việc nghĩa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a bit on",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngà ngà say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a bit of one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mind"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũi khoan; đầu mỏ hàn; mũi kim; mỏ chìa khoá"
+        },
+        {
+          "m_full_vn": "hàm thiếc ngựa"
+        },
+        {
+          "m_full_vn": "con số nhị phân"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự kiềm chế",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw the bit",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) draw"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bit between one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lồng lên (ngựa)"
+                },
+                {
+                  "im_full_vn": "nổi cơn tam bành; không tự kiềm chế được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bit between one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lồng lên (ngựa)"
+                },
+                {
+                  "im_full_vn": "nổi cơn tam bành; không tự kiềm chế được"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt hàm thiếc (cho ngựa); làm cho (ngựa) quen hàm thiếc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kiềm chế, nén, hãm lại, kìm lại"
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của bite"
+    }
+  ]
+}

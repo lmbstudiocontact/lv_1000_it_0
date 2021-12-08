@@ -1,0 +1,71 @@
+{
+  "english": "defend",
+  "phat_am": "[di'fend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to defend somebody / something against / from somebody / something ) bảo vệ ai/cái gì khỏi bị hại",
+          "list_en_vn": [
+            {
+              "full_en": "when the dog attacked me , I defended myself with a stick",
+              "full_vn": "khi con chó tấn công tôi, tôi tự vệ bằng một cây gậy"
+            },
+            {
+              "full_en": "to defend somebody from attack , an attacker , injury",
+              "full_vn": "bảo vệ ai chống lại cuộc tấn công, kẻ tấn công, sự xúc phạm"
+            },
+            {
+              "full_en": "to defend one's country against enemies",
+              "full_vn": "bảo vệ tổ quốc chống lại quân thù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ủng hộ; bênh vực",
+          "list_en_vn": [
+            {
+              "full_en": "the newspaper defended her against the accusations",
+              "full_vn": "tờ báo bênh vực cô ta chống lại những lời buộc tội"
+            },
+            {
+              "full_en": "to defend a lawsuit",
+              "full_vn": "bào chữa cho một vụ kiện"
+            },
+            {
+              "full_en": "you'll need stronger evidence to defend your claim to the inheritance",
+              "full_vn": "ông cần có bằng chứng mạnh mẽ hơn để biện hộ cho việc ông đòi hỏi tư cách thừa kế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể thao) phòng ngự",
+          "list_en_vn": [
+            {
+              "full_en": "some players are better at defending",
+              "full_vn": "một vài đấu thủ giỏi phòng ngự hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về một nhà vô địch thể thao) tham gia cuộc thi để giữ địa vị của mình",
+          "list_en_vn": [
+            {
+              "full_en": "she's running to defend her 400 metres title",
+              "full_vn": "cô ta chạy để bảo vệ danh hiệu vô địch 400 mét của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "là luật sư bào chữa"
+        }
+      ]
+    }
+  ]
+}

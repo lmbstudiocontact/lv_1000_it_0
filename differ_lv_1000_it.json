@@ -1,0 +1,61 @@
+{
+  "english": "differ",
+  "phat_am": "['difə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to differ from somebody / something ) khác, không giống",
+          "list_en_vn": [
+            {
+              "full_en": "to differ from someone in age",
+              "full_vn": "không cùng tuổi với ai"
+            },
+            {
+              "full_en": "the brothers differ widely in their tastes",
+              "full_vn": "mấy anh em khác nhau rất nhiều về sở thích"
+            },
+            {
+              "full_en": "tastes differ",
+              "full_vn": "sở thích bao giờ cũng khác nhau"
+            },
+            {
+              "full_en": "to have differing tastes /views",
+              "full_vn": "có sở thích/quan điểm khác nhau"
+            },
+            {
+              "full_en": "in this respect , English differs from French /English and French differ",
+              "full_vn": "về mặt này, tiếng Anh khác tiếng Pháp/tiếng Anh và tiếng Pháp khac nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to differ with / from somebody on / about something ) không đồng ý, không tán thành, bất đồng",
+          "list_en_vn": [
+            {
+              "full_en": "I'm sorry to differ with you on that",
+              "full_vn": "tôi không đồng ý với anh về điều đó"
+            },
+            {
+              "full_en": "we differ on many things",
+              "full_vn": "chúng tôi bất đồng với nhau về nhiều điểm"
+            },
+            {
+              "full_en": "I beg to differ",
+              "full_vn": "xin phép cho tôi có ý kiến khác"
+            },
+            {
+              "full_en": "to agree to differ",
+              "full_vn": "đành là bất đồng ý kiến với nhau, không tìm cách thuyết phục nhau nữa; chấp nhận những sự khác nhau về ý kiến, nhất là để tránh tranh cãi thêm"
+            },
+            {
+              "full_en": "we must agree to differ on this",
+              "full_vn": "chúng tôi đành phải bất đồng ý kiến với nhau về vấn đề này"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

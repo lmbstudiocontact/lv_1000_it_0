@@ -1,0 +1,354 @@
+{
+  "english": "fit",
+  "phat_am": "[fit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đoạn thơ ( (cũng) fytte )"
+        },
+        {
+          "m_full_vn": "cơn (đau)",
+          "list_en_vn": [
+            {
+              "full_en": "a fit of coughing",
+              "full_vn": "cơn ho"
+            },
+            {
+              "full_en": "a fit of laughter",
+              "full_vn": "sự cười rộ lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngất đi, sự xỉu",
+          "list_en_vn": [
+            {
+              "full_en": "to fall down in a fit",
+              "full_vn": "ngất đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đợt",
+          "list_en_vn": [
+            {
+              "full_en": "a fit of energy",
+              "full_vn": "một đợt gắng sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give somebody fits",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh thắng ai một cách dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by fits and starts",
+              "list_im": [
+                {
+                  "im_full_vn": "không đều, thất thường, từng đợt một"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a fit",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai ngạc nhiên"
+                },
+                {
+                  "im_full_vn": "xúc phạm đến ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a fit",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai ngạc nhiên"
+                },
+                {
+                  "im_full_vn": "xúc phạm đến ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit the bill",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hợp với thực tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw a fit",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nổi cơn tam bành, điên tiết lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "when the fit is on one",
+              "full_vn": "tuỳ hứng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm cho vừa, sự điều chỉnh cho vừa"
+        },
+        {
+          "m_full_vn": "kiểu cắt (quần áo) cho vừa vặn"
+        },
+        {
+          "m_full_vn": "cái vừa vặn",
+          "list_en_vn": [
+            {
+              "full_en": "to be a tight fit",
+              "full_vn": "vừa như in"
+            },
+            {
+              "full_en": "to be a bad fit",
+              "full_vn": "không vừa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng được; thích hợp, vừa hơn; xứng đáng",
+          "list_en_vn": [
+            {
+              "full_en": "not fit for the job",
+              "full_vn": "không đủ khả năng làm việc đó"
+            },
+            {
+              "full_en": "a fit time and place for a gathering",
+              "full_vn": "thời gian và địa điểm thích hợp cho cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, phải",
+          "list_en_vn": [
+            {
+              "full_en": "it is not fit that one treats one's friends badly",
+              "full_vn": "xử tệ với bạn là không đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn sàng; đến lúc phải",
+          "list_en_vn": [
+            {
+              "full_en": "to go on speaking till it is fit to stop",
+              "full_vn": "tiếp tục nói cho đến lúc cần phải nghỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh khoẻ, sung sức",
+          "list_en_vn": [
+            {
+              "full_en": "to feel fit",
+              "full_vn": "thấy khoẻ"
+            },
+            {
+              "full_en": "to look fit",
+              "full_vn": "trông khoẻ"
+            },
+            {
+              "full_en": "to be as fit as a fiddle",
+              "full_vn": "khoẻ như vâm; rất sung sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bực đến nỗi; hoang mang đến nỗi (có thể làm điều gì không suy nghĩ); mệt đến nỗi (có thể ngã lăn ra)"
+        },
+        {
+          "m_full_vn": "(thông tục) (dùng (như) phó từ) đến nỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to be fit to hold a candle to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "không sánh nổi với ai, không đáng xách dép cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if the cap fits",
+              "list_im": [
+                {
+                  "im_full_vn": "có tịch nên nhúc nhích, có tật nên giật mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to laugh fit to split one's side",
+              "full_vn": "cười đến vỡ bụng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp, vừa",
+          "list_en_vn": [
+            {
+              "full_en": "this coat does not fit me",
+              "full_vn": "tôi mắc cái áo này không vừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho hợp, làm cho vừa",
+          "list_en_vn": [
+            {
+              "full_en": "to fit oneself for one's tasks",
+              "full_vn": "chuẩn bị sẵn sàng làm nhiệm vụ; làm cho mình đáp ứng với nhiệm vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắp",
+          "list_en_vn": [
+            {
+              "full_en": "to fit a spoke",
+              "full_vn": "lắp một nan hoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vừa hợp",
+          "list_en_vn": [
+            {
+              "full_en": "your clothes fit well",
+              "full_vn": "quần áo của anh mặc rất vừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích hợp, phù hợp, ăn khớp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fit in",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn khớp; khớp với"
+                },
+                {
+                  "im_full_vn": "làm cho khớp với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit in",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn khớp; khớp với"
+                },
+                {
+                  "im_full_vn": "làm cho khớp với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit on",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc thử (quần áo)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fit a coat on",
+                      "full_vn": "mặc thử cái áo choàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit on",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc thử (quần áo)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fit a coat on",
+                      "full_vn": "mặc thử cái áo choàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit up",
+              "list_im": [
+                {
+                  "im_full_vn": "trang bị"
+                },
+                {
+                  "im_full_vn": "sửa sang cho có tiện nghi (nhà ở)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit up",
+              "list_im": [
+                {
+                  "im_full_vn": "trang bị"
+                },
+                {
+                  "im_full_vn": "sửa sang cho có tiện nghi (nhà ở)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fit like a glove",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) glove"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his plan doesn't fit in with yours",
+              "full_vn": "kế hoạch của nó không ăn khớp với kế hoạch của anh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

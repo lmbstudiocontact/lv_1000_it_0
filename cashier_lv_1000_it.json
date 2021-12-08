@@ -1,0 +1,25 @@
+{
+  "english": "cashier",
+  "phat_am": "[kæ'∫iə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nhận và trả tiền ở ngân hàng, cửa hàng, khách sạn..."
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách chức, thải ra"
+        },
+        {
+          "m_full_vn": "(quân sự) tước quân hàm (sĩ quan bộ binh và hải quân)"
+        }
+      ]
+    }
+  ]
+}

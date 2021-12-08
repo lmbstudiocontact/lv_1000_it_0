@@ -1,0 +1,42 @@
+{
+  "english": "consist",
+  "phat_am": "[kən'sist]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) gồm có",
+          "list_en_vn": [
+            {
+              "full_en": "water consists of hydrogen and oxygen",
+              "full_vn": "nước gồm có hydrô và ôxy"
+            },
+            {
+              "full_en": "the committee consists of ten members",
+              "full_vn": "ủy ban gồm có mười thành viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) cốt ở, cốt tại, ở chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "the beauty of the plan consists in its simplicity",
+              "full_vn": "cái đẹp của sơ đồ là ở sự giản dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) phù hợp",
+          "list_en_vn": [
+            {
+              "full_en": "these facts consist with his forecast",
+              "full_vn": "các sự kiện này phù hợp với dự báo của ông ta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

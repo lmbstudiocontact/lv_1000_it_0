@@ -1,0 +1,142 @@
+{
+  "english": "again",
+  "phat_am": "[ə'gen]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "lại, lần nữa, nữa",
+          "list_en_vn": [
+            {
+              "full_en": "try again !",
+              "full_vn": "hãy thử lần nữa!"
+            },
+            {
+              "full_en": "here comes Joe, drunk again",
+              "full_vn": "Joe đến kìa, lại say rồi"
+            },
+            {
+              "full_en": "do call again",
+              "full_vn": "thế nào cũng gọi lại nhé"
+            },
+            {
+              "full_en": "this will never happen again",
+              "full_vn": "việc này sẽ không bao giờ diễn ra nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như trước, tới hoặc trong vị trí hoặc điều kiện ban đầu",
+          "list_en_vn": [
+            {
+              "full_en": "he was glad to be home again",
+              "full_vn": "anh ta vui vì lại trở về nhà"
+            },
+            {
+              "full_en": "to be well again",
+              "full_vn": "khoẻ lại, bình phục"
+            },
+            {
+              "full_en": "back again already ?",
+              "full_vn": "lại về rồi đấy à?"
+            },
+            {
+              "full_en": "you'll never get the money back again ?",
+              "full_vn": "anh sẽ không bao giờ lấy lại được tiền nữa đâu"
+            },
+            {
+              "full_en": "I'm glad he's himself /his old self again",
+              "full_vn": "tôi mừng là anh ta đã trở lại bình thường (sau cú choáng, cơn bạo bệnh...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp lại, dội lại",
+          "list_en_vn": [
+            {
+              "full_en": "to answer again",
+              "full_vn": "trả lời lại; đáp lại"
+            },
+            {
+              "full_en": "rocks echoed again",
+              "full_vn": "những vách đá vang dội lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt khác, ngoài ra, hơn nữa, vả lại, vả chăng",
+          "list_en_vn": [
+            {
+              "full_en": "again , it is necessary to bear in mind that ...",
+              "full_vn": "hơn nữa, cần phải nhớ rằng..."
+            },
+            {
+              "full_en": "I might , and (there /then ) again I might not",
+              "full_vn": "tôi có thể và mặt khác có thể không"
+            },
+            {
+              "full_en": "again and again",
+              "full_vn": "nhiều lần, không biết bao nhiêu lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thêm nữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "ever and again",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng, đôi khi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "now and again",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) now"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once and again",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) once"
+                }
+              ]
+            },
+            {
+              "id_full_en": "over again",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) over"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time and time again",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) time"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'd like as much /many again",
+              "full_vn": "tôi muốn có chừng ấy nữa (gấp đôi chừng ấy)"
+            },
+            {
+              "full_en": "half as much again",
+              "full_vn": "một nửa chừng ấy nữa (gấp rưỡi chừng ấy)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

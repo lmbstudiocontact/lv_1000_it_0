@@ -1,0 +1,97 @@
+{
+  "english": "beard",
+  "phat_am": "[biəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lông mọc ở cằm và hai bên má trên mặt đàn ông; râu",
+          "list_en_vn": [
+            {
+              "full_en": "a week's growth of beard",
+              "full_vn": "bộ râu cả tuần không cạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngạnh (mũi tên, lưỡi câu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a goat's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "râu dê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh in one's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "cười thầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at somebody's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vào mặt ai"
+                },
+                {
+                  "im_full_vn": "tìm cách lừa gạt ai; toan lừa bịp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at somebody's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vào mặt ai"
+                },
+                {
+                  "im_full_vn": "tìm cách lừa gạt ai; toan lừa bịp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take by the beard",
+              "list_im": [
+                {
+                  "im_full_vn": "quyết xông vào, quyết xả vào chiếm lấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak in one's beard",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lúng búng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đương đầu với, chống cự",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beard the lion in his den",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) vào hang hùm bắt cọp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

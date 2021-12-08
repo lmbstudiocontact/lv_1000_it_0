@@ -1,0 +1,59 @@
+{
+  "english": "distinguish",
+  "phat_am": "[dis'tiηgwi∫]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to distinguish between A and B / A from B ) phân biệt",
+          "list_en_vn": [
+            {
+              "full_en": "people who cannot distinguish between colours are said to be colour-blind",
+              "full_vn": "người không phân biệt được màu sắc thì gọi là mù màu"
+            },
+            {
+              "full_en": "the twins are so alike that no one can distinguish one from the other",
+              "full_vn": "hai đứa bé sinh đôi giống nhau đến mức không phân biệt được đứa này với đứa kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to distinguish A from B ) chỉ ra sự khác biệt (giữa vật này với vật kia/người này với người kia); là dấu hiệu đặc trưng của ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the male is distinguished (from the female ) by its red beak",
+              "full_vn": "con đực phân biệt được (với con cái) nhờ cái mỏ đỏ"
+            },
+            {
+              "full_en": "speech distinguishes human being from the animals",
+              "full_vn": "tiếng nói (giúp) phân biệt người với loài vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "to distinguish someone among the crowd",
+              "full_vn": "nhận ra ai giữa đám đông"
+            },
+            {
+              "full_en": "to distinguish distant objects , a whispered conversation",
+              "full_vn": "nhận ra những vật ở xa, nghe được một câu chuyện thì thầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to distinguish oneself ) nổi bật",
+          "list_en_vn": [
+            {
+              "full_en": "she distinguished herself by her coolness and bravery",
+              "full_vn": "cô ấy nổi bật nhờ tính trầm lặng và lòng can đảm của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

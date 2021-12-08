@@ -1,0 +1,142 @@
+{
+  "english": "dull",
+  "phat_am": "[dʌl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậm hiểu, tối dạ, ngu đần, đần độn"
+        },
+        {
+          "m_full_vn": "không tinh, mờ (mắt); không thính, nghễnh ngãng (tai)",
+          "list_en_vn": [
+            {
+              "full_en": "to be dull of ear",
+              "full_vn": "nghễnh ngãng; tai nghe không thính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô tri vô giác (vật)",
+          "list_en_vn": [
+            {
+              "full_en": "dull stones",
+              "full_vn": "những hòn đá vô tri vô giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùn (dao...)"
+        },
+        {
+          "m_full_vn": "đục, mờ đục, xỉn, xám xịt",
+          "list_en_vn": [
+            {
+              "full_en": "dull colour",
+              "full_vn": "màu xám, xám xịt lại"
+            },
+            {
+              "full_en": "dull light",
+              "full_vn": "ánh sáng mờ đục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy lờ mờ, cảm thấy không rõ rệt, âm ỉ",
+          "list_en_vn": [
+            {
+              "full_en": "dull pain",
+              "full_vn": "đau âm ỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẫn thờ, uể oải, chậm chạp (người, vật)"
+        },
+        {
+          "m_full_vn": "ứ đọng, trì chậm, bán không chạy, ế",
+          "list_en_vn": [
+            {
+              "full_en": "dull goods",
+              "full_vn": "hàng bán không chạy, hàng ế"
+            },
+            {
+              "full_en": "dull trade",
+              "full_vn": "việc buôn bán trì trệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đều đều, buồn tẻ, chán ngắt, tẻ ngắt, buồn nản",
+          "list_en_vn": [
+            {
+              "full_en": "a dull life",
+              "full_vn": "cuộc sống buồn tẻ"
+            },
+            {
+              "full_en": "a dull sermon",
+              "full_vn": "bài thuyết pháp chán ngắt"
+            },
+            {
+              "full_en": "to feel dull",
+              "full_vn": "cảm thấy buồn nản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tối tăm, âm u, u ám, ảm đạm",
+          "list_en_vn": [
+            {
+              "full_en": "dull weather",
+              "full_vn": "tiết trời u ám"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ngu đàn, làm đần dộn"
+        },
+        {
+          "m_full_vn": "làm cùn"
+        },
+        {
+          "m_full_vn": "làm mờ đi, làm mờ đục, làm xỉn"
+        },
+        {
+          "m_full_vn": "làm âm ỉ, làm đỡ nhức nhối, làm đỡ nhói (cơn đau)"
+        },
+        {
+          "m_full_vn": "làm buồn nản"
+        },
+        {
+          "m_full_vn": "làm tối tăm, làm u ám, làm ảm đạm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoá ngu đần, đần độn"
+        },
+        {
+          "m_full_vn": "cùn đi"
+        },
+        {
+          "m_full_vn": "mờ đi, mờ đục, xỉn đi"
+        },
+        {
+          "m_full_vn": "âm ỉ, đỡ nhức nhối, đỡ đau"
+        },
+        {
+          "m_full_vn": "tối sầm lại, thành u ám, thành ảm đạm"
+        }
+      ]
+    }
+  ]
+}

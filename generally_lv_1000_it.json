@@ -1,0 +1,42 @@
+{
+  "english": "generally",
+  "phat_am": "['dʒenərəli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bởi hầu hết mọi người; nói chung; thường thường",
+          "list_en_vn": [
+            {
+              "full_en": "he is generally popular",
+              "full_vn": "ông ta được lòng mọi người"
+            },
+            {
+              "full_en": "the plan was generally welcomed",
+              "full_vn": "kế hoạch được hầu hết mọi người hoan nghênh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng quát (không đề cập chi tiết)",
+          "list_en_vn": [
+            {
+              "full_en": "generally speaking , it's quite a fair settlement",
+              "full_vn": "nói chung, đó đúng là một sự dàn xếp công bằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông thường, theo như lệ thường",
+          "list_en_vn": [
+            {
+              "full_en": "I generally keep late hours",
+              "full_vn": "tôi thường ngủ muộn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

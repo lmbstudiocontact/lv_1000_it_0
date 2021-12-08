@@ -1,0 +1,54 @@
+{
+  "english": "anywhere",
+  "phat_am": "['eniweə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất kỳ chỗ nào, bất cứ nơi đâu",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot see it anywhere",
+              "full_vn": "tôi không thể thấy nó ở đâu cả"
+            },
+            {
+              "full_en": "put the box down anywhere",
+              "full_vn": "để cái hộp này ở đâu cũng được"
+            },
+            {
+              "full_en": "place it anywhere you like",
+              "full_vn": "anh thích để nó ở đâu thì để"
+            },
+            {
+              "full_en": "we can go anywhere you like",
+              "full_vn": "chúng tôi có thể đi bất cứ chỗ nào anh thích"
+            },
+            {
+              "full_en": "if you want to go anywhere else , let me know",
+              "full_vn": "anh muốn đi đâu nữa thì cho tôi biết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "một chỗ nào đó; một nơi nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't anywhere to stay",
+              "full_vn": "tôi chẳng có chỗ nào để ở lại"
+            },
+            {
+              "full_en": "do you know anywhere /where I can buy a second-hand typewriter ?",
+              "full_vn": "bạn có biết chỗ mua máy chữ cũ không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "careful",
+  "phat_am": "['keəful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( careful of / with / about something ) cẩn thận, thận trọng, biết giữ gìn, biết lưu ý",
+          "list_en_vn": [
+            {
+              "full_en": "Be careful of your health",
+              "full_vn": "Hãy giữ gìn sức khoẻ của anh"
+            },
+            {
+              "full_en": "Be careful not to drop her sun-glasses",
+              "full_vn": "Hãy cẩn thận đừng đánh rơi cặp kính râm của bà ấy"
+            },
+            {
+              "full_en": "Be careful with the glasses !",
+              "full_vn": "Hãy cẩn thận với những chiếc cốc! (coi chừng làm vỡ cốc!)"
+            },
+            {
+              "full_en": "Be careful of the dog , it sometimes bites people",
+              "full_vn": "Hãy chú ý con chó, đôi khi nó cắn người ta đấy"
+            },
+            {
+              "full_en": "Be careful about /of what you say to him",
+              "full_vn": "Hãy thận trọng về những gì anh nói với hắn"
+            },
+            {
+              "full_en": "He's very careful with his money",
+              "full_vn": "Anh ta rất cẩn thận về tiền nong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ lưỡng, chu đáo",
+          "list_en_vn": [
+            {
+              "full_en": "a careful piece of work",
+              "full_vn": "một công việc làm kỹ lưỡng"
+            },
+            {
+              "full_en": "a careful examination of the question",
+              "full_vn": "sự xem xét kỹ lưỡng vấn đề"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "contain",
+  "phat_am": "[kən'tein]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứa đựng, bao hàm, gồm có, bao gồm",
+          "list_en_vn": [
+            {
+              "full_en": "whisky contains a large percentage of alcohol",
+              "full_vn": "rượu uytky chứa một lượng cồn cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nén lại, dằn lại, kìm lại, kiềm chế",
+          "list_en_vn": [
+            {
+              "full_en": "to contain oneself",
+              "full_vn": "nén mình, dằn lòng"
+            },
+            {
+              "full_en": "to contain one's anger",
+              "full_vn": "nén giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chận lại, ngăn lại, cản lại, kìm lại",
+          "list_en_vn": [
+            {
+              "full_en": "to contain the enemy",
+              "full_vn": "kìm chân quân địch lại (để đánh chỗ khác)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) có thể chia hết cho (một số)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "english": "attentive",
+  "phat_am": "[ə'tentiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chăm chú"
+        },
+        {
+          "m_full_vn": "chú ý, lưu tâm"
+        },
+        {
+          "m_full_vn": "ân cần, chu đáo",
+          "list_en_vn": [
+            {
+              "full_en": "to be attentive to somebody",
+              "full_vn": "ân cần với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

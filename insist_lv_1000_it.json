@@ -1,0 +1,46 @@
+{
+  "english": "insist",
+  "phat_am": "[in'sist]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to insist on something ) khăng khăng đòi, cố nài",
+          "list_en_vn": [
+            {
+              "full_en": "'You really must go !' - 'All right , if you insist'",
+              "full_vn": "Anh thực sự phải đi thôi! - Được, nếu anh khăng khăng muốn vậy"
+            },
+            {
+              "full_en": "I insist on your taking /insist that you take immediate action to set this right",
+              "full_vn": "tôi nhấn mạnh là anh phải có hành động ngay để chấn chỉnh cái đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to insist on something / doing something ) yêu cầu hoặc đòi hỏi một vật cụ thể (không chấp nhận cái thay thế)",
+          "list_en_vn": [
+            {
+              "full_en": "I always insist on wholemeal bread",
+              "full_vn": "tôi luôn luôn chỉ muốn loại bánh mì làm bằng bột chưa rây"
+            },
+            {
+              "full_en": "she'll insist on getting up early and playing her radio loud",
+              "full_vn": "cô ta cứ nhất định dậy sớm và mở đài oang oang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát biểu hoặc tuyên bố cái gì mạnh mẽ nhất là khi người khác phản đối hoặc không tin; nhấn mạnh; khăng khăng",
+          "list_en_vn": [
+            {
+              "full_en": "she kept insisting on her innocence /insisting that she was innocent",
+              "full_vn": "bà ta vẫn cứ khăng khăng là mình vô tội"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

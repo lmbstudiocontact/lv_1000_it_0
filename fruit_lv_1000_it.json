@@ -1,0 +1,37 @@
+{
+  "english": "fruit",
+  "phat_am": "[fru:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả, trái cây"
+        },
+        {
+          "m_full_vn": "thành quả, kết quả"
+        },
+        {
+          "m_full_vn": "( số nhiều) thu hoạch, lợi tức"
+        },
+        {
+          "m_full_vn": "(kinh thánh) con cái",
+          "list_en_vn": [
+            {
+              "full_en": "fruit of the womb",
+              "full_vn": "con cái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra quả"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "flee",
+  "phat_am": "[fli:]",
+  "list_type": [
+    {
+      "type": "động từ fled",
+      "list_m": [
+        {
+          "m_full_vn": "chạy trốn, bỏ chạy; lẩn trốn"
+        },
+        {
+          "m_full_vn": "biến mất; qua đi, trôi qua",
+          "list_en_vn": [
+            {
+              "full_en": "the night had fled",
+              "full_vn": "đêm đã trôi qua"
+            },
+            {
+              "full_en": "time is fleeing away",
+              "full_vn": "thời gian thấm thoát trôi qua"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

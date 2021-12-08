@@ -1,0 +1,80 @@
+{
+  "english": "creep",
+  "phat_am": "[kri:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody the creeps",
+              "full_vn": "làm ai sởn gáy lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bò, sự trườn"
+        },
+        {
+          "m_full_vn": "lỗ hốc (trong hàng rào...)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) sự lở (đá...)"
+        },
+        {
+          "m_full_vn": "(vật lý) sự dão",
+          "list_en_vn": [
+            {
+              "full_en": "thermal creep",
+              "full_vn": "sự dão vì nhiệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ crept",
+      "list_m": [
+        {
+          "m_full_vn": "bò, trườn"
+        },
+        {
+          "m_full_vn": "đi rón rén, lén, lẻn ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to creep into the room",
+              "full_vn": "lẻn vào phòng"
+            },
+            {
+              "full_en": "old age creeps upon one unawares",
+              "full_vn": "tuổi già đén với người ta lúc nào không biết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bò; leo (cây leo)"
+        },
+        {
+          "m_full_vn": "có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc",
+          "list_en_vn": [
+            {
+              "full_en": "to make someone's flesh creep",
+              "full_vn": "làm cho ai sởn gai ốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) luồn cúi, luồn lọt",
+          "list_en_vn": [
+            {
+              "full_en": "to creep into someone's favour",
+              "full_vn": "luồn lọt để chiếm được lòng tin yêu của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

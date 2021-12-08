@@ -1,0 +1,384 @@
+{
+  "english": "control",
+  "phat_am": "[kən'troul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( control of / over somebody / something ) quyền năng hoặc quyền lực điều khiển, ra lệnh hoặc hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "children who lack parental control",
+              "full_vn": "những đứa trẻ thiếu sự chăm sóc của bố mẹ"
+            },
+            {
+              "full_en": "to have control over the whole district",
+              "full_vn": "có quyền hành khắp vùng"
+            },
+            {
+              "full_en": "he has no control over his emotions",
+              "full_vn": "ông ta không kiềm chế được cảm xúc"
+            },
+            {
+              "full_en": "in the latest elections , our party has got /gained control of the council",
+              "full_vn": "trong các vòng bầu cử gần đây nhất, đảng chúng ta đã nắm được quyền kiểm soát hội đồng"
+            },
+            {
+              "full_en": "she managed to keep control of her car on the ice",
+              "full_vn": "cô ta xoay xở giữ vững được tay lái trên băng"
+            },
+            {
+              "full_en": "a military government took control of the country",
+              "full_vn": "một chính quyền quân sự nắm quyền kiểm soát đất nước"
+            },
+            {
+              "full_en": "the city is in /under the control of enemy forces",
+              "full_vn": "thành phố nằm dưới quyền kiểm soát của lực lượng địch"
+            },
+            {
+              "full_en": "the pilot lost control of the plane",
+              "full_vn": "phi công không điều khiển được máy bay nữa"
+            },
+            {
+              "full_en": "he got so angry he lost control of himself",
+              "full_vn": "hắn tức giận đến nỗi không tự chủ được nữa"
+            },
+            {
+              "full_en": "due to circumstances beyond /outside our control , we cannot land here",
+              "full_vn": "do những tình huống ngoài tầm kiểm soát của chúng tôi, chúng tôi không hạ cánh xuống đây được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quản lý; sự hướng dẫn; sự hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "control of traffic ; traffic control",
+              "full_vn": "sự kiểm soát giao thông"
+            },
+            {
+              "full_en": "control of foreign exchange",
+              "full_vn": "sự kiểm soát ngoại hối"
+            },
+            {
+              "full_en": "arms control talks",
+              "full_vn": "những cuộc đàm phán về vấn đề kiểm soát vũ khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( control on something ) cách hạn chế hoặc điều chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "government controls on trade and industry",
+              "full_vn": "sự kiểm soát của chính phủ về thương nghiệp và công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu chuẩn so sánh để xác định kết quả của một thí nghiệm; đối chứng",
+          "list_en_vn": [
+            {
+              "full_en": "control experiment",
+              "full_vn": "thí nghiệm kiểm tra"
+            },
+            {
+              "full_en": "a control group",
+              "full_vn": "một nhóm đối chứng"
+            },
+            {
+              "full_en": "one group was treated with the new drug , and a second group was treated with the old one as a control",
+              "full_vn": "một nhóm được điều trị bằng loại thuốc mới, còn nhóm thứ hai thì được điều trị bằng loại thuốc cũ để làm đối chứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "các chuyển mạch, cần gạt... mà nhờ đó, một cỗ máy được vận hành hoặc điều chỉnh; bộ điều chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "the controls of an aircraft",
+              "full_vn": "bộ điều chỉnh của một chiếc máy bay"
+            },
+            {
+              "full_en": "the pilot is at the controls",
+              "full_vn": "phi công ngồi trước bộ điều chỉnh"
+            },
+            {
+              "full_en": "the volume control of a radio",
+              "full_vn": "núm điều chỉnh âm lượng của rađiô"
+            },
+            {
+              "full_en": "a studio with an array of electronic controls",
+              "full_vn": "stuđiô có một loạt bộ điều khiển điện tử"
+            },
+            {
+              "full_en": "a control panel , board , lever",
+              "full_vn": "bảng, cần điều khiển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi phát ra lệnh hoặc nơi tiến hành kiểm tra",
+          "list_en_vn": [
+            {
+              "full_en": "mission control ordered the spacecraft to return to earth",
+              "full_vn": "bộ phận chỉ huy chuyến bay ra lệnh cho con tàu vũ trụ trở về trái đất"
+            },
+            {
+              "full_en": "our papers are checked as we go through passport control at the airport",
+              "full_vn": "giấy tờ của chúng tôi được kiểm tra khi chúng tôi đi qua phòng kiểm tra hộ chiếu ở sân bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hồn (do bà đồng gọi lên)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be under the control of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "bị ai điều khiển chỉ huy, bị ai xỏ mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring /get something /be under control",
+              "list_im": [
+                {
+                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you must get your spending under control",
+                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
+                    },
+                    {
+                      "full_en": "the fire has been brought under control",
+                      "full_vn": "ngọn lửa đã bị chế ngự"
+                    },
+                    {
+                      "full_en": "don't worry , everything's under control",
+                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring /get something /be under control",
+              "list_im": [
+                {
+                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you must get your spending under control",
+                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
+                    },
+                    {
+                      "full_en": "the fire has been brought under control",
+                      "full_vn": "ngọn lửa đã bị chế ngự"
+                    },
+                    {
+                      "full_en": "don't worry , everything's under control",
+                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring /get something /be under control",
+              "list_im": [
+                {
+                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you must get your spending under control",
+                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
+                    },
+                    {
+                      "full_en": "the fire has been brought under control",
+                      "full_vn": "ngọn lửa đã bị chế ngự"
+                    },
+                    {
+                      "full_en": "don't worry , everything's under control",
+                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring /get something /be under control",
+              "list_im": [
+                {
+                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you must get your spending under control",
+                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
+                    },
+                    {
+                      "full_en": "the fire has been brought under control",
+                      "full_vn": "ngọn lửa đã bị chế ngự"
+                    },
+                    {
+                      "full_en": "don't worry , everything's under control",
+                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get out of control",
+              "list_im": [
+                {
+                  "im_full_vn": "không điều khiển được nữa, không theo sự điều khiển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children are out of control",
+                      "full_vn": "không quản lý được bọn trẻ này nữa"
+                    },
+                    {
+                      "full_en": "the situation is out of control",
+                      "full_vn": "tình hình không còn kiểm soát được nữa; tình hình hỗn loạn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get out of control",
+              "list_im": [
+                {
+                  "im_full_vn": "không điều khiển được nữa, không theo sự điều khiển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children are out of control",
+                      "full_vn": "không quản lý được bọn trẻ này nữa"
+                    },
+                    {
+                      "full_en": "the situation is out of control",
+                      "full_vn": "tình hình không còn kiểm soát được nữa; tình hình hỗn loạn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get out of control",
+              "list_im": [
+                {
+                  "im_full_vn": "không điều khiển được nữa, không theo sự điều khiển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the children are out of control",
+                      "full_vn": "không quản lý được bọn trẻ này nữa"
+                    },
+                    {
+                      "full_en": "the situation is out of control",
+                      "full_vn": "tình hình không còn kiểm soát được nữa; tình hình hỗn loạn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have complete control of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc được cái gì, làm chủ được cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in control of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ đạo, quản lý, cai quản cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who's in control of the project ?",
+                      "full_vn": "ai chỉ đạo dự án này?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in control of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ đạo, quản lý, cai quản cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who's in control of the project ?",
+                      "full_vn": "ai chỉ đạo dự án này?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "thought control",
+              "list_im": [
+                {
+                  "im_full_vn": "sự hạn chế tự do tư tưởng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có quyền hành hoặc quyền lực đối với ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a dictator who controlled the country for over 50 years",
+              "full_vn": "một nhà độc tài cai trị đất nước trong hơn 50 năm"
+            },
+            {
+              "full_en": "can't you control that child ?",
+              "full_vn": "anh không điều khiển được đứa bé ư?"
+            },
+            {
+              "full_en": "an aircraft which is hard to control at high speeds",
+              "full_vn": "một chiếc máy bay khó điều khiển ở tốc độ cao"
+            },
+            {
+              "full_en": "I was so furious I couldn't control myself , and I hit him",
+              "full_vn": "tôi giận dữ đến nỗi không tự chủ được, và tôi đã đánh nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều chỉnh; điều hoà",
+          "list_en_vn": [
+            {
+              "full_en": "to control traffic , immigration , supplies , prices",
+              "full_vn": "điều khiển giao thông, kiểm soát sự nhập cư, cung ứng, khống chế giá cả"
+            },
+            {
+              "full_en": "government efforts to control inflation",
+              "full_vn": "những nỗ lực của chính phủ để kiềm chế lạm phát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra, thử lại",
+          "list_en_vn": [
+            {
+              "full_en": "regular inspections to control product quality",
+              "full_vn": "những cuộc thanh tra đều đặn để kiểm tra chất lượng sản phẩm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "folk",
+  "phat_am": "[fouk]",
+  "list_type": [
+    {
+      "type": "danh từ (dùng với động từ ở số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "công chúng nói chung, người",
+          "list_en_vn": [
+            {
+              "full_en": "old folk (s) tend to be nostalgic",
+              "full_vn": "người già có khuynh hướng hoài cổ"
+            },
+            {
+              "full_en": "country folk",
+              "full_vn": "người nông thôn"
+            },
+            {
+              "full_en": "người thành thị",
+              "full_vn": "townsfolk"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(được dùng với mọi người khi nói chuyện thân mật)",
+          "list_en_vn": [
+            {
+              "full_en": "well , folks , what shall we have for breakfast ?",
+              "full_vn": "nào các cậu, ta sẽ ăn điểm tâm món gì đây?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) người thân thuộc",
+          "list_en_vn": [
+            {
+              "full_en": "one's folks",
+              "full_vn": "họ hàng thân thuộc"
+            },
+            {
+              "full_en": "the old folks at home",
+              "full_vn": "cha mẹ ông bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) dân tộc, dân gian",
+          "list_one_mean": [
+            {
+              "id_full_en": "idle folks lack no excuses",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) người lười không thiếu lý do để lười"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

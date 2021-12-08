@@ -1,0 +1,75 @@
+{
+  "english": "except",
+  "phat_am": "[ik'sept]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ ra, loại ra",
+          "list_en_vn": [
+            {
+              "full_en": "only children under five are excepted from this survey",
+              "full_vn": "chỉ có trẻ em dưới năm tuổi mới không đưa vào cuộc điều tra này"
+            },
+            {
+              "full_en": "we all had to take part in the training run , with nobody excepted",
+              "full_vn": "tất cả chúng tôi đều phải tham gia cuộc tập chạy, không trừ người nào"
+            },
+            {
+              "full_en": "the whole staff , not excepting the headmaster",
+              "full_vn": "toàn bộ công nhân viên, kể cả ông hiệu trưởng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản đối, chống lại",
+          "list_en_vn": [
+            {
+              "full_en": "to except against someone's statement",
+              "full_vn": "phản đối lại lời tuyên bố của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ, trừ ra, không kể",
+          "list_en_vn": [
+            {
+              "full_en": "the restaurant is open every day except Monday",
+              "full_vn": "nhà hàng ngày nào cũng mở cửa trừ thứ Hai"
+            },
+            {
+              "full_en": "everyone except me got an invitation",
+              "full_vn": "trừ tôi ra, ai cũng nhận được giấy mời"
+            },
+            {
+              "full_en": "I understand everything except why she killed him",
+              "full_vn": "tôi hiểu hết mọi chuyện, chỉ có điều không biết tại sao cô ta giết anh ấy"
+            },
+            {
+              "full_en": "I can answer all the questions except for the last",
+              "full_vn": "tôi trả lời được mọi câu hỏi trừ câu cuối cùng"
+            },
+            {
+              "full_en": "the meal was excellent except for the first course",
+              "full_vn": "bữa ăn thì tuyệt hảo trừ món đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ"
+    }
+  ]
+}

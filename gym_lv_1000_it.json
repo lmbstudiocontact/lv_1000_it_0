@@ -1,0 +1,41 @@
+{
+  "english": "gym",
+  "phat_am": "[dʒim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng tập thể dục",
+          "list_en_vn": [
+            {
+              "full_en": "exercises in the gym",
+              "full_vn": "luyện tập ở phòng tập thể dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "môn thể dục trong nhà trường",
+          "list_one_mean": [
+            {
+              "id_full_en": "gym-shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "giày thể dục (giày vải có đế cao su)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a gym mistress",
+              "list_im": [
+                {
+                  "im_full_vn": "cô giáo dạy môn thể dục"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

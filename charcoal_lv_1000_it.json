@@ -1,0 +1,34 @@
+{
+  "english": "charcoal",
+  "phat_am": "['t∫ɑ:koul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "than (củi)",
+          "list_en_vn": [
+            {
+              "full_en": "animal charcoal",
+              "full_vn": "than xương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chì than (để vẽ)"
+        },
+        {
+          "m_full_vn": "bức vẽ bằng chì than"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bôi than; viết bằng chì than, vẽ bằng than"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "increase",
+  "phat_am": "['inkri:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tăng, sự tăng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "an increase in population",
+              "full_vn": "sự tăng số dân"
+            },
+            {
+              "full_en": "on the increase",
+              "full_vn": "đang tăng lên, ngày càng tăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng tăng thêm"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tăng lên, tăng thêm, lớn thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to increase speed",
+              "full_vn": "tăng tốc độ"
+            },
+            {
+              "full_en": "the population increases",
+              "full_vn": "số dân tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

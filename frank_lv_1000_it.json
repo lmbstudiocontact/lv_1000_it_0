@@ -1,0 +1,36 @@
+{
+  "english": "frank",
+  "phat_am": "[fræηk]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( frank with somebody about something ) ngay thật; thẳng thắn; bộc trực",
+          "list_en_vn": [
+            {
+              "full_en": "to be quite frank with someone",
+              "full_vn": "ngay thật đối với ai; đối xử thẳng thắn với ai"
+            },
+            {
+              "full_en": "a frank reply /discussion /exchange of views",
+              "full_vn": "câu trả lời/cuộc thảo luận/cuộc trao đổi quan điểm thẳng thắn"
+            },
+            {
+              "full_en": "to be (perfectly ) frank with you , I think your son has little chance of passing the exam",
+              "full_vn": "nói thật với anh, tôi nghĩ con anh ít có khả năng đỗ kỳ thi này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng dấu hay dán tem (vào lá thư...) cho biết lá thư... đã được thanh toán bưu phí hoặc được miễn bưu phí"
+        }
+      ]
+    }
+  ]
+}

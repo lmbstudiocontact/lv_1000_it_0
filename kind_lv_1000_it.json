@@ -1,0 +1,383 @@
+{
+  "english": "kind",
+  "phat_am": "[kaind]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm có đặc tính giống nhau; loại; hạng; thứ",
+          "list_en_vn": [
+            {
+              "full_en": "fruit of various kinds /various kinds of fruit",
+              "full_vn": "trái cây các loại/các loại trái cây"
+            },
+            {
+              "full_en": "do you want all the same kind , or a mixture ?",
+              "full_vn": "bà muốn tất cả cùng một loại hay lẫn lộn?"
+            },
+            {
+              "full_en": "Don't trust him : I know his kind",
+              "full_vn": "Đừng tin hắn : Tôi biết cái loại người hắn rồi"
+            },
+            {
+              "full_en": "she's not the kind (of woman /person ) to lie",
+              "full_vn": "cô ta không thuộc loại (đàn bà/người) nói dối"
+            },
+            {
+              "full_en": "people of all kinds",
+              "full_vn": "người đủ mọi hạng"
+            },
+            {
+              "full_en": "something of the kind",
+              "full_vn": "cái gần giống như vậy, cái đại loại như vậy"
+            },
+            {
+              "full_en": "they differ in size but not in kind",
+              "full_vn": "chúng khác nhau về hình dáng, nhưng không khác nhau về chủng loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản tính",
+          "list_one_mean": [
+            {
+              "id_full_en": "in kind",
+              "list_im": [
+                {
+                  "im_full_vn": "(về sự trả công) bằng hàng hoá hay sản phẩm tự nhiên (chứ không phải bằng tiền), bằng hiện vật; bằng cái gì cùng loại, bằng cái tương tự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when he had no money , the farmer sometimes used to pay me in kind",
+                      "full_vn": "khi không còn tiền, ông chủ trại có lúc trả công tôi bằng hiện vật"
+                    },
+                    {
+                      "full_en": "to repay insults in kind",
+                      "full_vn": "đáp lại sự lăng mạ bằng việc làm tương tự (lăng mạ trở lại); ăn miếng trả miếng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in kind",
+              "list_im": [
+                {
+                  "im_full_vn": "(về sự trả công) bằng hàng hoá hay sản phẩm tự nhiên (chứ không phải bằng tiền), bằng hiện vật; bằng cái gì cùng loại, bằng cái tương tự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when he had no money , the farmer sometimes used to pay me in kind",
+                      "full_vn": "khi không còn tiền, ông chủ trại có lúc trả công tôi bằng hiện vật"
+                    },
+                    {
+                      "full_en": "to repay insults in kind",
+                      "full_vn": "đáp lại sự lăng mạ bằng việc làm tương tự (lăng mạ trở lại); ăn miếng trả miếng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in kind",
+              "list_im": [
+                {
+                  "im_full_vn": "(về sự trả công) bằng hàng hoá hay sản phẩm tự nhiên (chứ không phải bằng tiền), bằng hiện vật; bằng cái gì cùng loại, bằng cái tương tự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when he had no money , the farmer sometimes used to pay me in kind",
+                      "full_vn": "khi không còn tiền, ông chủ trại có lúc trả công tôi bằng hiện vật"
+                    },
+                    {
+                      "full_en": "to repay insults in kind",
+                      "full_vn": "đáp lại sự lăng mạ bằng việc làm tương tự (lăng mạ trở lại); ăn miếng trả miếng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "hồ như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I had a kind of feeling this might happen",
+                      "full_vn": "tôi hồ như cảm thấy rằng việc này có thể xảy ra"
+                    },
+                    {
+                      "full_en": "he's a kind of unofficial adviser , but I'm not sure exactly what he does",
+                      "full_vn": "ông ta hầu như là một cố vấn không chính thức, nhưng tôi chẳng biết đích xác ông ấy làm gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "hồ như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I had a kind of feeling this might happen",
+                      "full_vn": "tôi hồ như cảm thấy rằng việc này có thể xảy ra"
+                    },
+                    {
+                      "full_en": "he's a kind of unofficial adviser , but I'm not sure exactly what he does",
+                      "full_vn": "ông ta hầu như là một cố vấn không chính thức, nhưng tôi chẳng biết đích xác ông ấy làm gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "hồ như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I had a kind of feeling this might happen",
+                      "full_vn": "tôi hồ như cảm thấy rằng việc này có thể xảy ra"
+                    },
+                    {
+                      "full_en": "he's a kind of unofficial adviser , but I'm not sure exactly what he does",
+                      "full_vn": "ông ta hầu như là một cố vấn không chính thức, nhưng tôi chẳng biết đích xác ông ấy làm gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi chút, phần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not sure why , but I feel kind of sorry for him",
+                      "full_vn": "tôi không dám chắc tại sao, nhưng cũng phần nào tiếccho anh ta"
+                    },
+                    {
+                      "full_en": "Is she interested ? - Well , kind of",
+                      "full_vn": "cô ấy quan tâm chứ? -vâng, đôi chút"
+                    },
+                    {
+                      "full_en": "I kind of expected it",
+                      "full_vn": "tôi cũng mong chờ cái đó phần nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi chút, phần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not sure why , but I feel kind of sorry for him",
+                      "full_vn": "tôi không dám chắc tại sao, nhưng cũng phần nào tiếccho anh ta"
+                    },
+                    {
+                      "full_en": "Is she interested ? - Well , kind of",
+                      "full_vn": "cô ấy quan tâm chứ? -vâng, đôi chút"
+                    },
+                    {
+                      "full_en": "I kind of expected it",
+                      "full_vn": "tôi cũng mong chờ cái đó phần nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi chút, phần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not sure why , but I feel kind of sorry for him",
+                      "full_vn": "tôi không dám chắc tại sao, nhưng cũng phần nào tiếccho anh ta"
+                    },
+                    {
+                      "full_en": "Is she interested ? - Well , kind of",
+                      "full_vn": "cô ấy quan tâm chứ? -vâng, đôi chút"
+                    },
+                    {
+                      "full_en": "I kind of expected it",
+                      "full_vn": "tôi cũng mong chờ cái đó phần nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "kind of",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi chút, phần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not sure why , but I feel kind of sorry for him",
+                      "full_vn": "tôi không dám chắc tại sao, nhưng cũng phần nào tiếccho anh ta"
+                    },
+                    {
+                      "full_en": "Is she interested ? - Well , kind of",
+                      "full_vn": "cô ấy quan tâm chứ? -vâng, đôi chút"
+                    },
+                    {
+                      "full_en": "I kind of expected it",
+                      "full_vn": "tôi cũng mong chờ cái đó phần nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing of the kind /sort",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn không như vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "people had told me she was very pleasant but she's nothing of the kind",
+                      "full_vn": "người ta bảo tôi rằng cô ấy dễ thương lắm, nhưng hoàn toàn không như vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing of the kind /sort",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn không như vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "people had told me she was very pleasant but she's nothing of the kind",
+                      "full_vn": "người ta bảo tôi rằng cô ấy dễ thương lắm, nhưng hoàn toàn không như vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "of a kind",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một loại; cái tạm gọi là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they look alike , talk alike , even think alike - they're two of a kind / they're very much of a kind",
+                      "full_vn": "họ trông giống nhau, nói giống nhau, thậm chí suy nghĩ giốngnhau - họ là hai người cùng một loại (cùng một giuộc)"
+                    },
+                    {
+                      "full_en": "the town offers entertainments of a kind , but nothing like what you'll find in the city",
+                      "full_vn": "thành phố mời dự cái tạm gọi là biểu diễn văn nghệ, nhưng chắngco gì giống thứ mà anh thấy trong thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "of a kind",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một loại; cái tạm gọi là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they look alike , talk alike , even think alike - they're two of a kind / they're very much of a kind",
+                      "full_vn": "họ trông giống nhau, nói giống nhau, thậm chí suy nghĩ giốngnhau - họ là hai người cùng một loại (cùng một giuộc)"
+                    },
+                    {
+                      "full_en": "the town offers entertainments of a kind , but nothing like what you'll find in the city",
+                      "full_vn": "thành phố mời dự cái tạm gọi là biểu diễn văn nghệ, nhưng chắngco gì giống thứ mà anh thấy trong thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "of a kind",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một loại; cái tạm gọi là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they look alike , talk alike , even think alike - they're two of a kind / they're very much of a kind",
+                      "full_vn": "họ trông giống nhau, nói giống nhau, thậm chí suy nghĩ giốngnhau - họ là hai người cùng một loại (cùng một giuộc)"
+                    },
+                    {
+                      "full_en": "the town offers entertainments of a kind , but nothing like what you'll find in the city",
+                      "full_vn": "thành phố mời dự cái tạm gọi là biểu diễn văn nghệ, nhưng chắngco gì giống thứ mà anh thấy trong thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "something of the kind",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gì đại loại như vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Did you say they're moving ? I heard something of the kind myself",
+                      "full_vn": "Anh nói là họ đang dọn đi à? Chính tôi đã nghe đại loại như vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "something of the kind",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gì đại loại như vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Did you say they're moving ? I heard something of the kind myself",
+                      "full_vn": "Anh nói là họ đang dọn đi à? Chính tôi đã nghe đại loại như vậy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to act after one's kind",
+              "full_vn": "hành động theo bản tính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tử tế, ân cần, có lòng tốt",
+          "list_en_vn": [
+            {
+              "full_en": "a kind man /gesture /face /thought",
+              "full_vn": "một người/cử chỉ/bộ mặt/ý nghĩ tốt lành"
+            },
+            {
+              "full_en": "she always has a kind word for everyone",
+              "full_vn": "cô ta luôn nói năng tử tế với mọi người"
+            },
+            {
+              "full_en": "would you be kind enough to /be so kind as to help me ?",
+              "full_vn": "anh vui lòng giúp tôi nhé? (xin anh làm ơn/vui lòng giúp tôi)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

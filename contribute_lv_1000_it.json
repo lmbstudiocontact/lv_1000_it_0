@@ -1,0 +1,28 @@
+{
+  "english": "contribute",
+  "phat_am": "[kən'tribju:t]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng góp, góp phần",
+          "list_en_vn": [
+            {
+              "full_en": "to contribute an article to a magazine",
+              "full_vn": "đóng góp một bài cho một tạp chí, viết bài cho một tạp chí"
+            },
+            {
+              "full_en": "to contribute to a cause",
+              "full_vn": "góp phần vào một sự nghiệp"
+            },
+            {
+              "full_en": "good health contributed to his success",
+              "full_vn": "sức khoẻ tốt đã giúp anh ta thành công"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

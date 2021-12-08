@@ -1,0 +1,52 @@
+{
+  "english": "car",
+  "phat_am": "[kɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe ô tô; xe",
+          "list_en_vn": [
+            {
+              "full_en": "to go by car",
+              "full_vn": "đi bằng ô tô"
+            },
+            {
+              "full_en": "armoured car",
+              "full_vn": "(quân sự) xe bọc thép"
+            },
+            {
+              "full_en": "amphibious car",
+              "full_vn": "(quân sự) xe lội nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) toa (xe lửa, xe điện)",
+          "list_en_vn": [
+            {
+              "full_en": "goods car",
+              "full_vn": "toa chở hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giỏ khí cầu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) buồng thang máy"
+        },
+        {
+          "m_full_vn": "(thơ ca) xe, xa",
+          "list_en_vn": [
+            {
+              "full_en": "car of the sun",
+              "full_vn": "xe mặt trời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

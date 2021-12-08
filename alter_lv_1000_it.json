@@ -1,0 +1,45 @@
+{
+  "english": "alter",
+  "phat_am": "['ɔ:ltə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay đổi, biến đổi, đổi",
+          "list_en_vn": [
+            {
+              "full_en": "to alter for the better",
+              "full_vn": "đổi tính, đổi nết trở nên tốt hơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay đổi; sửa đổi, sửa lại",
+          "list_en_vn": [
+            {
+              "full_en": "to alter one's way of living",
+              "full_vn": "thay đổi lối sống"
+            },
+            {
+              "full_en": "to alter one's mind",
+              "full_vn": "thay đổi ý kiến, thay đổi ý định"
+            },
+            {
+              "full_en": "to have a shirt altered",
+              "full_vn": "đem sửa một cái áo sơ mi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Mỹ, Uc) thiến, hoạn (súc vật)"
+        }
+      ]
+    }
+  ]
+}

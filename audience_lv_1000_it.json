@@ -1,0 +1,45 @@
+{
+  "english": "audience",
+  "phat_am": "['ɔ:djəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm người tụ hội lại với nhau để nghe hoặc xem ai/cái gì; khán giả; thính giả; cử toạ",
+          "list_en_vn": [
+            {
+              "full_en": "the audience was /were enthusiastic on the opening night of the play",
+              "full_vn": "khán giả hân hoan đón tiếp buổi tối mở màn diễn vở kịch"
+            },
+            {
+              "full_en": "an audience of millions watched the royal wedding on TV",
+              "full_vn": "một cử toạ hàng triệu người xem lễ cưới hoàng gia trên ti vi"
+            },
+            {
+              "full_en": "his books reached an even wider audience when it was filmed for television",
+              "full_vn": "quyển sách của ông ta càng có thêm nhiều người đọc khi quay phim để đưa lên truyền hình"
+            },
+            {
+              "full_en": "she has addressed audiences all over the country",
+              "full_vn": "bà ta đã diễn thuyết trước các thính giả khắp cả nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yết kiến; sự tiếp kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to request an audience with the Queen",
+              "full_vn": "xin yết kiến Nữ hoàng"
+            },
+            {
+              "full_en": "to grant a private audience to a foreign ambassador",
+              "full_vn": "dành một buổi tiếp kiến riêng cho một đại sứ nước ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

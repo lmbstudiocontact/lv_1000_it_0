@@ -1,0 +1,24 @@
+{
+  "english": "disappear",
+  "phat_am": "[,disə'piə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biến đi; biến mất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do a disappearing act",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất khi có việc cần làm; trốn việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

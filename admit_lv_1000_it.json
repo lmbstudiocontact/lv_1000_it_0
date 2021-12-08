@@ -1,0 +1,93 @@
+{
+  "english": "admit",
+  "phat_am": "[əd'mit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to admit somebody / something into / to something ) nhận vào, cho vào",
+          "list_en_vn": [
+            {
+              "full_en": "that man is not to be admitted",
+              "full_vn": "người ấy không được nhận vào"
+            },
+            {
+              "full_en": "the small window admitted very little light",
+              "full_vn": "ô cửa sổ nhỏ nhận được rất ít ánh sáng"
+            },
+            {
+              "full_en": "the school admits sixty new boys and girls every year",
+              "full_vn": "hàng năm trường nhận 60 nam nữ học sinh mới"
+            },
+            {
+              "full_en": "he was admitted to hospital with minor burns",
+              "full_vn": "anh ấy được nhập viện vì bị những vết bỏng nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa được, nhận được, có đủ chỗ (cho ai /cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "this hall can admit 200 people",
+              "full_vn": "phòng này có thể chứa 200 người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to admit to something / doing something ) nhận, thừa nhận; thú nhận",
+          "list_en_vn": [
+            {
+              "full_en": "George would never admit to being wrong",
+              "full_vn": "George sẽ không bao giờ nhận là mình sai cả"
+            },
+            {
+              "full_en": "the prisoner had admitted his guilt",
+              "full_vn": "tù nhân đã thú nhận tội của hắn"
+            },
+            {
+              "full_en": "I admit my mistake /that I was wrong",
+              "full_vn": "tôi thừa nhận sai lầm của tôi/rằng tôi sai"
+            },
+            {
+              "full_en": "he admitted having stolen the car",
+              "full_vn": "hắn thú nhận đã ăn trộm chiếc xe"
+            },
+            {
+              "full_en": "it's now generally admitted to have been a mistake",
+              "full_vn": "chuyện đó ngày nay đã được mọi người thừa nhận là một sai lầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to admit of something ) thừa nhận khả năng của cái gì; nhường chỗ cho cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be admitted to somebody's presence",
+              "list_im": [
+                {
+                  "im_full_vn": "được phép vào gặp ai đó (nhân vật quan trọng) đang có mặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his conduct admits of no excuse",
+              "full_vn": "cách xử sự của hắn thì không gì có thể bào chữa được"
+            },
+            {
+              "full_en": "the plan does not admit of improvement",
+              "full_vn": "bản kế hoạch không thể cải tiến được"
+            },
+            {
+              "full_en": "this word admits of no other meaning",
+              "full_vn": "từ này không có nghĩa nào khác"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

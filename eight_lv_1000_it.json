@@ -1,0 +1,44 @@
+{
+  "english": "eight",
+  "phat_am": "[eit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tám",
+          "list_en_vn": [
+            {
+              "full_en": "to be eight",
+              "full_vn": "lên tám (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số tám"
+        },
+        {
+          "m_full_vn": "hình con số tám"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đội tám người (bơi chèo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have one over the eight",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) khá say"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

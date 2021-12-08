@@ -1,0 +1,78 @@
+{
+  "english": "humble",
+  "phat_am": "['hʌmbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiêm tốn, nhún nhường",
+          "list_en_vn": [
+            {
+              "full_en": "a humble attitude",
+              "full_vn": "thái độ khiêm tốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khúm núm",
+          "list_en_vn": [
+            {
+              "full_en": "to be very humble towards one's superiors",
+              "full_vn": "có thái độ quá khúm núm đối với cấp trên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp kém, hèn mọn (cấp bậc, địa vị xã hôi, thành phần)",
+          "list_en_vn": [
+            {
+              "full_en": "humble position",
+              "full_vn": "địa vị thấp kém"
+            },
+            {
+              "full_en": "to be of humble birth",
+              "full_vn": "xuất thân từ tầng lớp dưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xoàng xĩnh, tầm thường; nhỏ bé (đồ vật...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to eat humble pie",
+              "list_im": [
+                {
+                  "im_full_vn": "phải xin lỗi, phải nhận lỗi; chịu nhục"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a humble house",
+              "full_vn": "căn nhà xoàng, căn nhà nhỏ bé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nhục, hạ nhục"
+        },
+        {
+          "m_full_vn": "hạ thấp",
+          "list_en_vn": [
+            {
+              "full_en": "to humble oneself",
+              "full_vn": "tự hạ mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

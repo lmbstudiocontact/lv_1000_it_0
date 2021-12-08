@@ -1,0 +1,35 @@
+{
+  "english": "electricity",
+  "phat_am": "[i,lek'trisiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điện, điện lực",
+          "list_en_vn": [
+            {
+              "full_en": "static electricity",
+              "full_vn": "tĩnh điện"
+            },
+            {
+              "full_en": "magnetic electricity",
+              "full_vn": "điện từ"
+            },
+            {
+              "full_en": "positive electricity",
+              "full_vn": "điện dương"
+            },
+            {
+              "full_en": "negative electricity",
+              "full_vn": "điện âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điện học"
+        }
+      ]
+    }
+  ]
+}

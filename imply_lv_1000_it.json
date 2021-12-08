@@ -1,0 +1,45 @@
+{
+  "english": "imply",
+  "phat_am": "[im'plai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gợi ý cái gì một cách gián tiếp chứ không nói thẳng ra; nói bóng gió; hàm ý; ngụ ý",
+          "list_en_vn": [
+            {
+              "full_en": "silence implies consent",
+              "full_vn": "sự im lặng ngụ ý bằng lòng"
+            },
+            {
+              "full_en": "implied criticism",
+              "full_vn": "sự chỉ trích bóng gió"
+            },
+            {
+              "full_en": "his remark implies that you're wrong",
+              "full_vn": "lời nhận xét của nó ngụ ý rằng anh sai"
+            },
+            {
+              "full_en": "do you imply that I am not telling the truth ?",
+              "full_vn": "ý anh muốn nói rằng tôi không kể sự thực phải không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gợi ý cái gì như hiệu quả lô gích; đưa đến",
+          "list_en_vn": [
+            {
+              "full_en": "freedom does not necessarily imply responsibility",
+              "full_vn": "tự do không nhất thiết bao hàm trách nhiệm"
+            },
+            {
+              "full_en": "the fact that she was here implies a degree of interest",
+              "full_vn": "việc cô ta có mặt ở đây hàm ý một mức độ quan tâm nào đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

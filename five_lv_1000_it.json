@@ -1,0 +1,46 @@
+{
+  "english": "five",
+  "phat_am": "[faiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "năm",
+          "list_en_vn": [
+            {
+              "full_en": "to be five",
+              "full_vn": "lên năm (tuổi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số năm"
+        },
+        {
+          "m_full_vn": "bộ năm"
+        },
+        {
+          "m_full_vn": "con năm (quân bài, con súc sắc)"
+        },
+        {
+          "m_full_vn": "đồng năm bảng Anh"
+        },
+        {
+          "m_full_vn": "( số nhiều) giày số 5; găng tay số 5"
+        },
+        {
+          "m_full_vn": "đội bóng rổ ( 5 người)"
+        },
+        {
+          "m_full_vn": "( số nhiều) cổ phần lãi năm phần trăm"
+        }
+      ]
+    }
+  ]
+}

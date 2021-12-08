@@ -1,0 +1,113 @@
+{
+  "english": "appear",
+  "phat_am": "[ə'piə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất hiện, hiện ra, ló ra",
+          "list_en_vn": [
+            {
+              "full_en": "a ship appeared on the horizon",
+              "full_vn": "một con tàu xuất hiện ở chân trời"
+            },
+            {
+              "full_en": "a light appeared at the end of the tunnel",
+              "full_vn": "anh sáng loé lên ở cuối đường hầm"
+            },
+            {
+              "full_en": "a rash has appeared on his body",
+              "full_vn": "chứng phát ban đã xuất hiện trên người cậu ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến",
+          "list_en_vn": [
+            {
+              "full_en": "he promised to be here at 4 o'clock but didn't appear until six",
+              "full_vn": "anh ấy hứa có mặt ở đây lúc bốn giờ, nhưng mãi đến sáu giờ mới thấy đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình diện; ra mắt",
+          "list_en_vn": [
+            {
+              "full_en": "I've to appear in court on a charge of drunken driving",
+              "full_vn": "tôi phải ra toà vì bị cáo buộc là lái xe trong lúc say rượu"
+            },
+            {
+              "full_en": "to appear on the stage",
+              "full_vn": "ra sân khấu (diễn viên)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động với tư cách một luật sư ở toà án",
+          "list_en_vn": [
+            {
+              "full_en": "to appear for the defendant /prosecution",
+              "full_vn": "ra toà cãi cho bên bị/bên nguyên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được xuất bản (sách)",
+          "list_en_vn": [
+            {
+              "full_en": "the book will appear in a week",
+              "full_vn": "một tuần nữa cuốn sách sẽ được xuất bản"
+            },
+            {
+              "full_en": "the news appeared next day on the front page",
+              "full_vn": "tin tức về việc này được in trên trang nhất ngày hôm sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "té ra, hoá ra, xem ra",
+          "list_en_vn": [
+            {
+              "full_en": "the streets appear deserted",
+              "full_vn": "phố xá trông vắng tanh"
+            },
+            {
+              "full_en": "she appeared very confident",
+              "full_vn": "cô ấy có vẻ rất tự tin"
+            },
+            {
+              "full_en": "Are they reliable ? - It appears not",
+              "full_vn": "Họ có đáng tin cậy hay không? - Hình như không"
+            },
+            {
+              "full_en": "don't make him appear a fool",
+              "full_vn": "đừng để anh ta biến thành thằng ngốc"
+            },
+            {
+              "full_en": "she appears to have many friends",
+              "full_vn": "hoá ra cô ấy có nhiều bạn"
+            },
+            {
+              "full_en": "There appears to have /It appears that there has been a mistake",
+              "full_vn": "Hình như/té ra đã có sự nhầm lẫn"
+            },
+            {
+              "full_en": "You appear to have made /It appears that you have made a mistake",
+              "full_vn": "Xem ra anh đã nhầm"
+            },
+            {
+              "full_en": "Has he been found guilty ? - It appears so /not",
+              "full_vn": "Có đúng là anh ta đã bị phát hiện là phạm tội hay không? - Hình như đúng/không"
+            },
+            {
+              "full_en": "he appears to have resigned",
+              "full_vn": "có lẽ/hình như ông ấy đã từ chức"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "examine",
+  "phat_am": "[ig'zæmin]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to examine something / somebody for something ) khảo sát; nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "To examine an old manuscript",
+              "full_vn": "Nghiên cứu một bản thảo cổ"
+            },
+            {
+              "full_en": "The investigators examined the window frame for fingerprints",
+              "full_vn": "Các điều tra viên xem xét khung cửa sổ để tìm dấu tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to examine somebody in / on something ) kiểm tra khả năng hoặc kiến thức của ai bằng những câu hỏi viết hoặc vấn đáp; sát hạch",
+          "list_en_vn": [
+            {
+              "full_en": "To examine students in English grammar /on their knowledge of English grammar",
+              "full_vn": "Kiểm tra sinh viên về môn ngữ pháp tiếng Anh/kiến thức văn phạm tiếng Anh của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra (một bệnh nhân hoặc một bộ phận trên cơ thể) để phát hiện bệnh tật; khám",
+          "list_en_vn": [
+            {
+              "full_en": "To have one's teeth examined for decay",
+              "full_vn": "Đi khám để chữa răng sâu"
+            },
+            {
+              "full_en": "Today , the doctor will examine 10 outpatients",
+              "full_vn": "Hôm nay, bác sĩ sẽ khám cho 10 bệnh nhân ngoại trú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) tra hỏi; thẩm vấn",
+          "list_one_mean": [
+            {
+              "id_full_en": "need one's head examined",
+              "list_im": [
+                {
+                  "im_full_vn": "xem head"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

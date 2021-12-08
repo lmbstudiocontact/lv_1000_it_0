@@ -1,0 +1,92 @@
+{
+  "english": "arrange",
+  "phat_am": "[ə'reindʒ]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp xếp, sắp đặt, sửa soạn",
+          "list_en_vn": [
+            {
+              "full_en": "arrange in alphabetical order",
+              "full_vn": "sắp xếp theo thứ tự abc"
+            },
+            {
+              "full_en": "to arrange a room",
+              "full_vn": "sửa soạn căn phòng"
+            },
+            {
+              "full_en": "to arrange one's hair",
+              "full_vn": "chải (vuốt) tóc cho gọn gàng tề chỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu xếp; chuẩn bị",
+          "list_en_vn": [
+            {
+              "full_en": "to arrange a meeting",
+              "full_vn": "thu xếp cuộc gặp gỡ"
+            },
+            {
+              "full_en": "to arrange a marriage",
+              "full_vn": "thu xếp việc cưới xin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dàn xếp, hoà giải (một cuộc cãi nhau...)"
+        },
+        {
+          "m_full_vn": "cải biên, soạn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to arrange a piece of music",
+              "full_vn": "cải biên một bản nhạc"
+            },
+            {
+              "full_en": "to arrange a play for broadcasting",
+              "full_vn": "soạn lại một vở kịch để phát thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) chỉnh hợp"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) lắp ráp"
+        },
+        {
+          "m_full_vn": "(quân sự) sắp xếp thành hàng ngũ chỉnh tề"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu xếp; chuẩn bị",
+          "list_en_vn": [
+            {
+              "full_en": "to arrange to come early",
+              "full_vn": "thu xếp để đến sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dàn xếp, đồng ý, thoả thuận",
+          "list_en_vn": [
+            {
+              "full_en": "to arrange with somebody about something",
+              "full_vn": "dàn xếp với ai vấn đề gì; đồng ý với ai cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) đứng thành hàng ngũ chỉnh tề"
+        }
+      ]
+    }
+  ]
+}

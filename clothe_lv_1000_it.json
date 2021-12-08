@@ -1,0 +1,29 @@
+{
+  "english": "clothe",
+  "phat_am": "[klouð]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, clothed , (từ cổ,nghĩa cổ) clad",
+      "list_m": [
+        {
+          "m_full_vn": "mặc quần áo cho",
+          "list_en_vn": [
+            {
+              "full_en": "to clothe a child",
+              "full_vn": "mặc quần áo cho em bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phủ, che phủ",
+          "list_en_vn": [
+            {
+              "full_en": "the trees were clothed in silver frost",
+              "full_vn": "cây cối bị phủ sương giá bạc trắng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

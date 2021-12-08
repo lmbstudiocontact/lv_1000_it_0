@@ -1,0 +1,67 @@
+{
+  "english": "attack",
+  "phat_am": "[ə'tæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tấn công, sự công kích",
+          "list_en_vn": [
+            {
+              "full_en": "to make an attack on enemy positions",
+              "full_vn": "tấn công các vị trí địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn (bệnh)",
+          "list_en_vn": [
+            {
+              "full_en": "an attack of fever",
+              "full_vn": "cơn sốt"
+            },
+            {
+              "full_en": "a heart attack",
+              "full_vn": "cơn đau tim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công, công kích"
+        },
+        {
+          "m_full_vn": "bắt đầu, bắt tay vào, lao vào (công việc)",
+          "list_en_vn": [
+            {
+              "full_en": "to attack a task",
+              "full_vn": "bắt tay vào việc, lao vào việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn mòn ( axit)",
+          "list_en_vn": [
+            {
+              "full_en": "strong acids attack metals",
+              "full_vn": "axit mạnh ăn mòn kim loại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công, bắt đầu chiến sự"
+        }
+      ]
+    }
+  ]
+}

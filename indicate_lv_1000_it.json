@@ -1,0 +1,47 @@
+{
+  "english": "indicate",
+  "phat_am": "['indikeit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ, cho biết, ra dấu",
+          "list_en_vn": [
+            {
+              "full_en": "the signpost indicated the right road for us to follow",
+              "full_vn": "tấm biển chỉ đường đã chỉ cho chúng tôi con đường đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ ra, ra ý, ngụ ý, biểu lộ, biểu thị",
+          "list_en_vn": [
+            {
+              "full_en": "his refusal indicated a warning",
+              "full_vn": "sự từ chối của ông ta ngụ ý cảnh cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình bày sơ qua, nói ngắn gọn",
+          "list_en_vn": [
+            {
+              "full_en": "in his speech , he indicated that ...",
+              "full_vn": "trong bài nói, ông ta trình bày sơ qua là..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) cần phải, đòi hỏi phải",
+          "list_en_vn": [
+            {
+              "full_en": "some illnesses indicate radical treatment",
+              "full_vn": "một vài thứ bệnh đòi hỏi phải trị tận gốc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

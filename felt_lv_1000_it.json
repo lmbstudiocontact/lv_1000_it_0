@@ -1,0 +1,45 @@
+{
+  "english": "felt",
+  "phat_am": "[felt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nỉ, phớt"
+        },
+        {
+          "m_full_vn": "( định ngữ) bằng nỉ, bằng dạ, bằng phớt",
+          "list_en_vn": [
+            {
+              "full_en": "felt hat",
+              "full_vn": "mũ phớt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết lại thành nỉ; kết lại với nhau"
+        },
+        {
+          "m_full_vn": "bọc bằng nỉ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết lại, bết xuống"
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của feel"
+    }
+  ]
+}

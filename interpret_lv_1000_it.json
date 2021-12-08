@@ -1,0 +1,46 @@
+{
+  "english": "interpret",
+  "phat_am": "[in'tə:prit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải thích, làm sáng tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to interpret the hidden meaning of a prophecy",
+              "full_vn": "giải thích nghĩa bí ẩn của một lời tiên tri"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu (theo một cách nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "to interpret an answer as an agreement",
+              "full_vn": "hiểu một câu trả lời là đồng ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình diễn ra được, diễn xuất ra được; thể hiện"
+        },
+        {
+          "m_full_vn": "dịch"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm phiên dịch"
+        },
+        {
+          "m_full_vn": "giải thích, đưa ra lời giải thích"
+        }
+      ]
+    }
+  ]
+}

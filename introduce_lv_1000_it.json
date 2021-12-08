@@ -1,0 +1,35 @@
+{
+  "english": "introduce",
+  "phat_am": "[,intrə'dju:s]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới thiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to introduce someone to someone",
+              "full_vn": "giới thiệu ai với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa vào (phong tục, cây lạ...), đưa (đạo luật dự thảo) ra nghị viện"
+        },
+        {
+          "m_full_vn": "bước đầu làm quen cho, khai tâm cho, vỡ lòng cho"
+        },
+        {
+          "m_full_vn": "mở đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to introduce a lecture with an anecdote",
+              "full_vn": "mở đầu cuộc nói chuyện bằng một mẩu giai thoại"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

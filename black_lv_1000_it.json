@@ -1,0 +1,240 @@
+{
+  "english": "black",
+  "phat_am": "[blæk]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đen"
+        },
+        {
+          "m_full_vn": "da đen",
+          "list_en_vn": [
+            {
+              "full_en": "a black woman",
+              "full_vn": "người đàn bà da đen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tối; tối tăm",
+          "list_en_vn": [
+            {
+              "full_en": "as black as ink",
+              "full_vn": "tối như mực"
+            },
+            {
+              "full_en": "black night",
+              "full_vn": "đêm tối tăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dơ bẩn, bẩn thỉu",
+          "list_en_vn": [
+            {
+              "full_en": "black hands",
+              "full_vn": "những bàn tay dơ bẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đen tối, ảm đạm, buồn rầu, vô hy vọng",
+          "list_en_vn": [
+            {
+              "full_en": "things look black",
+              "full_vn": "sự việc có vẻ đen tối vô hy vọng"
+            },
+            {
+              "full_en": "black tidings",
+              "full_vn": "tin buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu xa, độc ác; kinh tởm, ghê tởm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beat black and blue",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) beat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a black look",
+              "list_im": [
+                {
+                  "im_full_vn": "lườm nguýt người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he is not so black as he is painted",
+              "list_im": [
+                {
+                  "im_full_vn": "nó cũng không đến nỗi xấu (tồi tệ) như người ta nói đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the pot calling the kettle black",
+              "list_im": [
+                {
+                  "im_full_vn": "người phê bình lại cũng là người đáng bị phê bình, lươn ngắn lại chê chạch dài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "black crimes",
+              "full_vn": "những tội ác ghê tởm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu đen"
+        },
+        {
+          "m_full_vn": "sơn đen"
+        },
+        {
+          "m_full_vn": "quần áo đen, áo tang",
+          "list_en_vn": [
+            {
+              "full_en": "to be in black",
+              "full_vn": "mặc quần áo đen; mặc áo tang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người da đen"
+        },
+        {
+          "m_full_vn": "bụi bẩn, mồ hóng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đen, bôi đen"
+        },
+        {
+          "m_full_vn": "đánh xi đen (giày)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to black out",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi đen để xoá đi"
+                },
+                {
+                  "im_full_vn": "(sân khấu) tắt đèn"
+                },
+                {
+                  "im_full_vn": "thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm duyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to black out",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi đen để xoá đi"
+                },
+                {
+                  "im_full_vn": "(sân khấu) tắt đèn"
+                },
+                {
+                  "im_full_vn": "thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm duyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to black out",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi đen để xoá đi"
+                },
+                {
+                  "im_full_vn": "(sân khấu) tắt đèn"
+                },
+                {
+                  "im_full_vn": "thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm duyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to black out",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi đen để xoá đi"
+                },
+                {
+                  "im_full_vn": "(sân khấu) tắt đèn"
+                },
+                {
+                  "im_full_vn": "thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm duyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to black out",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi đen để xoá đi"
+                },
+                {
+                  "im_full_vn": "(sân khấu) tắt đèn"
+                },
+                {
+                  "im_full_vn": "thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm duyệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

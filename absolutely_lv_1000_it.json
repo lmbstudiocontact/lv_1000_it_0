@@ -1,0 +1,35 @@
+{
+  "english": "absolutely",
+  "phat_am": "['æbsəlu:tli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyệt đối, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "to be absolutely wrong",
+              "full_vn": "hoàn toàn sai lầm, hoàn toàn trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyên chế, độc đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to govern absolutely",
+              "full_vn": "cai trị một cách chuyên chế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô điều kiện"
+        },
+        {
+          "m_full_vn": "(thông tục) nhất định, chắc chắn; tất nhiên; hoàn toàn như vậy, đúng như vậy"
+        }
+      ]
+    }
+  ]
+}

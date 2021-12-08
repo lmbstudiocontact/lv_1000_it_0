@@ -1,0 +1,30 @@
+{
+  "english": "cent",
+  "phat_am": "[sent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng xu (bằng 1 phần trăm đô la)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I don't care a cent",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) care"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "red cent",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) đồng xu đồng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

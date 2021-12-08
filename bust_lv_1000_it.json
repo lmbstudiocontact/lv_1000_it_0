@@ -1,0 +1,63 @@
+{
+  "english": "bust",
+  "phat_am": "[bʌst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tượng nửa người, tượng bán thân"
+        },
+        {
+          "m_full_vn": "ngực (của phụ nữ); đường vòng ngực (của phụ nữ)"
+        },
+        {
+          "m_full_vn": "sự khám xét chỗ ở"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bể, làm vỡ"
+        },
+        {
+          "m_full_vn": "ập vào bắt giữ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hạ tầng công tác (một người nào)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chè chén say sưa"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hư hỏng"
+        },
+        {
+          "m_full_vn": "phá sản, vỡ nợ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go bust",
+              "list_im": [
+                {
+                  "im_full_vn": "phá sản, vỡ nợ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

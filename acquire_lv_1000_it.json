@@ -1,0 +1,32 @@
+{
+  "english": "acquire",
+  "phat_am": "[ə'kwaiə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được, giành được, thu được, đạt được, kiếm được",
+          "list_en_vn": [
+            {
+              "full_en": "to acquire a good reputation",
+              "full_vn": "được tiếng tốt"
+            },
+            {
+              "full_en": "acquired characteristic",
+              "full_vn": "(sinh vật học) tính chất thu được"
+            },
+            {
+              "full_en": "an acquired taste",
+              "full_vn": "sở thích do quen mà có"
+            },
+            {
+              "full_en": "acquired immuno-deficiency syndrome",
+              "full_vn": "hội chứng khiếm khuyết miễn dịch mắc phải (bệnh AIDS hay SIDA)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

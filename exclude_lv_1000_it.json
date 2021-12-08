@@ -1,0 +1,29 @@
+{
+  "english": "exclude",
+  "phat_am": "[iks'klu:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "không cho (ai...) vào (một nơi nào...); không cho (ai...) hưởng (quyền...)"
+        },
+        {
+          "m_full_vn": "ngăn chận"
+        },
+        {
+          "m_full_vn": "loại trừ"
+        },
+        {
+          "m_full_vn": "đuổi tống ra, tống ra",
+          "list_en_vn": [
+            {
+              "full_en": "to exclude somebody from a house",
+              "full_vn": "đuổi ai ra khỏi nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

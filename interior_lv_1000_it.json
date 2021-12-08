@@ -1,0 +1,73 @@
+{
+  "english": "interior",
+  "phat_am": "[in'tiəriə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên trong; ở phía trong",
+          "list_en_vn": [
+            {
+              "full_en": "an interior room",
+              "full_vn": "phòng bên trong; phòng trong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nội tâm; riêng tư",
+          "list_en_vn": [
+            {
+              "full_en": "an interior monologue",
+              "full_vn": "một cuộc độc thoại nội tâm"
+            },
+            {
+              "full_en": "the interior life",
+              "full_vn": "cuộc sống nội tâm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần bên trong; phía trong (phòng, nhà...)",
+          "list_en_vn": [
+            {
+              "full_en": "the interior of a house",
+              "full_vn": "phần bên trong của căn nhà; nội thất"
+            },
+            {
+              "full_en": "a villa with a classical exterior and a modern interior",
+              "full_vn": "một biệt thự có bề ngoài cổ điển và nội thất hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất liền nằm sâu vào trong (một nước...); nội địa",
+          "list_en_vn": [
+            {
+              "full_en": "the jungles of the interior of Africa",
+              "full_vn": "những cánh rừng nội địa châu Phi"
+            },
+            {
+              "full_en": "explorers who penetrated deep into the interior",
+              "full_vn": "các nhà thám hiểm tiến sâu vào nội địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Interior ) công việc trong nước; nội vụ",
+          "list_en_vn": [
+            {
+              "full_en": "the Department /Ministry of the Interior",
+              "full_vn": "Bộ nội vụ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

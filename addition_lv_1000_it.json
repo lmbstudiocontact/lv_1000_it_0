@@ -1,0 +1,57 @@
+{
+  "english": "addition",
+  "phat_am": "[ə'di∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) tính cộng; phép cộng"
+        },
+        {
+          "m_full_vn": "( addition to something ) người hoặc vật thêm vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "in addition (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "là một người, vật hoặc tình huống thêm vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "In addition (to the names on the list ) there are six other applicants",
+                      "full_vn": "Thêm vào (các tên trong danh sách) còn có sáu người khác xin vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in addition (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "là một người, vật hoặc tình huống thêm vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "In addition (to the names on the list ) there are six other applicants",
+                      "full_vn": "Thêm vào (các tên trong danh sách) còn có sáu người khác xin vào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "such an outfit would be a useful addition to my wardrobe",
+              "full_vn": "bộ này sẽ là phần bổ sung hữu ích cho tủ áo của tôi"
+            },
+            {
+              "full_en": "they've just had an addition to the family",
+              "full_vn": "họ vừa mới có thêm một người vào gia đình (tức là một đứa con nữa)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

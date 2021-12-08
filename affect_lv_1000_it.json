@@ -1,0 +1,80 @@
+{
+  "english": "affect",
+  "phat_am": "[ə'fekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ảnh hưởng đến ai/cái gì; tác động đến đến ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the frequent changes of weather affect his health",
+              "full_vn": "thời tiết thay đổi luôn làm ảnh hưởng đến sức khoẻ của anh ấy"
+            },
+            {
+              "full_en": "the tax increases have affected us all",
+              "full_vn": "việc tăng thuế đã tác động đến tất cả chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm xúc động, làm cảm động, làm mủi lòng",
+          "list_en_vn": [
+            {
+              "full_en": "the news affected him deeply",
+              "full_vn": "tin đó làm anh ta rất xúc động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về bệnh tật) tấn công ai/cái gì; nhiễm vào",
+          "list_en_vn": [
+            {
+              "full_en": "to be affected by influenza",
+              "full_vn": "bị bệnh cúm"
+            },
+            {
+              "full_en": "cancer had affected his lungs",
+              "full_vn": "ung thư đã nhiễm vào phổi ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giả vờ; giả bộ; làm ra vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "she affects the helpless female",
+              "full_vn": "cô ta làm ra vẻ một phụ nữ không nơi nương tựa"
+            },
+            {
+              "full_en": "to affect the connoisseur",
+              "full_vn": "làm ra vẻ sành sỏi"
+            },
+            {
+              "full_en": "she affects a foreign accent",
+              "full_vn": "cô ấy vờ nói giọng lơ lớ như người nước ngoài"
+            },
+            {
+              "full_en": "to affect not to know something ; to affect ignorance of something",
+              "full_vn": "giả bộ không biết cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng; ưa dùng; thích",
+          "list_en_vn": [
+            {
+              "full_en": "he affects a pretentious use of language",
+              "full_vn": "anh ta thích dùng ngôn ngữ phô trương"
+            },
+            {
+              "full_en": "to affect flashy clothes",
+              "full_vn": "thích ăn mặc quần áo hào nhoáng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

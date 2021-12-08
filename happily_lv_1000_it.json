@@ -1,0 +1,32 @@
+{
+  "english": "happily",
+  "phat_am": "['hæpili]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sung sướng, hạnh phúc"
+        },
+        {
+          "m_full_vn": "thật là may mắn, thật là phúc",
+          "list_en_vn": [
+            {
+              "full_en": "happily someone come and helped him",
+              "full_vn": "thật là may mắn có người đến giúp anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khéo chọn, tài tình (lời nói, cách diễn đạt ý...); thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "his ideas are happily expressed",
+              "full_vn": "ý tưởng của ông ta được diễn đạt thật tài tình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

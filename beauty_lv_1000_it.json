@@ -1,0 +1,42 @@
+{
+  "english": "beauty",
+  "phat_am": "['bju:ti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẻ đẹp, sắc đẹp, nhan sắc"
+        },
+        {
+          "m_full_vn": "cái đẹp, cái hay",
+          "list_en_vn": [
+            {
+              "full_en": "the beauty of the story",
+              "full_vn": "cái hay của câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đẹp, vật đẹp",
+          "list_one_mean": [
+            {
+              "id_full_en": "beauty is only skin deep",
+              "list_im": [
+                {
+                  "im_full_vn": "nhan sắc chỉ là bề ngoài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "look at this rose , isn't it a beauty !",
+              "full_vn": "nhìn bông hoa hồng này mà xem, thật là đẹp!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

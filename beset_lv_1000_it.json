@@ -1,0 +1,33 @@
+{
+  "english": "beset",
+  "phat_am": "[bi'set]",
+  "list_type": [
+    {
+      "type": "ngoại động từ bất quy tắc beset /bi'set /",
+      "list_m": [
+        {
+          "m_full_vn": "bao vây, vây quanh (nghĩa đen) & (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to be beset with foes on every side",
+              "full_vn": "khắp bốn bề bị kẻ thù bao vây"
+            },
+            {
+              "full_en": "to be beset with cares",
+              "full_vn": "lo lắng không yên; trĩu nặng những lo âu phiền muộn (tâm hồn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "choán, ngáng (đường đi)",
+          "list_en_vn": [
+            {
+              "full_en": "a path beset with obstacles",
+              "full_vn": "con đường ngổn ngang những vật chướng ngại"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

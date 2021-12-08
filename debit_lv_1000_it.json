@@ -1,0 +1,40 @@
+{
+  "english": "debit",
+  "phat_am": "['debit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ghi nợ",
+          "list_en_vn": [
+            {
+              "full_en": "to put to the debit of somebody",
+              "full_vn": "ghi vào sổ nợ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món nợ khoản nợ"
+        },
+        {
+          "m_full_vn": "(kế toán) bên nợ",
+          "list_en_vn": [
+            {
+              "full_en": "debit side",
+              "full_vn": "bên nợ trong bản quyết toán"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi (một món nợ) vào sổ nợ ( debit against , to ) ghi (một món nợ) vào sổ ai"
+        }
+      ]
+    }
+  ]
+}

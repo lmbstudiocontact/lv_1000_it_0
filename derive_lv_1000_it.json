@@ -1,0 +1,38 @@
+{
+  "english": "derive",
+  "phat_am": "[di'raiv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận được từ, lấy được từ, tìm thấy nguồn gốc từ",
+          "list_en_vn": [
+            {
+              "full_en": "to derive profit from ...",
+              "full_vn": "thu lợi tức từ..."
+            },
+            {
+              "full_en": "to derive pleasure from ...",
+              "full_vn": "tìm thấy niềm vui thích từ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất phát từ, chuyển hoá từ, bắt nguồn từ",
+          "list_en_vn": [
+            {
+              "full_en": "words that derive from Latin",
+              "full_vn": "những từ bắt nguồn từ tiếng La-tinh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

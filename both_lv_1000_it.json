@@ -1,0 +1,122 @@
+{
+  "english": "both",
+  "phat_am": "[bouθ]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cả hai; cả cái này lẫn cái kia",
+          "list_one_mean": [
+            {
+              "id_full_en": "have /want it /things both ways",
+              "list_im": [
+                {
+                  "im_full_vn": "(cố gắng) kết hợp hai cách suy nghĩ hoặc cư xử, thoả mãn hai nhu cầu, thu được hai kết quả... từng được cho là loại trừ nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can't have it both ways",
+              "list_im": [
+                {
+                  "im_full_vn": "anh không thể bắt cá hai tay được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "both books /both the books /both these books are expensive",
+              "full_vn": "cả hai quyển sách/cả hai quyển sách này đều đắt tiền"
+            },
+            {
+              "full_en": "he's blind in both eyes",
+              "full_vn": "anh ta mù cả hai mắt"
+            },
+            {
+              "full_en": "there are shops on both sides of the street",
+              "full_vn": "cả hai bên phố đều có cửa hàng"
+            },
+            {
+              "full_en": "both her children are at university",
+              "full_vn": "cả hai đứa con bà ấy đều học đại học"
+            },
+            {
+              "full_en": "with both hands",
+              "full_vn": "bằng cả hai tay"
+            },
+            {
+              "full_en": "both these boys are in sixth form",
+              "full_vn": "cả hai cậu bé này đều học lớp sáu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "cả hai; cả cái này lẫn cái kia",
+          "list_en_vn": [
+            {
+              "full_en": "he has two brothers : both live in London",
+              "full_vn": "ông ta có hai người anh : cả hai đều sống ở London"
+            },
+            {
+              "full_en": "his parents are both dead",
+              "full_vn": "bố mẹ anh ấy đều đã chết cả"
+            },
+            {
+              "full_en": "we both want to go to the party ; both of us want to go to the party",
+              "full_vn": "cả hai chúng tôi đều muốn đi dự tiệc"
+            },
+            {
+              "full_en": "I like these shirts . I'll take both of them",
+              "full_vn": "Tôi thích những chiếc áo này. Tôi sẽ lấy cả hai"
+            },
+            {
+              "full_en": "both of them are doctors ; both are doctors",
+              "full_vn": "cả hai đều là bác sĩ"
+            },
+            {
+              "full_en": "we both are from Vietnam",
+              "full_vn": "cả hai chúng tôi đều là người Việt Nam"
+            },
+            {
+              "full_en": "both of her children have blue eyes",
+              "full_vn": "cá hai đứa con cô ấy đều có mắt màu xanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "cả... lẫn; vừa... vừa",
+          "list_en_vn": [
+            {
+              "full_en": "both you and I",
+              "full_vn": "cả anh lẫn tôi"
+            },
+            {
+              "full_en": "he speaks both English and French",
+              "full_vn": "nó nói cả tiếng Anh lẫn tiếng Pháp"
+            },
+            {
+              "full_en": "to be both tired and hungry",
+              "full_vn": "vừa mệt vừa đói"
+            },
+            {
+              "full_en": "both his brother and sister are married",
+              "full_vn": "cả anh lẫn chị nó đều đã lập gia đình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

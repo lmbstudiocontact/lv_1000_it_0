@@ -1,0 +1,308 @@
+{
+  "english": "few",
+  "phat_am": "[fju:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không nhiều, ít",
+          "list_en_vn": [
+            {
+              "full_en": "a man of few words",
+              "full_vn": "một người ít nói"
+            },
+            {
+              "full_en": "few people live to be 100",
+              "full_vn": "ít ai sống đến 100 tuổi"
+            },
+            {
+              "full_en": "there are fewer cars parked outside than yesterday",
+              "full_vn": "hôm nay ít xe đỗ ở bên ngoài hơn hôm qua"
+            },
+            {
+              "full_en": "the police found very few clues to the murderer's identity",
+              "full_vn": "cảnh sát tìm được rất ít manh mối về nhân dạng của kẻ giết người"
+            },
+            {
+              "full_en": "there are very few opportunities for promotion",
+              "full_vn": "có rất ít cơ hội được đề bạt"
+            },
+            {
+              "full_en": "the few houses we have seen are in terrible condition",
+              "full_vn": "mấy ngôi nhà mà chúng tôi đã xem đều ở trong tình trạng khủng khiếp"
+            },
+            {
+              "full_en": "there were too few people at the meeting",
+              "full_vn": "có quá ít người dự cuộc họp"
+            },
+            {
+              "full_en": "accidents on site are few",
+              "full_vn": "tai nạn xảy ra tại chỗ thì ít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a few ) một vài, một ít",
+          "list_one_mean": [
+            {
+              "id_full_en": "few and far between",
+              "list_im": [
+                {
+                  "im_full_vn": "thất thường, không thường xuyên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the buses to our village are few and far between",
+                      "full_vn": "xe búyt chạy đến làng chúng tôi thất thường lắm"
+                    },
+                    {
+                      "full_en": "the sunny intervals we were promised have been few and far between",
+                      "full_vn": "những khoảng thời gian hứa hẹn có nắng với chúng tôi thật là ít và thất thường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "few and far between",
+              "list_im": [
+                {
+                  "im_full_vn": "thất thường, không thường xuyên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the buses to our village are few and far between",
+                      "full_vn": "xe búyt chạy đến làng chúng tôi thất thường lắm"
+                    },
+                    {
+                      "full_en": "the sunny intervals we were promised have been few and far between",
+                      "full_vn": "những khoảng thời gian hứa hẹn có nắng với chúng tôi thật là ít và thất thường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "few and far between",
+              "list_im": [
+                {
+                  "im_full_vn": "thất thường, không thường xuyên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the buses to our village are few and far between",
+                      "full_vn": "xe búyt chạy đến làng chúng tôi thất thường lắm"
+                    },
+                    {
+                      "full_en": "the sunny intervals we were promised have been few and far between",
+                      "full_vn": "những khoảng thời gian hứa hẹn có nắng với chúng tôi thật là ít và thất thường"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go away for a few days",
+              "full_vn": "đi xa trong một vài ngày"
+            },
+            {
+              "full_en": "a few letters",
+              "full_vn": "vài bức thư"
+            },
+            {
+              "full_en": "he asked us a few questions",
+              "full_vn": "ông ta hỏi chúng tôi vài câu"
+            },
+            {
+              "full_en": "a few people are coming for tea",
+              "full_vn": "vài người đến uống trà"
+            },
+            {
+              "full_en": "only a few students were awarded distinctions",
+              "full_vn": "chỉ có vài sinh viên được tặng bằng khen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "không nhiều; ít",
+          "list_en_vn": [
+            {
+              "full_en": "of the 150 passengers , few escaped injuries",
+              "full_vn": "trong số 150 hành khách, ít có người nào thoát khỏi thương tích"
+            },
+            {
+              "full_en": "few can deny the impact of his leadership",
+              "full_vn": "không mấy ai phủ nhận tác động của sự lãnh đạo của ông ta"
+            },
+            {
+              "full_en": "many are called but few are chosen",
+              "full_vn": "gọi đến thì nhiều nhưng chọn được thì ít"
+            },
+            {
+              "full_en": "hundreds of new records are produced each week but few (of them ) get into the charts",
+              "full_vn": "mỗi tuần có hàng trăm đĩa hát mới được sản xuất ra, nhưng không mấy đĩa được đưa vào danh sách bán chạy nhất"
+            },
+            {
+              "full_en": "few of us will still be alive in the year 2050",
+              "full_vn": "không mấy ai trong chúng ta sẽ còn sống đến năm 2050"
+            },
+            {
+              "full_en": "the few who came to the concert enjoyed it",
+              "full_vn": "số ít người đến dự buổi hoà nhạch đều thích thú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a few ) một vài; một ít",
+          "list_one_mean": [
+            {
+              "id_full_en": "a good few",
+              "list_im": [
+                {
+                  "im_full_vn": "một số kha khá, một số khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there were a good few copies sold on the first day",
+                      "full_vn": "ngày đầu tiên đã bán được khá nhiều bản"
+                    },
+                    {
+                      "full_en": "not a few of my friends are vegetarian",
+                      "full_vn": "không ít bạn của tôi là những người ăn chay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a good few",
+              "list_im": [
+                {
+                  "im_full_vn": "một số kha khá, một số khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there were a good few copies sold on the first day",
+                      "full_vn": "ngày đầu tiên đã bán được khá nhiều bản"
+                    },
+                    {
+                      "full_en": "not a few of my friends are vegetarian",
+                      "full_vn": "không ít bạn của tôi là những người ăn chay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a good few",
+              "list_im": [
+                {
+                  "im_full_vn": "một số kha khá, một số khá nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there were a good few copies sold on the first day",
+                      "full_vn": "ngày đầu tiên đã bán được khá nhiều bản"
+                    },
+                    {
+                      "full_en": "not a few of my friends are vegetarian",
+                      "full_vn": "không ít bạn của tôi là những người ăn chay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a few",
+              "list_im": [
+                {
+                  "im_full_vn": "uống rượu đủ để say hoặc gần say; chếnh choáng hơi men, ngà ngà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've had a few already , actually",
+                      "full_vn": "quả thật tôi đã làm vài chầu rồi"
+                    },
+                    {
+                      "full_en": "she looks as if she's had a few",
+                      "full_vn": "cô ta trông cứ như là đã ngà ngà rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a few",
+              "list_im": [
+                {
+                  "im_full_vn": "uống rượu đủ để say hoặc gần say; chếnh choáng hơi men, ngà ngà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've had a few already , actually",
+                      "full_vn": "quả thật tôi đã làm vài chầu rồi"
+                    },
+                    {
+                      "full_en": "she looks as if she's had a few",
+                      "full_vn": "cô ta trông cứ như là đã ngà ngà rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a few",
+              "list_im": [
+                {
+                  "im_full_vn": "uống rượu đủ để say hoặc gần say; chếnh choáng hơi men, ngà ngà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've had a few already , actually",
+                      "full_vn": "quả thật tôi đã làm vài chầu rồi"
+                    },
+                    {
+                      "full_en": "she looks as if she's had a few",
+                      "full_vn": "cô ta trông cứ như là đã ngà ngà rồi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I didn't get any cards yesterday but today there were a few",
+              "full_vn": "hôm qua tôi chẳng được tấm thiếp nào, nhưng hôm nay được vài tấm"
+            },
+            {
+              "full_en": "he has many books but only a few of them are interesting",
+              "full_vn": "anh ấy có nhiều sách, nhưng chỉ có một vài cuốn là hay"
+            },
+            {
+              "full_en": "a few of the seats were empty",
+              "full_vn": "có vài chỗ còn trống"
+            },
+            {
+              "full_en": "I recognized a few of the other guests",
+              "full_vn": "tôi nhận ra vài người trong đám khách khứa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the few ) thiểu số; số ít",
+          "list_en_vn": [
+            {
+              "full_en": "a voice for the few",
+              "full_vn": "tiếng nói bênh vực cho phe thiểu số"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

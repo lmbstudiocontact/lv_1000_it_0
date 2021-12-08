@@ -1,0 +1,28 @@
+{
+  "english": "foresee",
+  "phat_am": "[fɔ:'si:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ foresaw , foreseen",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn thấy trước; đoán trước; biết trước",
+          "list_en_vn": [
+            {
+              "full_en": "The difficulties could not have been foreseen",
+              "full_vn": "Những khó khăn không thể đoán trước được"
+            },
+            {
+              "full_en": "He foresaw that the job would take a long time",
+              "full_vn": "Ông ta đoán trước là công việc này sẽ tốn nhiều thời gian"
+            },
+            {
+              "full_en": "They could not have foreseen how things would turn out",
+              "full_vn": "Họ đã không lường trước được tình hình sẽ như thế nào"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

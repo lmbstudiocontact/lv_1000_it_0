@@ -1,0 +1,24 @@
+{
+  "english": "climbing",
+  "phat_am": "['klaimiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự leo trèo",
+          "list_one_mean": [
+            {
+              "id_full_en": "climbing-frame",
+              "list_im": [
+                {
+                  "im_full_vn": "khung chơi leo trèo của trẻ em"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

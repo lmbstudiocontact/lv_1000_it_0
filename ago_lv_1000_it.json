@@ -1,0 +1,44 @@
+{
+  "english": "ago",
+  "phat_am": "[ə'gou]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng sau từ hoặc cụm từ mà nó bổ nghĩa, nhất là với thời quá khứ đơn giản, nhưng không dùng với thể hoàn thành) đã qua, trong quá khứ",
+          "list_en_vn": [
+            {
+              "full_en": "five years ago",
+              "full_vn": "năm năm trước đây, cách đây năm năm"
+            },
+            {
+              "full_en": "it happened a few minutes ago",
+              "full_vn": "việc đó xảy ra cách đây vài phút"
+            },
+            {
+              "full_en": "how long ago is it that you last saw her ?",
+              "full_vn": "lần cuối cùng anh gặp cô ta cách đây bao lâu?"
+            },
+            {
+              "full_en": "it was seven years ago that my brother died",
+              "full_vn": "anh tôi mất như vậy là cách đây 7 năm"
+            },
+            {
+              "full_en": "long ago",
+              "full_vn": "trước đây lâu lắm, đã lâu lắm rồi"
+            },
+            {
+              "full_en": "not long ago",
+              "full_vn": "cách đây không lâu"
+            },
+            {
+              "full_en": "they arrived in Britain not long ago",
+              "full_vn": "họ đến nước Anh cách đây không lâu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

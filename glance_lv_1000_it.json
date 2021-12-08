@@ -1,0 +1,115 @@
+{
+  "english": "glance",
+  "phat_am": "[glɑ:ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(khoáng chất) quặng bóng",
+          "list_en_vn": [
+            {
+              "full_en": "copper glance",
+              "full_vn": "quặng đồng sunfua"
+            },
+            {
+              "full_en": "lead glance",
+              "full_vn": "quặng chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái nhìn thoáng qua, cái liếc qua",
+          "list_en_vn": [
+            {
+              "full_en": "to take a glance at a newspaper",
+              "full_vn": "liếc nhìn qua tờ báo"
+            },
+            {
+              "full_en": "at a glance",
+              "full_vn": "chỉ thoáng nhìn một cái"
+            },
+            {
+              "full_en": "at first glance",
+              "full_vn": "thoạt nhìn, thoáng nhìn"
+            },
+            {
+              "full_en": "to cast a glance at",
+              "full_vn": "đưa mắt nhìn"
+            },
+            {
+              "full_en": "to steal a glance",
+              "full_vn": "liếc trộm"
+            },
+            {
+              "full_en": "to have a glance at",
+              "full_vn": "nhìn qua (cái gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tia loáng qua, tia loé lên"
+        },
+        {
+          "m_full_vn": "sự sượt qua, sự trệch sang bên (viên đạn...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liếc nhìn, liếc nhanh, nhìn qua",
+          "list_en_vn": [
+            {
+              "full_en": "to glance at something",
+              "full_vn": "liếc nhìn cái gì"
+            },
+            {
+              "full_en": "to glance over (through ) a book",
+              "full_vn": "xem qua cuốn sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn lướt qua",
+          "list_en_vn": [
+            {
+              "full_en": "to glance over a question",
+              "full_vn": "bàn lướt qua một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( glance at ) thoáng nói ý châm chọc"
+        },
+        {
+          "m_full_vn": "loé lên, sáng loé",
+          "list_en_vn": [
+            {
+              "full_en": "their helmets glance in the sun",
+              "full_vn": "những mũ sắt của họ sáng loé dưới ánh mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + off , aside ) đi sượt qua, đi trệch (viên đạn...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa (mắt) nhìn qua",
+          "list_en_vn": [
+            {
+              "full_en": "to glance one's eyes down /over sth",
+              "full_vn": "liếc nhìn qua (cái gì)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

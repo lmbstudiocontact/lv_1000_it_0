@@ -1,0 +1,38 @@
+{
+  "english": "avoid",
+  "phat_am": "[ə'vɔid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tránh, tránh xa, ngăn ngừa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to avoid sb like the plague",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh ai như tránh hủi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to avoid smoking",
+              "full_vn": "tránh hút thuốc lá"
+            },
+            {
+              "full_en": "to avoid bad company",
+              "full_vn": "tránh xa bạn bè xấu"
+            },
+            {
+              "full_en": "the government urges the belligerent parties to avoid the useless bloodsheds",
+              "full_vn": "chính phủ khuyên các bên tham chiến nên tránh những cuộc đổ máu vô ích"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

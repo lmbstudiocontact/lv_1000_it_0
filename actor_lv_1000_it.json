@@ -1,0 +1,29 @@
+{
+  "english": "actor",
+  "phat_am": "['æktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn viên (kịch, tuồng, chèo, (điện ảnh)...); kép, kép hát",
+          "list_en_vn": [
+            {
+              "full_en": "film actor",
+              "full_vn": "tài tử đóng phim, diễn viên điện ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) người làm (một việc gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a bad actor",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) người khó tin cậy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

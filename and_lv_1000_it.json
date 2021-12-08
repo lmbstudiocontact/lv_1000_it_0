@@ -1,0 +1,87 @@
+{
+  "english": "and",
+  "phat_am": "[ænd, ənd, ən]",
+  "list_type": [
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "và, cùng, với",
+          "list_en_vn": [
+            {
+              "full_en": "to buy and sell",
+              "full_vn": "mua và bán"
+            },
+            {
+              "full_en": "you and I",
+              "full_vn": "anh với (và) tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nếu dường như, tuồng như là",
+          "list_en_vn": [
+            {
+              "full_en": "let him go and need be",
+              "full_vn": "hãy để anh ta đi nếu cần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn",
+          "list_en_vn": [
+            {
+              "full_en": "I shall go and you stay here",
+              "full_vn": "tôi sẽ đi còn anh sẽ ở lại đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dịch)",
+          "list_en_vn": [
+            {
+              "full_en": "coffee and milk",
+              "full_vn": "cà phê sữa"
+            },
+            {
+              "full_en": "four and thirty",
+              "full_vn": "ba mươi tư"
+            },
+            {
+              "full_en": "two hundred and fifty",
+              "full_vn": "hai trăm năm mươi"
+            },
+            {
+              "full_en": "to walk two and two",
+              "full_vn": "đi hàng đôi"
+            },
+            {
+              "full_en": "better and better",
+              "full_vn": "ngày càng tốt hơn"
+            },
+            {
+              "full_en": "worse and worse",
+              "full_vn": "ngày càng xấu hơn"
+            },
+            {
+              "full_en": "miles and miles",
+              "full_vn": "hàng dặm hàng dặm, rất dài"
+            },
+            {
+              "full_en": "there are books and books",
+              "full_vn": "sách thì cũng có ba bảy loại"
+            },
+            {
+              "full_en": "try and come",
+              "full_vn": "hãy gắng đến"
+            },
+            {
+              "full_en": "try and help me",
+              "full_vn": "hãy gắng giúp tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
