@@ -99,20 +99,6 @@
               ]
             },
             {
-              "id_full_en": "to be of somebody's mind",
-              "list_im": [
-                {
-                  "im_full_vn": "đồng ý/nhất trí với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I am of his mind",
-                      "full_vn": "tôi đồng ý với nó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to be out of one's mind",
               "list_im": [
                 {
@@ -231,20 +217,6 @@
               ]
             },
             {
-              "id_full_en": "to have a great /good mind to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "rất muốn làm điều gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I have a good mind to visit him",
-                      "full_vn": "tôi muốn đến thăm hắn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to know one's own mind",
               "list_im": [
                 {
@@ -265,42 +237,6 @@
               "list_im": [
                 {
                   "im_full_vn": "tâm sự với ai"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make up one's mind",
-              "list_im": [
-                {
-                  "im_full_vn": "quyết định, nhất định; đành phải coi như là không tránh được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to make up one's mind to do something",
-                      "full_vn": "quyết định làm việc gì"
-                    },
-                    {
-                      "full_en": "to make up one's mind to some mishap",
-                      "full_vn": "đành chấp nhận rủi ro"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make up one's mind",
-              "list_im": [
-                {
-                  "im_full_vn": "quyết định, nhất định; đành phải coi như là không tránh được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to make up one's mind to do something",
-                      "full_vn": "quyết định làm việc gì"
-                    },
-                    {
-                      "full_en": "to make up one's mind to some mishap",
-                      "full_vn": "đành chấp nhận rủi ro"
-                    }
-                  ]
                 }
               ]
             },
@@ -486,20 +422,6 @@
               "list_im": [
                 {
                   "im_full_vn": "hãy lo việc của anh đi! (đừng xía vào việc của người khác)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to mind out for somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "đề phòng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "mind out for daredevil drivers when you cross the road !",
-                      "full_vn": "hãy đề phòng những tài xế bạt mạng khi anh đi qua đường!"
-                    }
-                  ]
                 }
               ]
             },

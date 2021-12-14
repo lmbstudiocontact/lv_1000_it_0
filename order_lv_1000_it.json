@@ -241,34 +241,6 @@
               ]
             },
             {
-              "id_full_en": "to be under orders (to do something )",
-              "list_im": [
-                {
-                  "im_full_vn": "được lệnh phải làm gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm under strict orders not to let any stranger in",
-                      "full_vn": "tôi được lệnh nghiêm ngặt không cho bất cứ người lạ nào vào"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "by order of somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "theo lệnh của một người có quyền",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "by order of the court /Governor",
-                      "full_vn": "theo lệnh của toà án/thống đốc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "by order of somebody /something",
               "list_im": [
                 {
@@ -313,20 +285,6 @@
               ]
             },
             {
-              "id_full_en": "in order",
-              "list_im": [
-                {
-                  "im_full_vn": "hợp lệ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "is your passport in order ?",
-                      "full_vn": "hộ chiếu của anh có hợp lệ không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to be in bad order",
               "list_im": [
                 {
@@ -346,28 +304,6 @@
               ]
             },
             {
-              "id_full_en": "to be in good order",
-              "list_im": [
-                {
-                  "im_full_vn": "tốt, chạy tốt"
-                },
-                {
-                  "im_full_vn": "đúng nội quy, đúng thủ tục"
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of order",
-              "list_im": [
-                {
-                  "im_full_vn": "xấu, hỏng (máy)"
-                },
-                {
-                  "im_full_vn": "không đúng nội quy, không đúng thủ tục"
-                }
-              ]
-            },
-            {
               "id_full_en": "out of order",
               "list_im": [
                 {
@@ -387,34 +323,6 @@
                     {
                       "full_en": "he left early in order that he should arrive on time",
                       "full_vn": "ông ta đi sớm cốt là để đến đúng giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in order that",
-              "list_im": [
-                {
-                  "im_full_vn": "cốt để, mục đích để",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he left early in order that he should arrive on time",
-                      "full_vn": "ông ta đi sớm cốt là để đến đúng giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in order to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "để mà, cốt để mà",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she arrived early in order to get a good seat",
-                      "full_vn": "cô ta đến sớm để có được chỗ ngồi tốt"
                     }
                   ]
                 }
@@ -453,42 +361,6 @@
               ]
             },
             {
-              "id_full_en": "in order to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "theo thủ tục, nội quy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's not in order to interrupt",
-                      "full_vn": "theo nội quy không được phép ngắt lời"
-                    },
-                    {
-                      "full_en": "is it in order to speak now ?",
-                      "full_vn": "theo nội quy thì bây giờ có được nói hay không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in order to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "theo thủ tục, nội quy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's not in order to interrupt",
-                      "full_vn": "theo nội quy không được phép ngắt lời"
-                    },
-                    {
-                      "full_en": "is it in order to speak now ?",
-                      "full_vn": "theo nội quy thì bây giờ có được nói hay không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "on order",
               "list_im": [
                 {
@@ -497,34 +369,6 @@
                     {
                       "full_en": "I've got two books on order at the bookshop",
                       "full_vn": "tôi đã đặt mua hai cuốn sách ở hiệu sách (nhưng chưa nhận được)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on order",
-              "list_im": [
-                {
-                  "im_full_vn": "đã đặt rồi nhưng chưa nhận được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've got two books on order at the bookshop",
-                      "full_vn": "tôi đã đặt mua hai cuốn sách ở hiệu sách (nhưng chưa nhận được)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "of /in the order of something",
-              "list_im": [
-                {
-                  "im_full_vn": "khoảng, chừng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "her salary is in the order of $150 a week",
-                      "full_vn": "lương cô ta khoảng 150 đô la một tuần"
                     }
                   ]
                 }
@@ -631,20 +475,6 @@
               ]
             },
             {
-              "id_full_en": "(made ) to order",
-              "list_im": [
-                {
-                  "im_full_vn": "(được làm) theo yêu cầu của khách hàng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "this company will tailor a suit to order",
-                      "full_vn": "công ty này cắt quần áo theo yêu cầu của khách hàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "under the orders of somebody",
               "list_im": [
                 {
@@ -665,42 +495,6 @@
               "list_im": [
                 {
                   "im_full_vn": "xem march"
-                }
-              ]
-            },
-            {
-              "id_full_en": "the order of the day",
-              "list_im": [
-                {
-                  "im_full_vn": "chương trình làm việc; chương trình nghị sự",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "industry is the order of the day",
-                      "full_vn": "công nghiệp là vấn đề trọng tâm hiện nay"
-                    },
-                    {
-                      "full_en": "good behaviour must be the order of the day when the school inspector comes",
-                      "full_vn": "tư cách đạo đức tốt hẳn là nộidung chương trình làm việc khi ông thanh tra học đường tới"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "the order of the day",
-              "list_im": [
-                {
-                  "im_full_vn": "chương trình làm việc; chương trình nghị sự",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "industry is the order of the day",
-                      "full_vn": "công nghiệp là vấn đề trọng tâm hiện nay"
-                    },
-                    {
-                      "full_en": "good behaviour must be the order of the day when the school inspector comes",
-                      "full_vn": "tư cách đạo đức tốt hẳn là nộidung chương trình làm việc khi ông thanh tra học đường tới"
-                    }
-                  ]
                 }
               ]
             },
@@ -838,20 +632,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(thể thao) ra lệnh cho ai rời khỏi bãi (vì đã phạm luật)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to order somebody out",
-              "list_im": [
-                {
-                  "im_full_vn": "ra lệnh (cho cảnh sát, quân đội) diễu hành để trấn an dân chúng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the government ordered the police out to restore order in the streets",
-                      "full_vn": "chính phủ ra lệnh cho cảnh sát triển khai để khôi phục trật tự trên đường phố"
-                    }
-                  ]
                 }
               ]
             },

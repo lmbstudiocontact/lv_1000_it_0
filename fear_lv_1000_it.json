@@ -48,38 +48,10 @@
               ]
             },
             {
-              "id_full_en": "for fear of something /of doing something ; for fear (that )......",
-              "list_im": [
-                {
-                  "im_full_vn": "trong trường hợp; để đề phòng cai gì xảy ra; e rằng; sợ rằng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we spoke in whispers for fear of waking the baby /for fear (that ) we might wake the baby",
-                      "full_vn": "chúng tôi nói thì thầm sợ rằng có thể đánh thức đứa bé"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to hold no fears /terrors for somebody",
               "list_im": [
                 {
                   "im_full_vn": "chẳng làm cho ai sợ"
-                }
-              ]
-            },
-            {
-              "id_full_en": "in fear and trembling",
-              "list_im": [
-                {
-                  "im_full_vn": "một cách e dè, một cách sợ hãi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they went to the teacher in fear and trembling to tell her that they'd broken a window",
-                      "full_vn": "chúng run sợ đến gặp cô giáo để nói cho cô biết rằng chúng đã làm vỡ kính cửa sổ"
-                    }
-                  ]
                 }
               ]
             },
@@ -126,20 +98,6 @@
               "list_im": [
                 {
                   "im_full_vn": "không thiên vị"
-                }
-              ]
-            },
-            {
-              "id_full_en": "there's no much fear of something",
-              "list_im": [
-                {
-                  "im_full_vn": "có khả năng điều gì sẽ không xảy ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there's no much fear of such accidents",
-                      "full_vn": "có khả năng những tai nạn như vậy sẽ không xảy ra"
-                    }
-                  ]
                 }
               ]
             },
@@ -206,20 +164,6 @@
         {
           "m_full_vn": "kính sợ",
           "list_one_mean": [
-            {
-              "id_full_en": "to fear for somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "lo lắng hoặc băn khoăn về ai/cài gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I fear for her safety in this weather",
-                      "full_vn": "tôi lo cho sự an toàn của bà ta trong thời tiết này"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "to fear for somebody /something",
               "list_im": [

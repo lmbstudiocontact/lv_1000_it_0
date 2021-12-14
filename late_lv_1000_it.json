@@ -115,42 +115,6 @@
               ]
             },
             {
-              "id_full_en": "at the latest",
-              "list_im": [
-                {
-                  "im_full_vn": "chậm nhất là..., trễ nhất là....., muộn nhất là.....",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I have to finish this homework at midnight at the latest",
-                      "full_vn": "tôi phải làm xong bài tập này chậm nhất là vào lúc nửa đêm"
-                    },
-                    {
-                      "full_en": "passengers should check in one hour before their flight time at the latest",
-                      "full_vn": "hành khách phải làm thủ tục chậm nhất là một giờ trước khi bay"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at the latest",
-              "list_im": [
-                {
-                  "im_full_vn": "chậm nhất là..., trễ nhất là....., muộn nhất là.....",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I have to finish this homework at midnight at the latest",
-                      "full_vn": "tôi phải làm xong bài tập này chậm nhất là vào lúc nửa đêm"
-                    },
-                    {
-                      "full_en": "passengers should check in one hour before their flight time at the latest",
-                      "full_vn": "hành khách phải làm thủ tục chậm nhất là một giờ trước khi bay"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to have a late night",
               "list_im": [
                 {
@@ -242,60 +206,10 @@
               ]
             },
             {
-              "id_full_en": "late in the day",
-              "list_im": [
-                {
-                  "im_full_vn": "quá trễ, quá muộn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it is late in the day to say that you want to care for your mother , because she is no more",
-                      "full_vn": "bây giờ nói anh muốn lo cho mẹ thì đã quá muộn, vì mẹ đâu còn nữa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "sooner or later",
               "list_im": [
                 {
                   "im_full_vn": "trước sau gì cũng..., sớm muộn gì cũng....."
-                }
-              ]
-            },
-            {
-              "id_full_en": "later on",
-              "list_im": [
-                {
-                  "im_full_vn": "vào một thời điểm hoặc giai đoạn sau",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a few days later on",
-                      "full_vn": "vài ngày sau đó"
-                    },
-                    {
-                      "full_en": "at first , things went well , but later on , we ran into trouble",
-                      "full_vn": "thoạt đầu mọi việc đều trôi chảy, nhưng về sau thì chúng tôi gặp rắc rối"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "later on",
-              "list_im": [
-                {
-                  "im_full_vn": "vào một thời điểm hoặc giai đoạn sau",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a few days later on",
-                      "full_vn": "vài ngày sau đó"
-                    },
-                    {
-                      "full_en": "at first , things went well , but later on , we ran into trouble",
-                      "full_vn": "thoạt đầu mọi việc đều trôi chảy, nhưng về sau thì chúng tôi gặp rắc rối"
-                    }
-                  ]
                 }
               ]
             },

@@ -48,34 +48,6 @@
               ]
             },
             {
-              "id_full_en": "as often as",
-              "list_im": [
-                {
-                  "im_full_vn": "mỗi lần mà, nhiều lần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "as often as I tried to phone him , the line was engaged",
-                      "full_vn": "cứ mỗi lần tôi gọi điện thoại cho nó là đường dây lại bận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "more often than not",
-              "list_im": [
-                {
-                  "im_full_vn": "luôn luôn, rất hay",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "when it's foggy , the trains are late more often than not",
-                      "full_vn": "khi trời sương mù, tàu hoả hay đến chậm lắm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "more often than not",
               "list_im": [
                 {

@@ -369,40 +369,6 @@
               ]
             },
             {
-              "id_full_en": "to clear away",
-              "list_im": [
-                {
-                  "im_full_vn": "lấy đi, dọn đi, mang đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to clear away the table",
-                      "full_vn": "thu dọn bàn ăn (sau bữa ăn)"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "làm tan; làm biến đi (mối nghi ngờ, mây mù)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clear away",
-              "list_im": [
-                {
-                  "im_full_vn": "lấy đi, dọn đi, mang đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to clear away the table",
-                      "full_vn": "thu dọn bàn ăn (sau bữa ăn)"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "làm tan; làm biến đi (mối nghi ngờ, mây mù)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to clear off",
               "list_im": [
                 {
@@ -425,70 +391,6 @@
                       "full_vn": "bán tống bán tháo hàng tồn kho"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clear out",
-              "list_im": [
-                {
-                  "im_full_vn": "quét sạch, vét sạch, dọn sạch",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to clear someone out",
-                      "full_vn": "(thông tục) tống cổ ai ra khỏi nhà, đuổi ai đi"
-                    },
-                    {
-                      "full_en": "to clear out a stock",
-                      "full_vn": "bán tống bán tháo hàng tồn kho"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clear out",
-              "list_im": [
-                {
-                  "im_full_vn": "quét sạch, vét sạch, dọn sạch",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to clear someone out",
-                      "full_vn": "(thông tục) tống cổ ai ra khỏi nhà, đuổi ai đi"
-                    },
-                    {
-                      "full_en": "to clear out a stock",
-                      "full_vn": "bán tống bán tháo hàng tồn kho"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clear up",
-              "list_im": [
-                {
-                  "im_full_vn": "dọn dẹp (một căn buồng)"
-                },
-                {
-                  "im_full_vn": "làm sáng tỏ; giải quyết (nột vấn đề...)"
-                },
-                {
-                  "im_full_vn": "làm tiêu tan (sự hiểu lầm...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clear up",
-              "list_im": [
-                {
-                  "im_full_vn": "dọn dẹp (một căn buồng)"
-                },
-                {
-                  "im_full_vn": "làm sáng tỏ; giải quyết (nột vấn đề...)"
-                },
-                {
-                  "im_full_vn": "làm tiêu tan (sự hiểu lầm...)"
                 }
               ]
             },

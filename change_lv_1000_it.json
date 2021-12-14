@@ -132,17 +132,6 @@
               ]
             },
             {
-              "id_full_en": "to get no change out of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "không địch lại được ai (trong cuộc tranh luận); không cạnh tranh nổi ai (trong việc buôn bán)"
-                },
-                {
-                  "im_full_vn": "(thông tục) không móc được của ai cái gì"
-                }
-              ]
-            },
-            {
               "id_full_en": "to ring the changes on a subject",
               "list_im": [
                 {
@@ -341,34 +330,6 @@
               ]
             },
             {
-              "id_full_en": "to change something back into something",
-              "list_im": [
-                {
-                  "im_full_vn": "trả tiền và nhận số tiền tương đương với loại tiền cũ của mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to change back francs into dollars",
-                      "full_vn": "đổi tiền Frăng lấy lại đô la"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to change back into something",
-              "list_im": [
-                {
-                  "im_full_vn": "cởi quần áo ra để mặc quần áo đã mặc trước đó",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Can I change back into my jeans now ?",
-                      "full_vn": "bây giờ tôi có thể thay quần áo để mặc lại quần bò được không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to change back into something",
               "list_im": [
                 {
@@ -419,20 +380,6 @@
               "list_im": [
                 {
                   "im_full_vn": "đổi chiều đổi hướng (trong cuộc tranh luận...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to change hands",
-              "list_im": [
-                {
-                  "im_full_vn": "chuyển sang sở hữu của một người khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the house has changed hands several times recently",
-                      "full_vn": "gần đây ngôi nhà đã đổi chủ nhiều lần"
-                    }
-                  ]
                 }
               ]
             },

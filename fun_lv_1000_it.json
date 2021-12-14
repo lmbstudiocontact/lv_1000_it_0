@@ -56,48 +56,6 @@
               ]
             },
             {
-              "id_full_en": "fun and games",
-              "list_im": [
-                {
-                  "im_full_vn": "sự nô đùa vô tư lự",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "That's enough fun and games ! Let's get down to work",
-                      "full_vn": "Thôi, vui chơi thế là đủ rồi! Bắt tay vào việc thôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "like fun",
-              "list_im": [
-                {
-                  "im_full_vn": "mạnh mẽ; rất nhanh"
-                },
-                {
-                  "im_full_vn": "nhiều lần"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chắc chắn là không; không một chút nào; đáng ngờ lắm"
-                }
-              ]
-            },
-            {
-              "id_full_en": "like fun",
-              "list_im": [
-                {
-                  "im_full_vn": "mạnh mẽ; rất nhanh"
-                },
-                {
-                  "im_full_vn": "nhiều lần"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chắc chắn là không; không một chút nào; đáng ngờ lắm"
-                }
-              ]
-            },
-            {
               "id_full_en": "like fun",
               "list_im": [
                 {
@@ -132,20 +90,6 @@
               "list_im": [
                 {
                   "im_full_vn": "thật là vui thú!"
-                }
-              ]
-            },
-            {
-              "id_full_en": "(just ) for fun /for the fun of it ; (just ) in fun",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ là cho vui thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm learning to cook , just for the fun of it",
-                      "full_vn": "tôi đang học nấu ăn, chỉ để cho vui thôi"
-                    }
-                  ]
                 }
               ]
             },

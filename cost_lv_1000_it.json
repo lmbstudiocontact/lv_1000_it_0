@@ -73,20 +73,6 @@
               ]
             },
             {
-              "id_full_en": "to one's cost",
-              "list_im": [
-                {
-                  "im_full_vn": "với sự mất mát hoặc thiệt hại của bản thân",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "wasp stings are serious , as I know to my cost",
-                      "full_vn": "những nốt đốt của ong bắp cày là trầm trọng, tôi biết qua kinh nghiệm bản thân (vì tôi từng bị chúng đốt rồi)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "at cost .",
               "list_im": [
                 {
@@ -95,34 +81,6 @@
                     {
                       "full_en": "goods sold at cost",
                       "full_vn": "hàng bán theo giá vốn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at cost .",
-              "list_im": [
-                {
-                  "im_full_vn": "(nói về hàng hoá) theo giá vốn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "goods sold at cost",
-                      "full_vn": "hàng bán theo giá vốn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at the cost of something",
-              "list_im": [
-                {
-                  "im_full_vn": "bao gồm sự mất mát hoặc hy sinh cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she saved him from drowning , but only at the cost of her own life",
-                      "full_vn": "chị ấy cứu nó khỏi chết đuối, nhưng với cái giá chị ấy phải hy sinh tính mạng của mình"
                     }
                   ]
                 }

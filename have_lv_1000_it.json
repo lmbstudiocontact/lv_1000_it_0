@@ -170,53 +170,6 @@
               ]
             },
             {
-              "id_full_en": "to have on",
-              "list_im": [
-                {
-                  "im_full_vn": "có mặc, vẫn mặc (quần áo...); có đội, vẫn đội (mũ...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to have a hat on",
-                      "full_vn": "có đội mũ"
-                    },
-                    {
-                      "full_en": "to have nothing on",
-                      "full_vn": "không mặc cái gì, trần truồng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have on",
-              "list_im": [
-                {
-                  "im_full_vn": "có mặc, vẫn mặc (quần áo...); có đội, vẫn đội (mũ...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to have a hat on",
-                      "full_vn": "có đội mũ"
-                    },
-                    {
-                      "full_en": "to have nothing on",
-                      "full_vn": "không mặc cái gì, trần truồng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have up",
-              "list_im": [
-                {
-                  "im_full_vn": "gọi lên, triệu lên, mời lên"
-                },
-                {
-                  "im_full_vn": "bắt, đưa ra toà"
-                }
-              ]
-            },
-            {
               "id_full_en": "to have up",
               "list_im": [
                 {
@@ -263,17 +216,6 @@
               ]
             },
             {
-              "id_full_en": "to have it out",
-              "list_im": [
-                {
-                  "im_full_vn": "giải quyết một cuộc tranh cãi, nói cho ra lý lẽ"
-                },
-                {
-                  "im_full_vn": "đi nhổ răng"
-                }
-              ]
-            },
-            {
               "id_full_en": "to have nothing on someone",
               "list_im": [
                 {
@@ -281,45 +223,6 @@
                 },
                 {
                   "im_full_vn": "không có chứng cớ gì để buộc tội ai"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have nothing on someone",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) không có thế lợi gì hơn ai"
-                },
-                {
-                  "im_full_vn": "không có chứng cớ gì để buộc tội ai"
-                }
-              ]
-            },
-            {
-              "id_full_en": "he has had it",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) thằng cha ấy thế là toi rồi"
-                },
-                {
-                  "im_full_vn": "thằng cha ấy thế là hết thời (lỗi thời) rồi"
-                },
-                {
-                  "im_full_vn": "thằng cha ấy chẳng hòng gì được nữa đâu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "he has had it",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) thằng cha ấy thế là toi rồi"
-                },
-                {
-                  "im_full_vn": "thằng cha ấy thế là hết thời (lỗi thời) rồi"
-                },
-                {
-                  "im_full_vn": "thằng cha ấy chẳng hòng gì được nữa đâu"
                 }
               ]
             },

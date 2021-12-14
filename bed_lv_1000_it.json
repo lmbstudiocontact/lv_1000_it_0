@@ -142,32 +142,10 @@
               ]
             },
             {
-              "id_full_en": "a bed of roses",
-              "list_im": [
-                {
-                  "im_full_vn": "luống hoa hồng"
-                },
-                {
-                  "im_full_vn": "đời sống sung túc dễ dàng"
-                }
-              ]
-            },
-            {
               "id_full_en": "bed of sickness",
               "list_im": [
                 {
                   "im_full_vn": "tình trạng bệnh hoạn tàn tật"
-                }
-              ]
-            },
-            {
-              "id_full_en": "bed of thorns",
-              "list_im": [
-                {
-                  "im_full_vn": "luống gai"
-                },
-                {
-                  "im_full_vn": "hoàn cảnh khó khăn; bước đường đầy chông gai"
                 }
               ]
             },
@@ -305,20 +283,6 @@
               "list_im": [
                 {
                   "im_full_vn": "thu xếp để ngủ qua đêm"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to bed something out",
-              "list_im": [
-                {
-                  "im_full_vn": "chuyển cây non từ một nhà kính ra một mảnh đất trong vườn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to bed out the seedlings , young cabbages ...",
-                      "full_vn": "cấy những cây con, cây bắp cải non"
-                    }
-                  ]
                 }
               ]
             },

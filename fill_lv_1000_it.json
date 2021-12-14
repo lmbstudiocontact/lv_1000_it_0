@@ -163,20 +163,6 @@
               ]
             },
             {
-              "id_full_en": "to fill in",
-              "list_im": [
-                {
-                  "im_full_vn": "điền vào, ghi vào, cho vào cho đủ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fill in one's name",
-                      "full_vn": "ghi tên vào một bản khai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to fill out",
               "list_im": [
                 {
@@ -187,48 +173,6 @@
                 },
                 {
                   "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lớn ra, đẫy ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fill out",
-              "list_im": [
-                {
-                  "im_full_vn": "làm căng ra, làm to ra"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) điền vào"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lớn ra, đẫy ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fill out",
-              "list_im": [
-                {
-                  "im_full_vn": "làm căng ra, làm to ra"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) điền vào"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lớn ra, đẫy ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fill up",
-              "list_im": [
-                {
-                  "im_full_vn": "đổ đầy, lấp đầy, tràn đầy, đầy ngập",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fill up a pound",
-                      "full_vn": "lấp đầy một cái ao"
-                    }
-                  ]
                 }
               ]
             },

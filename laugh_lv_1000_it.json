@@ -81,56 +81,6 @@
               "id_full_en": "to laugh at somebody /something",
               "list_im": [
                 {
-                  "im_full_vn": "tỏ ra thích thú, cười",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to laugh at a comedian /joke",
-                      "full_vn": "cười một diễn viên/câu nói đùa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh at somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cười nhạo; chế giễu; coi thường",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "everyone laughed at me when I said I believed in ghosts",
-                      "full_vn": "ai cũng cười tôi khi tôi rằng tôi tin là có ma"
-                    },
-                    {
-                      "full_en": "to laugh at danger",
-                      "full_vn": "coi thường hiểm nguy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh at somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cười nhạo; chế giễu; coi thường",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "everyone laughed at me when I said I believed in ghosts",
-                      "full_vn": "ai cũng cười tôi khi tôi rằng tôi tin là có ma"
-                    },
-                    {
-                      "full_en": "to laugh at danger",
-                      "full_vn": "coi thường hiểm nguy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh at somebody /something",
-              "list_im": [
-                {
                   "im_full_vn": "cười nhạo; chế giễu; coi thường",
                   "list_ei_eim": [
                     {
@@ -168,56 +118,6 @@
               ]
             },
             {
-              "id_full_en": "to laugh something away",
-              "list_im": [
-                {
-                  "im_full_vn": "cười để xua đuổi, cười để gạt bỏ (cái gì)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to laugh away one's fear and anxiety",
-                      "full_vn": "cười để xua đuổi những nỗi lo âu sợ hãi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh somebody /something down",
-              "list_im": [
-                {
-                  "im_full_vn": "cười át đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to laugh down a speaker",
-                      "full_vn": "cười át lời một diễn giả"
-                    },
-                    {
-                      "full_en": "to laugh down a proposal",
-                      "full_vn": "cười át đi một lời đề nghị"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh somebody /something down",
-              "list_im": [
-                {
-                  "im_full_vn": "cười át đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to laugh down a speaker",
-                      "full_vn": "cười át lời một diễn giả"
-                    },
-                    {
-                      "full_en": "to laugh down a proposal",
-                      "full_vn": "cười át đi một lời đề nghị"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to laugh somebody /something down",
               "list_im": [
                 {
@@ -244,34 +144,6 @@
                     {
                       "full_en": "an actor has to learn to laugh off bad reviews",
                       "full_vn": "diễn viên phải biết cười xoà trước những lời chỉ trích xấu xa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh off",
-              "list_im": [
-                {
-                  "im_full_vn": "cười tỏ ra không quan tâm đến cái gì; cười xoà; cười trừ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "an actor has to learn to laugh off bad reviews",
-                      "full_vn": "diễn viên phải biết cười xoà trước những lời chỉ trích xấu xa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh somebody out of something",
-              "list_im": [
-                {
-                  "im_full_vn": "làm cho ai cười mà quên đi chuyện của họ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he said she was in a bad mood , then tried to laugh her out of it",
-                      "full_vn": "anh ta nói rằng cô ta đang bực bội, rồi cố làm cho cô ta cười mà quên đi chuyện bực bội đó"
                     }
                   ]
                 }
@@ -322,38 +194,10 @@
               ]
             },
             {
-              "id_full_en": "to laugh up one's sleeve at somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cười thầm ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she knew the truth all along and was laughing up her sleeve at us",
-                      "full_vn": "ngay từ đầu cô ta đã biết sự thật và đã cười thầm chúng ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to laugh on the wrong side of one's mouth (face )",
               "list_im": [
                 {
                   "im_full_vn": "đang vui trở nên buồn, đang cười lại mếu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to laugh somebody out of court",
-              "list_im": [
-                {
-                  "im_full_vn": "bêu riếu ai để mọi người cười làm cho toà không còn nghe được người ấy khai nữa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "their allegations were simply laughed out of court",
-                      "full_vn": "những luận điệu của họ bị bêu riếu một cách khinh bỉ"
-                    }
-                  ]
                 }
               ]
             },

@@ -64,34 +64,6 @@
               ]
             },
             {
-              "id_full_en": "a one",
-              "list_im": [
-                {
-                  "im_full_vn": "(bày tỏ sự ngạc nhiên hay thú vị trước cách ứng xử của ai) hay nhỉ; giỏi nhỉ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "You asked your teacher how old she was . You are a one !",
-                      "full_vn": "Anh từng hỏi cô giáo xem cô bao nhiêu tuổi. Anh là người có một không hai đấy!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "the one about somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "lới nói đùa về ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Do you know /Have you heard the one about the bald policeman ?",
-                      "full_vn": "Anh có biết/đã nghe câu chuyện vui về viên cảnh sát hói đầu chưa?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "the one about somebody /something",
               "list_im": [
                 {
@@ -287,20 +259,6 @@
         {
           "m_full_vn": "(dùng làm chủ ngữ hoặc bổ ngữ của một động từ hoặc sau một giới từ để chỉ người nói chung, gồm cả người nói hoặc người viết) người ta; ai",
           "list_one_mean": [
-            {
-              "id_full_en": "to be one for doing something",
-              "list_im": [
-                {
-                  "im_full_vn": "là người giỏi cái gì, người bỏ ra nhiều thời giờ vào cái gì hoặc thích thú làm cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she's a great one for (solving ) puzzles",
-                      "full_vn": "cô ta là người rất giỏi (giải) câu đố"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "to be one for doing something",
               "list_im": [

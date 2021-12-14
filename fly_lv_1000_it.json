@@ -59,17 +59,6 @@
               ]
             },
             {
-              "id_full_en": "(there are ) no flies on somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "người lanh lợi và không dễ bị lừa"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) anh ta rất láu"
-                }
-              ]
-            },
-            {
               "id_full_en": "to die /drop /fall like flies",
               "list_im": [
                 {
@@ -230,54 +219,6 @@
               ]
             },
             {
-              "id_full_en": "to fly on",
-              "list_im": [
-                {
-                  "im_full_vn": "xông lên; tấn công",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fly at the enemy",
-                      "full_vn": "xông lên tấn công quân địch"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fly into",
-              "list_im": [
-                {
-                  "im_full_vn": "nổi (khùng), rớn (mừng)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fly into a rage",
-                      "full_vn": "nổi xung, nổi cơn thịnh nộ"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "xông vào, xộc vào (trong phòng...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fly into",
-              "list_im": [
-                {
-                  "im_full_vn": "nổi (khùng), rớn (mừng)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fly into a rage",
-                      "full_vn": "nổi xung, nổi cơn thịnh nộ"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "xông vào, xộc vào (trong phòng...)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to fly into",
               "list_im": [
                 {
@@ -306,17 +247,6 @@
               ]
             },
             {
-              "id_full_en": "to fly off",
-              "list_im": [
-                {
-                  "im_full_vn": "bay đi (chim); chuồn đi"
-                },
-                {
-                  "im_full_vn": "đứt mất (cúc áo)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to fly out",
               "list_im": [
                 {
@@ -324,31 +254,6 @@
                 },
                 {
                   "im_full_vn": "nổi cơn hung hăng"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fly out",
-              "list_im": [
-                {
-                  "im_full_vn": "tuôn ra một thôi một hồi"
-                },
-                {
-                  "im_full_vn": "nổi cơn hung hăng"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fly over",
-              "list_im": [
-                {
-                  "im_full_vn": "nhảy qua",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fly over fence",
-                      "full_vn": "nhảy qua hàng rào"
-                    }
-                  ]
                 }
               ]
             },

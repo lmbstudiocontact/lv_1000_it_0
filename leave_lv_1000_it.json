@@ -174,20 +174,6 @@
               ]
             },
             {
-              "id_full_en": "to leave behind",
-              "list_im": [
-                {
-                  "im_full_vn": "bỏ quên, để lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to leave a good name behind",
-                      "full_vn": "lưu danh, để lại tiếng thơm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to leave off",
               "list_im": [
                 {
@@ -199,74 +185,6 @@
                     {
                       "full_en": "to leave off work",
                       "full_vn": "nghỉ việc, ngừng việc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to leave off",
-              "list_im": [
-                {
-                  "im_full_vn": "bỏ không mặc nữa (áo)"
-                },
-                {
-                  "im_full_vn": "bỏ, ngừng lại, thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to leave off work",
-                      "full_vn": "nghỉ việc, ngừng việc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to leave off",
-              "list_im": [
-                {
-                  "im_full_vn": "bỏ không mặc nữa (áo)"
-                },
-                {
-                  "im_full_vn": "bỏ, ngừng lại, thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to leave off work",
-                      "full_vn": "nghỉ việc, ngừng việc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to leave out",
-              "list_im": [
-                {
-                  "im_full_vn": "bỏ quên, bỏ sót, để sót"
-                },
-                {
-                  "im_full_vn": "xoá đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "leave that word out",
-                      "full_vn": "xoá từ ấy đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to leave out",
-              "list_im": [
-                {
-                  "im_full_vn": "bỏ quên, bỏ sót, để sót"
-                },
-                {
-                  "im_full_vn": "xoá đi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "leave that word out",
-                      "full_vn": "xoá từ ấy đi"
                     }
                   ]
                 }
@@ -318,20 +236,6 @@
               "list_im": [
                 {
                   "im_full_vn": "chưa tốt; còn nhiều điều đáng chê trách"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to leave no stone unturned",
-              "list_im": [
-                {
-                  "im_full_vn": "thử mọi cách có thể được; dùng đủ mọi cách",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they left no stone unturned in their search for the child's mother",
-                      "full_vn": "họ đã làm đủ mọi cách để tìm cho ra mẹ của đứa trẻ"
-                    }
-                  ]
                 }
               ]
             },
@@ -410,20 +314,6 @@
               "list_im": [
                 {
                   "im_full_vn": "nhắn ai, dặn ai"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to get left",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) bị bỏ rơi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to have no strength left",
-                      "full_vn": "bị kiệt sức"
-                    }
-                  ]
                 }
               ]
             },

@@ -103,31 +103,6 @@
               ]
             },
             {
-              "id_full_en": "to follow up",
-              "list_im": [
-                {
-                  "im_full_vn": "theo miết, bám sát"
-                },
-                {
-                  "im_full_vn": "bồi thêm (một cú nữa)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "as follows",
-              "list_im": [
-                {
-                  "im_full_vn": "như sau",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the letter reads as follows",
-                      "full_vn": "bức thư viết như sau"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "as follows",
               "list_im": [
                 {

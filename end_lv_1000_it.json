@@ -178,34 +178,6 @@
               ]
             },
             {
-              "id_full_en": "to make (both ) ends meet",
-              "list_im": [
-                {
-                  "im_full_vn": "kiếm đủ tiền để sống không mắc nợ; cân đối được thu chi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "being out of work and having two young children , they found it impossible to make ends meet",
-                      "full_vn": "bị thất nghiệp và lại có hai con nhỏ, họ thấy không tài nào đủ sống được"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no end",
-              "list_im": [
-                {
-                  "im_full_vn": "vô cùng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "no end obliged to you",
-                      "full_vn": "vô cùng cảm ơn anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "no end",
               "list_im": [
                 {
@@ -237,89 +209,6 @@
                     {
                       "full_en": "he is no end of a fellow",
                       "full_vn": "nó là một thằng cha tuyệt diệu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no end of",
-              "list_im": [
-                {
-                  "im_full_vn": "rất nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "no end of trouble",
-                      "full_vn": "rất nhiều điều phiền nhiễu"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "tuyệt diệu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he is no end of a fellow",
-                      "full_vn": "nó là một thằng cha tuyệt diệu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no end of",
-              "list_im": [
-                {
-                  "im_full_vn": "rất nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "no end of trouble",
-                      "full_vn": "rất nhiều điều phiền nhiễu"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "tuyệt diệu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he is no end of a fellow",
-                      "full_vn": "nó là một thằng cha tuyệt diệu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no end of",
-              "list_im": [
-                {
-                  "im_full_vn": "rất nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "no end of trouble",
-                      "full_vn": "rất nhiều điều phiền nhiễu"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "tuyệt diệu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he is no end of a fellow",
-                      "full_vn": "nó là một thằng cha tuyệt diệu"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on end",
-              "list_im": [
-                {
-                  "im_full_vn": "liền, liên tục",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "for hours on end",
-                      "full_vn": "trong mấy giờ liền"
                     }
                   ]
                 }

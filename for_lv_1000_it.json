@@ -241,42 +241,6 @@
               ]
             },
             {
-              "id_full_en": "for all the world",
-              "list_im": [
-                {
-                  "im_full_vn": "đúng như, hệt như",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to look for all the world like a monkey",
-                      "full_vn": "trông hệt như một con khỉ"
-                    },
-                    {
-                      "full_en": "for good",
-                      "full_vn": "mãi mãi, vĩnh viễn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "for all the world",
-              "list_im": [
-                {
-                  "im_full_vn": "đúng như, hệt như",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to look for all the world like a monkey",
-                      "full_vn": "trông hệt như một con khỉ"
-                    },
-                    {
-                      "full_en": "for good",
-                      "full_vn": "mãi mãi, vĩnh viễn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "for certain",
               "list_im": [
                 {
@@ -329,20 +293,6 @@
               "list_im": [
                 {
                   "im_full_vn": "nếu không có sự giúp đỡ của anh, tôi không thể làm xong việc đó được"
-                }
-              ]
-            },
-            {
-              "id_full_en": "what ... for ?",
-              "list_im": [
-                {
-                  "im_full_vn": "để làm gì?",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "what do you want it for ?",
-                      "full_vn": "anh cần cái đó để làm gì?"
-                    }
-                  ]
                 }
               ]
             },

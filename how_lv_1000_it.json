@@ -160,42 +160,6 @@
               ]
             },
             {
-              "id_full_en": "how about ...?",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng để gợi ý",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "how about orange juice ?",
-                      "full_vn": "dùng nước cam nhé?"
-                    },
-                    {
-                      "full_en": "how about buying a new watch ?",
-                      "full_vn": "mua đồng hồ mới nhé?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "how about ...?",
-              "list_im": [
-                {
-                  "im_full_vn": "dùng để gợi ý",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "how about orange juice ?",
-                      "full_vn": "dùng nước cam nhé?"
-                    },
-                    {
-                      "full_en": "how about buying a new watch ?",
-                      "full_vn": "mua đồng hồ mới nhé?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "and how !",
               "list_im": [
                 {
@@ -228,34 +192,6 @@
                     {
                       "full_en": "he plays the saxtuba - Plays how much ?",
                       "full_vn": "nó biết thổi kèn xactuba- Biết thổi cái đếch gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "how much ?",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) cái quái gì?, cái đếch gì?",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he plays the saxtuba - Plays how much ?",
-                      "full_vn": "nó biết thổi kèn xactuba- Biết thổi cái đếch gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "how's that ?",
-              "list_im": [
-                {
-                  "im_full_vn": "sao thế?; (dùng khi hỏi ý kiến ai); (dùng bởi bên chặn và ném trả bóng trong cricket hỏi trọng tài (xem) người cầm gậy có ra ngoài biên hay không)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "how's that for punctuality ?",
-                      "full_vn": "phải đúng giờ chứ?"
                     }
                   ]
                 }

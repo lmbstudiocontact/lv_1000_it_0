@@ -107,20 +107,6 @@
               ]
             },
             {
-              "id_full_en": "in company",
-              "list_im": [
-                {
-                  "im_full_vn": "với sự có mặt của nhiều người khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's bad manners to whisper in company",
-                      "full_vn": "nói thầm trước mặt những người khác là không lịch sự"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "in company with somebody",
               "list_im": [
                 {
@@ -149,20 +135,6 @@
               "list_im": [
                 {
                   "im_full_vn": "tốt nhất là chỉ có hai người với nhau mà thôi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "for company",
-              "list_im": [
-                {
-                  "im_full_vn": "như một người bạn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I hate going out alone : I take my wife for company",
-                      "full_vn": "Tôi ghét đi chơi một mình : Tôi đưa vợ tôi đi chung cho vui"
-                    }
-                  ]
                 }
               ]
             },

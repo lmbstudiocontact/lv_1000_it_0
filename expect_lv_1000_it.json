@@ -61,20 +61,6 @@
               ]
             },
             {
-              "id_full_en": "to be expecting (a baby /child )",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) có mang, có thai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I hear Sally's expecting again",
-                      "full_vn": "tôi nghe nói Sally lại có mang"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to expect too much of somebody",
               "list_im": [
                 {
@@ -83,56 +69,6 @@
                     {
                       "full_en": "I can't finish the job by Friday - you expect too much of me",
                       "full_vn": "tôi không thể xong việc này vào thứ sáu được - ông trông đợi ở tôi quá nhiều đấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to expect too much of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "đặt quá nhiều hy vọng vào ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I can't finish the job by Friday - you expect too much of me",
-                      "full_vn": "tôi không thể xong việc này vào thứ sáu được - ông trông đợi ở tôi quá nhiều đấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "(only ) to be expected",
-              "list_im": [
-                {
-                  "im_full_vn": "có thể xảy ra, hoàn toàn bình thường",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a little tiredness after taking these drugs is to be expected",
-                      "full_vn": "sau khi dùng thuốc này, nếu thấy mệt mỏi thì cũng là điều bình thường"
-                    },
-                    {
-                      "full_en": "it is only to be expected your son will leave home eventually",
-                      "full_vn": "con trai ông rồi đây sẽ bỏ nhà mà đi là điều rất có thể xảy ra"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "(only ) to be expected",
-              "list_im": [
-                {
-                  "im_full_vn": "có thể xảy ra, hoàn toàn bình thường",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a little tiredness after taking these drugs is to be expected",
-                      "full_vn": "sau khi dùng thuốc này, nếu thấy mệt mỏi thì cũng là điều bình thường"
-                    },
-                    {
-                      "full_en": "it is only to be expected your son will leave home eventually",
-                      "full_vn": "con trai ông rồi đây sẽ bỏ nhà mà đi là điều rất có thể xảy ra"
                     }
                   ]
                 }

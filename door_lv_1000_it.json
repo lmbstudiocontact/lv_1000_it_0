@@ -64,86 +64,6 @@
               ]
             },
             {
-              "id_full_en": "from door to door",
-              "list_im": [
-                {
-                  "im_full_vn": "từ nhà này sang nhà khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the journey takes about an hour door to door",
-                      "full_vn": "cuộc đi thắm mất khoảng một giờ, đi từng nhà một"
-                    },
-                    {
-                      "full_en": "he went from door to door , selling encyclopaedias",
-                      "full_vn": "anh ta đi từng nhà bán các bộ bách khoa toàn thư"
-                    },
-                    {
-                      "full_en": "a door-to-door salesman",
-                      "full_vn": "người đi từng nhà bán hàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "from door to door",
-              "list_im": [
-                {
-                  "im_full_vn": "từ nhà này sang nhà khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the journey takes about an hour door to door",
-                      "full_vn": "cuộc đi thắm mất khoảng một giờ, đi từng nhà một"
-                    },
-                    {
-                      "full_en": "he went from door to door , selling encyclopaedias",
-                      "full_vn": "anh ta đi từng nhà bán các bộ bách khoa toàn thư"
-                    },
-                    {
-                      "full_en": "a door-to-door salesman",
-                      "full_vn": "người đi từng nhà bán hàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "from door to door",
-              "list_im": [
-                {
-                  "im_full_vn": "từ nhà này sang nhà khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the journey takes about an hour door to door",
-                      "full_vn": "cuộc đi thắm mất khoảng một giờ, đi từng nhà một"
-                    },
-                    {
-                      "full_en": "he went from door to door , selling encyclopaedias",
-                      "full_vn": "anh ta đi từng nhà bán các bộ bách khoa toàn thư"
-                    },
-                    {
-                      "full_en": "a door-to-door salesman",
-                      "full_vn": "người đi từng nhà bán hàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "two , three doors along /away /down",
-              "list_im": [
-                {
-                  "im_full_vn": "ở cách đây một hai nhà",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "our other branch is just a few doors down the road",
-                      "full_vn": "chi nhánh khác của chúng tôi chỉ cách đây vài nhà phía dưới con đường này"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "two , three doors along /away /down",
               "list_im": [
                 {
@@ -174,34 +94,6 @@
                     {
                       "full_en": "the blame for the disaster has been laid firmly at the company's door",
                       "full_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to lay the blame at someone's door",
-              "list_im": [
-                {
-                  "im_full_vn": "đổ lỗi cho ai, quy tội cho ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the blame for the disaster has been laid firmly at the company's door",
-                      "full_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to lie at somebody's door",
-              "list_im": [
-                {
-                  "im_full_vn": "có thể quy cho ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the fault lies at your door",
-                      "full_vn": "anh phải chịu trách nhiệm về lỗi đó, lỗi đổ lên đầu anh"
                     }
                   ]
                 }
@@ -248,78 +140,6 @@
               ]
             },
             {
-              "id_full_en": "to go next door to borrow some milk",
-              "list_im": [
-                {
-                  "im_full_vn": "sang nhà bên cạnh vay ít sữa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they live next door to the library",
-                      "full_vn": "họ ở bên cạnh thư viện"
-                    },
-                    {
-                      "full_en": "next door to us there's a couple from USA",
-                      "full_vn": "sát vách chúng tôi có một cặp vợ chồng từ Mỹ về"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to go next door to borrow some milk",
-              "list_im": [
-                {
-                  "im_full_vn": "sang nhà bên cạnh vay ít sữa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they live next door to the library",
-                      "full_vn": "họ ở bên cạnh thư viện"
-                    },
-                    {
-                      "full_en": "next door to us there's a couple from USA",
-                      "full_vn": "sát vách chúng tôi có một cặp vợ chồng từ Mỹ về"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "next door to",
-              "list_im": [
-                {
-                  "im_full_vn": "gần như, hầu như",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm afraid it's next door to impossible that we'll be there on time",
-                      "full_vn": "tôi e rằng hầu như chúng ta không thể đến đó đúng giờ"
-                    },
-                    {
-                      "full_en": "such ideas are next door to madness",
-                      "full_vn": "những ý nghĩ như thế gần như là điên rồ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "next door to",
-              "list_im": [
-                {
-                  "im_full_vn": "gần như, hầu như",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'm afraid it's next door to impossible that we'll be there on time",
-                      "full_vn": "tôi e rằng hầu như chúng ta không thể đến đó đúng giờ"
-                    },
-                    {
-                      "full_en": "such ideas are next door to madness",
-                      "full_vn": "những ý nghĩ như thế gần như là điên rồ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "next door to",
               "list_im": [
                 {
@@ -342,72 +162,6 @@
               "list_im": [
                 {
                   "im_full_vn": "đứng ở cửa (để thu vé, hướng dẫn...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of doors",
-              "list_im": [
-                {
-                  "im_full_vn": "ở ngoài, không ở nhà; ở ngoài trời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to eat /sleep /walk out of doors",
-                      "full_vn": "ăn/ngủ/đi dạo ở ngoài trời"
-                    },
-                    {
-                      "full_en": "to be out of doors",
-                      "full_vn": "đi ra ngoài, đi chơi vắng không ở nhà"
-                    },
-                    {
-                      "full_en": "to play out of doors",
-                      "full_vn": "chơi ở ngoài trời"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of doors",
-              "list_im": [
-                {
-                  "im_full_vn": "ở ngoài, không ở nhà; ở ngoài trời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to eat /sleep /walk out of doors",
-                      "full_vn": "ăn/ngủ/đi dạo ở ngoài trời"
-                    },
-                    {
-                      "full_en": "to be out of doors",
-                      "full_vn": "đi ra ngoài, đi chơi vắng không ở nhà"
-                    },
-                    {
-                      "full_en": "to play out of doors",
-                      "full_vn": "chơi ở ngoài trời"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of doors",
-              "list_im": [
-                {
-                  "im_full_vn": "ở ngoài, không ở nhà; ở ngoài trời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to eat /sleep /walk out of doors",
-                      "full_vn": "ăn/ngủ/đi dạo ở ngoài trời"
-                    },
-                    {
-                      "full_en": "to be out of doors",
-                      "full_vn": "đi ra ngoài, đi chơi vắng không ở nhà"
-                    },
-                    {
-                      "full_en": "to play out of doors",
-                      "full_vn": "chơi ở ngoài trời"
-                    }
-                  ]
                 }
               ]
             },

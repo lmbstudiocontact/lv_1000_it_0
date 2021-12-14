@@ -77,17 +77,6 @@
               ]
             },
             {
-              "id_full_en": "to be death on ...",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) thạo bắn (thú, chim...); thạo, giỏi, cừ (về cái gì...)"
-                },
-                {
-                  "im_full_vn": "yêu thiết tha, yêu say đắm, yêu mê mệt (cái gì...)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to be in at the death",
               "list_im": [
                 {
@@ -101,51 +90,6 @@
                       "full_vn": "(tục ngữ) thà chết vinh còn hơn sống nhục"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be in at the death",
-              "list_im": [
-                {
-                  "im_full_vn": "được mục kích cái chết của con cáo (săn cáo)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) được mục kích sự sụp đổ của một công cuộc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "better a glorious death than a shameful life",
-                      "full_vn": "(tục ngữ) thà chết vinh còn hơn sống nhục"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be in at the death",
-              "list_im": [
-                {
-                  "im_full_vn": "được mục kích cái chết của con cáo (săn cáo)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) được mục kích sự sụp đổ của một công cuộc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "better a glorious death than a shameful life",
-                      "full_vn": "(tục ngữ) thà chết vinh còn hơn sống nhục"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cling (hold on ) like grim death",
-              "list_im": [
-                {
-                  "im_full_vn": "bám không rời, bám chặt"
-                },
-                {
-                  "im_full_vn": "bám một cách tuyệt vọng"
                 }
               ]
             },
@@ -204,35 +148,10 @@
               ]
             },
             {
-              "id_full_en": "sudden death",
-              "list_im": [
-                {
-                  "im_full_vn": "cái chết bất thình lình"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) rượu rất nặng; uýtky rẻ tiền"
-                }
-              ]
-            },
-            {
               "id_full_en": "to tickle to death",
               "list_im": [
                 {
                   "im_full_vn": "làm chết cười"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to the death",
-              "list_im": [
-                {
-                  "im_full_vn": "cho đến chết, cho đến hơi thở cuối cùng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fight to the death for communism",
-                      "full_vn": "chiến đấu đến hơi thở cuối cùng cho chủ nghĩa cộng sản"
-                    }
-                  ]
                 }
               ]
             },

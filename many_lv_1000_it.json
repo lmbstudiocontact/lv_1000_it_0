@@ -35,124 +35,6 @@
               ]
             },
             {
-              "id_full_en": "many a (dùng với một danh từ số ít và động từ cũng ở số ít)",
-              "list_im": [
-                {
-                  "im_full_vn": "hơn một, nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many a time",
-                      "full_vn": "nhiều lần"
-                    },
-                    {
-                      "full_en": "many a strong man has weakened before such a challenge",
-                      "full_vn": "nhiều người đàn ông can đảm đã nhục chí trước một thách thức như vậy"
-                    },
-                    {
-                      "full_en": "many a true word is spoken in jest",
-                      "full_vn": "nhiều lời nói thật được thốt ra khi nói đùa"
-                    },
-                    {
-                      "full_en": "many a man thinks so",
-                      "full_vn": "nhiều người nghĩ như vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "many a (dùng với một danh từ số ít và động từ cũng ở số ít)",
-              "list_im": [
-                {
-                  "im_full_vn": "hơn một, nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many a time",
-                      "full_vn": "nhiều lần"
-                    },
-                    {
-                      "full_en": "many a strong man has weakened before such a challenge",
-                      "full_vn": "nhiều người đàn ông can đảm đã nhục chí trước một thách thức như vậy"
-                    },
-                    {
-                      "full_en": "many a true word is spoken in jest",
-                      "full_vn": "nhiều lời nói thật được thốt ra khi nói đùa"
-                    },
-                    {
-                      "full_en": "many a man thinks so",
-                      "full_vn": "nhiều người nghĩ như vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "many a (dùng với một danh từ số ít và động từ cũng ở số ít)",
-              "list_im": [
-                {
-                  "im_full_vn": "hơn một, nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many a time",
-                      "full_vn": "nhiều lần"
-                    },
-                    {
-                      "full_en": "many a strong man has weakened before such a challenge",
-                      "full_vn": "nhiều người đàn ông can đảm đã nhục chí trước một thách thức như vậy"
-                    },
-                    {
-                      "full_en": "many a true word is spoken in jest",
-                      "full_vn": "nhiều lời nói thật được thốt ra khi nói đùa"
-                    },
-                    {
-                      "full_en": "many a man thinks so",
-                      "full_vn": "nhiều người nghĩ như vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "many a (dùng với một danh từ số ít và động từ cũng ở số ít)",
-              "list_im": [
-                {
-                  "im_full_vn": "hơn một, nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many a time",
-                      "full_vn": "nhiều lần"
-                    },
-                    {
-                      "full_en": "many a strong man has weakened before such a challenge",
-                      "full_vn": "nhiều người đàn ông can đảm đã nhục chí trước một thách thức như vậy"
-                    },
-                    {
-                      "full_en": "many a true word is spoken in jest",
-                      "full_vn": "nhiều lời nói thật được thốt ra khi nói đùa"
-                    },
-                    {
-                      "full_en": "many a man thinks so",
-                      "full_vn": "nhiều người nghĩ như vậy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "... too many",
-              "list_im": [
-                {
-                  "im_full_vn": "thừa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "there are six of them - two too many for a touring-car",
-                      "full_vn": "cả thảy bọn họ là sáu người- thừa hai người đối với một xe du lịch"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "... too many",
               "list_im": [
                 {
@@ -171,42 +53,6 @@
               "list_im": [
                 {
                   "im_full_vn": "rất nhiều"
-                }
-              ]
-            },
-            {
-              "id_full_en": "many's the somebody /something who /that",
-              "list_im": [
-                {
-                  "im_full_vn": "có nhiều người/thứ mà...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many's the promise that has been broken",
-                      "full_vn": "đã có nhiều lời hứa không được thực hiện"
-                    },
-                    {
-                      "full_en": "many's the time that I heard him use those words",
-                      "full_vn": "đã nhiều lần tôi nghe anh ta dùng các từ đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "many's the somebody /something who /that",
-              "list_im": [
-                {
-                  "im_full_vn": "có nhiều người/thứ mà...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "many's the promise that has been broken",
-                      "full_vn": "đã có nhiều lời hứa không được thực hiện"
-                    },
-                    {
-                      "full_en": "many's the time that I heard him use those words",
-                      "full_vn": "đã nhiều lần tôi nghe anh ta dùng các từ đó"
-                    }
-                  ]
                 }
               ]
             },
@@ -286,7 +132,9 @@
         {
           "m_full_vn": "( the many ) phần lớn mọi người; quần chúng",
           "list_one_mean": [
-            {}
+            {
+              "id_full_en": ""
+            }
           ]
         }
       ]

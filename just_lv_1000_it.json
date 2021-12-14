@@ -213,34 +213,6 @@
               ]
             },
             {
-              "id_full_en": "it is just as well (that ...)",
-              "list_im": [
-                {
-                  "im_full_vn": "đó là một điều tốt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's just as well that we didn't go out in the rain",
-                      "full_vn": "chúng ta không đi chơi lúc mưa thế này thì quả là điều tốt"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "it is /would be just as well (to do something )",
-              "list_im": [
-                {
-                  "im_full_vn": "nên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it would be just as well to lock the door when you go out",
-                      "full_vn": "nên khoá cửa khi anh đi vắng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "it is /would be just as well (to do something )",
               "list_im": [
                 {
@@ -267,56 +239,6 @@
                     {
                       "full_en": "tell her to come to the party (dressed ) just as she is",
                       "full_vn": "bảo cô ấy đến dự liên hoan cứ mặc như bình thường"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just as one /it is",
-              "list_im": [
-                {
-                  "im_full_vn": "không có trang trí hoặc sửa đổi gì đặc biệt; nguyên xi; y nguyên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the trousers are rather long , but I'll take them just as they are",
-                      "full_vn": "cái quần hơi dài, nhưng tôi sẽ mặc y nguyên như thế"
-                    },
-                    {
-                      "full_en": "tell her to come to the party (dressed ) just as she is",
-                      "full_vn": "bảo cô ấy đến dự liên hoan cứ mặc như bình thường"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just as one /it is",
-              "list_im": [
-                {
-                  "im_full_vn": "không có trang trí hoặc sửa đổi gì đặc biệt; nguyên xi; y nguyên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the trousers are rather long , but I'll take them just as they are",
-                      "full_vn": "cái quần hơi dài, nhưng tôi sẽ mặc y nguyên như thế"
-                    },
-                    {
-                      "full_en": "tell her to come to the party (dressed ) just as she is",
-                      "full_vn": "bảo cô ấy đến dự liên hoan cứ mặc như bình thường"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just in case",
-              "list_im": [
-                {
-                  "im_full_vn": "như một sự đề phòng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the sun is shining , but I'll take an umbrella just in case",
-                      "full_vn": "trời đang nắng, nhưng tôi vẫn mang ô theo để phòng xa"
                     }
                   ]
                 }
@@ -367,86 +289,6 @@
               ]
             },
             {
-              "id_full_en": "just now",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay bây giờ; lúc này; vừa mới",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come and see me later , but not just now",
-                      "full_vn": "hãy đến gặp tôi sau này, còn ngay bây giờ thì đừng"
-                    },
-                    {
-                      "full_en": "business is good just now",
-                      "full_vn": "lúc này làm ăn khá"
-                    },
-                    {
-                      "full_en": "I saw him just now",
-                      "full_vn": "tôi vừa mới gặp nó xong"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just now",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay bây giờ; lúc này; vừa mới",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come and see me later , but not just now",
-                      "full_vn": "hãy đến gặp tôi sau này, còn ngay bây giờ thì đừng"
-                    },
-                    {
-                      "full_en": "business is good just now",
-                      "full_vn": "lúc này làm ăn khá"
-                    },
-                    {
-                      "full_en": "I saw him just now",
-                      "full_vn": "tôi vừa mới gặp nó xong"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just now",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay bây giờ; lúc này; vừa mới",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come and see me later , but not just now",
-                      "full_vn": "hãy đến gặp tôi sau này, còn ngay bây giờ thì đừng"
-                    },
-                    {
-                      "full_en": "business is good just now",
-                      "full_vn": "lúc này làm ăn khá"
-                    },
-                    {
-                      "full_en": "I saw him just now",
-                      "full_vn": "tôi vừa mới gặp nó xong"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just on",
-              "list_im": [
-                {
-                  "im_full_vn": "(với các con số) chính xác, vừa đúng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she's just on ninety years old",
-                      "full_vn": "bà cụ vừa đúng chín mươi tuổi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "just on",
               "list_im": [
                 {
@@ -475,20 +317,6 @@
               ]
             },
             {
-              "id_full_en": "(not ) just any",
-              "list_im": [
-                {
-                  "im_full_vn": "(không) chỉ là bừa bãi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you can't ask just anybody to the party",
-                      "full_vn": "không thể bạ ai cũng mời dự tiệc được"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "just the same",
               "list_im": [
                 {
@@ -501,78 +329,6 @@
                     {
                       "full_en": "the sun's out , but I'll take a raincoat just the same",
                       "full_vn": "trời nắng, nhưng tôi vẫn cứ mang áo mưa đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just the same",
-              "list_im": [
-                {
-                  "im_full_vn": "giống y hệt; tuy nhiên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "these two pictures are just the same (as each other )",
-                      "full_vn": "hai bức ảnh này giống hệt nhau"
-                    },
-                    {
-                      "full_en": "the sun's out , but I'll take a raincoat just the same",
-                      "full_vn": "trời nắng, nhưng tôi vẫn cứ mang áo mưa đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just the same",
-              "list_im": [
-                {
-                  "im_full_vn": "giống y hệt; tuy nhiên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "these two pictures are just the same (as each other )",
-                      "full_vn": "hai bức ảnh này giống hệt nhau"
-                    },
-                    {
-                      "full_en": "the sun's out , but I'll take a raincoat just the same",
-                      "full_vn": "trời nắng, nhưng tôi vẫn cứ mang áo mưa đi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just so",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn toàn đúng; ngăn nắp (đâu vào đấy)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Your name is Smythe, is it ? - Just so",
-                      "full_vn": "Anh tên là Smythe, phải không? - Đúng vậy"
-                    },
-                    {
-                      "full_en": "She cannot bear an untidy desk . Everything must be just so",
-                      "full_vn": "Bà ta không chịu được cái bàn làm việc lộn xộn. Mọi thứ phải đâu vào đấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just so",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn toàn đúng; ngăn nắp (đâu vào đấy)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Your name is Smythe, is it ? - Just so",
-                      "full_vn": "Anh tên là Smythe, phải không? - Đúng vậy"
-                    },
-                    {
-                      "full_en": "She cannot bear an untidy desk . Everything must be just so",
-                      "full_vn": "Bà ta không chịu được cái bàn làm việc lộn xộn. Mọi thứ phải đâu vào đấy"
                     }
                   ]
                 }
@@ -611,34 +367,6 @@
               ]
             },
             {
-              "id_full_en": "just such a something",
-              "list_im": [
-                {
-                  "im_full_vn": "cái gì giống y như vậy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it was on just such a day (as this ) that we left for France",
-                      "full_vn": "chính là vào một ngày như thế này mà chúng tôi lên đường sang Pháp"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "(it's / that's ) just too bad",
-              "list_im": [
-                {
-                  "im_full_vn": "không cách gì cứu vãn được, phải cố mà xoay sở",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I've left my purse at home - That's just too bad , I'm afraid",
-                      "full_vn": "Tôi bỏ quên cái ví ở nhà rồi - Tôi e rằng vậy là vô phương cứu chữa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "(it's / that's ) just too bad",
               "list_im": [
                 {
@@ -661,34 +389,6 @@
                     {
                       "full_en": "the weather was so bad on holiday we might just as well have stayed at home",
                       "full_vn": "thời tiết rất xấu trong kỳ nghỉ phép, giá mà chúng tôi ở nhà thì tốt hơn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "one might just as well be /do something",
-              "list_im": [
-                {
-                  "im_full_vn": "giá mà, giá như",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the weather was so bad on holiday we might just as well have stayed at home",
-                      "full_vn": "thời tiết rất xấu trong kỳ nghỉ phép, giá mà chúng tôi ở nhà thì tốt hơn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "not just yet",
-              "list_im": [
-                {
-                  "im_full_vn": "sắp sửa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Are you ready ? - Not just yet",
-                      "full_vn": "Anh sẵn sàng chưa? - Sắp xong rồi đây"
                     }
                   ]
                 }

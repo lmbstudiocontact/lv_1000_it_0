@@ -99,17 +99,6 @@
               ]
             },
             {
-              "id_full_en": "to go by the board",
-              "list_im": [
-                {
-                  "im_full_vn": "rơi từ trên tàu xuống"
-                },
-                {
-                  "im_full_vn": "bị phớt lờ (kế hoạch, ý kiến, chương trình...))"
-                }
-              ]
-            },
-            {
               "id_full_en": "to be above board",
               "list_im": [
                 {
@@ -182,17 +171,6 @@
         {
           "m_full_vn": "khám sức khoẻ (trước hội đồng y khoa)",
           "list_one_mean": [
-            {
-              "id_full_en": "to board out",
-              "list_im": [
-                {
-                  "im_full_vn": "ăn cơm tháng (ở nhà khác nhà mình ở)"
-                },
-                {
-                  "im_full_vn": "cho ra khỏi quân đội (vì thiếu sức khoẻ)"
-                }
-              ]
-            },
             {
               "id_full_en": "to board out",
               "list_im": [

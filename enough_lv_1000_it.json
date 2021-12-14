@@ -86,38 +86,10 @@
               ]
             },
             {
-              "id_full_en": "curiously /oddly /strangely enough",
-              "list_im": [
-                {
-                  "im_full_vn": "rất kỳ lạ là...; điều lạ là...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "strangely enough , I said the same thing to my wife only yesterday",
-                      "full_vn": "rất kỳ lạ là tôi đã nói cũng điều ấy với vợ tôi chỉ mới ngày hôm qua"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "fair enough",
               "list_im": [
                 {
                   "im_full_vn": "(dùng làm thán từ) thôi được, tôi chấp nhận (đồng ý một cách miễn cưỡng)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "sure enough",
-              "list_im": [
-                {
-                  "im_full_vn": "(dùng để mở đầu một lời nói xác nhận một điều tiên đoán) không còn nghi ngờ gì nữa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I said it would happen and sure enough it did",
-                      "full_vn": "tôi đã nói điều đó sẽ xảy ra và không còn nghi ngờ gì nữa, nó đã xảy ra"
-                    }
-                  ]
                 }
               ]
             },
@@ -156,42 +128,6 @@
               "list_im": [
                 {
                   "im_full_vn": "nói thêm hoặc làm thêm là không cần thiết và có thể có hại"
-                }
-              ]
-            },
-            {
-              "id_full_en": "have had enough of somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "chán ngấy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "after three years without promotion , he decided he'd had enough and resigned",
-                      "full_vn": "sau ba năm không được thăng chức, anh ta quyết không chịu đựng nữa và từ chức"
-                    },
-                    {
-                      "full_en": "I've had enough of her continual chatter",
-                      "full_vn": "tôi đã chán ngấy cái cách nói huyên thuyên không ngớt của cô ấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "have had enough of somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "chán ngấy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "after three years without promotion , he decided he'd had enough and resigned",
-                      "full_vn": "sau ba năm không được thăng chức, anh ta quyết không chịu đựng nữa và từ chức"
-                    },
-                    {
-                      "full_en": "I've had enough of her continual chatter",
-                      "full_vn": "tôi đã chán ngấy cái cách nói huyên thuyên không ngớt của cô ấy"
-                    }
-                  ]
                 }
               ]
             },

@@ -142,32 +142,10 @@
               ]
             },
             {
-              "id_full_en": "to move about",
-              "list_im": [
-                {
-                  "im_full_vn": "đi đi lại lại, đi quanh, chuyển quanh"
-                },
-                {
-                  "im_full_vn": "hay dọn nhà, hay thay đổi chỗ ở"
-                }
-              ]
-            },
-            {
               "id_full_en": "to move along",
               "list_im": [
                 {
                   "im_full_vn": "tiến lên"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to move away",
-              "list_im": [
-                {
-                  "im_full_vn": "dọn đi, cất đi"
-                },
-                {
-                  "im_full_vn": "đi xa, đi hẳn"
                 }
               ]
             },
@@ -211,20 +189,6 @@
               "list_im": [
                 {
                   "im_full_vn": "ra đi, đi xa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to move on",
-              "list_im": [
-                {
-                  "im_full_vn": "cho đi tiếp; tiến lên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "move on",
-                      "full_vn": "đề nghị đi đi, đừng đứng ùn lại (lệnh của công an (giao thông))"
-                    }
-                  ]
                 }
               ]
             },

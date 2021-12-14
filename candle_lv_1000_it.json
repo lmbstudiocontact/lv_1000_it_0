@@ -1,0 +1,65 @@
+{
+  "english": "candle",
+  "phat_am": "['kændl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây nến"
+        },
+        {
+          "m_full_vn": "(vật lý) nến ( (cũng) candle power )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to burn the candle at both ends",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) burn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "can't hold a candle to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng so sánh với ai/cái gì; kém xa ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she writes quite amusing stories but she can't hold a candle to the serious novelists",
+                      "full_vn": "cô ta viết truyện vui nhưng vẫn kém xa các nhà tiểu thuyết nghiêm túc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is not worth the candle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) game"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when candles are out , all cats are grey",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tắt đèn nhà ngói cũng như nhà tranh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "soi (trứng)"
+        }
+      ]
+    }
+  ]
+}

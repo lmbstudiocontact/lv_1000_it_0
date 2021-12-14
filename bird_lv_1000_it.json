@@ -72,17 +72,6 @@
               ]
             },
             {
-              "id_full_en": "bird of ill omen",
-              "list_im": [
-                {
-                  "im_full_vn": "người mang tin xấu"
-                },
-                {
-                  "im_full_vn": "người không may, người gặp vận rủi"
-                }
-              ]
-            },
-            {
               "id_full_en": "bird of passage",
               "list_im": [
                 {
@@ -106,28 +95,6 @@
                 },
                 {
                   "im_full_vn": "bị đuổi đi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to get the bird",
-              "list_im": [
-                {
-                  "im_full_vn": "bị huýt sáo, bị la ó"
-                },
-                {
-                  "im_full_vn": "bị đuổi đi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to give someone the bird",
-              "list_im": [
-                {
-                  "im_full_vn": "huýt sáo ai, la ó ai"
-                },
-                {
-                  "im_full_vn": "đuổi ai, tống cổ ai đi"
                 }
               ]
             },

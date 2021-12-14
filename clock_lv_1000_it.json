@@ -26,34 +26,6 @@
               ]
             },
             {
-              "id_full_en": "like a clock",
-              "list_im": [
-                {
-                  "im_full_vn": "đều đặn, chạy đều, trơn tru, trôi chảy",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "everything went like a clock",
-                      "full_vn": "mọi việc đều trôi chảy; mọi việc vẫn chạy đều"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to put the clock back",
-              "list_im": [
-                {
-                  "im_full_vn": "(nghĩa bóng) quay lại thời kỳ đã qua; đi ngược lại bánh xe lịch sử, ngăn chặn sự phát triển",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the new censorship law will put the clock back (by ) 50 years",
-                      "full_vn": "luật kiểm duyệt mới sẽ đẩy thời gian lùi lại 50 năm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to put the clock back",
               "list_im": [
                 {
@@ -76,34 +48,6 @@
                     {
                       "full_en": "remember to put the clock back one hour tonight",
                       "full_vn": "đêm nay nhớ chỉnh đồng hồ lùi lại một giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to put the clock /clocks forward /back",
-              "list_im": [
-                {
-                  "im_full_vn": "(ở những nước có thời gian mùa hè công bố chính thức) thay đổi thời gian, thường là một giờ đồng hồ vào đầu/cuối mùa hè",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "remember to put the clock back one hour tonight",
-                      "full_vn": "đêm nay nhớ chỉnh đồng hồ lùi lại một giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to work around /round the clock",
-              "list_im": [
-                {
-                  "im_full_vn": "làm việc suốt ngày đêm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "surgeons are working round the clock to save his life",
-                      "full_vn": "các bác sĩ phẫu thuật đang làm việc suốt ngày đêm để cứu sống anh ta"
                     }
                   ]
                 }
@@ -167,56 +111,6 @@
                     {
                       "full_en": "If you do that again , I'll clock you one",
                       "full_vn": "Nếu anh còn làm như vậy nữa, tôi sẽ bạt tai anh đấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clock somebody one",
-              "list_im": [
-                {
-                  "im_full_vn": "đánh vào mặt ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "If you do that again , I'll clock you one",
-                      "full_vn": "Nếu anh còn làm như vậy nữa, tôi sẽ bạt tai anh đấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clock somebody in /on ; to clock somebody out /off ; to punch somebody in /out",
-              "list_im": [
-                {
-                  "im_full_vn": "ghi thời gian của một người đến làm việc hoặc ra về (nhất là bằng thiết bị tự động)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "workers usually clock off at 5.30",
-                      "full_vn": "công nhân thường nghỉ việc lúc 5 giờ 30"
-                    },
-                    {
-                      "full_en": "what is clock-in /clocking-in time at your office ?",
-                      "full_vn": "cơ quan anh vào làm việc lúc mấy giờ?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to clock somebody in /on ; to clock somebody out /off ; to punch somebody in /out",
-              "list_im": [
-                {
-                  "im_full_vn": "ghi thời gian của một người đến làm việc hoặc ra về (nhất là bằng thiết bị tự động)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "workers usually clock off at 5.30",
-                      "full_vn": "công nhân thường nghỉ việc lúc 5 giờ 30"
-                    },
-                    {
-                      "full_en": "what is clock-in /clocking-in time at your office ?",
-                      "full_vn": "cơ quan anh vào làm việc lúc mấy giờ?"
                     }
                   ]
                 }

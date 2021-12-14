@@ -137,42 +137,6 @@
               ]
             },
             {
-              "id_full_en": "on one's own account",
-              "list_im": [
-                {
-                  "im_full_vn": "vì lợi ích của riêng mình và sự nguy hiểm của riêng mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to work on one's own account",
-                      "full_vn": "làm việc cho bản thân mình"
-                    },
-                    {
-                      "full_en": "I was worried on my own account , not yours",
-                      "full_vn": "Tôi lo là lo cho tôi, chứ đâu phải cho anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on one's own account",
-              "list_im": [
-                {
-                  "im_full_vn": "vì lợi ích của riêng mình và sự nguy hiểm của riêng mình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to work on one's own account",
-                      "full_vn": "làm việc cho bản thân mình"
-                    },
-                    {
-                      "full_en": "I was worried on my own account , not yours",
-                      "full_vn": "Tôi lo là lo cho tôi, chứ đâu phải cho anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "on somebody's account",
               "list_im": [
                 {
@@ -183,31 +147,6 @@
                       "full_vn": "đừng vì tôi mà thay đổi kế hoạch của anh"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on somebody's account",
-              "list_im": [
-                {
-                  "im_full_vn": "vì lợi ích của ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "don't change your plan on my account",
-                      "full_vn": "đừng vì tôi mà thay đổi kế hoạch của anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to settle (square , balance ) accounts with somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "thanh toán với ai"
-                },
-                {
-                  "im_full_vn": "trả thù ai, thanh toán mối thù với ai"
                 }
               ]
             },
@@ -254,93 +193,10 @@
               ]
             },
             {
-              "id_full_en": "on account",
-              "list_im": [
-                {
-                  "im_full_vn": "trả trước cho một khoản lớn hơn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll give you 200 francs on account",
-                      "full_vn": "Tôi sẽ trả trước cho anh 200 quan"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "được trả sau; mua chịu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to buy something on account",
-                      "full_vn": "mua chịu cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on account",
-              "list_im": [
-                {
-                  "im_full_vn": "trả trước cho một khoản lớn hơn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll give you 200 francs on account",
-                      "full_vn": "Tôi sẽ trả trước cho anh 200 quan"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "được trả sau; mua chịu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to buy something on account",
-                      "full_vn": "mua chịu cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on account",
-              "list_im": [
-                {
-                  "im_full_vn": "trả trước cho một khoản lớn hơn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll give you 200 francs on account",
-                      "full_vn": "Tôi sẽ trả trước cho anh 200 quan"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "được trả sau; mua chịu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to buy something on account",
-                      "full_vn": "mua chịu cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "on account of something ; on this /that account",
               "list_im": [
                 {
                   "im_full_vn": "do cái gì; vì lý do này/nọ"
-                }
-              ]
-            },
-            {
-              "id_full_en": "on no account ; not on any account",
-              "list_im": [
-                {
-                  "im_full_vn": "không vì bất kỳ lý do nào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "don't on any account leave the prisoner unguarded",
-                      "full_vn": "không vì bất cứ lý do nào mà bỏ canh gác tù nhân"
-                    }
-                  ]
                 }
               ]
             },

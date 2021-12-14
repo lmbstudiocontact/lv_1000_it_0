@@ -23,31 +23,6 @@
               ]
             },
             {
-              "id_full_en": "the best part",
-              "list_im": [
-                {
-                  "im_full_vn": "đại bộ phận",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the best part of the year",
-                      "full_vn": "phần lớn thời gian trong năm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to put one's best leg (foot ) foremost",
-              "list_im": [
-                {
-                  "im_full_vn": "đi thật nhanh, đi ba chân bốn cẳng"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) làm công việc mình thành thạo nhất"
-                }
-              ]
-            },
-            {
               "id_full_en": "to put one's best leg (foot ) foremost",
               "list_im": [
                 {
@@ -110,42 +85,6 @@
         {
           "m_full_vn": "tốt nhất, hay nhất; hơn nhất",
           "list_one_mean": [
-            {
-              "id_full_en": "had best",
-              "list_im": [
-                {
-                  "im_full_vn": "tốt nhất là, khôn hơn hết là",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we had best go home now",
-                      "full_vn": "tốt nhất là bây giờ chúng ta về nhà"
-                    },
-                    {
-                      "full_en": "the best abused",
-                      "full_vn": "(thông tục) bị chửi nhiều nhất (người, vật...)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "had best",
-              "list_im": [
-                {
-                  "im_full_vn": "tốt nhất là, khôn hơn hết là",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we had best go home now",
-                      "full_vn": "tốt nhất là bây giờ chúng ta về nhà"
-                    },
-                    {
-                      "full_en": "the best abused",
-                      "full_vn": "(thông tục) bị chửi nhiều nhất (người, vật...)"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "had best",
               "list_im": [
@@ -282,17 +221,6 @@
               ]
             },
             {
-              "id_full_en": "to make the best (use ) of something",
-              "list_im": [
-                {
-                  "im_full_vn": "tận dụng cái hay, cái tốt đẹp của việc gì"
-                },
-                {
-                  "im_full_vn": "chịu đựng cái gì"
-                }
-              ]
-            },
-            {
               "id_full_en": "to make the best of one's time",
               "list_im": [
                 {
@@ -329,20 +257,6 @@
               "list_im": [
                 {
                   "im_full_vn": "với tất cả khả năng của mình"
-                }
-              ]
-            },
-            {
-              "id_full_en": "with the best",
-              "list_im": [
-                {
-                  "im_full_vn": "như bất cứ ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "although he is nearly sixty , he can still carry 40 kg on his shoulder with the best",
-                      "full_vn": "mặc dù đã gần sáu mươi tuổi, cụ ấy vẫn gánh được 40 kg như những người khác"
-                    }
-                  ]
                 }
               ]
             },

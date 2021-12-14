@@ -76,20 +76,6 @@
               ]
             },
             {
-              "id_full_en": "to /till the last",
-              "list_im": [
-                {
-                  "im_full_vn": "đến hơi thở cuối cùng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fight to the last",
-                      "full_vn": "chiến đấu đến hơi thở cuối cùng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to breathe one's last",
               "list_im": [
                 {
@@ -231,20 +217,6 @@
               ]
             },
             {
-              "id_full_en": "every last /single one",
-              "list_im": [
-                {
-                  "im_full_vn": "bao gọi mọi người hoặc mọi vật trong một nhóm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we spent every last penny we had on the house",
-                      "full_vn": "chúng tôi đã tiêu đến xu cuối cùng vào cái nhà này"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "famous last words",
               "list_im": [
                 {
@@ -355,20 +327,6 @@
               ]
             },
             {
-              "id_full_en": "the last word in something",
-              "list_im": [
-                {
-                  "im_full_vn": "cái mới nhất, tiên tiến nhất",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "ten years ago , this dress was considered the last word in elegance",
-                      "full_vn": "cách đây mười năm, cái áo này được coi là thanh lịch nhất"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "the last word on something",
               "list_im": [
                 {
@@ -454,34 +412,6 @@
                     {
                       "full_en": "the firm will apply the principle of 'last in , first out'",
                       "full_vn": "công ty sẽ áp dụng nguyên tắc ai mới được nhận vào làm sẽ bị sa thải đầu tiên"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "last in , first out",
-              "list_im": [
-                {
-                  "im_full_vn": "vào sau cùng thì ra trước hết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the firm will apply the principle of 'last in , first out'",
-                      "full_vn": "công ty sẽ áp dụng nguyên tắc ai mới được nhận vào làm sẽ bị sa thải đầu tiên"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "last but not least",
-              "list_im": [
-                {
-                  "im_full_vn": "cuối cùng nhưng không phải kém quan trọng những cái khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "and last but not least there is the question of adequate funding",
-                      "full_vn": "cuối cùng nhưng không kém quan trọng là vấn đề tài trợ thích đáng"
                     }
                   ]
                 }

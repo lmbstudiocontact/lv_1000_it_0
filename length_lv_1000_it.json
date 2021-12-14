@@ -84,80 +84,6 @@
               ]
             },
             {
-              "id_full_en": "at length",
-              "list_im": [
-                {
-                  "im_full_vn": "sau hết, cuối cùng, rốt cuộc"
-                },
-                {
-                  "im_full_vn": "đầy đủ chi tiết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "At length the bus arrived , 40 minutes late",
-                      "full_vn": "Cuối cùng rồi xe búyt cũng đến, chậm mất 40 phút"
-                    },
-                    {
-                      "full_en": "to discuss something at some , great , excessive length",
-                      "full_vn": "thảo luận điều gì hơi, rất, quá chi tiết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at length",
-              "list_im": [
-                {
-                  "im_full_vn": "sau hết, cuối cùng, rốt cuộc"
-                },
-                {
-                  "im_full_vn": "đầy đủ chi tiết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "At length the bus arrived , 40 minutes late",
-                      "full_vn": "Cuối cùng rồi xe búyt cũng đến, chậm mất 40 phút"
-                    },
-                    {
-                      "full_en": "to discuss something at some , great , excessive length",
-                      "full_vn": "thảo luận điều gì hơi, rất, quá chi tiết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at length",
-              "list_im": [
-                {
-                  "im_full_vn": "sau hết, cuối cùng, rốt cuộc"
-                },
-                {
-                  "im_full_vn": "đầy đủ chi tiết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "At length the bus arrived , 40 minutes late",
-                      "full_vn": "Cuối cùng rồi xe búyt cũng đến, chậm mất 40 phút"
-                    },
-                    {
-                      "full_en": "to discuss something at some , great , excessive length",
-                      "full_vn": "thảo luận điều gì hơi, rất, quá chi tiết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at full length",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn toàn đầy đủ, không rút gọn, không cắt xén; không viết tắt (chữ viết)"
-                },
-                {
-                  "im_full_vn": "nằm dài"
-                }
-              ]
-            },
-            {
               "id_full_en": "at full length",
               "list_im": [
                 {
@@ -185,56 +111,6 @@
                     {
                       "full_en": "to travel the length and breadth of the British Isles",
                       "full_vn": "đi du lịch khắp quần đảo Anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "the length and breadth of sth",
-              "list_im": [
-                {
-                  "im_full_vn": "ngang dọc khắp cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to travel the length and breadth of the British Isles",
-                      "full_vn": "đi du lịch khắp quần đảo Anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to go to any length",
-              "list_im": [
-                {
-                  "im_full_vn": "làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they went to absurd lengths to keep the affair secret",
-                      "full_vn": "chúng làm mọi điều phi lý để bưng bít sự việc"
-                    },
-                    {
-                      "full_en": "there are no lengths to which an addict will not go to obtain his drug",
-                      "full_vn": "không có việc gì mà kẻ nghiện không dám làm để có ma túy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to go to any length",
-              "list_im": [
-                {
-                  "im_full_vn": "làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they went to absurd lengths to keep the affair secret",
-                      "full_vn": "chúng làm mọi điều phi lý để bưng bít sự việc"
-                    },
-                    {
-                      "full_en": "there are no lengths to which an addict will not go to obtain his drug",
-                      "full_vn": "không có việc gì mà kẻ nghiện không dám làm để có ma túy"
                     }
                   ]
                 }

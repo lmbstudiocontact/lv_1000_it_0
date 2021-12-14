@@ -89,20 +89,6 @@
               ]
             },
             {
-              "id_full_en": "the other day /week /month",
-              "list_im": [
-                {
-                  "im_full_vn": "mới đây, gần đây",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I saw him in town the other day",
-                      "full_vn": "mới gần đây tôi trông thấy hắn trong thị trấn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "somebody /something /somewhere or other",
               "list_im": [
                 {
@@ -115,72 +101,6 @@
               "list_im": [
                 {
                   "im_full_vn": "xem this"
-                }
-              ]
-            },
-            {
-              "id_full_en": "other ...than",
-              "list_im": [
-                {
-                  "im_full_vn": "(người, vật...) khác với...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you'll have time to visit other places than those on the itinerary",
-                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
-                    },
-                    {
-                      "full_en": "other women than Sally would have said nothing",
-                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
-                    },
-                    {
-                      "full_en": "I want to meet other employees than those in the computer room",
-                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "other ...than",
-              "list_im": [
-                {
-                  "im_full_vn": "(người, vật...) khác với...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you'll have time to visit other places than those on the itinerary",
-                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
-                    },
-                    {
-                      "full_en": "other women than Sally would have said nothing",
-                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
-                    },
-                    {
-                      "full_en": "I want to meet other employees than those in the computer room",
-                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "other ...than",
-              "list_im": [
-                {
-                  "im_full_vn": "(người, vật...) khác với...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you'll have time to visit other places than those on the itinerary",
-                      "full_vn": "anh sẽ có thời gian thăm những nơi khác ngoài những nơi đã ghi trên lộ trình"
-                    },
-                    {
-                      "full_en": "other women than Sally would have said nothing",
-                      "full_vn": "những phụ nữ khác ngoài Sally sẽ không nói gì đâu"
-                    },
-                    {
-                      "full_en": "I want to meet other employees than those in the computer room",
-                      "full_vn": "tôi muốn gặp những nhân viên khác ngoài những nhân viên trong phòng máy"
-                    }
-                  ]
                 }
               ]
             },

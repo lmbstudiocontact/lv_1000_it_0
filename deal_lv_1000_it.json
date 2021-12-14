@@ -65,20 +65,6 @@
               ]
             },
             {
-              "id_full_en": "a fair /square deal",
-              "list_im": [
-                {
-                  "im_full_vn": "sự đối xử thẳng thắn, công bằng trong kinh doanh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we offer you a fair deal on furniture",
-                      "full_vn": "chúng tôi cho ông cái giá rất phải chăng về đồ đạc trong nhà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to make the best of a bad deal",
               "list_im": [
                 {
@@ -91,110 +77,6 @@
               "list_im": [
                 {
                   "im_full_vn": "sự đối xử không thẳng thắn, không công bằng"
-                }
-              ]
-            },
-            {
-              "id_full_en": "a good /great deal of something",
-              "list_im": [
-                {
-                  "im_full_vn": "nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to spend a good deal of money",
-                      "full_vn": "tiêu nhiều tiền"
-                    },
-                    {
-                      "full_en": "to take a great deal of trouble",
-                      "full_vn": "tốn nhiều công khó nhọc"
-                    },
-                    {
-                      "full_en": "to be a great deal better",
-                      "full_vn": "tốt hơn nhiều"
-                    },
-                    {
-                      "full_en": "to see somebody a great deal",
-                      "full_vn": "gặp ai nhiều lần, gặp ai hoài"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "a good /great deal of something",
-              "list_im": [
-                {
-                  "im_full_vn": "nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to spend a good deal of money",
-                      "full_vn": "tiêu nhiều tiền"
-                    },
-                    {
-                      "full_en": "to take a great deal of trouble",
-                      "full_vn": "tốn nhiều công khó nhọc"
-                    },
-                    {
-                      "full_en": "to be a great deal better",
-                      "full_vn": "tốt hơn nhiều"
-                    },
-                    {
-                      "full_en": "to see somebody a great deal",
-                      "full_vn": "gặp ai nhiều lần, gặp ai hoài"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "a good /great deal of something",
-              "list_im": [
-                {
-                  "im_full_vn": "nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to spend a good deal of money",
-                      "full_vn": "tiêu nhiều tiền"
-                    },
-                    {
-                      "full_en": "to take a great deal of trouble",
-                      "full_vn": "tốn nhiều công khó nhọc"
-                    },
-                    {
-                      "full_en": "to be a great deal better",
-                      "full_vn": "tốt hơn nhiều"
-                    },
-                    {
-                      "full_en": "to see somebody a great deal",
-                      "full_vn": "gặp ai nhiều lần, gặp ai hoài"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "a good /great deal of something",
-              "list_im": [
-                {
-                  "im_full_vn": "nhiều",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to spend a good deal of money",
-                      "full_vn": "tiêu nhiều tiền"
-                    },
-                    {
-                      "full_en": "to take a great deal of trouble",
-                      "full_vn": "tốn nhiều công khó nhọc"
-                    },
-                    {
-                      "full_en": "to be a great deal better",
-                      "full_vn": "tốt hơn nhiều"
-                    },
-                    {
-                      "full_en": "to see somebody a great deal",
-                      "full_vn": "gặp ai nhiều lần, gặp ai hoài"
-                    }
-                  ]
                 }
               ]
             },

@@ -102,56 +102,6 @@
               ]
             },
             {
-              "id_full_en": "after hours",
-              "list_im": [
-                {
-                  "im_full_vn": "sau khoảng thời gian làm việc bình thường hàng ngày",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "staff must stay behind after hours to catch up on their work",
-                      "full_vn": "nhân viên phải ở lại sau giờ làm việc để làm nốt công việc"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at /till all hours",
-              "list_im": [
-                {
-                  "im_full_vn": "cho đến bất cứ lúc nào (dù không thích hợp hoặc không thuận tiện)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she stays out till all hours",
-                      "full_vn": "cô ấy đi chơi đến tận khuya"
-                    },
-                    {
-                      "full_en": "he's inclined to telephone at all hours of the day or night",
-                      "full_vn": "anh ta có thói gọi điện thoại bất kể giờ nào ban ngày hay ban đêm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at /till all hours",
-              "list_im": [
-                {
-                  "im_full_vn": "cho đến bất cứ lúc nào (dù không thích hợp hoặc không thuận tiện)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she stays out till all hours",
-                      "full_vn": "cô ấy đi chơi đến tận khuya"
-                    },
-                    {
-                      "full_en": "he's inclined to telephone at all hours of the day or night",
-                      "full_vn": "anh ta có thói gọi điện thoại bất kể giờ nào ban ngày hay ban đêm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "at /till all hours",
               "list_im": [
                 {
@@ -212,42 +162,6 @@
               ]
             },
             {
-              "id_full_en": "on the hour",
-              "list_im": [
-                {
-                  "im_full_vn": "đúng 1 giờ, 2 giờ, 3 giờ...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "my appointment was for 9 am and I arrived on the hour",
-                      "full_vn": "cuộc hẹn của tôi là 9 giờ sáng và tôi đã đến đúng giờ"
-                    },
-                    {
-                      "full_en": "the London bus departs every hour on the hour",
-                      "full_vn": "xe búyt đi Luân Đôn mỗi giờ có một chuyến vào đúng giờ chẵn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on the hour",
-              "list_im": [
-                {
-                  "im_full_vn": "đúng 1 giờ, 2 giờ, 3 giờ...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "my appointment was for 9 am and I arrived on the hour",
-                      "full_vn": "cuộc hẹn của tôi là 9 giờ sáng và tôi đã đến đúng giờ"
-                    },
-                    {
-                      "full_en": "the London bus departs every hour on the hour",
-                      "full_vn": "xe búyt đi Luân Đôn mỗi giờ có một chuyến vào đúng giờ chẵn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "out of hours",
               "list_im": [
                 {
@@ -276,20 +190,6 @@
               "list_im": [
                 {
                   "im_full_vn": "vấn đề nóng hổi lúc này, vấn đề nóng hổi lúc đó; vấn đề thời sự nóng hổi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "one's waking hours",
-              "list_im": [
-                {
-                  "im_full_vn": "lúc tỉnh giấc tàn canh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she spent all her waking hours worrying about her job",
-                      "full_vn": "suốt thời gian tỉnh giấc, cô ta cứ lo lăng về công việc của mình"
-                    }
-                  ]
                 }
               ]
             },

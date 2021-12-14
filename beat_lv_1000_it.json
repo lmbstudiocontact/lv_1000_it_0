@@ -322,35 +322,10 @@
               ]
             },
             {
-              "id_full_en": "to beat time to something",
-              "list_im": [
-                {
-                  "im_full_vn": "đánh nhịp",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he beat time (to the music ) with his fingers",
-                      "full_vn": "nó dùng ngón tay đánh nhịp (cho bài nhạc)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "if you can't beat them , join them",
               "list_im": [
                 {
                   "im_full_vn": "không thắng được đối thủ thì bắt tay với họ cho rồi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat something down",
-              "list_im": [
-                {
-                  "im_full_vn": "cố sức lọt vào bằng cách đập (cái cửa...) nhiều lần"
-                },
-                {
-                  "im_full_vn": "làm đổ rạp (cây cỏ...)"
                 }
               ]
             },
@@ -400,42 +375,6 @@
               ]
             },
             {
-              "id_full_en": "to beat somebody into /to something",
-              "list_im": [
-                {
-                  "im_full_vn": "đưa ai vào một tình trạng nào đó bằng cách đánh đập nhiều lần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the children were beaten into submission",
-                      "full_vn": "bọn trẻ bị đánh đập đến nỗi phải quy phục"
-                    },
-                    {
-                      "full_en": "the dog was beaten to death",
-                      "full_vn": "con chó bị đánh đến chết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat somebody into /to something",
-              "list_im": [
-                {
-                  "im_full_vn": "đưa ai vào một tình trạng nào đó bằng cách đánh đập nhiều lần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the children were beaten into submission",
-                      "full_vn": "bọn trẻ bị đánh đập đến nỗi phải quy phục"
-                    },
-                    {
-                      "full_en": "the dog was beaten to death",
-                      "full_vn": "con chó bị đánh đến chết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to beat somebody /something off",
               "list_im": [
                 {
@@ -458,48 +397,6 @@
               ]
             },
             {
-              "id_full_en": "to beat something out",
-              "list_im": [
-                {
-                  "im_full_vn": "tạo ra (một nhịp điệu) bằng cách đánh trống"
-                },
-                {
-                  "im_full_vn": "dập tắt lửa bằng cách đập"
-                },
-                {
-                  "im_full_vn": "dùng búa đập để loại bỏ cái gì; gò"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat something out",
-              "list_im": [
-                {
-                  "im_full_vn": "tạo ra (một nhịp điệu) bằng cách đánh trống"
-                },
-                {
-                  "im_full_vn": "dập tắt lửa bằng cách đập"
-                },
-                {
-                  "im_full_vn": "dùng búa đập để loại bỏ cái gì; gò"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat somebody to ....",
-              "list_im": [
-                {
-                  "im_full_vn": "đến (một nơi) trước khi ai đến",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I'll beat you to the top of the hill",
-                      "full_vn": "Tôi sẽ đến đỉnh đồi trước anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to beat somebody to ....",
               "list_im": [
                 {
@@ -518,42 +415,6 @@
               "list_im": [
                 {
                   "im_full_vn": "đánh ai nhừ tử"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat somebody to it",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn thành, đạt tới hoặc lấy được cái gì trước một người khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Scott aimed to get to the South Pole first , but Amundsen beat him to it",
-                      "full_vn": "Scott chủ tâm đến Nam Cực trước tiên, nhưngAmundsen đã đến trước ông"
-                    },
-                    {
-                      "full_en": "I was about to take the last cake , but he beat me to it",
-                      "full_vn": "Tôi đang định cầm lấy chiếc bánh ngọt cuối cùng thì nó đã phỗng tay trên mất"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to beat somebody to it",
-              "list_im": [
-                {
-                  "im_full_vn": "hoàn thành, đạt tới hoặc lấy được cái gì trước một người khác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Scott aimed to get to the South Pole first , but Amundsen beat him to it",
-                      "full_vn": "Scott chủ tâm đến Nam Cực trước tiên, nhưngAmundsen đã đến trước ông"
-                    },
-                    {
-                      "full_en": "I was about to take the last cake , but he beat me to it",
-                      "full_vn": "Tôi đang định cầm lấy chiếc bánh ngọt cuối cùng thì nó đã phỗng tay trên mất"
-                    }
-                  ]
                 }
               ]
             },

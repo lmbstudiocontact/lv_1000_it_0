@@ -165,108 +165,6 @@
               ]
             },
             {
-              "id_full_en": "to bring /get something /be under control",
-              "list_im": [
-                {
-                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you must get your spending under control",
-                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
-                    },
-                    {
-                      "full_en": "the fire has been brought under control",
-                      "full_vn": "ngọn lửa đã bị chế ngự"
-                    },
-                    {
-                      "full_en": "don't worry , everything's under control",
-                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to bring /get something /be under control",
-              "list_im": [
-                {
-                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you must get your spending under control",
-                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
-                    },
-                    {
-                      "full_en": "the fire has been brought under control",
-                      "full_vn": "ngọn lửa đã bị chế ngự"
-                    },
-                    {
-                      "full_en": "don't worry , everything's under control",
-                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to bring /get something /be under control",
-              "list_im": [
-                {
-                  "im_full_vn": "chế ngự hoặc làm chủ cái gì/bị chế ngự hoặc bị kiềm chế",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you must get your spending under control",
-                      "full_vn": "anh phải kiềm chế việc chi tiêu lại"
-                    },
-                    {
-                      "full_en": "the fire has been brought under control",
-                      "full_vn": "ngọn lửa đã bị chế ngự"
-                    },
-                    {
-                      "full_en": "don't worry , everything's under control",
-                      "full_vn": "đừng lo, mọi việc đều được kiểm soát"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be /get out of control",
-              "list_im": [
-                {
-                  "im_full_vn": "không điều khiển được nữa, không theo sự điều khiển",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the children are out of control",
-                      "full_vn": "không quản lý được bọn trẻ này nữa"
-                    },
-                    {
-                      "full_en": "the situation is out of control",
-                      "full_vn": "tình hình không còn kiểm soát được nữa; tình hình hỗn loạn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be /get out of control",
-              "list_im": [
-                {
-                  "im_full_vn": "không điều khiển được nữa, không theo sự điều khiển",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the children are out of control",
-                      "full_vn": "không quản lý được bọn trẻ này nữa"
-                    },
-                    {
-                      "full_en": "the situation is out of control",
-                      "full_vn": "tình hình không còn kiểm soát được nữa; tình hình hỗn loạn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to be /get out of control",
               "list_im": [
                 {
@@ -289,20 +187,6 @@
               "list_im": [
                 {
                   "im_full_vn": "nắm chắc được cái gì, làm chủ được cái gì"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be in control of something",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ đạo, quản lý, cai quản cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "who's in control of the project ?",
-                      "full_vn": "ai chỉ đạo dự án này?"
-                    }
-                  ]
                 }
               ]
             },

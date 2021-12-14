@@ -72,20 +72,6 @@
               ]
             },
             {
-              "id_full_en": "no better than",
-              "list_im": [
-                {
-                  "im_full_vn": "chẳng hơn gì, quả là",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she is no better than she should be",
-                      "full_vn": "ả ta là đứa lẳng lơ đĩ thoã"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "better luck next time",
               "list_im": [
                 {
@@ -178,20 +164,6 @@
               "list_im": [
                 {
                   "im_full_vn": "người hoặc cái gì đó chẳng hay ho gì, tốt nhất là không nên nhắc đến; càng nhắc tới ai/cái gì càng chán"
-                }
-              ]
-            },
-            {
-              "id_full_en": "had better",
-              "list_im": [
-                {
-                  "im_full_vn": "nên, tốt hơn là",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "you had better go now",
-                      "full_vn": "anh nên đi bây giờ thì hơn"
-                    }
-                  ]
                 }
               ]
             },

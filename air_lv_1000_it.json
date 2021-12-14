@@ -129,17 +129,6 @@
               ]
             },
             {
-              "id_full_en": "to give somebody the air",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ lóng) cho ai thôi việc, thải ai ra"
-                },
-                {
-                  "im_full_vn": "cắt đứt quan hệ với ai"
-                }
-              ]
-            },
-            {
               "id_full_en": "to go up in the air",
               "list_im": [
                 {
@@ -155,51 +144,6 @@
                 },
                 {
                   "im_full_vn": "vẻ tiu nghỉu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "hangdog air",
-              "list_im": [
-                {
-                  "im_full_vn": "vẻ hối lỗi"
-                },
-                {
-                  "im_full_vn": "vẻ tiu nghỉu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "in the air",
-              "list_im": [
-                {
-                  "im_full_vn": "hão huyền, viễn vông, ở đâu đâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "his plan is still in the air",
-                      "full_vn": "kế hoạch của hắn còn ở đâu đâu"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "lan đi, lan khắp (tin đồn...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "in the air",
-              "list_im": [
-                {
-                  "im_full_vn": "hão huyền, viễn vông, ở đâu đâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "his plan is still in the air",
-                      "full_vn": "kế hoạch của hắn còn ở đâu đâu"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "lan đi, lan khắp (tin đồn...)"
                 }
               ]
             },
@@ -255,42 +199,6 @@
               ]
             },
             {
-              "id_full_en": "on /off the air",
-              "list_im": [
-                {
-                  "im_full_vn": "đang phát/không phát trên truyền thanh hoặc truyền hình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "this channel comes on the air every morning at 7 am",
-                      "full_vn": "sáng nào kênh này cũng phát đi lúc 7 giờ"
-                    },
-                    {
-                      "full_en": "we'll be off the air for the summer and returning for a new series in the autumn",
-                      "full_vn": "chúngtôi sẽ không phát trong mùa hè và đến mùa thu sẽ phát trở lại một đợt mới"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "on /off the air",
-              "list_im": [
-                {
-                  "im_full_vn": "đang phát/không phát trên truyền thanh hoặc truyền hình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "this channel comes on the air every morning at 7 am",
-                      "full_vn": "sáng nào kênh này cũng phát đi lúc 7 giờ"
-                    },
-                    {
-                      "full_en": "we'll be off the air for the summer and returning for a new series in the autumn",
-                      "full_vn": "chúngtôi sẽ không phát trong mùa hè và đến mùa thu sẽ phát trở lại một đợt mới"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to saw the air",
               "list_im": [
                 {
@@ -303,57 +211,6 @@
               "list_im": [
                 {
                   "im_full_vn": "lan đi, truyền đi, đồn đi (tin đồn...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to take the air",
-              "list_im": [
-                {
-                  "im_full_vn": "dạo mát, hóng gió"
-                },
-                {
-                  "im_full_vn": "(hàng không) cất cánh, bay lên"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tẩu, chuồn, trốn cho mau"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị đuổi, bị thải"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to take the air",
-              "list_im": [
-                {
-                  "im_full_vn": "dạo mát, hóng gió"
-                },
-                {
-                  "im_full_vn": "(hàng không) cất cánh, bay lên"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tẩu, chuồn, trốn cho mau"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị đuổi, bị thải"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to take the air",
-              "list_im": [
-                {
-                  "im_full_vn": "dạo mát, hóng gió"
-                },
-                {
-                  "im_full_vn": "(hàng không) cất cánh, bay lên"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tẩu, chuồn, trốn cho mau"
-                },
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị đuổi, bị thải"
                 }
               ]
             },

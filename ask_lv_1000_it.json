@@ -131,34 +131,6 @@
               ]
             },
             {
-              "id_full_en": "for the asking",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ hỏi thôi mà cũng đạt được cái mình muốn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the job is yours for the asking",
-                      "full_vn": "anh chỉ cần hỏi là có việc ngay cho anh làm (nếu anh nói là anh muốn làm công việc đó thì người ta sẽ đồng ý ngay)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "I ask you",
-              "list_im": [
-                {
-                  "im_full_vn": "(biểu thị thái độ không tin, ngạc nhiên, khó chịu...)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they're thinking of taxing textbooks - I ask you , we'll have to pay to go to bed next !",
-                      "full_vn": "người ta đang tính đánh thuế sách giáo khoa - tôi hỏi anh, rồi ra chúng ta đi ngủ cũng phải đóng thuế chắc!"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "I ask you",
               "list_im": [
                 {
@@ -187,20 +159,6 @@
               ]
             },
             {
-              "id_full_en": "if you ask me",
-              "list_im": [
-                {
-                  "im_full_vn": "nếu anh muốn biết ý kiến của tôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "If you ask me , he hasn't got long to live",
-                      "full_vn": "Nếu anh muốn biết ý kiến tôi thì đây : Anh ta sẽ không sống được bao lâu nữa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to ask after somebody",
               "list_im": [
                 {
@@ -209,34 +167,6 @@
                     {
                       "full_en": "he always asks after you in his letters",
                       "full_vn": "trong thư bao giờ ông ấy cũng hỏi thăm anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to ask after somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "hỏi thông tin về sức khoẻ của ai, hỏi thăm sức khoẻ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he always asks after you in his letters",
-                      "full_vn": "trong thư bao giờ ông ấy cũng hỏi thăm anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to ask for somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "nói rằng mình muốn gặp hoặc nói chuyện với ai, hoặc muốn được cho hướng tới cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to ask for the manager",
-                      "full_vn": "xin gặp giám đốc"
                     }
                   ]
                 }

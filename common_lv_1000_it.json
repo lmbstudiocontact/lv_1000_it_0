@@ -122,20 +122,6 @@
               ]
             },
             {
-              "id_full_en": "common or garden",
-              "list_im": [
-                {
-                  "im_full_vn": "thông thường, chẳng có gì lạ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it isn't a rare bird , just a common or garden sparrow",
-                      "full_vn": "đây không phải một con chim hiếm, mà chỉ là chim sẻ thường thấy"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "the common touch",
               "list_im": [
                 {
@@ -144,34 +130,6 @@
                     {
                       "full_en": "a politician needs the comon touch",
                       "full_vn": "chính khách cần phải có khả năng tiếp xúc chan hoà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "the common touch",
-              "list_im": [
-                {
-                  "im_full_vn": "khả năng (nhất là của người có địa vị cao) xử sự và tiếp xúc với những người bình thường một cách thân mật; tiếp xúc chan hoà",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "a politician needs the comon touch",
-                      "full_vn": "chính khách cần phải có khả năng tiếp xúc chan hoà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make common cause with somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "đoàn kết lại để theo đuổi một mục đích chung",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the rebel factions made common cause (with one another ) to overthrow the regime",
-                      "full_vn": "các phe phiến loạn đoàn kết lại (với nhau) để lật đổ chế độ"
                     }
                   ]
                 }
@@ -243,56 +201,6 @@
                     {
                       "full_en": "I have nothing in common with Jane",
                       "full_vn": "Tôi chẳng có điểm nào chung với Jane cả"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have something in common (with somebody /something )",
-              "list_im": [
-                {
-                  "im_full_vn": "có chung lợi ích, đặc điểm...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Jane and I have nothing in common",
-                      "full_vn": "Jane và tôi chẳng có điểm gì chung cả"
-                    },
-                    {
-                      "full_en": "I have nothing in common with Jane",
-                      "full_vn": "Tôi chẳng có điểm nào chung với Jane cả"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to have something in common (with somebody /something )",
-              "list_im": [
-                {
-                  "im_full_vn": "có chung lợi ích, đặc điểm...",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Jane and I have nothing in common",
-                      "full_vn": "Jane và tôi chẳng có điểm gì chung cả"
-                    },
-                    {
-                      "full_en": "I have nothing in common with Jane",
-                      "full_vn": "Tôi chẳng có điểm nào chung với Jane cả"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "in common with somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cùng với ai/cái gì; giống như ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "in common with many others , she applied for a training place",
-                      "full_vn": "cùng với/giống như nhiều người khác, cô ta cũng xin một chân huấn luyện"
                     }
                   ]
                 }

@@ -166,35 +166,10 @@
               ]
             },
             {
-              "id_full_en": "to cast about",
-              "list_im": [
-                {
-                  "im_full_vn": "đi tìm đằng này, đằng khác"
-                },
-                {
-                  "im_full_vn": "tìm cách, kiếm cớ, xoay sở (để làm gì)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to cast aside",
               "list_im": [
                 {
                   "im_full_vn": "vứt đi, loại ra, bỏ đi"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast away",
-              "list_im": [
-                {
-                  "im_full_vn": "liệng ném, quăng, vứt",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast away all cares",
-                      "full_vn": "vứt hết những nỗi ưu tư"
-                    }
-                  ]
                 }
               ]
             },
@@ -232,17 +207,6 @@
               ]
             },
             {
-              "id_full_en": "to cast back",
-              "list_im": [
-                {
-                  "im_full_vn": "quay lại, trở lại"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) nhắc lại, hồi tưởng lại"
-                }
-              ]
-            },
-            {
               "id_full_en": "to cast down",
               "list_im": [
                 {
@@ -259,94 +223,6 @@
                       "full_vn": "chán nản, thất vọng"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast down",
-              "list_im": [
-                {
-                  "im_full_vn": "vứt xuống, quăng xuống"
-                },
-                {
-                  "im_full_vn": "nhìn xuống (mắt)"
-                },
-                {
-                  "im_full_vn": "làm thất vọng, làm chán nản",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be cast down",
-                      "full_vn": "chán nản, thất vọng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast down",
-              "list_im": [
-                {
-                  "im_full_vn": "vứt xuống, quăng xuống"
-                },
-                {
-                  "im_full_vn": "nhìn xuống (mắt)"
-                },
-                {
-                  "im_full_vn": "làm thất vọng, làm chán nản",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be cast down",
-                      "full_vn": "chán nản, thất vọng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast down",
-              "list_im": [
-                {
-                  "im_full_vn": "vứt xuống, quăng xuống"
-                },
-                {
-                  "im_full_vn": "nhìn xuống (mắt)"
-                },
-                {
-                  "im_full_vn": "làm thất vọng, làm chán nản",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be cast down",
-                      "full_vn": "chán nản, thất vọng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast off",
-              "list_im": [
-                {
-                  "im_full_vn": "loại bỏ, thải, vứt bỏ, từ bỏ"
-                },
-                {
-                  "im_full_vn": "thả (chó)"
-                },
-                {
-                  "im_full_vn": "(hàng hải) thả, quăng (dây...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast off",
-              "list_im": [
-                {
-                  "im_full_vn": "loại bỏ, thải, vứt bỏ, từ bỏ"
-                },
-                {
-                  "im_full_vn": "thả (chó)"
-                },
-                {
-                  "im_full_vn": "(hàng hải) thả, quăng (dây...)"
                 }
               ]
             },
@@ -369,136 +245,6 @@
               "list_im": [
                 {
                   "im_full_vn": "đuổi ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast up",
-              "list_im": [
-                {
-                  "im_full_vn": "tính, cộng lại, gộp lại"
-                },
-                {
-                  "im_full_vn": "ngẩng (đầu); ngước mắt"
-                },
-                {
-                  "im_full_vn": "vứt lên, quăng lên, ném lên"
-                },
-                {
-                  "im_full_vn": "trách móc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast something up to someone",
-                      "full_vn": "trách móc ai về việc gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(y học) nôn ra, mửa ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast up",
-              "list_im": [
-                {
-                  "im_full_vn": "tính, cộng lại, gộp lại"
-                },
-                {
-                  "im_full_vn": "ngẩng (đầu); ngước mắt"
-                },
-                {
-                  "im_full_vn": "vứt lên, quăng lên, ném lên"
-                },
-                {
-                  "im_full_vn": "trách móc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast something up to someone",
-                      "full_vn": "trách móc ai về việc gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(y học) nôn ra, mửa ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast up",
-              "list_im": [
-                {
-                  "im_full_vn": "tính, cộng lại, gộp lại"
-                },
-                {
-                  "im_full_vn": "ngẩng (đầu); ngước mắt"
-                },
-                {
-                  "im_full_vn": "vứt lên, quăng lên, ném lên"
-                },
-                {
-                  "im_full_vn": "trách móc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast something up to someone",
-                      "full_vn": "trách móc ai về việc gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(y học) nôn ra, mửa ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast up",
-              "list_im": [
-                {
-                  "im_full_vn": "tính, cộng lại, gộp lại"
-                },
-                {
-                  "im_full_vn": "ngẩng (đầu); ngước mắt"
-                },
-                {
-                  "im_full_vn": "vứt lên, quăng lên, ném lên"
-                },
-                {
-                  "im_full_vn": "trách móc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast something up to someone",
-                      "full_vn": "trách móc ai về việc gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(y học) nôn ra, mửa ra"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cast up",
-              "list_im": [
-                {
-                  "im_full_vn": "tính, cộng lại, gộp lại"
-                },
-                {
-                  "im_full_vn": "ngẩng (đầu); ngước mắt"
-                },
-                {
-                  "im_full_vn": "vứt lên, quăng lên, ném lên"
-                },
-                {
-                  "im_full_vn": "trách móc",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cast something up to someone",
-                      "full_vn": "trách móc ai về việc gì"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "(y học) nôn ra, mửa ra"
                 }
               ]
             },

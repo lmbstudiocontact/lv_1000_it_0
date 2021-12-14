@@ -229,31 +229,6 @@
               ]
             },
             {
-              "id_full_en": "at hand",
-              "list_im": [
-                {
-                  "im_full_vn": "gần ngay, có thể với tới được, rất tiện tay"
-                },
-                {
-                  "im_full_vn": "sắp đến, sắp tới"
-                }
-              ]
-            },
-            {
-              "id_full_en": "at somebody's hands",
-              "list_im": [
-                {
-                  "im_full_vn": "ở tay ai, từ tay ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to receive something at somebody's hands",
-                      "full_vn": "nhận được cái gì từ tay ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "at somebody's hands",
               "list_im": [
                 {
@@ -567,17 +542,6 @@
               ]
             },
             {
-              "id_full_en": "to get something off one's hands",
-              "list_im": [
-                {
-                  "im_full_vn": "gạt bỏ cái gì, tống khứ cái gì"
-                },
-                {
-                  "im_full_vn": "giũ trách nhiệm về một việc gì"
-                }
-              ]
-            },
-            {
               "id_full_en": "to have the whip hand of someone",
               "list_im": [
                 {
@@ -590,17 +554,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(xem) glad"
-                }
-              ]
-            },
-            {
-              "id_full_en": "hand over fist",
-              "list_im": [
-                {
-                  "im_full_vn": "tay này bắt tiếp lên tay kia như lúc leo dây"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) tiến bộ chắc chắn, tiến bộ nhanh"
                 }
               ]
             },
@@ -734,66 +687,10 @@
               ]
             },
             {
-              "id_full_en": "to lay hands on",
-              "list_im": [
-                {
-                  "im_full_vn": "đặt tay vào, để tay vào, sờ vào"
-                },
-                {
-                  "im_full_vn": "chiếm lấy, nắm lấy (cái gì)"
-                },
-                {
-                  "im_full_vn": "hành hung"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to lay hands on",
-              "list_im": [
-                {
-                  "im_full_vn": "đặt tay vào, để tay vào, sờ vào"
-                },
-                {
-                  "im_full_vn": "chiếm lấy, nắm lấy (cái gì)"
-                },
-                {
-                  "im_full_vn": "hành hung"
-                }
-              ]
-            },
-            {
               "id_full_en": "on one's hands",
               "list_im": [
                 {
                   "im_full_vn": "trong tay, chịu trách nhiệm phải cáng đáng"
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of hand",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "không chuẩn bị trước; ứng khẩu, tuỳ hứng"
-                },
-                {
-                  "im_full_vn": "không nắm được, không kiểm soát được nữa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "out of hand",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "không chuẩn bị trước; ứng khẩu, tuỳ hứng"
-                },
-                {
-                  "im_full_vn": "không nắm được, không kiểm soát được nữa"
                 }
               ]
             },
@@ -855,17 +752,6 @@
               ]
             },
             {
-              "id_full_en": "to sit on one's hands",
-              "list_im": [
-                {
-                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) được vỗ tay thưa thớt"
-                },
-                {
-                  "im_full_vn": "ngồi khoanh tay không làm gì"
-                }
-              ]
-            },
-            {
               "id_full_en": "to stop somebody's hand",
               "list_im": [
                 {
@@ -894,20 +780,6 @@
               "list_im": [
                 {
                   "im_full_vn": "bỏ cuộc"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to hand",
-              "list_im": [
-                {
-                  "im_full_vn": "đã nhận được, đã đến tay (thư)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "your letter to hand",
-                      "full_vn": "bức thư của ông mà chúng tôi đã nhận được (trong thư thương mại)"
-                    }
-                  ]
                 }
               ]
             },

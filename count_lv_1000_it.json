@@ -170,56 +170,6 @@
               ]
             },
             {
-              "id_full_en": "to count something out",
-              "list_im": [
-                {
-                  "im_full_vn": "đếm (đồ vật) từng cái một",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the old lady counted out thirty pence and gave it to the shop assistant",
-                      "full_vn": "bạ cụ đếm ba mươi pen chậm chạp từng đồng một, rồi đưa cho người bán hàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count somebody out",
-              "list_im": [
-                {
-                  "im_full_vn": "đếm đến mười (một võ sĩ quyền Anh đã bị đánh ngã) cho biết là anh ta đã bị đo ván; (thông tục) không kể đến ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the referee counted him out in the first round",
-                      "full_vn": "trọng tài tuyên bố là anh ấy đã bị đo ván ở hiệp một"
-                    },
-                    {
-                      "full_en": "if it's going to be a rowdy party , you can count me out",
-                      "full_vn": "nếu sẽ là một buổi liên hoan om sòm thì anh có thể coi như không có tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count somebody out",
-              "list_im": [
-                {
-                  "im_full_vn": "đếm đến mười (một võ sĩ quyền Anh đã bị đánh ngã) cho biết là anh ta đã bị đo ván; (thông tục) không kể đến ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the referee counted him out in the first round",
-                      "full_vn": "trọng tài tuyên bố là anh ấy đã bị đo ván ở hiệp một"
-                    },
-                    {
-                      "full_en": "if it's going to be a rowdy party , you can count me out",
-                      "full_vn": "nếu sẽ là một buổi liên hoan om sòm thì anh có thể coi như không có tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to count somebody out",
               "list_im": [
                 {
@@ -252,20 +202,6 @@
               ]
             },
             {
-              "id_full_en": "to count towards something",
-              "list_im": [
-                {
-                  "im_full_vn": "được bao gồm để tính vào cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "these payments will count towards your pension",
-                      "full_vn": "những khoản tiền trẻ này sẽ được tính vào lương hưu của anh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to count up to something",
               "list_im": [
                 {
@@ -274,34 +210,6 @@
                     {
                       "full_en": "these small contributions soon count up to a sizeable amount",
                       "full_vn": "chẳng bao lâu những đóng góp nhỏ đó cộng lại sẽ thành một con số lớn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count up to something",
-              "list_im": [
-                {
-                  "im_full_vn": "đạt đến tổng số đã được nói rõ; cộng thêm vào cái gì; cộng sổ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "these small contributions soon count up to a sizeable amount",
-                      "full_vn": "chẳng bao lâu những đóng góp nhỏ đó cộng lại sẽ thành một con số lớn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count the cost (of something )",
-              "list_im": [
-                {
-                  "im_full_vn": "gánh chịu hậu quả của hành động dại dột",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the town is now counting the cost of its failure to provide adequate flood protection",
-                      "full_vn": "thành phố hiện đang gánh lấy hậu quả của việc thiếu biện pháp phòng ngừa lũ lụt"
                     }
                   ]
                 }
@@ -366,78 +274,6 @@
                     {
                       "full_en": "he's young and inexperienced , but please do not count that against",
                       "full_vn": "anh ta trẻ và ít kinh nghiệm, nhưng đừng xem đó là điều bất lợi cho anh ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count against somebody ; to count something against somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "bị coi là cái gì bất lợi cho ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "your criminal record could count against you in finding a job",
-                      "full_vn": "hồ sơ tội phạm có thể bất lợi cho anh trong vấn đề tìm việc làm"
-                    },
-                    {
-                      "full_en": "he's young and inexperienced , but please do not count that against",
-                      "full_vn": "anh ta trẻ và ít kinh nghiệm, nhưng đừng xem đó là điều bất lợi cho anh ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count against somebody ; to count something against somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "bị coi là cái gì bất lợi cho ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "your criminal record could count against you in finding a job",
-                      "full_vn": "hồ sơ tội phạm có thể bất lợi cho anh trong vấn đề tìm việc làm"
-                    },
-                    {
-                      "full_en": "he's young and inexperienced , but please do not count that against",
-                      "full_vn": "anh ta trẻ và ít kinh nghiệm, nhưng đừng xem đó là điều bất lợi cho anh ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count among somebody /something ; to count somebody /something among somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "xem ai/cái gì như một bộ phận của một nhóm đã nói",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she counts among the most gifted of the current generation of composers",
-                      "full_vn": "bà ấy thuộc trong số những người có tài nhất của thế hệ những nhà soạn nhạc hiện nay"
-                    },
-                    {
-                      "full_en": "I no longer count him among my friends",
-                      "full_vn": "tôi không còn coi anh ta nằm trong số bạn bè tôi nữa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to count among somebody /something ; to count somebody /something among somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "xem ai/cái gì như một bộ phận của một nhóm đã nói",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she counts among the most gifted of the current generation of composers",
-                      "full_vn": "bà ấy thuộc trong số những người có tài nhất của thế hệ những nhà soạn nhạc hiện nay"
-                    },
-                    {
-                      "full_en": "I no longer count him among my friends",
-                      "full_vn": "tôi không còn coi anh ta nằm trong số bạn bè tôi nữa"
                     }
                   ]
                 }

@@ -57,20 +57,6 @@
               ]
             },
             {
-              "id_full_en": "once upon a time",
-              "list_im": [
-                {
-                  "im_full_vn": "ngày xửa ngày xưa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "once upon a time there was a beautiful princess ...",
-                      "full_vn": "ngày xửa ngày xưa có một nàng công chúa xinh đẹp..."
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "once again",
               "list_im": [
                 {
@@ -97,42 +83,6 @@
               ]
             },
             {
-              "id_full_en": "all at once",
-              "list_im": [
-                {
-                  "im_full_vn": "thình lình, đột nhiên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "all at once the door opened",
-                      "full_vn": "thình lình cửa mở"
-                    },
-                    {
-                      "full_en": "all at once she lost her temper",
-                      "full_vn": "đột nhiên bà ta nổi nóng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "all at once",
-              "list_im": [
-                {
-                  "im_full_vn": "thình lình, đột nhiên",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "all at once the door opened",
-                      "full_vn": "thình lình cửa mở"
-                    },
-                    {
-                      "full_en": "all at once she lost her temper",
-                      "full_vn": "đột nhiên bà ta nổi nóng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "at once",
               "list_im": [
                 {
@@ -152,142 +102,6 @@
                     {
                       "full_en": "this film is at once humorous and moving",
                       "full_vn": "phim này vừa vui vừa cảm động"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at once",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "cùng một lúc, đồng thời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come here at once !",
-                      "full_vn": "lại đây ngay!"
-                    },
-                    {
-                      "full_en": "I can't do two things at once",
-                      "full_vn": "tôi không thể làm hai việc cùng một lúc được"
-                    },
-                    {
-                      "full_en": "this film is at once humorous and moving",
-                      "full_vn": "phim này vừa vui vừa cảm động"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at once",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "cùng một lúc, đồng thời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come here at once !",
-                      "full_vn": "lại đây ngay!"
-                    },
-                    {
-                      "full_en": "I can't do two things at once",
-                      "full_vn": "tôi không thể làm hai việc cùng một lúc được"
-                    },
-                    {
-                      "full_en": "this film is at once humorous and moving",
-                      "full_vn": "phim này vừa vui vừa cảm động"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at once",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "cùng một lúc, đồng thời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come here at once !",
-                      "full_vn": "lại đây ngay!"
-                    },
-                    {
-                      "full_en": "I can't do two things at once",
-                      "full_vn": "tôi không thể làm hai việc cùng một lúc được"
-                    },
-                    {
-                      "full_en": "this film is at once humorous and moving",
-                      "full_vn": "phim này vừa vui vừa cảm động"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "at once",
-              "list_im": [
-                {
-                  "im_full_vn": "ngay lập tức, không chậm trễ"
-                },
-                {
-                  "im_full_vn": "cùng một lúc, đồng thời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "come here at once !",
-                      "full_vn": "lại đây ngay!"
-                    },
-                    {
-                      "full_en": "I can't do two things at once",
-                      "full_vn": "tôi không thể làm hai việc cùng một lúc được"
-                    },
-                    {
-                      "full_en": "this film is at once humorous and moving",
-                      "full_vn": "phim này vừa vui vừa cảm động"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just this once",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ một lần này thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "be pleasant to each other - just this once",
-                      "full_vn": "hãy vui vẻ với nhau, ir ra là một lần này"
-                    },
-                    {
-                      "full_en": "just for once he arrived on time",
-                      "full_vn": "chỉ có lần này nó đến đúng giờ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "just this once",
-              "list_im": [
-                {
-                  "im_full_vn": "chỉ một lần này thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "be pleasant to each other - just this once",
-                      "full_vn": "hãy vui vẻ với nhau, ir ra là một lần này"
-                    },
-                    {
-                      "full_en": "just for once he arrived on time",
-                      "full_vn": "chỉ có lần này nó đến đúng giờ"
                     }
                   ]
                 }
@@ -342,20 +156,6 @@
               ]
             },
             {
-              "id_full_en": "once too often",
-              "list_im": [
-                {
-                  "im_full_vn": "quá nhiều lần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "He had driven home drunk once too often - this time he got stopped by the police",
-                      "full_vn": "Quá nhiều lần nó say rượu lái xe về nhà - lần này thì nó bị cảnh sát giữ lại"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "once bitten , twice shy",
               "list_im": [
                 {
@@ -368,20 +168,6 @@
               "list_im": [
                 {
                   "im_full_vn": "một lần cho mãi mãi; dứt khoát"
-                }
-              ]
-            },
-            {
-              "id_full_en": "(every ) once in a while",
-              "list_im": [
-                {
-                  "im_full_vn": "thỉnh thoảng, đôi khi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Once in a while we go to a restaurant - but usually we eat at home",
-                      "full_vn": "Thỉnh thoảng chúng tôi đi ăn nhà hàng - nhưng thường thì chúng tôi ăn ở nhà"
-                    }
-                  ]
                 }
               ]
             },

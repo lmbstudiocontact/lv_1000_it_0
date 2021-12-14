@@ -209,20 +209,6 @@
               ]
             },
             {
-              "id_full_en": "to get something for free",
-              "list_im": [
-                {
-                  "im_full_vn": "không phải trả tiền; không phải tốn kém gì cả",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I got this ticket for free from somebody who didn't want it",
-                      "full_vn": "tôi đã có chiếc vé này không mất tiền do một người không muốn dùng nó (đem cho)"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to have one's hands free",
               "list_im": [
                 {
@@ -259,20 +245,6 @@
               "list_im": [
                 {
                   "im_full_vn": "không chấp nê hình thức"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make somebody free of something",
-              "list_im": [
-                {
-                  "im_full_vn": "cho phép ai sử dụng hoặc hưởng thụ trọn vẹn cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he kindly made me free of his library for my research",
-                      "full_vn": "ông ta có lòng tốt cho phép tôi toàn quyền sử dụng thư viện của ông ta cho công cuộc nghiên cứu của tôi"
-                    }
-                  ]
                 }
               ]
             },

@@ -156,17 +156,6 @@
               ]
             },
             {
-              "id_full_en": "to miss fire",
-              "list_im": [
-                {
-                  "im_full_vn": "(như) to hang fire"
-                },
-                {
-                  "im_full_vn": "thất bại (trong việc gì)"
-                }
-              ]
-            },
-            {
               "id_full_en": "out of the frying-pan into the fire",
               "list_im": [
                 {
@@ -336,84 +325,10 @@
               ]
             },
             {
-              "id_full_en": "to fire away",
-              "list_im": [
-                {
-                  "im_full_vn": "bắt đầu tiến hành"
-                },
-                {
-                  "im_full_vn": "nổ (súng)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to fire broadside",
               "list_im": [
                 {
                   "im_full_vn": "bắn tất cả các súng một bên mạn tàu"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fire off",
-              "list_im": [
-                {
-                  "im_full_vn": "bắn"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fire off a remark",
-                      "full_vn": "bất chợt phát ra một câu nhận xét"
-                    },
-                    {
-                      "full_en": "to fire off a postcard",
-                      "full_vn": "gửi cấp tốc một bưu thiếp"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fire off",
-              "list_im": [
-                {
-                  "im_full_vn": "bắn"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fire off a remark",
-                      "full_vn": "bất chợt phát ra một câu nhận xét"
-                    },
-                    {
-                      "full_en": "to fire off a postcard",
-                      "full_vn": "gửi cấp tốc một bưu thiếp"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fire off",
-              "list_im": [
-                {
-                  "im_full_vn": "bắn"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) phát ra, nổ ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fire off a remark",
-                      "full_vn": "bất chợt phát ra một câu nhận xét"
-                    },
-                    {
-                      "full_en": "to fire off a postcard",
-                      "full_vn": "gửi cấp tốc một bưu thiếp"
-                    }
-                  ]
                 }
               ]
             },

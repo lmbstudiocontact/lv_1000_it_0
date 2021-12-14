@@ -165,34 +165,6 @@
               ]
             },
             {
-              "id_full_en": "to name after ; to name for (from )",
-              "list_im": [
-                {
-                  "im_full_vn": "đặt theo tên (của người nào)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the town was named after Lenin",
-                      "full_vn": "thành phố được đặt tên là Lê-nin"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "not to be named on (in ) the same day with",
-              "list_im": [
-                {
-                  "im_full_vn": "không thể sánh với, không thể để ngang hàng với",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he is not to be named on the same day with his brother",
-                      "full_vn": "nó không thể nào sánh với anh nó được"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "not to be named on (in ) the same day with",
               "list_im": [
                 {
@@ -283,20 +255,6 @@
               "list_im": [
                 {
                   "im_full_vn": "gắn bó với, liên kết với"
-                }
-              ]
-            },
-            {
-              "id_full_en": "in name only",
-              "list_im": [
-                {
-                  "im_full_vn": "trên danh nghĩa mà thôi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "He is leader in name only : His deputy has effectively taken over",
-                      "full_vn": "Ông ta là người lãnh đạo trên danh nghĩa mà thôi : Người phó của ông ta đã thực sự nắm quyền"
-                    }
-                  ]
                 }
               ]
             },

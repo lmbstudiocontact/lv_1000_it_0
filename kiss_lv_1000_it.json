@@ -57,20 +57,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "the kiss of death",
-              "list_im": [
-                {
-                  "im_full_vn": "việc làm bề ngoài có thiện chí mà lại chịu thất bại tất yếu; nụ hôn tử thần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "One of those polite lukewarm reviews that are the kiss of death for a commercial film",
-                      "full_vn": "Một trong những bài phê bình lịch thiệp thiếu nhiệt tình ấy đã trở thành nụ hôn tử thần đối với một bộ phim thương mại"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }
@@ -136,32 +122,10 @@
               ]
             },
             {
-              "id_full_en": "to kiss the dust",
-              "list_im": [
-                {
-                  "im_full_vn": "tự hạ mình, khúm núm quỵ luỵ"
-                },
-                {
-                  "im_full_vn": "bị giết"
-                }
-              ]
-            },
-            {
               "id_full_en": "to kiss good-bye",
               "list_im": [
                 {
                   "im_full_vn": "hôn tạm biệt, hôn chia tay"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to kiss the ground",
-              "list_im": [
-                {
-                  "im_full_vn": "phủ phục, quỳ mọp xuống (để tạ ơn...)"
-                },
-                {
-                  "im_full_vn": "(nghĩa bóng) bị đánh bại, bị hạ đo ván, bị đánh gục"
                 }
               ]
             },
@@ -201,34 +165,6 @@
                     {
                       "full_en": "You can kiss good-bye to a holiday this year - we've no money",
                       "full_vn": "Cậu có thể từ biệt kỳ nghỉ hè năm nay vì chúng ta không có tiền"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to kiss something good-bye /to kiss good-bye to something",
-              "list_im": [
-                {
-                  "im_full_vn": "chấp nhận sự thua thiệt hoặc thất bại của cái gì là chắc chắn; từ biệt; chia tay",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "You can kiss good-bye to a holiday this year - we've no money",
-                      "full_vn": "Cậu có thể từ biệt kỳ nghỉ hè năm nay vì chúng ta không có tiền"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to kiss something away",
-              "list_im": [
-                {
-                  "im_full_vn": "lấy đi cái gì bằng những cái hôn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Let mummy kiss your tears away",
-                      "full_vn": "Hãy để mẹ hôn cho nín đi nào (giúp con nín khóc bằng cách hôn)"
                     }
                   ]
                 }

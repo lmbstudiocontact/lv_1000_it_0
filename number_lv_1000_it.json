@@ -159,42 +159,6 @@
               ]
             },
             {
-              "id_full_en": "by numbers",
-              "list_im": [
-                {
-                  "im_full_vn": "tuần tự theo số",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "drill movement by numbers",
-                      "full_vn": "làm động tác theo trình tự"
-                    },
-                    {
-                      "full_en": "painting by numbers",
-                      "full_vn": "sơn tuần tự theo số"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "by numbers",
-              "list_im": [
-                {
-                  "im_full_vn": "tuần tự theo số",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "drill movement by numbers",
-                      "full_vn": "làm động tác theo trình tự"
-                    },
-                    {
-                      "full_en": "painting by numbers",
-                      "full_vn": "sơn tuần tự theo số"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "a cushy number",
               "list_im": [
                 {
@@ -225,20 +189,6 @@
               ]
             },
             {
-              "id_full_en": "somebody's number is up",
-              "list_im": [
-                {
-                  "im_full_vn": "đã đến lúc ai đó sẽ chết, bị suy sụp; đến lúc tận số",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "when the wheel came off the car , I thought my number was up",
-                      "full_vn": "khi chiếc bánh xe long ra, tôi cứ nghĩ là mình tận số rồi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "there's safety in numbers",
               "list_im": [
                 {
@@ -251,20 +201,6 @@
               "list_im": [
                 {
                   "im_full_vn": "không tính xuể bao nhiêu lần, chẳng biết bao nhiêu lần"
-                }
-              ]
-            },
-            {
-              "id_full_en": "somebody's opposite number",
-              "list_im": [
-                {
-                  "im_full_vn": "người có địa vị hoặc chức vụ tương tự như ai; người tương nhiệm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "talks with her opposite number in the White House",
-                      "full_vn": "nói chuyện với thành viên trong Nhà Trắng có chức vụ tương đương với bà ta"
-                    }
-                  ]
                 }
               ]
             },
@@ -332,56 +268,6 @@
                     {
                       "full_en": "I number that crash among the most frightening experiences of my life",
                       "full_vn": "tôi tính vụ đâm ô tô ấy vào số những điều trải quả đáng sợ nhất trong đời tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to number somebody /something among something",
-              "list_im": [
-                {
-                  "im_full_vn": "gộp ai/cái gì vào một nhóm riêng; kể vào; liệt vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I numbered her among my closest friends",
-                      "full_vn": "tôi liệt cô ta vào số bạn thân nhất của tôi"
-                    },
-                    {
-                      "full_en": "I number that crash among the most frightening experiences of my life",
-                      "full_vn": "tôi tính vụ đâm ô tô ấy vào số những điều trải quả đáng sợ nhất trong đời tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to number somebody /something among something",
-              "list_im": [
-                {
-                  "im_full_vn": "gộp ai/cái gì vào một nhóm riêng; kể vào; liệt vào",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I numbered her among my closest friends",
-                      "full_vn": "tôi liệt cô ta vào số bạn thân nhất của tôi"
-                    },
-                    {
-                      "full_en": "I number that crash among the most frightening experiences of my life",
-                      "full_vn": "tôi tính vụ đâm ô tô ấy vào số những điều trải quả đáng sợ nhất trong đời tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to number off",
-              "list_im": [
-                {
-                  "im_full_vn": "(quân sự) nói to số của mình trong một hàng; điểm số",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the soldiers numbered off , starting from the right-hand man",
-                      "full_vn": "những người lính điểm số bắt đầu từ người đứng bên tay phải"
                     }
                   ]
                 }

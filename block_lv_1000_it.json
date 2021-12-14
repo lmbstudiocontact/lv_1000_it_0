@@ -120,42 +120,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "to block out (in )",
-              "list_im": [
-                {
-                  "im_full_vn": "phác ra, vẽ phác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to block out a plan",
-                      "full_vn": "phác ra một kế hoạch"
-                    },
-                    {
-                      "full_en": "to block in a picture",
-                      "full_vn": "vẽ phác một bức tranh"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to block out (in )",
-              "list_im": [
-                {
-                  "im_full_vn": "phác ra, vẽ phác",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to block out a plan",
-                      "full_vn": "phác ra một kế hoạch"
-                    },
-                    {
-                      "full_en": "to block in a picture",
-                      "full_vn": "vẽ phác một bức tranh"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }

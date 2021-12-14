@@ -220,20 +220,6 @@
               ]
             },
             {
-              "id_full_en": "at close quarters",
-              "list_im": [
-                {
-                  "im_full_vn": "rất gần, gần sát nhau",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fight at close quarters",
-                      "full_vn": "đánh nhau giáp lá cà"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "a close /near thing",
               "list_im": [
                 {
@@ -336,42 +322,6 @@
               ]
             },
             {
-              "id_full_en": "close on",
-              "list_im": [
-                {
-                  "im_full_vn": "hầu như, suýt soát",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she's close on sixty",
-                      "full_vn": "bà ta súyt soát 60 tuổi"
-                    },
-                    {
-                      "full_en": "it's close on midnight",
-                      "full_vn": "gần nửa đêm rồi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "close on",
-              "list_im": [
-                {
-                  "im_full_vn": "hầu như, suýt soát",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she's close on sixty",
-                      "full_vn": "bà ta súyt soát 60 tuổi"
-                    },
-                    {
-                      "full_en": "it's close on midnight",
-                      "full_vn": "gần nửa đêm rồi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "close up (to somebody /something )",
               "list_im": [
                 {
@@ -380,34 +330,6 @@
                     {
                       "full_en": "she snuggled close up to him",
                       "full_vn": "cô ta xích lại gần anh ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "close up (to somebody /something )",
-              "list_im": [
-                {
-                  "im_full_vn": "rất gần ai/cái gì về không gian",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "she snuggled close up to him",
-                      "full_vn": "cô ta xích lại gần anh ta"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to run somebody /something close",
-              "list_im": [
-                {
-                  "im_full_vn": "tốt/nhanh/thành công như ai/cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we run our competitors close for price and quality",
-                      "full_vn": "chúng tôi theo sát các đối thủ của mình về giá cả và chất lượng"
                     }
                   ]
                 }
@@ -596,51 +518,6 @@
               ]
             },
             {
-              "id_full_en": "to close down",
-              "list_im": [
-                {
-                  "im_full_vn": "đóng cửa hẳn (không buôn bán, không sản xuất nữa)"
-                },
-                {
-                  "im_full_vn": "trấn áp, đàn áp; bóp chết (một phong trào cách mạng...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close in",
-              "list_im": [
-                {
-                  "im_full_vn": "tới gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "evening is closing in",
-                      "full_vn": "bóng chiều buông xuống"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "ngắn dần"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close in",
-              "list_im": [
-                {
-                  "im_full_vn": "tới gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "evening is closing in",
-                      "full_vn": "bóng chiều buông xuống"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "ngắn dần"
-                }
-              ]
-            },
-            {
               "id_full_en": "to close in",
               "list_im": [
                 {
@@ -672,34 +549,6 @@
               ]
             },
             {
-              "id_full_en": "the days are closing in",
-              "list_im": [
-                {
-                  "im_full_vn": "ngày ngắn dần"
-                },
-                {
-                  "im_full_vn": "rào quanh, bao quanh (một miếng đất)"
-                },
-                {
-                  "im_full_vn": "(quân sự) tiến sát để tấn công"
-                }
-              ]
-            },
-            {
-              "id_full_en": "the days are closing in",
-              "list_im": [
-                {
-                  "im_full_vn": "ngày ngắn dần"
-                },
-                {
-                  "im_full_vn": "rào quanh, bao quanh (một miếng đất)"
-                },
-                {
-                  "im_full_vn": "(quân sự) tiến sát để tấn công"
-                }
-              ]
-            },
-            {
               "id_full_en": "to close up",
               "list_im": [
                 {
@@ -713,153 +562,6 @@
                 },
                 {
                   "im_full_vn": "đóng kín, đóng hẳn, đóng miệng (vết thương)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close up",
-              "list_im": [
-                {
-                  "im_full_vn": "khít lại, sát lại gần nhau"
-                },
-                {
-                  "im_full_vn": "(quân sự) dồn hàng, siết chặt hàng ngũ"
-                },
-                {
-                  "im_full_vn": "bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)"
-                },
-                {
-                  "im_full_vn": "đóng kín, đóng hẳn, đóng miệng (vết thương)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close up",
-              "list_im": [
-                {
-                  "im_full_vn": "khít lại, sát lại gần nhau"
-                },
-                {
-                  "im_full_vn": "(quân sự) dồn hàng, siết chặt hàng ngũ"
-                },
-                {
-                  "im_full_vn": "bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)"
-                },
-                {
-                  "im_full_vn": "đóng kín, đóng hẳn, đóng miệng (vết thương)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close up",
-              "list_im": [
-                {
-                  "im_full_vn": "khít lại, sát lại gần nhau"
-                },
-                {
-                  "im_full_vn": "(quân sự) dồn hàng, siết chặt hàng ngũ"
-                },
-                {
-                  "im_full_vn": "bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)"
-                },
-                {
-                  "im_full_vn": "đóng kín, đóng hẳn, đóng miệng (vết thương)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close with",
-              "list_im": [
-                {
-                  "im_full_vn": "đến sát gần, dịch lại gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "left close !",
-                      "full_vn": "(quân sự) dịch sang trái!"
-                    },
-                    {
-                      "full_en": "right close !",
-                      "full_vn": "(quân sự) dịch sang phải!"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "đánh giáp lá cà, ôm sát người mà vật"
-                },
-                {
-                  "im_full_vn": "đồng ý (với ai); sẵn sàng nhận (điều kiện...))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close with",
-              "list_im": [
-                {
-                  "im_full_vn": "đến sát gần, dịch lại gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "left close !",
-                      "full_vn": "(quân sự) dịch sang trái!"
-                    },
-                    {
-                      "full_en": "right close !",
-                      "full_vn": "(quân sự) dịch sang phải!"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "đánh giáp lá cà, ôm sát người mà vật"
-                },
-                {
-                  "im_full_vn": "đồng ý (với ai); sẵn sàng nhận (điều kiện...))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close with",
-              "list_im": [
-                {
-                  "im_full_vn": "đến sát gần, dịch lại gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "left close !",
-                      "full_vn": "(quân sự) dịch sang trái!"
-                    },
-                    {
-                      "full_en": "right close !",
-                      "full_vn": "(quân sự) dịch sang phải!"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "đánh giáp lá cà, ôm sát người mà vật"
-                },
-                {
-                  "im_full_vn": "đồng ý (với ai); sẵn sàng nhận (điều kiện...))"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to close with",
-              "list_im": [
-                {
-                  "im_full_vn": "đến sát gần, dịch lại gần",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "left close !",
-                      "full_vn": "(quân sự) dịch sang trái!"
-                    },
-                    {
-                      "full_en": "right close !",
-                      "full_vn": "(quân sự) dịch sang phải!"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "đánh giáp lá cà, ôm sát người mà vật"
-                },
-                {
-                  "im_full_vn": "đồng ý (với ai); sẵn sàng nhận (điều kiện...))"
                 }
               ]
             },

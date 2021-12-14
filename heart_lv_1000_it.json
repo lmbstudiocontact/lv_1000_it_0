@@ -261,17 +261,6 @@
               ]
             },
             {
-              "id_full_en": "to be sick at heart",
-              "list_im": [
-                {
-                  "im_full_vn": "đau buồn, buồn phiền; não lòng, ngao ngán"
-                },
-                {
-                  "im_full_vn": "(nói trại) buồn nôn"
-                }
-              ]
-            },
-            {
               "id_full_en": "to be the heart and soul of",
               "list_im": [
                 {
@@ -284,42 +273,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(xem) break"
-                }
-              ]
-            },
-            {
-              "id_full_en": "by heart",
-              "list_im": [
-                {
-                  "im_full_vn": "thuộc lòng, nhập tâm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to learn by heart",
-                      "full_vn": "học thuộc lòng"
-                    },
-                    {
-                      "full_en": "to have something by heart",
-                      "full_vn": "nhớ nhập tâm cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "by heart",
-              "list_im": [
-                {
-                  "im_full_vn": "thuộc lòng, nhập tâm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to learn by heart",
-                      "full_vn": "học thuộc lòng"
-                    },
-                    {
-                      "full_en": "to have something by heart",
-                      "full_vn": "nhớ nhập tâm cái gì"
-                    }
-                  ]
                 }
               ]
             },
@@ -441,28 +394,6 @@
               ]
             },
             {
-              "id_full_en": "to have the heart to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "có đủ can đảm làm gì"
-                },
-                {
-                  "im_full_vn": "có đủ nhẫn tâm làm gì"
-                }
-              ]
-            },
-            {
-              "id_full_en": "not to have a heart to do something",
-              "list_im": [
-                {
-                  "im_full_vn": "không nỡ lòng nào làm cái gì"
-                },
-                {
-                  "im_full_vn": "không đủ can đảm (không dám) làm cái gì"
-                }
-              ]
-            },
-            {
               "id_full_en": "not to have a heart to do something",
               "list_im": [
                 {
@@ -566,20 +497,6 @@
               "list_im": [
                 {
                   "im_full_vn": "làm cho ai chán nản thất vọng"
-                }
-              ]
-            },
-            {
-              "id_full_en": "close /near /dear to somebody's heart",
-              "list_im": [
-                {
-                  "im_full_vn": "có quan tâm thích thú sâu sắc đến cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "this subject is very close to my heart",
-                      "full_vn": "đề tài này rất gắn bó với tôi"
-                    }
-                  ]
                 }
               ]
             },

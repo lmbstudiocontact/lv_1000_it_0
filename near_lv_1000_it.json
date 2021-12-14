@@ -242,20 +242,6 @@
               ]
             },
             {
-              "id_full_en": "as near as dammit , as near as makes no difference",
-              "list_im": [
-                {
-                  "im_full_vn": "súyt soát, xê xích",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's going to cost 200 francs or as near as dammit",
-                      "full_vn": "cái đó giá sẽ đến 200 frăng hoặc súyt soát thế"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "so near and yet so far",
               "list_im": [
                 {
@@ -348,14 +334,9 @@
         {
           "m_full_vn": "đến gần (cái gì) về không gian hoặc thời gian; đến gần; xích lại gần",
           "list_one_mean": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            {
+              "id_full_en": ""
+            }
           ],
           "list_en_vn": [
             {

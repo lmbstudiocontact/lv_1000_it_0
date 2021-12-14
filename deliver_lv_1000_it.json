@@ -98,42 +98,6 @@
               ]
             },
             {
-              "id_full_en": "to be delivered of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "sinh (con); đẻ ( (nghĩa đen) & (nghĩa bóng))",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be delivered of a child",
-                      "full_vn": "sinh một đứa con"
-                    },
-                    {
-                      "full_en": "to be delivered of a poem",
-                      "full_vn": "rặn ra được một bài thơ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be delivered of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "sinh (con); đẻ ( (nghĩa đen) & (nghĩa bóng))",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be delivered of a child",
-                      "full_vn": "sinh một đứa con"
-                    },
-                    {
-                      "full_en": "to be delivered of a poem",
-                      "full_vn": "rặn ra được một bài thơ"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to deliver over",
               "list_im": [
                 {
@@ -142,56 +106,6 @@
                     {
                       "full_en": "to deliver over an estate to one's son",
                       "full_vn": "chuyển nhượng tài sản cho con trai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to deliver over",
-              "list_im": [
-                {
-                  "im_full_vn": "giao trả, chuyển giao, chuyển nhượng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to deliver over an estate to one's son",
-                      "full_vn": "chuyển nhượng tài sản cho con trai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to deliver up",
-              "list_im": [
-                {
-                  "im_full_vn": "trả lại, giao nộp",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to deliver oneself up",
-                      "full_vn": "đầu hàng"
-                    },
-                    {
-                      "full_en": "to deliver something up to somebody",
-                      "full_vn": "nộp cái gì cho ai"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to deliver up",
-              "list_im": [
-                {
-                  "im_full_vn": "trả lại, giao nộp",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to deliver oneself up",
-                      "full_vn": "đầu hàng"
-                    },
-                    {
-                      "full_en": "to deliver something up to somebody",
-                      "full_vn": "nộp cái gì cho ai"
                     }
                   ]
                 }
@@ -220,20 +134,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(nghĩa bóng) thực hiện điều cam kết"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to deliver on something",
-              "list_im": [
-                {
-                  "im_full_vn": "đem lại cái gì đã được mong đợi hoặc hứa hẹn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they promise to finish the job in June , but can they deliver (on that )?",
-                      "full_vn": "họ hứa sẽ làm xong công việc vào tháng sáu, nhưng liệu họ có giữ được lời hứa không?"
-                    }
-                  ]
                 }
               ]
             },

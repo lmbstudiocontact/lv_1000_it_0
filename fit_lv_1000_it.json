@@ -70,17 +70,6 @@
               ]
             },
             {
-              "id_full_en": "to give someone a fit",
-              "list_im": [
-                {
-                  "im_full_vn": "làm ai ngạc nhiên"
-                },
-                {
-                  "im_full_vn": "xúc phạm đến ai"
-                }
-              ]
-            },
-            {
               "id_full_en": "to fit the bill",
               "list_im": [
                 {
@@ -272,17 +261,6 @@
               ]
             },
             {
-              "id_full_en": "to fit in",
-              "list_im": [
-                {
-                  "im_full_vn": "ăn khớp; khớp với"
-                },
-                {
-                  "im_full_vn": "làm cho khớp với"
-                }
-              ]
-            },
-            {
               "id_full_en": "to fit on",
               "list_im": [
                 {
@@ -293,31 +271,6 @@
                       "full_vn": "mặc thử cái áo choàng"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fit on",
-              "list_im": [
-                {
-                  "im_full_vn": "mặc thử (quần áo)",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to fit a coat on",
-                      "full_vn": "mặc thử cái áo choàng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to fit up",
-              "list_im": [
-                {
-                  "im_full_vn": "trang bị"
-                },
-                {
-                  "im_full_vn": "sửa sang cho có tiện nghi (nhà ở)"
                 }
               ]
             },

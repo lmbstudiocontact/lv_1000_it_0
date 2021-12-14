@@ -1,0 +1,46 @@
+{
+  "english": "compassionate",
+  "phat_am": "[kəm'pæ∫ənit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thương hại, thương xót, động lòng thương, động lòng trắc ẩn",
+          "list_one_mean": [
+            {
+              "id_full_en": "compassionate allowance",
+              "list_im": [
+                {
+                  "im_full_vn": "trợ cấp ngoài chế độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "compassionate leave",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cho nghỉ phép vì hoàn cảnh cá nhân đặc biệt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was allowed compassionate leave from work to attend her neighbour's funeral",
+                      "full_vn": "cô ta được phép nghỉ làm để đưa tang người hàng xóm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thương hại, thương xót, động lòng thương, động lòng trắc ẩn"
+        }
+      ]
+    }
+  ]
+}

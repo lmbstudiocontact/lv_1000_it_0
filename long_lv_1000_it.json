@@ -344,40 +344,6 @@
               ]
             },
             {
-              "id_full_en": "as long as",
-              "list_im": [
-                {
-                  "im_full_vn": "miễn là, chỉ cần, với điều kiện là"
-                },
-                {
-                  "im_full_vn": "chừng nào mà",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "as long as it doesn't rain , we can play",
-                      "full_vn": "miễn là trời đừng mưa thì chúng ta chơi được"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "as long as",
-              "list_im": [
-                {
-                  "im_full_vn": "miễn là, chỉ cần, với điều kiện là"
-                },
-                {
-                  "im_full_vn": "chừng nào mà",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "as long as it doesn't rain , we can play",
-                      "full_vn": "miễn là trời đừng mưa thì chúng ta chơi được"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "not to be long for this world",
               "list_im": [
                 {
@@ -394,56 +360,6 @@
                     {
                       "full_en": "to be long finding something",
                       "full_vn": "mãi mới tìm ra cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be long",
-              "list_im": [
-                {
-                  "im_full_vn": "( + động tính từ hiện tại) mãi mới",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be long finding something",
-                      "full_vn": "mãi mới tìm ra cái gì"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no /any /much longer",
-              "list_im": [
-                {
-                  "im_full_vn": "sau một thời điểm nào đó",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I can't wait any /much longer",
-                      "full_vn": "tôi không thể đợi lâu hơn nữa"
-                    },
-                    {
-                      "full_en": "he no longer lives here",
-                      "full_vn": "ông ta không còn ở đây nữa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "no /any /much longer",
-              "list_im": [
-                {
-                  "im_full_vn": "sau một thời điểm nào đó",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I can't wait any /much longer",
-                      "full_vn": "tôi không thể đợi lâu hơn nữa"
-                    },
-                    {
-                      "full_en": "he no longer lives here",
-                      "full_vn": "ông ta không còn ở đây nữa"
                     }
                   ]
                 }

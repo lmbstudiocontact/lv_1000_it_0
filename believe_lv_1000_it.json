@@ -57,78 +57,6 @@
               ]
             },
             {
-              "id_full_en": "to believe in somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cảm thấy chắc chắn ai/cái gì tồn tại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I believe in God",
-                      "full_vn": "Tôi tin có Chúa"
-                    },
-                    {
-                      "full_en": "do you believe in ghosts ?",
-                      "full_vn": "anh có tin là có ma hay không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to believe in somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "cảm thấy chắc chắn ai/cái gì tồn tại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I believe in God",
-                      "full_vn": "Tôi tin có Chúa"
-                    },
-                    {
-                      "full_en": "do you believe in ghosts ?",
-                      "full_vn": "anh có tin là có ma hay không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to believe in somebody /something ; to believe in doing something",
-              "list_im": [
-                {
-                  "im_full_vn": "tin ai/cái gì; cảm thấy chắc chắn về sự thật hoặc giá trị của cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I believe in his honesty",
-                      "full_vn": "tôi tin ở sự chân thật của anh ta"
-                    },
-                    {
-                      "full_en": "he believes in getting plenty of exercise",
-                      "full_vn": "nó tin tưởng vào việc rèn luyện thân thể tích cực"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to believe in somebody /something ; to believe in doing something",
-              "list_im": [
-                {
-                  "im_full_vn": "tin ai/cái gì; cảm thấy chắc chắn về sự thật hoặc giá trị của cái gì",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I believe in his honesty",
-                      "full_vn": "tôi tin ở sự chân thật của anh ta"
-                    },
-                    {
-                      "full_en": "he believes in getting plenty of exercise",
-                      "full_vn": "nó tin tưởng vào việc rèn luyện thân thể tích cực"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to believe in somebody /something ; to believe in doing something",
               "list_im": [
                 {
@@ -155,34 +83,6 @@
                     {
                       "full_en": "If I hadn't seen him doing it , I would never have believed it of him",
                       "full_vn": "Nếu không nhìn thấy nó làm thì ắt không bao giờ tôi tin nó làm được việc đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to believe something of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "tin rằng ai có thể có một hành động nào đó",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "If I hadn't seen him doing it , I would never have believed it of him",
-                      "full_vn": "Nếu không nhìn thấy nó làm thì ắt không bao giờ tôi tin nó làm được việc đó"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make believe (that ...)",
-              "list_im": [
-                {
-                  "im_full_vn": "làm ra vẻ; giả vờ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "they make believe (that ) they are silly",
-                      "full_vn": "chúng làm ra vẻ khờ dại"
                     }
                   ]
                 }
@@ -207,20 +107,6 @@
               "list_im": [
                 {
                   "im_full_vn": "tin hay không là tùy anh"
-                }
-              ]
-            },
-            {
-              "id_full_en": "believe you me",
-              "list_im": [
-                {
-                  "im_full_vn": "tôi bảo đảm với anh",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "believe you me , he will come here tomorrow",
-                      "full_vn": "tôi bảo đảm với anh rằng ngày mai, hắn sẽ đến"
-                    }
-                  ]
                 }
               ]
             },

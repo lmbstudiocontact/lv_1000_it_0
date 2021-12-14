@@ -54,20 +54,6 @@
               ]
             },
             {
-              "id_full_en": "a far cry",
-              "list_im": [
-                {
-                  "im_full_vn": "quãng cách xa; sự khác xa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the second translation of the book is a far cry from the first",
-                      "full_vn": "bản dịch thứ hai của quyển sách khác xa bản thứ nhất"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to follow in the cry",
               "list_im": [
                 {
@@ -144,34 +130,6 @@
                     {
                       "full_en": "to cry for the moon",
                       "full_vn": "đòi ăn trứng trâu, đòi ăn gan trời"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cry for",
-              "list_im": [
-                {
-                  "im_full_vn": "đòi, vòi",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cry for the moon",
-                      "full_vn": "đòi ăn trứng trâu, đòi ăn gan trời"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to cry off",
-              "list_im": [
-                {
-                  "im_full_vn": "không giữ lời, nuốt lời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to cry off from the bargain",
-                      "full_vn": "đã mặc cả thoả thuận rồi lại nuốt lời"
                     }
                   ]
                 }

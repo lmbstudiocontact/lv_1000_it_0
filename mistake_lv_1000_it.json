@@ -23,20 +23,6 @@
               ]
             },
             {
-              "id_full_en": "and no mistake",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) không còn nghi ngờ gì nữa",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's hot today and no mistake",
-                      "full_vn": "không còn nghi ngờ gì nữa hôm nay trời nóng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "by mistake",
               "list_im": [
                 {
@@ -45,34 +31,6 @@
                     {
                       "full_en": "I took your bag instead of mine by mistake !",
                       "full_vn": "Do sơ suất, tôi đã cầm cái túi của ông thay vì cái túi của tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "by mistake",
-              "list_im": [
-                {
-                  "im_full_vn": "do sơ suất",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I took your bag instead of mine by mistake !",
-                      "full_vn": "Do sơ suất, tôi đã cầm cái túi của ông thay vì cái túi của tôi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "make no mistake about something",
-              "list_im": [
-                {
-                  "im_full_vn": "đừng có lầm",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "Sue seems very quiet , but make no mistake about it , she has a terrible temper !",
-                      "full_vn": "Sue có vẻ rất trầm lặng, nhưng chớ có lầm nhé, cô ta nóng nảy lắm đấy!"
                     }
                   ]
                 }
@@ -141,20 +99,6 @@
         {
           "m_full_vn": "nhầm ai/cái gì là ai/cái gì khác; nhầm",
           "list_one_mean": [
-            {
-              "id_full_en": "there's no mistaking somebody /something",
-              "list_im": [
-                {
-                  "im_full_vn": "không thể nào nhầm được",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "There's no mistaking what ought to be done",
-                      "full_vn": "Không thể nào nhầm lẫn được về điều cần phải làm"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id_full_en": "there's no mistaking somebody /something",
               "list_im": [

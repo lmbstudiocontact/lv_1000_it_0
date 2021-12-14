@@ -141,20 +141,6 @@
               ]
             },
             {
-              "id_full_en": "for all one knows",
-              "list_im": [
-                {
-                  "im_full_vn": "thấy rằng mình biết quá ít; theo chỗ tôi biết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "for all I know , he is very modest",
-                      "full_vn": "theo chỗ tôi biết, ông ấy rất khiêm tốn"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "for reasons /some reason best known to oneself",
               "list_im": [
                 {
@@ -181,42 +167,6 @@
               ]
             },
             {
-              "id_full_en": "God /goodness /Heaven knows",
-              "list_im": [
-                {
-                  "im_full_vn": "có trời biết mà thôi; chắc chắn, rõ ràng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "God knows what happened to them",
-                      "full_vn": "có trời mới biết điều gì đã xảy ra cho họ"
-                    },
-                    {
-                      "full_en": "she ought to succeed ; goodness knows she tries hard enough",
-                      "full_vn": "cô ấy chắc chắn thành công, rõ ràng là cô ấy cố gắng hết sức"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "God /goodness /Heaven knows",
-              "list_im": [
-                {
-                  "im_full_vn": "có trời biết mà thôi; chắc chắn, rõ ràng",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "God knows what happened to them",
-                      "full_vn": "có trời mới biết điều gì đã xảy ra cho họ"
-                    },
-                    {
-                      "full_en": "she ought to succeed ; goodness knows she tries hard enough",
-                      "full_vn": "cô ấy chắc chắn thành công, rõ ràng là cô ấy cố gắng hết sức"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "before one knows where one is",
               "list_im": [
                 {
@@ -225,34 +175,6 @@
                     {
                       "full_en": "we were whisked off in a taxi before we knew where we were",
                       "full_vn": "chúng tôi bất ngờ bị tống ngay vào xe tắc xi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "before one knows where one is",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) rất nhanh hoặc bất ngờ; bất thình lình",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "we were whisked off in a taxi before we knew where we were",
-                      "full_vn": "chúng tôi bất ngờ bị tống ngay vào xe tắc xi"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be known to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "quen thuộc với ai; quen biết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he's known to the police",
-                      "full_vn": "anh ta từng quen biết với cảnh sát (từng có hồ sơ tội phạm)"
                     }
                   ]
                 }
@@ -289,34 +211,6 @@
                     {
                       "full_en": "I don't know if I can come yet , but I'll let you know tomorrow",
                       "full_vn": "tôi chẳng biết tôi còn đến nữa được không, nhưng ngày mai tôi sẽ báo cho anh biết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to let somebody know",
-              "list_im": [
-                {
-                  "im_full_vn": "cho ai biết",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "I don't know if I can come yet , but I'll let you know tomorrow",
-                      "full_vn": "tôi chẳng biết tôi còn đến nữa được không, nhưng ngày mai tôi sẽ báo cho anh biết"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to make oneself known to somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "tự giới thiệu với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "This is our host ; you'd better make yourself known to him",
-                      "full_vn": "Đây là chủ nhà của chúng ta; anh nên tự giới thiệu với ông ấy"
                     }
                   ]
                 }
@@ -453,78 +347,6 @@
                     {
                       "full_en": "You should keep these old jam jars - you never know when you might need them",
                       "full_vn": "Chị nên giữ những lọ mứt cũ này lại, biết đâu có lúc chị lại cần đến chúng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "you never know",
-              "list_im": [
-                {
-                  "im_full_vn": "anh không thể biết chắc; biết đâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "It's sure to rain tomorrow - Oh , you never know , it could be a lovely day",
-                      "full_vn": "Chắc chắn ngày mai có mưa - Ồ, biết đâu đấy, có thể lại là một ngày đẹp trời"
-                    },
-                    {
-                      "full_en": "You should keep these old jam jars - you never know when you might need them",
-                      "full_vn": "Chị nên giữ những lọ mứt cũ này lại, biết đâu có lúc chị lại cần đến chúng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "you never know",
-              "list_im": [
-                {
-                  "im_full_vn": "anh không thể biết chắc; biết đâu",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "It's sure to rain tomorrow - Oh , you never know , it could be a lovely day",
-                      "full_vn": "Chắc chắn ngày mai có mưa - Ồ, biết đâu đấy, có thể lại là một ngày đẹp trời"
-                    },
-                    {
-                      "full_en": "You should keep these old jam jars - you never know when you might need them",
-                      "full_vn": "Chị nên giữ những lọ mứt cũ này lại, biết đâu có lúc chị lại cần đến chúng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to know about something",
-              "list_im": [
-                {
-                  "im_full_vn": "có hiểu biết về cái gì; nhận thấy cái gí",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "not much is known about his background",
-                      "full_vn": "quá trình đào tạo của anh ta chưa được biết nhiều"
-                    },
-                    {
-                      "full_en": "do you know about Jack getting arrested ?",
-                      "full_vn": "anh có biết việc Jack bị bắt không?"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to know about something",
-              "list_im": [
-                {
-                  "im_full_vn": "có hiểu biết về cái gì; nhận thấy cái gí",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "not much is known about his background",
-                      "full_vn": "quá trình đào tạo của anh ta chưa được biết nhiều"
-                    },
-                    {
-                      "full_en": "do you know about Jack getting arrested ?",
-                      "full_vn": "anh có biết việc Jack bị bắt không?"
                     }
                   ]
                 }

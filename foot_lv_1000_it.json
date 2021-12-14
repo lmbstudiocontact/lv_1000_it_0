@@ -56,17 +56,6 @@
               ]
             },
             {
-              "id_full_en": "at someone's feet",
-              "list_im": [
-                {
-                  "im_full_vn": "ở dưới trướng ai; là đồ đệ của ai"
-                },
-                {
-                  "im_full_vn": "đang cầu cạnh ai"
-                }
-              ]
-            },
-            {
               "id_full_en": "to tie sb hand and foot",
               "list_im": [
                 {
@@ -103,34 +92,6 @@
               "list_im": [
                 {
                   "im_full_vn": "làm cho ai hỏng giò (nghĩa bóng)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be (stand ) on one's own feet",
-              "list_im": [
-                {
-                  "im_full_vn": "đứng thẳng"
-                },
-                {
-                  "im_full_vn": "lại khoẻ mạnh"
-                },
-                {
-                  "im_full_vn": "có công ăn việc làm, tự lập"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be (stand ) on one's own feet",
-              "list_im": [
-                {
-                  "im_full_vn": "đứng thẳng"
-                },
-                {
-                  "im_full_vn": "lại khoẻ mạnh"
-                },
-                {
-                  "im_full_vn": "có công ăn việc làm, tự lập"
                 }
               ]
             },
@@ -429,48 +390,6 @@
                 },
                 {
                   "im_full_vn": "chạy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to foot it",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) nhảy, nhảy múa"
-                },
-                {
-                  "im_full_vn": "đi bộ"
-                },
-                {
-                  "im_full_vn": "chạy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to foot it",
-              "list_im": [
-                {
-                  "im_full_vn": "(thông tục) nhảy, nhảy múa"
-                },
-                {
-                  "im_full_vn": "đi bộ"
-                },
-                {
-                  "im_full_vn": "chạy"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to foot up",
-              "list_im": [
-                {
-                  "im_full_vn": "lên tới, tới mức, tổng cộng tới",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the expenditure footed up to three thousand dongs",
-                      "full_vn": "tiền nộp phí tổn lên tới 3000 đồng"
-                    }
-                  ]
                 }
               ]
             },

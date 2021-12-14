@@ -69,34 +69,6 @@
               ]
             },
             {
-              "id_full_en": "to bring into effect ; to carry into effect",
-              "list_im": [
-                {
-                  "im_full_vn": "đưa vào sử dụng; thực hiện; thi hành",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the new computer system will soon be put into effect",
-                      "full_vn": "hệ thống máy tính mới sẽ sớm được đưa vào sử dụng"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to come into effect",
-              "list_im": [
-                {
-                  "im_full_vn": "có hiệu lực thi hành",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "this governmental decree will come into effect by the end of this month",
-                      "full_vn": "nghị định này của chính phủ sẽ có hiệu lực vào cuối tháng này"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to come into effect",
               "list_im": [
                 {
@@ -115,17 +87,6 @@
               "list_im": [
                 {
                   "im_full_vn": "làm cho có hiệu lực (văn bản, luật lệ...)"
-                }
-              ]
-            },
-            {
-              "id_full_en": "in effect",
-              "list_im": [
-                {
-                  "im_full_vn": "đang có hiệu lực; hiện hành (luật lệ, văn bản...)"
-                },
-                {
-                  "im_full_vn": "trong thực tế; thực ra mà nói"
                 }
               ]
             },
@@ -160,17 +121,6 @@
               ]
             },
             {
-              "id_full_en": "to take effect",
-              "list_im": [
-                {
-                  "im_full_vn": "mang lại kết quả như dự kiến; có tác dụng; có hiệu quả"
-                },
-                {
-                  "im_full_vn": "có hiệu lực (luật lệ, văn bản...)"
-                }
-              ]
-            },
-            {
               "id_full_en": "to this /that effect",
               "list_im": [
                 {
@@ -179,34 +129,6 @@
                     {
                       "full_en": "he told me to get out , or words to that effect",
                       "full_vn": "ông ấy bảo tôi đi ra ngoài, hoặc những lời lẽ có ý nghĩa như thế"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to this /that effect",
-              "list_im": [
-                {
-                  "im_full_vn": "với ý nghĩa thế này/thế kia",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he told me to get out , or words to that effect",
-                      "full_vn": "ông ấy bảo tôi đi ra ngoài, hoặc những lời lẽ có ý nghĩa như thế"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to the effect that ...",
-              "list_im": [
-                {
-                  "im_full_vn": "với ý nghĩa là...; hàm ý",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "he left a note to the effect that he had paid the meals",
-                      "full_vn": "hắn để lại tờ giấy cho biết là hắn đã trả tiền ăn"
                     }
                   ]
                 }

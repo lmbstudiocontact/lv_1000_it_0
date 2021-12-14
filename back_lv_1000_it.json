@@ -77,17 +77,6 @@
               ]
             },
             {
-              "id_full_en": "to be at the back of somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "đứng đằng sau lưng ai; trợ lực cho ai, ủng hộ ai, làm hậu thuẫn cho ai"
-                },
-                {
-                  "im_full_vn": "đuổi theo sát ai"
-                }
-              ]
-            },
-            {
               "id_full_en": "to be glad to see the back of sb",
               "list_im": [
                 {
@@ -118,49 +107,10 @@
               ]
             },
             {
-              "id_full_en": "to be on one's back",
-              "list_im": [
-                {
-                  "im_full_vn": "nằm ngửa"
-                },
-                {
-                  "im_full_vn": "bị thua, bị thất bại, nàm vào hoàn cảnh bất lực"
-                },
-                {
-                  "im_full_vn": "ốm liệt giường"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to be on one's back",
-              "list_im": [
-                {
-                  "im_full_vn": "nằm ngửa"
-                },
-                {
-                  "im_full_vn": "bị thua, bị thất bại, nàm vào hoàn cảnh bất lực"
-                },
-                {
-                  "im_full_vn": "ốm liệt giường"
-                }
-              ]
-            },
-            {
               "id_full_en": "behind one's back",
               "list_im": [
                 {
                   "im_full_vn": "sau lưng ai, lúc vắng mặt ai"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to break somebody's back",
-              "list_im": [
-                {
-                  "im_full_vn": "bắt ai làm việc cật lực"
-                },
-                {
-                  "im_full_vn": "đánh gãy sống lưng ai"
                 }
               ]
             },
@@ -448,20 +398,6 @@
               ]
             },
             {
-              "id_full_en": "back and forth",
-              "list_im": [
-                {
-                  "im_full_vn": "tới lui",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to pace back and forth",
-                      "full_vn": "đi tới đi lui"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id_full_en": "to go back on a friend",
               "list_im": [
                 {
@@ -474,20 +410,6 @@
               "list_im": [
                 {
                   "im_full_vn": "không giữ lời hứa"
-                }
-              ]
-            },
-            {
-              "id_full_en": "there and back",
-              "list_im": [
-                {
-                  "im_full_vn": "đến đó và trở lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "it's 20 km there and back",
-                      "full_vn": "từ đây đến đó vừa đi vừa về hết 20 kilômét"
-                    }
-                  ]
                 }
               ]
             },
@@ -589,75 +511,6 @@
               "list_im": [
                 {
                   "im_full_vn": "bỏ, chùn lại; lùi; thoái lui"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to back out",
-              "list_im": [
-                {
-                  "im_full_vn": "nuốt lời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a bargain",
-                      "full_vn": "đã thoả thuận xong xuôi rồi lại nuốt lời"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "lui, rút lui; lẩn trốn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a duty",
-                      "full_vn": "lẩn trốn trách nhiệm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to back out",
-              "list_im": [
-                {
-                  "im_full_vn": "nuốt lời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a bargain",
-                      "full_vn": "đã thoả thuận xong xuôi rồi lại nuốt lời"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "lui, rút lui; lẩn trốn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a duty",
-                      "full_vn": "lẩn trốn trách nhiệm"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to back out",
-              "list_im": [
-                {
-                  "im_full_vn": "nuốt lời",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a bargain",
-                      "full_vn": "đã thoả thuận xong xuôi rồi lại nuốt lời"
-                    }
-                  ]
-                },
-                {
-                  "im_full_vn": "lui, rút lui; lẩn trốn",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to back out of a duty",
-                      "full_vn": "lẩn trốn trách nhiệm"
-                    }
-                  ]
                 }
               ]
             },

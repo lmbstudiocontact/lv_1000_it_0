@@ -105,20 +105,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "id_full_en": "in double harness",
-              "list_im": [
-                {
-                  "im_full_vn": "với một người cộng sự hoặc với chồng hoặc vợ",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "the brothers work in double harness",
-                      "full_vn": "anh em nhà ấy hợp sức nhau làm việc"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }
@@ -301,34 +287,6 @@
                     {
                       "full_en": "to be doubled up with laughter /pain /anger",
                       "full_vn": "gập người lại vì cười/đau/tức giận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to double somebody up",
-              "list_im": [
-                {
-                  "im_full_vn": "làm ai gập người lại",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to be doubled up with laughter /pain /anger",
-                      "full_vn": "gập người lại vì cười/đau/tức giận"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to double up with somebody",
-              "list_im": [
-                {
-                  "im_full_vn": "nhập bọn với ai",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "We've only one room left : You'll have to double up with Peter",
-                      "full_vn": "chúng tôi chỉ còn lại một buồng : anh ngủ chung với Peter vậy"
                     }
                   ]
                 }

@@ -114,28 +114,6 @@
               ]
             },
             {
-              "id_full_en": "to grind away",
-              "list_im": [
-                {
-                  "im_full_vn": "( + at ) làm cật lực, làm tích cực"
-                },
-                {
-                  "im_full_vn": "học tập cần cù; học gạo"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to grind down",
-              "list_im": [
-                {
-                  "im_full_vn": "xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát"
-                },
-                {
-                  "im_full_vn": "hành hạ, áp bức"
-                }
-              ]
-            },
-            {
               "id_full_en": "to grind down",
               "list_im": [
                 {
@@ -151,40 +129,6 @@
               "list_im": [
                 {
                   "im_full_vn": "(kỹ thuật) mài, nghiền, rà"
-                }
-              ]
-            },
-            {
-              "id_full_en": "to grind out",
-              "list_im": [
-                {
-                  "im_full_vn": "đè bẹp, giẫm nát, nghiền nát"
-                },
-                {
-                  "im_full_vn": "nghiền, nạo ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to grind out an oath",
-                      "full_vn": "nghiến răng lại mà nguyền rủa"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id_full_en": "to grind out",
-              "list_im": [
-                {
-                  "im_full_vn": "đè bẹp, giẫm nát, nghiền nát"
-                },
-                {
-                  "im_full_vn": "nghiền, nạo ra",
-                  "list_ei_eim": [
-                    {
-                      "full_en": "to grind out an oath",
-                      "full_vn": "nghiến răng lại mà nguyền rủa"
-                    }
-                  ]
                 }
               ]
             },
